@@ -1,0 +1,561 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Husk & Fibre — Agro-Material Business Intelligence</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,400;8..60,500;8..60,600;8..60,700&family=IBM+Plex+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@500&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --paper:#EDEAE0;
+    --paper-deep:#E4E0D2;
+    --ink:#20291D;
+    --ink-soft:#4B5142;
+    --forest:#33502F;
+    --forest-deep:#233B22;
+    --ochre:#B4802C;
+    --rust:#8A4630;
+    --line:#C9C2A9;
+    --card:#F5F3EA;
+    --white:#FBFAF5;
+  }
+  *{box-sizing:border-box;}
+  html{scroll-behavior:smooth;}
+  body{
+    margin:0;
+    background:var(--paper);
+    color:var(--ink);
+    font-family:'IBM Plex Sans', sans-serif;
+    line-height:1.5;
+  }
+  h1,h2,h3,.serif{
+    font-family:'Source Serif 4', serif;
+    font-weight:600;
+    color:var(--forest-deep);
+    margin:0;
+  }
+  a{color:inherit;}
+  img,video{max-width:100%;display:block;}
+
+  /* ---------- MASTHEAD ---------- */
+  .masthead{
+    border-bottom:2px solid var(--ink);
+    background:var(--paper);
+    padding:28px 32px 20px;
+  }
+  .masthead-row{
+    max-width:1180px;
+    margin:0 auto;
+    display:flex;
+    justify-content:space-between;
+    align-items:flex-end;
+    flex-wrap:wrap;
+    gap:16px;
+  }
+  .brand h1{
+    font-size:2.6rem;
+    letter-spacing:-0.01em;
+  }
+  .brand .tagline{
+    font-size:0.95rem;
+    color:var(--ink-soft);
+    margin-top:4px;
+    max-width:480px;
+  }
+  .masthead-meta{
+    text-align:right;
+    font-size:0.82rem;
+    color:var(--ink-soft);
+  }
+  .masthead-meta .issue-date{
+    font-family:'IBM Plex Mono', monospace;
+    color:var(--rust);
+    font-size:0.8rem;
+  }
+
+  /* ---------- CONTROL BAR ---------- */
+  .control-bar{
+    max-width:1180px;
+    margin:0 auto;
+    padding:18px 32px 0;
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    flex-wrap:wrap;
+    gap:14px;
+  }
+  .view-toggle{
+    display:flex;
+    border:1.5px solid var(--ink);
+  }
+  .view-toggle button{
+    font-family:'IBM Plex Sans',sans-serif;
+    font-size:0.85rem;
+    font-weight:600;
+    background:none;
+    border:none;
+    padding:9px 20px;
+    cursor:pointer;
+    color:var(--ink);
+  }
+  .view-toggle button + button{border-left:1.5px solid var(--ink);}
+  .view-toggle button.active{background:var(--ink);color:var(--paper);}
+
+  .filters{
+    display:flex;
+    gap:8px;
+    flex-wrap:wrap;
+  }
+  .filter-chip{
+    font-size:0.8rem;
+    padding:7px 14px;
+    border:1px solid var(--line);
+    background:var(--card);
+    cursor:pointer;
+    color:var(--ink-soft);
+    white-space:nowrap;
+  }
+  .filter-chip.active{
+    border-color:var(--forest);
+    background:var(--forest);
+    color:var(--white);
+  }
+
+  main{max-width:1180px;margin:0 auto;padding:28px 32px 80px;}
+
+  /* ---------- FEATURED HERO ---------- */
+  .featured{
+    display:grid;
+    grid-template-columns:1.1fr 0.9fr;
+    gap:0;
+    border:1px solid var(--ink);
+    background:var(--card);
+    margin-bottom:36px;
+  }
+  .featured video{width:100%;height:100%;object-fit:cover;background:#111;}
+  .featured-copy{padding:30px 32px;display:flex;flex-direction:column;gap:14px;}
+  .eyebrow-tag{
+    display:inline-flex;
+    align-items:center;
+    gap:8px;
+    font-size:0.72rem;
+    font-weight:600;
+    color:var(--forest);
+    width:fit-content;
+    border-bottom:1.5px solid var(--forest);
+    padding-bottom:2px;
+  }
+  .featured-copy h2{font-size:1.75rem;line-height:1.15;}
+  .featured-copy .dek{color:var(--ink-soft);font-size:1rem;}
+  .meta-row{
+    display:flex;
+    gap:18px;
+    font-size:0.78rem;
+    color:var(--ink-soft);
+    flex-wrap:wrap;
+    border-top:1px solid var(--line);
+    padding-top:12px;
+    margin-top:4px;
+  }
+  .meta-row strong{color:var(--ink);}
+  .potential-scale{display:flex;gap:3px;align-items:center;}
+  .potential-scale .dot{width:7px;height:7px;border-radius:50%;background:var(--line);}
+  .potential-scale .dot.on{background:var(--ochre);}
+
+  /* ---------- FEED LIST ---------- */
+  .feed-header{
+    display:flex;
+    align-items:baseline;
+    justify-content:space-between;
+    border-bottom:2px solid var(--ink);
+    padding-bottom:8px;
+    margin-bottom:4px;
+  }
+  .feed-header h3{font-size:1rem;text-transform:none;letter-spacing:0.02em;}
+  .feed-count{font-size:0.78rem;color:var(--ink-soft);font-family:'IBM Plex Mono',monospace;}
+
+  .story-row{
+    display:grid;
+    grid-template-columns:190px 1fr;
+    gap:22px;
+    padding:22px 0;
+    border-bottom:1px solid var(--line);
+    align-items:start;
+  }
+  .story-row .thumb-wrap{
+    position:relative;
+    border:1px solid var(--ink);
+    overflow:hidden;
+    background:#111;
+    cursor:pointer;
+  }
+  .story-row video{width:100%;aspect-ratio:9/13;object-fit:cover;}
+  .thumb-wrap .play-badge{
+    position:absolute;
+    bottom:6px;right:6px;
+    background:rgba(20,25,17,0.85);
+    color:var(--white);
+    font-size:0.65rem;
+    padding:3px 7px;
+    font-family:'IBM Plex Mono',monospace;
+  }
+  .story-body h4{
+    font-family:'Source Serif 4',serif;
+    font-size:1.22rem;
+    font-weight:600;
+    color:var(--ink);
+    margin:0 0 6px;
+    cursor:pointer;
+  }
+  .story-body h4:hover{color:var(--forest);}
+  .story-body .dek{font-size:0.92rem;color:var(--ink-soft);margin-bottom:10px;}
+  .material-tag{
+    display:inline-block;
+    font-size:0.7rem;
+    font-weight:600;
+    padding:3px 9px;
+    border:1px solid var(--forest);
+    color:var(--forest);
+    margin-right:8px;
+  }
+  .story-meta{
+    display:flex;
+    gap:16px;
+    flex-wrap:wrap;
+    font-size:0.76rem;
+    color:var(--ink-soft);
+    margin-top:8px;
+  }
+  .read-more{
+    font-size:0.82rem;
+    font-weight:600;
+    color:var(--rust);
+    cursor:pointer;
+    margin-top:10px;
+    display:inline-block;
+  }
+
+  /* ---------- DETAIL PANEL (modal-ish overlay) ---------- */
+  .detail-overlay{
+    display:none;
+    position:fixed;inset:0;
+    background:rgba(32,41,29,0.55);
+    z-index:50;
+    padding:30px 16px;
+    overflow-y:auto;
+  }
+  .detail-overlay.open{display:block;}
+  .detail-panel{
+    max-width:840px;
+    margin:0 auto;
+    background:var(--paper);
+    border:1.5px solid var(--ink);
+  }
+  .detail-head{
+    display:flex;justify-content:space-between;align-items:center;
+    padding:14px 24px;
+    border-bottom:1.5px solid var(--ink);
+  }
+  .close-btn{
+    background:none;border:1px solid var(--ink);
+    width:30px;height:30px;
+    cursor:pointer;font-size:1rem;
+    font-family:'IBM Plex Mono',monospace;
+  }
+  .detail-body{padding:26px 32px 36px;}
+  .detail-body video{width:100%;max-height:480px;object-fit:contain;background:#111;border:1px solid var(--ink);margin-bottom:22px;}
+  .detail-body h2{font-size:1.9rem;line-height:1.15;margin-bottom:10px;}
+  .detail-body .dek{color:var(--ink-soft);font-size:1.05rem;margin-bottom:18px;}
+  .detail-grid{
+    display:grid;grid-template-columns:repeat(3,1fr);
+    gap:16px;border-top:1px solid var(--line);border-bottom:1px solid var(--line);
+    padding:16px 0;margin-bottom:22px;
+  }
+  .detail-grid .stat-label{font-size:0.7rem;text-transform:uppercase;letter-spacing:0.05em;color:var(--ink-soft);}
+  .detail-grid .stat-value{font-family:'Source Serif 4',serif;font-size:1.05rem;color:var(--forest-deep);margin-top:2px;}
+  .detail-body p.long{font-size:0.98rem;color:var(--ink);margin-bottom:16px;}
+  .why-box{
+    background:var(--card);border-left:3px solid var(--ochre);
+    padding:14px 18px;font-size:0.92rem;color:var(--ink-soft);margin-bottom:20px;
+  }
+  .why-box strong{color:var(--forest-deep);}
+  .source-links{display:flex;gap:12px;flex-wrap:wrap;}
+  .source-links a{
+    font-size:0.8rem;padding:7px 14px;border:1px solid var(--line);
+    text-decoration:none;color:var(--ink-soft);
+  }
+  .source-links a:hover{border-color:var(--forest);color:var(--forest);}
+
+  /* ---------- NEWSLETTER VIEW ---------- */
+  .newsletter-wrap{display:none;max-width:680px;margin:0 auto;}
+  .newsletter-wrap.active{display:block;}
+  .dashboard-wrap.hidden{display:none;}
+  .nl-issue-head{text-align:center;padding-bottom:26px;border-bottom:2px solid var(--ink);margin-bottom:30px;}
+  .nl-issue-head .kicker{font-family:'IBM Plex Mono',monospace;font-size:0.75rem;color:var(--rust);letter-spacing:0.04em;}
+  .nl-issue-head h2{font-size:1.6rem;margin-top:8px;}
+  .nl-intro{font-size:0.95rem;color:var(--ink-soft);margin-bottom:36px;}
+  .nl-story{padding-bottom:34px;margin-bottom:34px;border-bottom:1px solid var(--line);}
+  .nl-story .material-tag{margin-bottom:10px;}
+  .nl-story h3{font-size:1.35rem;margin-bottom:8px;line-height:1.2;}
+  .nl-story video{width:100%;max-height:340px;object-fit:cover;border:1px solid var(--ink);margin:14px 0;}
+  .nl-story .dek{font-size:0.95rem;color:var(--ink-soft);margin-bottom:12px;}
+  .nl-story p{font-size:0.93rem;margin-bottom:12px;}
+  .nl-story .nl-sources{font-size:0.78rem;color:var(--ink-soft);}
+  .nl-story .nl-sources a{color:var(--rust);text-decoration:none;}
+
+  footer{
+    border-top:2px solid var(--ink);
+    padding:26px 32px 40px;
+    max-width:1180px;margin:0 auto;
+    font-size:0.78rem;color:var(--ink-soft);
+    display:flex;justify-content:space-between;flex-wrap:wrap;gap:10px;
+  }
+
+  @media (max-width:720px){
+    .featured{grid-template-columns:1fr;}
+    .story-row{grid-template-columns:110px 1fr;gap:14px;}
+    .detail-grid{grid-template-columns:1fr 1fr;}
+    .masthead-row{flex-direction:column;align-items:flex-start;}
+    .masthead-meta{text-align:left;}
+  }
+</style>
+</head>
+<body>
+
+<header class="masthead">
+  <div class="masthead-row">
+    <div class="brand">
+      <h1>Husk &amp; Fibre</h1>
+      <div class="tagline">A running feed of agro-waste materials and products turning into real, repeatable businesses — coconut, banana, bamboo, palm, mango and beyond.</div>
+    </div>
+    <div class="masthead-meta">
+      <div class="issue-date" id="issue-date">ISSUE — LOADING</div>
+      <div id="story-total-label">— stories tracked</div>
+    </div>
+  </div>
+</header>
+
+<div class="control-bar">
+  <div class="view-toggle">
+    <button id="btn-dashboard" class="active">Dashboard</button>
+    <button id="btn-newsletter">Newsletter</button>
+  </div>
+  <div class="filters" id="filters"></div>
+</div>
+
+<main>
+  <div class="dashboard-wrap" id="dashboard-wrap">
+    <section id="featured-slot"></section>
+    <div class="feed-header">
+      <h3>All entries</h3>
+      <span class="feed-count" id="feed-count"></span>
+    </div>
+    <div id="feed-list"></div>
+  </div>
+
+  <div class="newsletter-wrap" id="newsletter-wrap">
+    <div class="nl-issue-head">
+      <div class="kicker" id="nl-kicker">HUSK &amp; FIBRE — WEEKLY DIGEST</div>
+      <h2>This week in agro-material business ideas</h2>
+    </div>
+    <p class="nl-intro">Ten sourced stories on turning coconut, banana, bamboo, palm and mango waste into sellable products — each rated for business potential and linked back to its original reporting.</p>
+    <div id="nl-list"></div>
+  </div>
+</main>
+
+<footer>
+  <span>Husk &amp; Fibre — a working demo. Every story links to its original source; nothing here is auto-generated fact.</span>
+  <span>Built from 10 seed stories, updated by the ingestion pipeline described in README.md</span>
+</footer>
+
+<div class="detail-overlay" id="detail-overlay">
+  <div class="detail-panel">
+    <div class="detail-head">
+      <span style="font-family:'IBM Plex Mono',monospace;font-size:0.75rem;color:var(--ink-soft);">FULL BRIEF</span>
+      <button class="close-btn" id="close-detail">✕</button>
+    </div>
+    <div class="detail-body" id="detail-body"></div>
+  </div>
+</div>
+
+<script>
+let DATA = null;
+let activeFilter = "All";
+
+const potentialWord = n => ["","Low","Fair","Moderate","High","Very High"][n] || "—";
+
+function videoTag(story){
+  if(story.video){
+    return `<video src="${story.video}" muted loop playsinline preload="metadata"></video>`;
+  }
+  if (story.video_youtube){
+    return `<div style="aspect-ratio:16/9;"><iframe width="100%" height="100%" style="aspect-ratio:16/9;border:0;" src="https://www.youtube.com/embed/${story.video_youtube}" title="${story.headline}" frameborder="0" allowfullscreen></iframe></div>`;
+  }
+  return `<div style="aspect-ratio:9/13;background:var(--paper-deep);display:flex;align-items:center;justify-content:center;font-size:0.75rem;color:var(--ink-soft);text-align:center;padding:10px;">Video pending<br>ingestion</div>`;
+}
+
+function potentialDots(score){
+  let out = '<div class="potential-scale">';
+  for(let i=1;i<=5;i++){ out += `<span class="dot ${i<=score?'on':''}"></span>`; }
+  out += '</div>';
+  return out;
+}
+
+function renderFilters(){
+  const materials = ["All", ...new Set(DATA.stories.map(s=>s.material))];
+  const wrap = document.getElementById('filters');
+  wrap.innerHTML = materials.map(m =>
+    `<button class="filter-chip ${m===activeFilter?'active':''}" data-mat="${m}">${m}</button>`
+  ).join('');
+  wrap.querySelectorAll('.filter-chip').forEach(btn=>{
+    btn.addEventListener('click', ()=>{ activeFilter = btn.dataset.mat; renderDashboard(); renderFilters(); });
+  });
+}
+
+function filteredStories(){
+  return activeFilter === "All" ? DATA.stories : DATA.stories.filter(s=>s.material===activeFilter);
+}
+
+function renderFeatured(){
+  const top = [...DATA.stories].sort((a,b)=>b.potential_score - a.potential_score)[0];
+  const slot = document.getElementById('featured-slot');
+  slot.innerHTML = `
+  <div class="featured">
+    ${videoTag(top)}
+    <div class="featured-copy">
+      <span class="eyebrow-tag">Top-rated this issue · ${top.material}</span>
+      <h2>${top.headline}</h2>
+      <p class="dek">${top.dek}</p>
+      <span class="read-more" data-id="${top.id}">Read the full brief →</span>
+      <div class="meta-row">
+        <span><strong>Region:</strong> ${top.region}</span>
+        <span><strong>Capital:</strong> ${top.capital_note}</span>
+        <span>${potentialDots(top.potential_score)} ${top.potential_label}</span>
+      </div>
+    </div>
+  </div>`;
+  slot.querySelector('.read-more').addEventListener('click', ()=>openDetail(top.id));
+  const vid = slot.querySelector('video');
+  if(vid){ vid.addEventListener('mouseenter',()=>vid.play()); vid.addEventListener('mouseleave',()=>{vid.pause();vid.currentTime=0;}); }
+}
+
+function renderFeed(){
+  const list = filteredStories();
+  document.getElementById('feed-count').textContent = `${list.length} ${list.length===1?'story':'stories'}`;
+  const container = document.getElementById('feed-list');
+  container.innerHTML = list.map(s=>`
+    <div class="story-row">
+      <div class="thumb-wrap" data-id="${s.id}">
+        ${s.video ? `<video src="${s.video}" muted loop playsinline preload="metadata"></video><span class="play-badge">▶ WATCH</span>`
+          : s.video_youtube ? `<img src="https://img.youtube.com/vi/${s.video_youtube}/mqdefault.jpg" alt=""><span class="play-badge">▶ YOUTUBE</span>`
+          : `<div style="aspect-ratio:9/13;display:flex;align-items:center;justify-content:center;color:var(--ink-soft);font-size:0.7rem;text-align:center;">no video yet</div>`}
+      </div>
+      <div class="story-body">
+        <span class="material-tag">${s.material}</span>
+        <h4 data-id="${s.id}">${s.headline}</h4>
+        <div class="dek">${s.dek}</div>
+        <div class="story-meta">
+          <span>${s.region}</span>
+          <span>${potentialDots(s.potential_score)} ${s.potential_label}</span>
+          <span>${s.capital_note}</span>
+        </div>
+        <span class="read-more" data-id="${s.id}">Read full brief + sources →</span>
+      </div>
+    </div>
+  `).join('');
+  container.querySelectorAll('[data-id]').forEach(el=>{
+    el.addEventListener('click', ()=>openDetail(el.dataset.id));
+  });
+  container.querySelectorAll('.thumb-wrap video').forEach(vid=>{
+    vid.addEventListener('mouseenter',()=>vid.play());
+    vid.addEventListener('mouseleave',()=>{vid.pause();vid.currentTime=0;});
+  });
+}
+
+function renderDashboard(){
+  renderFeatured();
+  renderFeed();
+}
+
+function openDetail(id){
+  const s = DATA.stories.find(x=>x.id===id);
+  if(!s) return;
+  const body = document.getElementById('detail-body');
+  const mediaHtml = s.video
+    ? `<video src="${s.video}" controls playsinline></video>`
+    : s.video_youtube
+      ? `<div style="aspect-ratio:16/9;margin-bottom:22px;"><iframe width="100%" height="100%" style="aspect-ratio:16/9;border:1px solid var(--ink);" src="https://www.youtube.com/embed/${s.video_youtube}" title="${s.headline}" frameborder="0" allowfullscreen></iframe></div>`
+      : `<div style="padding:40px;text-align:center;color:var(--ink-soft);border:1px dashed var(--line);margin-bottom:22px;">No video sourced yet for this brief — pipeline will attach one once a matching clip is indexed.</div>`;
+  body.innerHTML = `
+    ${mediaHtml}
+    <span class="material-tag">${s.material}</span>
+    <h2>${s.headline}</h2>
+    <p class="dek">${s.dek}</p>
+    <div class="detail-grid">
+      <div><div class="stat-label">Region</div><div class="stat-value">${s.region}</div></div>
+      <div><div class="stat-label">Business potential</div><div class="stat-value">${potentialWord(s.potential_score)}</div></div>
+      <div><div class="stat-label">Capital needed</div><div class="stat-value">${s.capital_note}</div></div>
+    </div>
+    <p class="long">${s.body}</p>
+    <div class="why-box"><strong>Why it matters:</strong> ${s.why_it_matters}</div>
+    <div class="source-links">
+      ${s.sources.map(src=>`<a href="${src.url}" target="_blank" rel="noopener">${src.name} ↗</a>`).join('')}
+    </div>
+  `;
+  document.getElementById('detail-overlay').classList.add('open');
+}
+
+document.getElementById('close-detail').addEventListener('click', ()=>{
+  document.getElementById('detail-overlay').classList.remove('open');
+  document.querySelectorAll('#detail-body video').forEach(v=>v.pause());
+});
+document.getElementById('detail-overlay').addEventListener('click', (e)=>{
+  if(e.target.id==='detail-overlay'){
+    e.currentTarget.classList.remove('open');
+    document.querySelectorAll('#detail-body video').forEach(v=>v.pause());
+  }
+});
+
+function renderNewsletter(){
+  document.getElementById('nl-list').innerHTML = DATA.stories.map(s=>`
+    <div class="nl-story">
+      <span class="material-tag">${s.material}</span>
+      <h3>${s.headline}</h3>
+      <div class="dek">${s.dek}</div>
+      ${s.video ? `<video src="${s.video}" controls playsinline></video>` : s.video_youtube ? `<div style="aspect-ratio:16/9;margin:14px 0;"><iframe width="100%" height="100%" style="aspect-ratio:16/9;border:1px solid var(--ink);" src="https://www.youtube.com/embed/${s.video_youtube}" frameborder="0" allowfullscreen></iframe></div>` : ''}
+      <p>${s.body}</p>
+      <div class="nl-sources">Sources: ${s.sources.map(src=>`<a href="${src.url}" target="_blank" rel="noopener">${src.name}</a>`).join(' · ')}</div>
+    </div>
+  `).join('');
+}
+
+document.getElementById('btn-dashboard').addEventListener('click', ()=>{
+  document.getElementById('btn-dashboard').classList.add('active');
+  document.getElementById('btn-newsletter').classList.remove('active');
+  document.getElementById('dashboard-wrap').classList.remove('hidden');
+  document.getElementById('newsletter-wrap').classList.remove('active');
+});
+document.getElementById('btn-newsletter').addEventListener('click', ()=>{
+  document.getElementById('btn-newsletter').classList.add('active');
+  document.getElementById('btn-dashboard').classList.remove('active');
+  document.getElementById('dashboard-wrap').classList.add('hidden');
+  document.getElementById('newsletter-wrap').classList.add('active');
+});
+
+fetch('data.json').then(r=>r.json()).then(data=>{
+  DATA = data;
+  document.getElementById('issue-date').textContent = 'ISSUE — ' + data.generated_at;
+  document.getElementById('story-total-label').textContent = data.stories.length + ' stories tracked';
+  document.getElementById('nl-kicker').textContent = 'HUSK & FIBRE — DIGEST · ' + data.generated_at;
+  renderFilters();
+  renderDashboard();
+  renderNewsletter();
+}).catch(err=>{
+  document.getElementById('feed-list').innerHTML = '<p style="padding:40px;color:var(--rust);">Could not load data.json — make sure it sits next to index.html.</p>';
+  console.error(err);
+});
+</script>
+
+</body>
+</html>

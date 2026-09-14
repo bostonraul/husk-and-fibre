@@ -1,0 +1,32 @@
+name: Refresh agro-material feed
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # every 6 hours, no human trigger needed
+  workflow_dispatch: {}       # lets you also trigger it manually if you want
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - run: pip install feedparser requests python-dateutil
+
+      - name: Run ingestion pipeline
+        env:
+          NEWSAPI_KEY: ${{ secrets.NEWSAPI_KEY }}
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+        run: python pipeline/scrape_and_score.py
+
+      - name: Commit updated feed
+        run: |
+          git config user.name "husk-and-fibre-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add data.json
+          git diff --cached --quiet || git commit -m "Auto-refresh feed $(date -u +%Y-%m-%d)"
+          git push
