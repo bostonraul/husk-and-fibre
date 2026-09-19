@@ -501,6 +501,117 @@
   .nl-story h3{font-size:1.8rem;}
   .nl-story video,.nl-story iframe{border:0!important;border-radius:14px;}
 
+  /* ---------- GLOBAL INTELLIGENCE ---------- */
+  .intelligence-wrap{display:none;}
+  .intelligence-wrap.active{display:block;}
+  .intelligence-mode .filters{visibility:hidden;}
+  .intel-header{
+    display:grid;grid-template-columns:minmax(0,1fr) auto;gap:28px;align-items:end;
+    padding:34px 38px;border-radius:22px;background:var(--forest-deep);color:var(--white);
+    box-shadow:var(--shadow);overflow:hidden;position:relative;
+  }
+  .intel-header::after{
+    content:"";position:absolute;width:260px;height:260px;border:70px solid rgba(255,181,71,.12);
+    border-radius:50%;right:-95px;top:-125px;pointer-events:none;
+  }
+  .intel-kicker{
+    display:flex;align-items:center;gap:8px;margin-bottom:12px;
+    color:var(--ochre);font:500 .67rem/1 'DM Mono',monospace;
+    letter-spacing:.08em;text-transform:uppercase;
+  }
+  .intel-kicker::before{content:"";width:20px;height:1px;background:currentColor;}
+  .intel-header h2{
+    max-width:760px;color:var(--white);font-size:clamp(2.25rem,5vw,4.25rem);
+    line-height:.94;letter-spacing:-.05em;
+  }
+  .intel-subtitle{max-width:680px;margin:16px 0 0;color:rgba(255,255,255,.66);font-size:.94rem;}
+  .intel-actions{display:flex;align-items:center;gap:10px;position:relative;z-index:1;}
+  .intel-select,.print-button{
+    height:42px;border-radius:999px;border:1px solid rgba(255,255,255,.22);
+    font-size:.75rem;
+  }
+  .intel-select{
+    min-width:160px;padding:0 34px 0 14px;background:rgba(255,255,255,.08);
+    color:var(--white);cursor:pointer;
+  }
+  .intel-select option{color:var(--ink);background:var(--white);}
+  .print-button{
+    display:flex;align-items:center;gap:8px;padding:0 16px;border-color:var(--ochre);
+    background:var(--ochre);color:var(--ink);font-weight:700;cursor:pointer;
+  }
+  .print-button svg{width:15px;height:15px;}
+  .intel-date{
+    display:block;margin-top:18px;color:rgba(255,255,255,.5);
+    font:400 .67rem/1 'DM Mono',monospace;text-transform:uppercase;
+  }
+  .intel-filter-bar{
+    display:flex;align-items:center;justify-content:space-between;gap:20px;
+    padding:22px 0;border-bottom:1px solid var(--line);
+  }
+  .intel-theme-filters{display:flex;gap:8px;overflow-x:auto;scrollbar-width:none;}
+  .intel-theme-filters::-webkit-scrollbar{display:none;}
+  .intel-theme-chip{
+    flex:none;border:1px solid var(--line);border-radius:999px;background:var(--card);
+    color:var(--ink-soft);padding:8px 13px;font-size:.72rem;cursor:pointer;transition:.18s;
+  }
+  .intel-theme-chip:hover{border-color:var(--forest);color:var(--forest);}
+  .intel-theme-chip.active{border-color:var(--forest);background:var(--forest);color:var(--white);}
+  .intel-result-count{flex:none;color:var(--ink-soft);font:400 .67rem/1 'DM Mono',monospace;}
+  .intel-sectors{
+    display:grid;grid-template-columns:repeat(4,1fr);gap:10px;margin:20px 0 38px;
+  }
+  .sector-pill{
+    display:flex;align-items:center;gap:10px;min-height:58px;padding:10px 13px;
+    border:1px solid var(--line);border-radius:12px;background:rgba(255,254,249,.5);
+    color:var(--ink-soft);font-size:.7rem;line-height:1.25;
+  }
+  .sector-pill span{
+    display:grid;place-items:center;flex:none;width:27px;height:27px;border-radius:8px;
+    background:#E1E9DD;color:var(--forest);font:500 .65rem/1 'DM Mono',monospace;
+  }
+  .intel-layout{display:grid;grid-template-columns:minmax(0,1.12fr) minmax(320px,.88fr);gap:42px;}
+  .intel-column-head{display:flex;align-items:end;justify-content:space-between;gap:16px;margin-bottom:4px;}
+  .intel-column-head h3{font-size:1.65rem;line-height:1.05;}
+  .intel-column-head p{max-width:340px;margin:5px 0 0;color:var(--ink-soft);font-size:.75rem;}
+  .intel-column-count{
+    flex:none;width:30px;height:30px;display:grid;place-items:center;border-radius:50%;
+    background:var(--paper-deep);font:500 .68rem/1 'DM Mono',monospace;
+  }
+  .intel-card{
+    padding:24px 0;border-bottom:1px solid var(--line);break-inside:avoid;
+  }
+  .intel-card-top{display:flex;align-items:center;justify-content:space-between;gap:12px;margin-bottom:11px;}
+  .intel-theme-label{
+    padding:5px 8px;border-radius:6px;background:#E1E9DD;color:var(--forest);
+    font:500 .62rem/1 'DM Mono',monospace;text-transform:uppercase;letter-spacing:.04em;
+  }
+  .intel-theme-label.deals{background:#E4E2F3;color:#3D3772;}
+  .intel-theme-label.capital{background:#F4E5D5;color:#8A461F;}
+  .intel-theme-label.innovation{background:#DCECF0;color:#205E6B;}
+  .intel-theme-label.pestel{background:#E8E0D8;color:#6B4938;}
+  .intel-card-date{color:var(--ink-soft);font:400 .62rem/1 'DM Mono',monospace;}
+  .intel-card h4{
+    margin:0 0 9px;font:600 1.28rem/1.12 'Newsreader',serif;
+    color:var(--forest-deep);letter-spacing:-.02em;
+  }
+  .intel-card-summary{margin:0;color:var(--ink-soft);font-size:.82rem;line-height:1.55;}
+  .intel-signal{
+    margin:14px 0 0;padding:11px 13px;border-left:2px solid var(--ochre);
+    background:rgba(255,181,71,.08);color:var(--ink);font-size:.76rem;line-height:1.45;
+  }
+  .intel-card-meta{
+    display:flex;align-items:center;gap:7px;flex-wrap:wrap;margin-top:14px;
+    color:var(--ink-soft);font-size:.64rem;
+  }
+  .intel-card-meta span{padding:4px 7px;border:1px solid var(--line);border-radius:999px;}
+  .intel-source{margin-left:auto!important;border:0!important;padding-right:0!important;font-family:'DM Mono',monospace;}
+  .pestel-row{display:flex;gap:5px;flex-wrap:wrap;margin-top:12px;}
+  .pestel-tag{
+    padding:4px 7px;border-radius:5px;background:var(--paper-deep);
+    color:var(--ink-soft);font:500 .58rem/1 'DM Mono',monospace;
+  }
+  .intel-empty{grid-column:1/-1;padding:60px 20px;text-align:center;color:var(--ink-soft);}
+
   @media (max-width:800px){
     .masthead{padding:18px 20px;}
     .brand-mark{display:none;}
@@ -526,6 +637,12 @@
     .story-meta span:nth-child(3){display:none;}
     .detail-body{padding:22px;}
     .detail-body h2{font-size:2rem;}
+    .intel-header{grid-template-columns:1fr;padding:28px;}
+    .intel-actions{flex-wrap:wrap;}
+    .intel-layout{grid-template-columns:1fr;gap:44px;}
+    .intel-sectors{grid-template-columns:1fr 1fr;}
+    .intel-filter-bar{align-items:flex-start;flex-direction:column;}
+    .intel-theme-filters{width:100%;}
   }
   @media (max-width:480px){
     .masthead-meta{display:none;}
@@ -535,6 +652,37 @@
     .story-meta{display:none;}
     .sort-select{max-width:125px;}
     .detail-grid{grid-template-columns:1fr;}
+    .intel-actions{display:grid;grid-template-columns:1fr;}
+    .intel-select,.print-button{width:100%;justify-content:center;}
+    .intel-sectors{grid-template-columns:1fr;}
+  }
+  @media print{
+    @page{size:A4;margin:14mm;}
+    body.print-intelligence{background:#fff;color:#111;font-size:10pt;}
+    body.print-intelligence .masthead,
+    body.print-intelligence .control-bar,
+    body.print-intelligence .dashboard-wrap,
+    body.print-intelligence .newsletter-wrap,
+    body.print-intelligence .intel-actions,
+    body.print-intelligence .intel-theme-filters{display:none!important;}
+    body.print-intelligence main{max-width:none;padding:0;}
+    body.print-intelligence .intelligence-wrap{display:block!important;}
+    body.print-intelligence .intel-header{
+      display:block;padding:0 0 8mm;border-radius:0;background:#fff;color:#111;
+      box-shadow:none;border-bottom:2px solid #173F2A;
+    }
+    body.print-intelligence .intel-header::after{display:none;}
+    body.print-intelligence .intel-header h2{max-width:none;color:#102C1D;font-size:30pt;}
+    body.print-intelligence .intel-subtitle,
+    body.print-intelligence .intel-date{color:#555;}
+    body.print-intelligence .intel-filter-bar{padding:5mm 0 2mm;border:0;}
+    body.print-intelligence .intel-sectors{margin:0 0 7mm;gap:2mm;}
+    body.print-intelligence .sector-pill{min-height:0;padding:2mm;background:#fff;}
+    body.print-intelligence .intel-layout{grid-template-columns:1fr 1fr;gap:8mm;}
+    body.print-intelligence .intel-card{padding:4mm 0;}
+    body.print-intelligence .intel-card h4{font-size:13pt;}
+    body.print-intelligence .intel-card-summary{font-size:8.5pt;}
+    body.print-intelligence .intel-signal{font-size:8pt;}
   }
   @media (prefers-reduced-motion:reduce){
     *,*::before,*::after{scroll-behavior:auto!important;transition:none!important;animation:none!important;}
@@ -564,6 +712,7 @@
   <div class="view-toggle" role="group" aria-label="Choose view">
     <button id="btn-dashboard" class="active" aria-pressed="true">Explore</button>
     <button id="btn-newsletter" aria-pressed="false">Digest</button>
+    <button id="btn-intelligence" aria-pressed="false">News &amp; Intelligence</button>
   </div>
   <div class="filters" id="filters" aria-label="Filter by material"></div>
 </div>
@@ -605,6 +754,67 @@
     <p class="nl-intro">A sourced field note on turning agricultural waste into commercially viable materials — rated for business potential and linked to the original reporting.</p>
     <div id="nl-list"></div>
   </div>
+
+  <section class="intelligence-wrap" id="intelligence-wrap" aria-labelledby="intel-title">
+    <header class="intel-header">
+      <div>
+        <div class="intel-kicker">Decision-grade market briefing</div>
+        <h2 id="intel-title">Global Agri &amp; Bio-Economy Intelligence</h2>
+        <p class="intel-subtitle">Corporate actions, policy signals, capital flows and technology shifts across agriculture, carbon markets and bio-based industries.</p>
+        <time class="intel-date" id="intel-date"></time>
+      </div>
+      <div class="intel-actions">
+        <label>
+          <span class="sr-only" style="position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0;">Filter by geography</span>
+          <select class="intel-select" id="intel-geography">
+            <option value="All">All geographies</option>
+            <option value="India">India</option>
+            <option value="Uganda">Uganda</option>
+            <option value="Rest of World">Rest of the World</option>
+          </select>
+        </label>
+        <button class="print-button" id="print-intelligence">
+          <svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9V2h12v7"/><path d="M6 18H4a2 2 0 0 1-2-2v-5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v5a2 2 0 0 1-2 2h-2"/><rect x="6" y="14" width="12" height="8"/></svg>
+          Download / Print PDF
+        </button>
+      </div>
+    </header>
+
+    <div class="intel-filter-bar">
+      <div class="intel-theme-filters" id="intel-theme-filters" aria-label="Filter intelligence by theme"></div>
+      <div class="intel-result-count" id="intel-result-count"></div>
+    </div>
+
+    <div class="intel-sectors" aria-label="Industry sectors covered">
+      <div class="sector-pill"><span>AC</span>Activated Carbon, Charcoal &amp; Biochar</div>
+      <div class="sector-pill"><span>BI</span>Biologicals &amp; Microbial Crop Inputs</div>
+      <div class="sector-pill"><span>AP</span>Agri-Products &amp; Agro-Processing</div>
+      <div class="sector-pill"><span>CC</span>Carbon Credits &amp; Nursery Plantations</div>
+    </div>
+
+    <div class="intel-layout">
+      <section>
+        <div class="intel-column-head">
+          <div>
+            <h3>Daily Business-Wise &amp; Innovation News</h3>
+            <p>Corporate actions, regulatory updates and project milestones.</p>
+          </div>
+          <span class="intel-column-count" id="daily-count">0</span>
+        </div>
+        <div id="daily-intelligence"></div>
+      </section>
+      <section>
+        <div class="intel-column-head">
+          <div>
+            <h3>Weekly Macro &amp; Strategic Actions</h3>
+            <p>Market direction, transactions and PESTEL implications.</p>
+          </div>
+          <span class="intel-column-count" id="weekly-count">0</span>
+        </div>
+        <div id="weekly-intelligence"></div>
+      </section>
+    </div>
+  </section>
 </main>
 
 <div class="detail-overlay" id="detail-overlay" aria-hidden="true">
@@ -623,6 +833,116 @@ let activeFilter = "All";
 let searchQuery = "";
 let sortMode = "potential";
 let lastFocusedElement = null;
+let intelligenceTheme = "all";
+let intelligenceGeography = "All";
+
+const INTELLIGENCE_THEMES = [
+  {id:"all", label:"All themes"},
+  {id:"regulatory", label:"Regulatory"},
+  {id:"deals", label:"M&A / Strategic JVs"},
+  {id:"capital", label:"Capital & IR"},
+  {id:"innovation", label:"Processing & Innovation"},
+  {id:"pestel", label:"PESTEL"}
+];
+
+const INTELLIGENCE_DATA = [
+  {
+    id:"in-ccts-biochar", cadence:"daily", theme:"regulatory", geography:"India",
+    sector:"Carbon Credits & Nursery Plantations", date:"19 Sep 2026",
+    headline:"CCTS methodology window creates an early route for biochar project registration",
+    summary:"A proposed compliance-market pathway would give Indian project developers a clearer framework for measurement, verification and issuance planning.",
+    signal:"Commercial implication: developers with feedstock traceability and baseline data can move first on project design.",
+    source:"Sample policy brief"
+  },
+  {
+    id:"ug-biochar-incentive", cadence:"daily", theme:"regulatory", geography:"Uganda",
+    sector:"Activated Carbon, Charcoal & Biochar", date:"19 Sep 2026",
+    headline:"Uganda reviews investment incentives for clean biomass conversion facilities",
+    summary:"Industry associations are seeking duty relief for efficient kilns, emissions controls and laboratory equipment used by export-oriented processors.",
+    signal:"Watch for equipment classifications that materially change project payback periods.",
+    source:"Sample association brief"
+  },
+  {
+    id:"global-pyrolysis", cadence:"daily", theme:"innovation", geography:"Rest of World",
+    sector:"Activated Carbon, Charcoal & Biochar", date:"18 Sep 2026",
+    headline:"Continuous pyrolysis systems move toward modular, distributed production",
+    summary:"Equipment suppliers are packaging heat recovery, emissions control and digital process monitoring into smaller commercial units.",
+    signal:"The addressable customer base is widening from industrial plants to regional agro-processing clusters.",
+    source:"Sample technology scan"
+  },
+  {
+    id:"in-biologicals-dmrv", cadence:"daily", theme:"innovation", geography:"India",
+    sector:"Biologicals & Microbial Crop Inputs", date:"18 Sep 2026",
+    headline:"Biological input trials add field-level dMRV to quantify yield and soil outcomes",
+    summary:"Crop-input firms are pairing microbial products with plot-level evidence systems to support distributor claims and carbon-program participation.",
+    signal:"Evidence quality is becoming a commercial differentiator, not only a compliance requirement.",
+    source:"Sample corporate brief"
+  },
+  {
+    id:"ug-nursery-finance", cadence:"daily", theme:"capital", geography:"Uganda",
+    sector:"Carbon Credits & Nursery Plantations", date:"17 Sep 2026",
+    headline:"Blended-finance structure targets nursery expansion and smallholder outgrowers",
+    summary:"A proposed facility combines working-capital debt with milestone-based grant support for propagation capacity and farmer onboarding.",
+    signal:"The model reduces early cash-flow pressure while preserving commercial discipline.",
+    source:"Sample capital monitor"
+  },
+  {
+    id:"global-microbial-jv", cadence:"daily", theme:"deals", geography:"Rest of World",
+    sector:"Biologicals & Microbial Crop Inputs", date:"17 Sep 2026",
+    headline:"Microbial platform developer seeks regional formulation and distribution partners",
+    summary:"The proposed joint-venture model separates strain ownership from local registration, manufacturing and market access.",
+    signal:"Regional incumbents may gain differentiated products without funding discovery-stage research.",
+    source:"Sample deal brief"
+  },
+  {
+    id:"in-pestel", cadence:"weekly", theme:"pestel", geography:"India",
+    sector:"Agri-Products & Agro-Processing", date:"Week 38 · 2026",
+    headline:"India: policy support rises while fragmented feedstock logistics remain the constraint",
+    summary:"Public incentives and buyer demand support processing investment, but aggregation quality, seasonal supply and state-level approvals still affect execution.",
+    signal:"Projects with contracted collection networks should command a lower operating-risk premium.",
+    source:"Sample PESTEL review", pestel:["Political","Economic","Environmental","Legal"]
+  },
+  {
+    id:"ug-pestel", cadence:"weekly", theme:"pestel", geography:"Uganda",
+    sector:"Carbon Credits & Nursery Plantations", date:"Week 38 · 2026",
+    headline:"Uganda: strong land-restoration potential meets verification and tenure complexity",
+    summary:"Demand for high-integrity nature projects is growing, while title clarity, benefit sharing and long-duration monitoring remain central diligence items.",
+    signal:"Community contracting and transparent revenue allocation are investability requirements.",
+    source:"Sample PESTEL review", pestel:["Social","Environmental","Legal"]
+  },
+  {
+    id:"global-carbon-ma", cadence:"weekly", theme:"deals", geography:"Rest of World",
+    sector:"Activated Carbon, Charcoal & Biochar", date:"Week 38 · 2026",
+    headline:"Strategic buyers shift from carbon-credit offtakes toward operating-asset stakes",
+    summary:"Recent market behavior suggests buyers want greater control over production quality, issuance timing and long-term feedstock access.",
+    signal:"Valuation will increasingly separate proven operating assets from methodology-only project pipelines.",
+    source:"Sample transaction monitor"
+  },
+  {
+    id:"in-processing-capital", cadence:"weekly", theme:"capital", geography:"India",
+    sector:"Agri-Products & Agro-Processing", date:"Week 38 · 2026",
+    headline:"Lenders test receivables-backed structures for distributed agro-processing",
+    summary:"Financing structures tied to anchor-buyer contracts could reduce collateral dependence for regional processors.",
+    signal:"Reliable offtake data may become as important as fixed assets in credit assessment.",
+    source:"Sample funding review"
+  },
+  {
+    id:"global-removal-policy", cadence:"weekly", theme:"regulatory", geography:"Rest of World",
+    sector:"Carbon Credits & Nursery Plantations", date:"Week 38 · 2026",
+    headline:"Carbon-removal procurement rules converge around durability and chain-of-custody",
+    summary:"Large buyers are tightening eligibility language for permanence, leakage, feedstock sourcing and independent verification.",
+    signal:"Higher documentation costs favor scaled operators but may improve pricing for verified supply.",
+    source:"Sample policy monitor"
+  },
+  {
+    id:"ug-processing-entry", cadence:"weekly", theme:"deals", geography:"Uganda",
+    sector:"Agri-Products & Agro-Processing", date:"Week 38 · 2026",
+    headline:"Regional processor evaluates Uganda entry through association-led sourcing partnership",
+    summary:"The proposed model uses local associations for aggregation while the strategic partner contributes quality systems, equipment and market access.",
+    signal:"A phased partnership can validate throughput before committing to a wholly owned facility.",
+    source:"Sample market-entry brief"
+  }
+];
 
 const potentialWord = n => ["","Low","Fair","Moderate","High","Very High"][n] || "—";
 const escapeHTML = value => String(value ?? "").replace(/[&<>"']/g, char => ({
@@ -825,24 +1145,99 @@ function renderNewsletter(){
   `).join('');
 }
 
+function filteredIntelligence(){
+  return INTELLIGENCE_DATA.filter(item =>
+    (intelligenceTheme === "all" || item.theme === intelligenceTheme) &&
+    (intelligenceGeography === "All" || item.geography === intelligenceGeography)
+  );
+}
+
+function renderIntelligenceCard(item){
+  const theme = INTELLIGENCE_THEMES.find(entry=>entry.id === item.theme);
+  const pestel = (item.pestel || []).map(tag=>`<span class="pestel-tag">${escapeHTML(tag)}</span>`).join("");
+  return `
+    <article class="intel-card">
+      <div class="intel-card-top">
+        <span class="intel-theme-label ${escapeHTML(item.theme)}">${escapeHTML(theme?.label || item.theme)}</span>
+        <time class="intel-card-date">${escapeHTML(item.date)}</time>
+      </div>
+      <h4>${escapeHTML(item.headline)}</h4>
+      <p class="intel-card-summary">${escapeHTML(item.summary)}</p>
+      <p class="intel-signal"><strong>Business signal:</strong> ${escapeHTML(item.signal)}</p>
+      ${pestel ? `<div class="pestel-row" aria-label="PESTEL factors">${pestel}</div>` : ""}
+      <div class="intel-card-meta">
+        <span>${escapeHTML(item.geography)}</span>
+        <span>${escapeHTML(item.sector)}</span>
+        <span class="intel-source">${escapeHTML(item.source)}</span>
+      </div>
+    </article>`;
+}
+
+function renderIntelligence(){
+  document.getElementById('intel-theme-filters').innerHTML = INTELLIGENCE_THEMES.map(theme=>`
+    <button class="intel-theme-chip ${theme.id===intelligenceTheme?'active':''}"
+      data-theme="${escapeHTML(theme.id)}" aria-pressed="${theme.id===intelligenceTheme}">
+      ${escapeHTML(theme.label)}
+    </button>
+  `).join("");
+  document.querySelectorAll(".intel-theme-chip").forEach(button=>{
+    button.addEventListener("click",()=>{
+      intelligenceTheme = button.dataset.theme;
+      renderIntelligence();
+    });
+  });
+
+  const list = filteredIntelligence();
+  const daily = list.filter(item=>item.cadence === "daily");
+  const weekly = list.filter(item=>item.cadence === "weekly");
+  const empty = `<div class="intel-empty">No reports match the selected filters.</div>`;
+  document.getElementById("daily-intelligence").innerHTML = daily.length ? daily.map(renderIntelligenceCard).join("") : empty;
+  document.getElementById("weekly-intelligence").innerHTML = weekly.length ? weekly.map(renderIntelligenceCard).join("") : empty;
+  document.getElementById("daily-count").textContent = daily.length;
+  document.getElementById("weekly-count").textContent = weekly.length;
+  document.getElementById("intel-result-count").textContent = `${list.length} ${list.length===1?"report":"reports"}`;
+}
+
+function setView(view){
+  const views = {
+    dashboard:{button:"btn-dashboard", panel:"dashboard-wrap"},
+    newsletter:{button:"btn-newsletter", panel:"newsletter-wrap"},
+    intelligence:{button:"btn-intelligence", panel:"intelligence-wrap"}
+  };
+  Object.entries(views).forEach(([name,config])=>{
+    const active = name === view;
+    document.getElementById(config.button).classList.toggle("active",active);
+    document.getElementById(config.button).setAttribute("aria-pressed",String(active));
+    const panel = document.getElementById(config.panel);
+    if(name === "dashboard") panel.classList.toggle("hidden",!active);
+    else panel.classList.toggle("active",active);
+  });
+  document.body.classList.toggle("newsletter-mode",view === "newsletter");
+  document.body.classList.toggle("intelligence-mode",view === "intelligence");
+}
+
 document.getElementById('btn-dashboard').addEventListener('click', ()=>{
-  document.getElementById('btn-dashboard').classList.add('active');
-  document.getElementById('btn-newsletter').classList.remove('active');
-  document.getElementById('btn-dashboard').setAttribute('aria-pressed','true');
-  document.getElementById('btn-newsletter').setAttribute('aria-pressed','false');
-  document.getElementById('dashboard-wrap').classList.remove('hidden');
-  document.getElementById('newsletter-wrap').classList.remove('active');
-  document.body.classList.remove('newsletter-mode');
+  setView("dashboard");
 });
 document.getElementById('btn-newsletter').addEventListener('click', ()=>{
-  document.getElementById('btn-newsletter').classList.add('active');
-  document.getElementById('btn-dashboard').classList.remove('active');
-  document.getElementById('btn-newsletter').setAttribute('aria-pressed','true');
-  document.getElementById('btn-dashboard').setAttribute('aria-pressed','false');
-  document.getElementById('dashboard-wrap').classList.add('hidden');
-  document.getElementById('newsletter-wrap').classList.add('active');
-  document.body.classList.add('newsletter-mode');
+  setView("newsletter");
 });
+document.getElementById('btn-intelligence').addEventListener('click', ()=>setView("intelligence"));
+
+document.getElementById("intel-geography").addEventListener("change",event=>{
+  intelligenceGeography = event.target.value;
+  renderIntelligence();
+});
+document.getElementById("print-intelligence").addEventListener("click",()=>{
+  document.body.classList.add("print-intelligence");
+  window.print();
+});
+window.addEventListener("afterprint",()=>document.body.classList.remove("print-intelligence"));
+
+document.getElementById("intel-date").textContent = new Intl.DateTimeFormat("en-GB",{
+  day:"2-digit",month:"long",year:"numeric"
+}).format(new Date());
+renderIntelligence();
 
 document.getElementById('story-search').addEventListener('input', e=>{
   searchQuery = e.target.value.trim();
