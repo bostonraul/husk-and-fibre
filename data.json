@@ -1,6 +1,91 @@
 {
-  "generated_at": "2026-09-14",
+  "generated_at": "2026-09-30",
   "stories": [
+    {
+      "id": "paul-and-mike-indian-chocolate",
+      "material": "Cocoa",
+      "region": "Kerala, India",
+      "headline": "A Kerala spice group is building an Indian bean-to-bar chocolate business",
+      "dek": "Paul And Mike connects cocoa cultivation, fermentation and spice-processing expertise to create a premium Indian chocolate brand with domestic and export ambitions.",
+      "potential_score": 4,
+      "potential_label": "High — premium branded food opportunity",
+      "capital_note": "Mid-high: farm network + fermentation and processing",
+      "video": "videos/paul-and-mike-indian-chocolate.mp4",
+      "video_caption": "The cultivation and processing story behind Indian chocolate brand Paul And Mike",
+      "body": "The uploaded brief follows the value chain behind Paul And Mike, from locally grown cocoa and post-harvest handling to finished premium chocolate. The model demonstrates how agricultural know-how, controlled fermentation and established food-processing capabilities can move a crop from commodity status into a differentiated consumer brand. For agricultural businesses, the relevant opportunity is vertical integration: farmer relationships and processing consistency become part of the product story, while branded retail captures more value than selling raw cocoa alone.",
+      "why_it_matters": "It shows how an established agricultural processor can use origin, quality control and brand-building to capture a larger share of the final product value.",
+      "sources": [
+        {"name": "Watch uploaded brief", "url": "videos/paul-and-mike-indian-chocolate.mp4"}
+      ]
+    },
+    {
+      "id": "self-driving-farm-robot-india",
+      "material": "Agri-tech",
+      "region": "Pune, India",
+      "headline": "A Pune startup has built a self-driving field robot for Indian farms",
+      "dek": "The autonomous platform is designed to navigate working farms and automate repeatable field operations without requiring a driver.",
+      "potential_score": 4,
+      "potential_label": "High — labour and precision-agriculture demand",
+      "capital_note": "High: robotics hardware, software and field support",
+      "video": "videos/self-driving-farm-robot-india.mp4",
+      "video_caption": "A self-driving farm robot operating in Indian field conditions",
+      "body": "The uploaded clip shows an autonomous agricultural robot developed by a Pune startup operating across uneven field conditions. A compact robotic platform can potentially support repetitive jobs such as monitoring, spraying, weeding or material movement while collecting useful field data. The commercial challenge is not only autonomy: the machine must remain affordable, repairable and reliable across small plots, varied crops and difficult terrain. Service-based pricing or shared ownership could make the technology more accessible than outright equipment sales.",
+      "why_it_matters": "Farm robotics designed around Indian field conditions could address labour availability while giving growers more precise and timely operations.",
+      "sources": [
+        {"name": "Watch uploaded brief", "url": "videos/self-driving-farm-robot-india.mp4"}
+      ]
+    },
+    {
+      "id": "mahua-superfood-india",
+      "material": "Mahua",
+      "region": "India",
+      "headline": "Mahua is moving from an underused forest flower into a premium food category",
+      "dek": "Growing consumer interest is creating new markets for mahua beyond its traditional uses, with room for better processing, packaging and tribal producer participation.",
+      "potential_score": 4,
+      "potential_label": "High — rising demand and export potential",
+      "capital_note": "Low-mid: collection, drying, food processing and branding",
+      "video": "videos/mahua-superfood-india.mp4",
+      "video_caption": "The growing commercial market for India's mahua flower",
+      "body": "The uploaded brief describes rising prices and export interest around mahua, a flower collected across forest regions of central and eastern India. Better drying, grading and product development can move mahua into packaged foods, beverages and wellness categories rather than leaving collectors dependent on low-value raw sales. The opportunity requires careful quality control and responsible sourcing, as well as clear navigation of the regulations attached to some traditional mahua uses.",
+      "why_it_matters": "A stronger value chain can turn a seasonal forest product into higher-value food products while increasing income at the collector level.",
+      "sources": [
+        {"name": "Watch uploaded brief", "url": "videos/mahua-superfood-india.mp4"}
+      ]
+    },
+    {
+      "id": "banana-fibre-sanitary-pads-india",
+      "material": "Banana",
+      "region": "India",
+      "headline": "Banana-stem fibre is being turned into biodegradable sanitary pads",
+      "dek": "An agricultural residue left after harvest can replace part of the plastic-heavy absorbent material used in conventional menstrual products.",
+      "potential_score": 4,
+      "potential_label": "High — large essential-products market",
+      "capital_note": "Mid: fibre processing, hygiene manufacturing and certification",
+      "video": "videos/banana-fibre-sanitary-pads-india.mp4",
+      "video_caption": "Banana stems being processed for biodegradable sanitary products",
+      "body": "The uploaded clip presents a sanitary-pad material made using fibre recovered from banana stems. Banana plants produce substantial pseudostem waste after harvest, giving processors a recurring agricultural input that can be cleaned, separated and converted into absorbent fibre. The product opportunity combines waste utilisation with a large recurring consumer need, but success depends on hygiene certification, dependable absorbency, user comfort and a price that can compete with conventional products.",
+      "why_it_matters": "The same regional banana-waste network can support both fibre products and essential hygiene goods, creating a higher-value outlet than disposal or burning.",
+      "sources": [
+        {"name": "Watch uploaded brief", "url": "videos/banana-fibre-sanitary-pads-india.mp4"}
+      ]
+    },
+    {
+      "id": "bakwa-biodegradable-bottles",
+      "material": "Sugarcane",
+      "region": "Kerala, India",
+      "headline": "Three Kerala founders are developing biodegradable bottles from plant starch",
+      "dek": "Bakwa uses sugarcane- and corn-derived material for bottles presented as a compostable alternative to conventional plastic packaging.",
+      "potential_score": 4,
+      "potential_label": "High — packaging demand with regulatory tailwinds",
+      "capital_note": "Mid-high: formulation, moulding and packaging certification",
+      "video": "videos/bakwa-biodegradable-bottles.mp4",
+      "video_caption": "Bakwa's plant-based biodegradable bottle concept",
+      "body": "The uploaded brief introduces Bakwa, a bottle concept from three Kerala founders using sugarcane- and corn-derived starch. The packaging is presented as biodegradable within roughly 180 days, offering brands a potential alternative to fossil-based single-use bottles. Commercial scale will depend on barrier performance, shelf-life testing, composting conditions, manufacturing cost and credible certification, but the market signal is strong as beverage and hospitality companies search for practical plastic substitutes.",
+      "why_it_matters": "Rigid bottles are a difficult packaging category to decarbonise, so a certified plant-based alternative could address a large and visible waste stream.",
+      "sources": [
+        {"name": "Watch uploaded brief", "url": "videos/bakwa-biodegradable-bottles.mp4"}
+      ]
+    },
     {
       "id": "coconut-leather-malai",
       "material": "Coconut",

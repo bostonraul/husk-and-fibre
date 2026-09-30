@@ -604,7 +604,7 @@
     color:var(--ink-soft);font-size:.64rem;
   }
   .intel-card-meta span{padding:4px 7px;border:1px solid var(--line);border-radius:999px;}
-  .intel-source{margin-left:auto!important;border:0!important;padding-right:0!important;font-family:'DM Mono',monospace;}
+  .intel-source{margin-left:auto!important;border:0!important;padding-right:0!important;font-family:'DM Mono',monospace;color:var(--forest);text-decoration:none;}
   .pestel-row{display:flex;gap:5px;flex-wrap:wrap;margin-top:12px;}
   .pestel-tag{
     padding:4px 7px;border-radius:5px;background:var(--paper-deep);
@@ -845,104 +845,7 @@ const INTELLIGENCE_THEMES = [
   {id:"pestel", label:"PESTEL"}
 ];
 
-const INTELLIGENCE_DATA = [
-  {
-    id:"in-ccts-biochar", cadence:"daily", theme:"regulatory", geography:"India",
-    sector:"Carbon Credits & Nursery Plantations", date:"19 Sep 2026",
-    headline:"CCTS methodology window creates an early route for biochar project registration",
-    summary:"A proposed compliance-market pathway would give Indian project developers a clearer framework for measurement, verification and issuance planning.",
-    signal:"Commercial implication: developers with feedstock traceability and baseline data can move first on project design.",
-    source:"Sample policy brief"
-  },
-  {
-    id:"ug-biochar-incentive", cadence:"daily", theme:"regulatory", geography:"Uganda",
-    sector:"Activated Carbon, Charcoal & Biochar", date:"19 Sep 2026",
-    headline:"Uganda reviews investment incentives for clean biomass conversion facilities",
-    summary:"Industry associations are seeking duty relief for efficient kilns, emissions controls and laboratory equipment used by export-oriented processors.",
-    signal:"Watch for equipment classifications that materially change project payback periods.",
-    source:"Sample association brief"
-  },
-  {
-    id:"global-pyrolysis", cadence:"daily", theme:"innovation", geography:"Rest of World",
-    sector:"Activated Carbon, Charcoal & Biochar", date:"18 Sep 2026",
-    headline:"Continuous pyrolysis systems move toward modular, distributed production",
-    summary:"Equipment suppliers are packaging heat recovery, emissions control and digital process monitoring into smaller commercial units.",
-    signal:"The addressable customer base is widening from industrial plants to regional agro-processing clusters.",
-    source:"Sample technology scan"
-  },
-  {
-    id:"in-biologicals-dmrv", cadence:"daily", theme:"innovation", geography:"India",
-    sector:"Biologicals & Microbial Crop Inputs", date:"18 Sep 2026",
-    headline:"Biological input trials add field-level dMRV to quantify yield and soil outcomes",
-    summary:"Crop-input firms are pairing microbial products with plot-level evidence systems to support distributor claims and carbon-program participation.",
-    signal:"Evidence quality is becoming a commercial differentiator, not only a compliance requirement.",
-    source:"Sample corporate brief"
-  },
-  {
-    id:"ug-nursery-finance", cadence:"daily", theme:"capital", geography:"Uganda",
-    sector:"Carbon Credits & Nursery Plantations", date:"17 Sep 2026",
-    headline:"Blended-finance structure targets nursery expansion and smallholder outgrowers",
-    summary:"A proposed facility combines working-capital debt with milestone-based grant support for propagation capacity and farmer onboarding.",
-    signal:"The model reduces early cash-flow pressure while preserving commercial discipline.",
-    source:"Sample capital monitor"
-  },
-  {
-    id:"global-microbial-jv", cadence:"daily", theme:"deals", geography:"Rest of World",
-    sector:"Biologicals & Microbial Crop Inputs", date:"17 Sep 2026",
-    headline:"Microbial platform developer seeks regional formulation and distribution partners",
-    summary:"The proposed joint-venture model separates strain ownership from local registration, manufacturing and market access.",
-    signal:"Regional incumbents may gain differentiated products without funding discovery-stage research.",
-    source:"Sample deal brief"
-  },
-  {
-    id:"in-pestel", cadence:"weekly", theme:"pestel", geography:"India",
-    sector:"Agri-Products & Agro-Processing", date:"Week 38 · 2026",
-    headline:"India: policy support rises while fragmented feedstock logistics remain the constraint",
-    summary:"Public incentives and buyer demand support processing investment, but aggregation quality, seasonal supply and state-level approvals still affect execution.",
-    signal:"Projects with contracted collection networks should command a lower operating-risk premium.",
-    source:"Sample PESTEL review", pestel:["Political","Economic","Environmental","Legal"]
-  },
-  {
-    id:"ug-pestel", cadence:"weekly", theme:"pestel", geography:"Uganda",
-    sector:"Carbon Credits & Nursery Plantations", date:"Week 38 · 2026",
-    headline:"Uganda: strong land-restoration potential meets verification and tenure complexity",
-    summary:"Demand for high-integrity nature projects is growing, while title clarity, benefit sharing and long-duration monitoring remain central diligence items.",
-    signal:"Community contracting and transparent revenue allocation are investability requirements.",
-    source:"Sample PESTEL review", pestel:["Social","Environmental","Legal"]
-  },
-  {
-    id:"global-carbon-ma", cadence:"weekly", theme:"deals", geography:"Rest of World",
-    sector:"Activated Carbon, Charcoal & Biochar", date:"Week 38 · 2026",
-    headline:"Strategic buyers shift from carbon-credit offtakes toward operating-asset stakes",
-    summary:"Recent market behavior suggests buyers want greater control over production quality, issuance timing and long-term feedstock access.",
-    signal:"Valuation will increasingly separate proven operating assets from methodology-only project pipelines.",
-    source:"Sample transaction monitor"
-  },
-  {
-    id:"in-processing-capital", cadence:"weekly", theme:"capital", geography:"India",
-    sector:"Agri-Products & Agro-Processing", date:"Week 38 · 2026",
-    headline:"Lenders test receivables-backed structures for distributed agro-processing",
-    summary:"Financing structures tied to anchor-buyer contracts could reduce collateral dependence for regional processors.",
-    signal:"Reliable offtake data may become as important as fixed assets in credit assessment.",
-    source:"Sample funding review"
-  },
-  {
-    id:"global-removal-policy", cadence:"weekly", theme:"regulatory", geography:"Rest of World",
-    sector:"Carbon Credits & Nursery Plantations", date:"Week 38 · 2026",
-    headline:"Carbon-removal procurement rules converge around durability and chain-of-custody",
-    summary:"Large buyers are tightening eligibility language for permanence, leakage, feedstock sourcing and independent verification.",
-    signal:"Higher documentation costs favor scaled operators but may improve pricing for verified supply.",
-    source:"Sample policy monitor"
-  },
-  {
-    id:"ug-processing-entry", cadence:"weekly", theme:"deals", geography:"Uganda",
-    sector:"Agri-Products & Agro-Processing", date:"Week 38 · 2026",
-    headline:"Regional processor evaluates Uganda entry through association-led sourcing partnership",
-    summary:"The proposed model uses local associations for aggregation while the strategic partner contributes quality systems, equipment and market access.",
-    signal:"A phased partnership can validate throughput before committing to a wholly owned facility.",
-    source:"Sample market-entry brief"
-  }
-];
+let INTELLIGENCE_DATA = [];
 
 const potentialWord = n => ["","Low","Fair","Moderate","High","Very High"][n] || "—";
 const escapeHTML = value => String(value ?? "").replace(/[&<>"']/g, char => ({
@@ -1168,7 +1071,7 @@ function renderIntelligenceCard(item){
       <div class="intel-card-meta">
         <span>${escapeHTML(item.geography)}</span>
         <span>${escapeHTML(item.sector)}</span>
-        <span class="intel-source">${escapeHTML(item.source)}</span>
+        <a class="intel-source" href="${safeSourceUrl(item.source_url)}" target="_blank" rel="noopener noreferrer">${escapeHTML(item.source)} ↗</a>
       </div>
     </article>`;
 }
@@ -1196,6 +1099,29 @@ function renderIntelligence(){
   document.getElementById("daily-count").textContent = daily.length;
   document.getElementById("weekly-count").textContent = weekly.length;
   document.getElementById("intel-result-count").textContent = `${list.length} ${list.length===1?"report":"reports"}`;
+}
+
+async function loadIntelligence(){
+  document.getElementById("intel-result-count").textContent = "Updating feed…";
+  try{
+    const response = await fetch("intelligence.json",{cache:"no-store"});
+    if(!response.ok) throw new Error(`Intelligence request failed: ${response.status}`);
+    const payload = await response.json();
+    if(!Array.isArray(payload.reports)) throw new Error("Invalid intelligence data");
+    INTELLIGENCE_DATA = payload.reports;
+    const updated = new Date(payload.generated_at);
+    document.getElementById("intel-date").textContent = Number.isNaN(updated.getTime())
+      ? "LATEST DAILY REFRESH"
+      : `UPDATED ${new Intl.DateTimeFormat("en-GB",{day:"2-digit",month:"long",year:"numeric",timeZone:"UTC"}).format(updated)} · DAILY`;
+    renderIntelligence();
+  }catch(error){
+    const message = `<div class="intel-empty"><strong>Live feed temporarily unavailable.</strong><br>Please try again shortly.</div>`;
+    document.getElementById("daily-intelligence").innerHTML = message;
+    document.getElementById("weekly-intelligence").innerHTML = message;
+    document.getElementById("intel-result-count").textContent = "Feed unavailable";
+    document.getElementById("intel-date").textContent = "UPDATE UNAVAILABLE";
+    console.error(error);
+  }
 }
 
 function setView(view){
@@ -1233,11 +1159,7 @@ document.getElementById("print-intelligence").addEventListener("click",()=>{
   window.print();
 });
 window.addEventListener("afterprint",()=>document.body.classList.remove("print-intelligence"));
-
-document.getElementById("intel-date").textContent = new Intl.DateTimeFormat("en-GB",{
-  day:"2-digit",month:"long",year:"numeric"
-}).format(new Date());
-renderIntelligence();
+loadIntelligence();
 
 document.getElementById('story-search').addEventListener('input', e=>{
   searchQuery = e.target.value.trim();
