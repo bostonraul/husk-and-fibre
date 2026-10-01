@@ -1,6 +1,37 @@
 {
-  "generated_at": "2026-09-30T12:15:06+00:00",
+  "generated_at": "2026-10-01T10:06:52+00:00",
   "reports": [
+    {
+      "id": "5221fa281f162c",
+      "cadence": "daily",
+      "theme": "innovation",
+      "geography": "India",
+      "sector": "Activated Carbon, Charcoal & Biochar",
+      "date": "30 Sep 2026",
+      "published_at": "2026-09-30T22:16:12+00:00",
+      "headline": "Madakasira meet launches innovative mulberry biochar project",
+      "summary": "This development affects the activated carbon, charcoal & biochar value chain. Open the original report for transaction details, timing and named counterparties.",
+      "signal": "Assess field performance, unit economics and the route from pilot deployment to repeatable commercial scale.",
+      "source": "The Hans India",
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPb1k5WUZsY0tHREwzZDhfMXVqRWprRF9aanJoaXhPeDNkRXNlTUZFcEt1T1NBM3dKVDNoV0ZKOHN0M29JMUlBbklUUEc2bkRLVFNvbTdPdWszeGtndnplSWNPd2x4ZjRtMlJpWDQtUEVuRjRwSzh1Q1NrNGdfXy1YeDJuZjRvOEJwaWVOWGdlcl9iSGltdnBpbTNfS2tNN1o4QjhuMTd1azZCTnhuYXZ0dVdvN0JiYm9z?oc=5"
+    },
+    {
+      "id": "bc5c76a37285b3",
+      "cadence": "daily",
+      "theme": "deals",
+      "geography": "Rest of World",
+      "sector": "Agri-Products & Agro-Processing",
+      "date": "30 Sep 2026",
+      "published_at": "2026-09-30T19:55:46+00:00",
+      "headline": "Minister of Agriculture identifies Climate-Smart Agriculture and regional partnerships as investment opportunities",
+      "summary": "This development affects the agri-products & agro-processing value chain. Open the original report for transaction details, timing and named counterparties.",
+      "signal": "Track counterparties, valuation signals and local market-access advantages created by the transaction.",
+      "source": "Belize News and Opinion on www.breakingbelizenews.com",
+      "source_url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPMzZhQ3pSNnAzOTBDUlktWlVQNXBXcW9iaTd4dXZjX25wWHhaYWRCN2Fzc0txa3F1cGhGZUtVWjM1cDh1LWpJblFsRTgzZkZDYTh2c2ZZbmNUeW13eWdkQjBFSTlxNWNpR0RjeDBBbktJVlNMZXRKa0RTWnYtZ3dDUndBelBDcl9XTkszOTBrdHAzdlRUdnNpRzc2b1pjUmpQc05NYldmLWRTOVVjTkZRTEx1bVBfWjdhVzJ1UEFCcWNsSEwxTkREUi02UjBPOE14SUZKS3dfWHZ6U1MtWEgzWHdmSGRnTDJGM2o0aXo5bFJCZVU?oc=5",
+      "pestel": [
+        "Environmental"
+      ]
+    },
     {
       "id": "f4c49f010ef4ac",
       "cadence": "weekly",
@@ -14,6 +45,24 @@
       "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
       "source": "openPR.com",
       "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdTltX2V1ejVzUnpJMmg0Q0tnZDc5THZrS0dIdDNyaTdhbjlOMTVVSEhsWjdHRlNDN1h2UDA5czVXYU9yUVFCTHdmYUFFWFpVX2lYY2ZZMldobEt3MXc1UjVUeFo2QVhVVG1ZSVM3TUdaRzA1c0l0R1NYMmJOeDRVWFFrcHo0SDRFTDdmS2E4b251OGtmcUgycWxOVzQwdw?oc=5",
+      "pestel": [
+        "Economic",
+        "Environmental"
+      ]
+    },
+    {
+      "id": "03aa722aec05f7",
+      "cadence": "weekly",
+      "theme": "pestel",
+      "geography": "India",
+      "sector": "Activated Carbon, Charcoal & Biochar",
+      "date": "Week 40 · 2026",
+      "published_at": "2026-09-30T06:51:40+00:00",
+      "headline": "India’s Activated Carbon Exports Face Pressure",
+      "summary": "This development affects the activated carbon, charcoal & biochar value chain. Open the original report for transaction details, timing and named counterparties.",
+      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
+      "source": "Chemical Industry Digest",
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOY3FwajBwZnNyd1FaX0hEeUY4M2lZZTFSOVBjYWhIRC1lcmVsVnhnYmFueUFsS0t5ZGZSelJtT0JidkxfbDRWOC1aUXZ4OUVzUWU4R29IamR1U2w1UGxCdVNtVkgzRGxNV2dQZEwxOTYwNVI4bW1DdXhGSXdCa3ZTT01PQmdRaGZLWDBBVHJlY0k5MjlZdUlIRTVn?oc=5",
       "pestel": [
         "Economic",
         "Environmental"
@@ -61,7 +110,7 @@
       "headline": "Canada Develops Article 6 Framework to Expand International Carbon Markets",
       "summary": "This development affects the carbon credits & nursery plantations value chain. Open the original report for transaction details, timing and named counterparties.",
       "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
-      "source": "ESG News",
+      "source": "esgnews.com",
       "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSjdNYmVSZ29UOUdrUWpmanVLQlVoQkpNdGY0MF82SFZvOEZwaEVEMmtzc3Bmd2NRWEh0b2ZfX0dfam5jSjNVNkRvRnBhN3JTcDlUaWZiZUFCYXRBVHp0eElfUEVnemZTcHRlNDY3S0F2MlB4anpBdGYxVFBpWDhvbm5rMllCZ1RTR3BCRjNKbG1xNnBUM00ya21EZw?oc=5",
       "pestel": [
         "Economic",
@@ -69,7 +118,7 @@
       ]
     },
     {
-      "id": "989113c46bdb58",
+      "id": "016108ca1d8945",
       "cadence": "weekly",
       "theme": "pestel",
       "geography": "India",
@@ -80,7 +129,7 @@
       "summary": "This development affects the activated carbon, charcoal & biochar value chain. Open the original report for transaction details, timing and named counterparties.",
       "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
       "source": "BusinessLine",
-      "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOa3lJRkZrVGVBajF2bW5FZEhvWGltVXZidHNfdkl4SXhJVFNDUFhPVlZ0a0NFZGo2aU9ReG16aXY4YjFTUk9pNGVuZnVMZ0lZV29fVkRfdFNmd3NZS3FvN0hlNmJVajVHLVZWYi1YbzZqekRaR0lud3JPWlRWOWt1cVBwYjJpVzdMVmhZWVJ3YkR2ZlQwZnl2MF9FRUVqNHhCRzloNER3elF0bHhJeGFHUkgtLUVVSGxoRHBUeUllWUIyWDYyLTNRQ2NXTjRYakkwcDUzeGlEZE1Cd9IB2gFBVV95cUxOa3lJRkZrVGVBajF2bW5FZEhvWGltVXZidHNfdkl4SXhJVFNDUFhPVlZ0a0NFZGo2aU9ReG16aXY4YjFTUk9pNGVuZnVMZ0lZV29fVkRfdFNmd3NZS3FvN0hlNmJVajVHLVZWYi1YbzZqekRaR0lud3JPWlRWOWt1cVBwYjJpVzdMVmhZWVJ3YkR2ZlQwZnl2MF9FRUVqNHhCRzloNER3elF0bHhJeGFHUkgtLUVVSGxoRHBUeUllWUIyWDYyLTNRQ2NXTjRYakkwcDUzeGlEZE1Cdw?oc=5",
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQb0UzWXBYbXdQV1c0VktZZ3VwWVBYbE9PQzdJaVhNdjZVa0VqMUtUcEhFQTdwSjJQekRKMk5PTi1QY0dNaGpVMnZGQVMzVThZUmZJSHkxOHFHd3R5dmtSUFpsRFhYZDJmQWlNbTFIZHF3OU5RV1pLR1BmOWxLVEJCMTU4ZzZYcDd5Sk43MXVEcl8tM0Jhc29vUmRRN0NPSV93OUxVQnp5OHpKRHQwRmtYMC1qVjBaUHl5LTAyT0JlZ1ZZQ0d0a21xOE0zamZsUzhlQkdZ0gHaAUFVX3lxTE5reUlGRmtUZUFqMXZtbkVkSG9YaW1VdmJ0c192SXhJeElUU0NQWE9WVnRrQ0VkajZpT1F4bXppdjhiMVNST2k0ZW5mdUxnSVlXb19WRF90U2Z3c1lLcW83SGU2YlVqNUctVlZiLVhvNmp6RFpHSW53ck9aVFY5a3VxUHBiMmlXN0xWaFlZUndiRHZmVDBmeXYwX0VFRWo0eEJHOWg0RHd6UXRseEl4YUdSSC0tRVVIbGhEcFR5SWVZQjJYNjItM1FDY1dONFhqSTBwNTN4aURkTUJ3?oc=5",
       "pestel": [
         "Economic",
         "Environmental"
@@ -156,8 +205,26 @@
       "headline": "Aucamp urges faster agricultural master plan rollout and more private investment",
       "summary": "This development affects the agri-products & agro-processing value chain. Open the original report for transaction details, timing and named counterparties.",
       "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
-      "source": "Business Day",
+      "source": "businessday.co.za",
       "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVUl6bFA3d1B1ME5jUHNhbVU1VGlVTkZPMnJvQklzSnpZT2VuT2xIMlpZaS1xZ0hoblljajJKUTVQN0dkaERZVjZ6dDJNaTh1SEh0S1huLVdsMEQzUzlsS3NuZnEwcjR2b3ktU1FSV3NqUTdZZ3hxeW1rVXpKLWRkVzJaQUx3Und5UTRJcXFYcWFDbVp4WEIzcVZTeGpDN1Jrb0s5RA?oc=5"
+    },
+    {
+      "id": "864705f7953e14",
+      "cadence": "weekly",
+      "theme": "pestel",
+      "geography": "Rest of World",
+      "sector": "Carbon Credits & Nursery Plantations",
+      "date": "Week 39 · 2026",
+      "published_at": "2026-09-24T18:06:46+00:00",
+      "headline": "Canada Opens Door To International Carbon Markets In Push To Build Carbon Removal Industry",
+      "summary": "This development affects the carbon credits & nursery plantations value chain. Open the original report for transaction details, timing and named counterparties.",
+      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
+      "source": "Carbon Herald",
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQS1GeDROS3Y5VDZXMGpic2pXOGdGQnhmRDhxWlFwQ2NzTEVNUVR0VVZUbFNqdWY0M2Uxc1VXTkNfYTJfNGpOWnN0TXljTk12dUlFX2hBQnlYeHI0bTdhNzA4WDVoZzFHTXdSbzE2bTY0bDJBZkxVTTMxZjAydjVwUmtlcDI3XzU5SEYwQ1dOdEhERV9mVG1fZG4xVnVPOTBLT2RfcUdqUmF4TUdjV0l3LXV3eWwxbmc?oc=5",
+      "pestel": [
+        "Economic",
+        "Environmental"
+      ]
     },
     {
       "id": "1e75f9cb303b81",
