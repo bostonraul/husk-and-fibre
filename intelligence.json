@@ -1,6 +1,58 @@
 {
-  "generated_at": "2026-10-02T09:44:47+00:00",
+  "generated_at": "2026-10-03T09:08:19+00:00",
   "reports": [
+    {
+      "id": "a95fbfd69b5a9f",
+      "cadence": "daily",
+      "theme": "capital",
+      "geography": "Rest of World",
+      "sector": "Agri-Products & Agro-Processing",
+      "date": "03 Oct 2026",
+      "published_at": "2026-10-03T00:44:21+00:00",
+      "headline": "Caribbean Export to pitch three agro-processing projects to investors at CIF 2026",
+      "summary": "This development affects the agri-products & agro-processing value chain. Open the original report for transaction details, timing and named counterparties.",
+      "signal": "Compare the funding structure with project maturity, contracted demand and expected cash-flow timing.",
+      "source": "Jamaica Observer",
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOM0t0ZmhmS01wX21HNFBiZDRnVVgyNjBfZk9iZzlZaWxVZEdubWNfM2lMYzNnOHkyU2NmemdpUV9nNFlvekRfR1hVMTM4MGg5Q3EweG00M1RkVnprcmg0bVd6MG1EVEtqRG9LZC0tX3ZqLUlnamR3b3VSVUNFdWRYZEFiOW94bm1sbkNrWDhpUUN1dGtpMVVVUXpaLTJoMFd5REV4YmFTdnF0QWJ0R09vYnZJZ1JRWHM?oc=5",
+      "pestel": [
+        "Economic"
+      ]
+    },
+    {
+      "id": "4d05cc45bc70c0",
+      "cadence": "weekly",
+      "theme": "pestel",
+      "geography": "Rest of World",
+      "sector": "Carbon Credits & Nursery Plantations",
+      "date": "Week 40 · 2026",
+      "published_at": "2026-10-02T17:28:44+00:00",
+      "headline": "How Canada’s New ITMO Framework Could Unlock International Carbon Markets",
+      "summary": "This development affects the carbon credits & nursery plantations value chain. Open the original report for transaction details, timing and named counterparties.",
+      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
+      "source": "CarbonCredits.com",
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYzVQMG9NRkpLdDFtVUhaa1JsLV94eDhXaFZZcnZjOTQ1N3EtbVlDaDBGSkdjQWlBc0FsOFdYbjVCYjJ6d2QtSnRZc2dYQzY5RTlwR3pUTnN0Y1FkakUwMFpvM1FFYVMyOElpQTEyX2ZqZ21zcUVONklMTUQybVJLR3h3Z1lVSDJyTkRqOTFCSloxM2w2RWpzcXZ2cHd3MTYz?oc=5",
+      "pestel": [
+        "Economic",
+        "Environmental"
+      ]
+    },
+    {
+      "id": "7e2aea84f72cf0",
+      "cadence": "daily",
+      "theme": "innovation",
+      "geography": "Uganda",
+      "sector": "Agri-Products & Agro-Processing",
+      "date": "02 Oct 2026",
+      "published_at": "2026-10-02T12:11:11+00:00",
+      "headline": "Uganda’s Investment Push Opens Door for North Dakota Agriculture, Technology Firms",
+      "summary": "This development affects the agri-products & agro-processing value chain. Open the original report for transaction details, timing and named counterparties.",
+      "signal": "Assess field performance, unit economics and the route from pilot deployment to repeatable commercial scale.",
+      "source": "Nilepost",
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdXlTbzNTNDloaWF5ZW9YVWt3Tm9tdW1Qa2l4bmV1b2pWWFVJSTdObXFkblZiUGRtRHFPbDdsdVQzb3pCVXJkSEFwREstYjlnVXV5S3pCNGtZTEVZaG0yU0ZaYXFmVGhlMGVPTnBHOGxMX3pnSTlmTUFKTGdmdVlKb1YyN1NRcExIenRQN0JTOHduaC1zSGZUVzdYNS1WaWUxdkg1cGdvVVBRSHNZdVhQbzRKa01RZ01pQ05SdEJn0gHGAUFVX3lxTE55VHV2bnA2N19CMFBVR05od2Q4bUl4RzI1T3VUWWZWT3VVeE5ELW9zQ0hoaDlGY1BBRmtUeHAzaXRqbG83eWs1Ung4Q3V3SlVQTVJIS283dHNreUp5ZVlDcmF0VHZjREJ2S1JHTV91MFZGNEZGUFFzMWFTck5NTFR2YVdVbmdGM3dUM1phckhJcmQ5al9mRVBBeFpFeFhFMEdVWDRtTElwLW1hTUdCLXI5b0djWWlKMlhXRVZqeVFnYlNUOF9aQQ?oc=5",
+      "pestel": [
+        "Technological"
+      ]
+    },
     {
       "id": "8258e056efa3ec",
       "cadence": "weekly",
@@ -29,7 +81,7 @@
       "headline": "Madakasira meet launches innovative mulberry biochar project",
       "summary": "This development affects the activated carbon, charcoal & biochar value chain. Open the original report for transaction details, timing and named counterparties.",
       "signal": "Assess field performance, unit economics and the route from pilot deployment to repeatable commercial scale.",
-      "source": "thehansindia.com",
+      "source": "The Hans India",
       "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPb1k5WUZsY0tHREwzZDhfMXVqRWprRF9aanJoaXhPeDNkRXNlTUZFcEt1T1NBM3dKVDNoV0ZKOHN0M29JMUlBbklUUEc2bkRLVFNvbTdPdWszeGtndnplSWNPd2x4ZjRtMlJpWDQtUEVuRjRwSzh1Q1NrNGdfXy1YeDJuZjRvOEJwaWVOWGdlcl9iSGltdnBpbTNfS2tNN1o4QjhuMTd1azZCTnhuYXZ0dVdvN0JiYm9z?oc=5"
     },
     {
@@ -145,12 +197,26 @@
       "headline": "Indian activated carbon industry faces global price pressure",
       "summary": "This development affects the activated carbon, charcoal & biochar value chain. Open the original report for transaction details, timing and named counterparties.",
       "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
-      "source": "thehindubusinessline.com",
+      "source": "BusinessLine",
       "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQb0UzWXBYbXdQV1c0VktZZ3VwWVBYbE9PQzdJaVhNdjZVa0VqMUtUcEhFQTdwSjJQekRKMk5PTi1QY0dNaGpVMnZGQVMzVThZUmZJSHkxOHFHd3R5dmtSUFpsRFhYZDJmQWlNbTFIZHF3OU5RV1pLR1BmOWxLVEJCMTU4ZzZYcDd5Sk43MXVEcl8tM0Jhc29vUmRRN0NPSV93OUxVQnp5OHpKRHQwRmtYMC1qVjBaUHl5LTAyT0JlZ1ZZQ0d0a21xOE0zamZsUzhlQkdZ0gHaAUFVX3lxTE5reUlGRmtUZUFqMXZtbkVkSG9YaW1VdmJ0c192SXhJeElUU0NQWE9WVnRrQ0VkajZpT1F4bXppdjhiMVNST2k0ZW5mdUxnSVlXb19WRF90U2Z3c1lLcW83SGU2YlVqNUctVlZiLVhvNmp6RFpHSW53ck9aVFY5a3VxUHBiMmlXN0xWaFlZUndiRHZmVDBmeXYwX0VFRWo0eEJHOWg0RHd6UXRseEl4YUdSSC0tRVVIbGhEcFR5SWVZQjJYNjItM1FDY1dONFhqSTBwNTN4aURkTUJ3?oc=5",
       "pestel": [
         "Economic",
         "Environmental"
       ]
+    },
+    {
+      "id": "995d48e76b0c48",
+      "cadence": "daily",
+      "theme": "innovation",
+      "geography": "Rest of World",
+      "sector": "Agri-Products & Agro-Processing",
+      "date": "27 Sep 2026",
+      "published_at": "2026-09-27T07:00:00+00:00",
+      "headline": "Senegalese Football Star Sadio Mané Launches $20 Million Agro-Processing Project in Bambali",
+      "summary": "This development affects the agri-products & agro-processing value chain. Open the original report for transaction details, timing and named counterparties.",
+      "signal": "Assess field performance, unit economics and the route from pilot deployment to repeatable commercial scale.",
+      "source": "Bantu Gazette",
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQN28talR3UzJxMy1vdlo4MWJCNXQxQ2pjY2VJUmhEZDctSWZFdzZfcUZ2TVpXUnpiX1BqZmhEdUxhZDlwRHJOcDJEOFhaT1QtYlUtRGdLRHJVbVRqT1ZFdTRJVUNqVXllZjM2X0hJYmJSQ1FVTFlrSjhHcFhaUkNMR0NrbWltel9EQ3JxM2F4eXpOVWhUMkJnQVNWbFJMaXBIWmxXMHBKaUFlVFVpTnlKTVBFODlHUkU?oc=5"
     },
     {
       "id": "0ef5f8e2f5916a",
@@ -196,20 +262,6 @@
       "pestel": [
         "Environmental"
       ]
-    },
-    {
-      "id": "995d48e76b0c48",
-      "cadence": "daily",
-      "theme": "innovation",
-      "geography": "Rest of World",
-      "sector": "Agri-Products & Agro-Processing",
-      "date": "25 Sep 2026",
-      "published_at": "2026-09-25T07:39:28+00:00",
-      "headline": "Senegalese Football Star Sadio Mané Launches $20 Million Agro-Processing Project in Bambali",
-      "summary": "This development affects the agri-products & agro-processing value chain. Open the original report for transaction details, timing and named counterparties.",
-      "signal": "Assess field performance, unit economics and the route from pilot deployment to repeatable commercial scale.",
-      "source": "Bantu Gazette",
-      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQN28talR3UzJxMy1vdlo4MWJCNXQxQ2pjY2VJUmhEZDctSWZFdzZfcUZ2TVpXUnpiX1BqZmhEdUxhZDlwRHJOcDJEOFhaT1QtYlUtRGdLRHJVbVRqT1ZFdTRJVUNqVXllZjM2X0hJYmJSQ1FVTFlrSjhHcFhaUkNMR0NrbWltel9EQ3JxM2F4eXpOVWhUMkJnQVNWbFJMaXBIWmxXMHBKaUFlVFVpTnlKTVBFODlHUkU?oc=5"
     },
     {
       "id": "3b253eca8cdb8e",
