@@ -1,6 +1,71 @@
 {
-  "generated_at": "2026-10-06T10:16:36+00:00",
+  "generated_at": "2026-10-07T10:14:41+00:00",
   "reports": [
+    {
+      "id": "e537d813d11230",
+      "cadence": "weekly",
+      "theme": "pestel",
+      "geography": "Rest of World",
+      "sector": "Biologicals & Microbial Crop Inputs",
+      "date": "Week 41 · 2026",
+      "published_at": "2026-10-07T08:00:15+00:00",
+      "headline": "Agricultural Biologicals Market Enters New Expansion Phase as",
+      "summary": "This development affects the biologicals & microbial crop inputs value chain. Open the original report for transaction details, timing and named counterparties.",
+      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
+      "source": "openPR.com",
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOd2NfREM1am1yYUowY1l2QzVxOXBKMzlqTmxBQ093VVB0NGNPM3VwZGowQWZfajdGNlBFMGVTdDBQdTlXd1lZVXdRYVY2MWt4bjNVMW9nbmV2eS02SzVMeExYblRTbjdxVjBYSUpOUS12Z2VGQUEwZlhQMGhfanYyeDgzUEVQVV8xMS1EYXltc05OOEYzR3lNTVVJLVd6QQ?oc=5",
+      "pestel": [
+        "Economic"
+      ]
+    },
+    {
+      "id": "1697f09e8aeec2",
+      "cadence": "weekly",
+      "theme": "pestel",
+      "geography": "Rest of World",
+      "sector": "Agri-Products & Agro-Processing",
+      "date": "Week 41 · 2026",
+      "published_at": "2026-10-06T12:32:41+00:00",
+      "headline": "Sunday Ephraim Ezeobiora: Champion of agricultural investment",
+      "summary": "This development affects the agri-products & agro-processing value chain. Open the original report for transaction details, timing and named counterparties.",
+      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
+      "source": "The Sun Nigeria",
+      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQX3ZVU3BuaHUyQ05KZEh3UkNaaTdya3ZjaGhSR2R5X2h6eV9IemNZZmpsNFhSVS1lRHV2RnpUcm4ybnRTbUczNUYxZW5vcm1hcGJlVjNzQ1ZITWQ3VlFSRkwwYUVrMUl2bFhaUEVIRkNqYXFmaHAtcF9RMjRZV0ZXMkViOVQyUQ?oc=5"
+    },
+    {
+      "id": "7958366a56c9e4",
+      "cadence": "weekly",
+      "theme": "pestel",
+      "geography": "Rest of World",
+      "sector": "Activated Carbon, Charcoal & Biochar",
+      "date": "Week 41 · 2026",
+      "published_at": "2026-10-06T12:27:23+00:00",
+      "headline": "Elridge Energy invests RM45m to venture into activated carbon business",
+      "summary": "This development affects the activated carbon, charcoal & biochar value chain. Open the original report for transaction details, timing and named counterparties.",
+      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
+      "source": "The Edge Malaysia",
+      "source_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1QaFM3TTVFQ2RCa2d5dWNPMHB2aC1HN1lJNC1aRzIzdEtucVdIcU9UNTJDb1N2SVlvRTQ1WDU0WFQxZlNGdFlmSlNmR2ZsRGxF?oc=5",
+      "pestel": [
+        "Environmental"
+      ]
+    },
+    {
+      "id": "08cd1976aeeec2",
+      "cadence": "weekly",
+      "theme": "pestel",
+      "geography": "Rest of World",
+      "sector": "Activated Carbon, Charcoal & Biochar",
+      "date": "Week 41 · 2026",
+      "published_at": "2026-10-06T10:50:50+00:00",
+      "headline": "Elridge To Invest RM45 Million On Maiden Activated Carbon Business",
+      "summary": "This development affects the activated carbon, charcoal & biochar value chain. Open the original report for transaction details, timing and named counterparties.",
+      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
+      "source": "BusinessToday Malaysia",
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWXA4N0ZqVnJxTFEyNmJyNmxUVzVQSTh3aFdWVkxlUU90a0JES1hnRW1tbmhfRGg5aFBXT25hM2hYU3VLeGdtakphejNOcC05WHBZZVdzVlYwQWxuMmV3UVVKa2pBcWx2YzNyampsRzU0andzd294eWlrWFhLaUVubFliUVFyNl9vcTRsaGNDLTF5dnp3TUJKOXlzMGJMaHJjY3dDallwUHZxcHdYS1VwMA?oc=5",
+      "pestel": [
+        "Environmental"
+      ]
+    },
     {
       "id": "6d6a85cf89435c",
       "cadence": "daily",
@@ -87,20 +152,6 @@
       "pestel": [
         "Environmental"
       ]
-    },
-    {
-      "id": "5221fa281f162c",
-      "cadence": "daily",
-      "theme": "innovation",
-      "geography": "India",
-      "sector": "Activated Carbon, Charcoal & Biochar",
-      "date": "30 Sep 2026",
-      "published_at": "2026-09-30T22:16:12+00:00",
-      "headline": "Madakasira meet launches innovative mulberry biochar project",
-      "summary": "This development affects the activated carbon, charcoal & biochar value chain. Open the original report for transaction details, timing and named counterparties.",
-      "signal": "Assess field performance, unit economics and the route from pilot deployment to repeatable commercial scale.",
-      "source": "The Hans India",
-      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPb1k5WUZsY0tHREwzZDhfMXVqRWprRF9aanJoaXhPeDNkRXNlTUZFcEt1T1NBM3dKVDNoV0ZKOHN0M29JMUlBbklUUEc2bkRLVFNvbTdPdWszeGtndnplSWNPd2x4ZjRtMlJpWDQtUEVuRjRwSzh1Q1NrNGdfXy1YeDJuZjRvOEJwaWVOWGdlcl9iSGltdnBpbTNfS2tNN1o4QjhuMTd1azZCTnhuYXZ0dVdvN0JiYm9z?oc=5"
     },
     {
       "id": "bc5c76a37285b3",
