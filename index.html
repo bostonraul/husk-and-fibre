@@ -102,12 +102,38 @@
   .view-toggle button + button{border-left:1.5px solid var(--ink);}
   .view-toggle button.active{background:var(--ink);color:var(--paper);}
 
+  .material-bar{
+    display:grid;
+    grid-template-columns:auto minmax(0,1fr);
+    align-items:center;
+    gap:16px;
+    margin:0 0 30px;
+  }
+  .material-bar-kicker{
+    color:var(--ink-soft);
+    font:500 .64rem/1 'DM Mono',monospace;
+    letter-spacing:.08em;
+    text-transform:uppercase;
+  }
+  .filters-track{position:relative;min-width:0;}
+  .filters-track::after{
+    content:"";position:absolute;right:0;top:0;bottom:0;width:40px;
+    pointer-events:none;background:linear-gradient(90deg,transparent,var(--paper));
+  }
   .filters{
     display:flex;
-    gap:8px;
-    flex-wrap:wrap;
+    gap:6px;
+    overflow-x:auto;
+    overscroll-behavior-x:contain;
+    scrollbar-width:none;
+    padding:2px 36px 2px 0;
   }
+  .filters::-webkit-scrollbar{display:none;}
   .filter-chip{
+    flex:none;
+    display:inline-flex;
+    align-items:center;
+    gap:7px;
     font-size:0.8rem;
     padding:7px 14px;
     border:1px solid var(--line);
@@ -116,11 +142,17 @@
     color:var(--ink-soft);
     white-space:nowrap;
   }
+  .filter-chip em{
+    font:400 .62rem/1 'DM Mono',monospace;
+    font-style:normal;
+    opacity:.58;
+  }
   .filter-chip.active{
     border-color:var(--forest);
     background:var(--forest);
     color:var(--white);
   }
+  .filter-chip.active em{opacity:.85;}
 
   main{max-width:1180px;margin:0 auto;padding:28px 32px 80px;}
 
@@ -394,14 +426,16 @@
     font-size:.78rem;transition:.2s ease;
   }
   .view-toggle button.active{background:var(--forest);color:var(--white);box-shadow:0 4px 12px rgba(16,44,29,.18);}
-  .filters{flex:1;justify-content:flex-end;}
+  .material-bar{
+    padding:10px 12px 10px 16px;border:1px solid var(--line);border-radius:16px;
+    background:rgba(255,254,249,.62);
+  }
   .filter-chip{
-    padding:7px 12px;border:0;border-radius:999px;background:transparent;
+    padding:8px 13px;border:0;border-radius:999px;background:transparent;
     font-size:.75rem;transition:background .15s,color .15s;
   }
   .filter-chip:hover{background:var(--paper-deep);color:var(--ink);}
   .filter-chip.active{background:var(--ochre);color:var(--ink);}
-  .newsletter-mode .filters{visibility:hidden;}
 
   main{padding-top:38px;}
   .utility-row{
@@ -504,7 +538,6 @@
   /* ---------- GLOBAL INTELLIGENCE ---------- */
   .intelligence-wrap{display:none;}
   .intelligence-wrap.active{display:block;}
-  .intelligence-mode .filters{visibility:hidden;}
   .intel-header{
     display:grid;grid-template-columns:minmax(0,1fr) auto;gap:28px;align-items:end;
     padding:34px 38px;border-radius:22px;background:var(--forest-deep);color:var(--white);
@@ -623,8 +656,9 @@
     .brand .tagline{display:none;}
     .masthead-meta{padding:7px 10px;}
     #story-total-label{display:none;}
-    .control-bar{padding:10px 20px;overflow-x:auto;flex-wrap:nowrap;}
-    .filters{justify-content:flex-start;flex-wrap:nowrap;}
+    .control-bar{padding:10px 20px;}
+    .material-bar{grid-template-columns:1fr;gap:10px;padding:12px;}
+    .material-bar-kicker{padding-left:4px;}
     main{padding:24px 20px 60px;}
     .featured{grid-template-columns:1fr;}
     .featured-media{min-height:0;height:320px;}
@@ -719,11 +753,16 @@
     <button id="btn-newsletter" aria-pressed="false">Digest</button>
     <button id="btn-intelligence" aria-pressed="false">News &amp; Intelligence</button>
   </div>
-  <div class="filters" id="filters" aria-label="Filter by material"></div>
 </div>
 
 <main id="main-content">
   <div class="dashboard-wrap" id="dashboard-wrap">
+    <div class="material-bar">
+      <span class="material-bar-kicker">Materials</span>
+      <div class="filters-track">
+        <div class="filters" id="filters" role="toolbar" aria-label="Filter by material"></div>
+      </div>
+    </div>
     <section id="featured-slot"></section>
     <div class="utility-row">
       <div class="feed-title-wrap">
@@ -898,11 +937,32 @@ function potentialDots(score){
   return out;
 }
 
+const MATERIAL_LABELS = {
+  "All": "All",
+  "Grass / Straw": "Straw",
+  "Palm / Grass": "Palm & grass",
+  "Policy / Cross-material": "Policy",
+  "Palm (Areca)": "Areca"
+};
+
+function materialLabel(name){
+  return MATERIAL_LABELS[name] || name;
+}
+
 function renderFilters(){
-  const materials = ["All", ...new Set(DATA.stories.map(s=>s.material))];
+  const counts = DATA.stories.reduce((acc, story)=>{
+    acc[story.material] = (acc[story.material] || 0) + 1;
+    return acc;
+  }, {});
+  const materials = Object.keys(counts).sort((a,b)=>counts[b]-counts[a] || a.localeCompare(b));
   const wrap = document.getElementById('filters');
-  wrap.innerHTML = materials.map(m =>
-    `<button class="filter-chip ${m===activeFilter?'active':''}" data-mat="${escapeHTML(m)}" aria-pressed="${m===activeFilter}">${escapeHTML(m)}</button>`
+  wrap.innerHTML = [
+    {name:"All", count:DATA.stories.length},
+    ...materials.map(name => ({name, count:counts[name]}))
+  ].map(({name, count}) =>
+    `<button class="filter-chip ${name===activeFilter?'active':''}" data-mat="${escapeHTML(name)}" aria-pressed="${name===activeFilter}">
+      ${escapeHTML(materialLabel(name))}<em>${count}</em>
+    </button>`
   ).join('');
   wrap.querySelectorAll('.filter-chip').forEach(btn=>{
     btn.addEventListener('click', ()=>{ activeFilter = btn.dataset.mat; renderDashboard(); renderFilters(); });
