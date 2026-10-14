@@ -558,7 +558,7 @@
   .intel-theme-chip.active{border-color:var(--forest);background:var(--forest);color:var(--white);}
   .intel-result-count{flex:none;color:var(--ink-soft);font:400 .67rem/1 'DM Mono',monospace;}
   .intel-sectors{
-    display:grid;grid-template-columns:repeat(4,1fr);gap:10px;margin:20px 0 38px;
+    display:grid;grid-template-columns:repeat(auto-fit,minmax(190px,1fr));gap:10px;margin:20px 0 38px;
   }
   .sector-pill{
     display:flex;align-items:center;gap:10px;min-height:58px;padding:10px 13px;
@@ -790,6 +790,7 @@
       <div class="sector-pill"><span>BI</span>Biologicals &amp; Microbial Crop Inputs</div>
       <div class="sector-pill"><span>AP</span>Agri-Products &amp; Agro-Processing</div>
       <div class="sector-pill"><span>CC</span>Carbon Credits &amp; Nursery Plantations</div>
+      <div class="sector-pill"><span>RF</span>Regenerative Farming &amp; Soil Health</div>
     </div>
 
     <div class="intel-layout">

@@ -29,15 +29,18 @@ SEARCHES = [
     ("India", "Biologicals & Microbial Crop Inputs", "\"agricultural biologicals\" India"),
     ("India", "Agri-Products & Agro-Processing", "\"agro processing\" India investment"),
     ("India", "Carbon Credits & Nursery Plantations", "\"carbon credits\" India agriculture"),
+    ("India", "Regenerative Farming & Soil Health", "\"regenerative agriculture\" India soil"),
     ("Uganda", "Activated Carbon, Charcoal & Biochar", "biochar Uganda"),
     ("Uganda", "Agri-Products & Agro-Processing", "\"agro processing\" Uganda investment"),
     ("Uganda", "Agri-Products & Agro-Processing", "\"agriculture technology\" Uganda"),
     ("Uganda", "Carbon Credits & Nursery Plantations", "\"carbon credits\" Uganda forestry"),
+    ("Uganda", "Regenerative Farming & Soil Health", "\"regenerative agriculture\" Uganda"),
     ("Rest of World", "Activated Carbon, Charcoal & Biochar", "biochar market acquisition"),
     ("Rest of World", "Activated Carbon, Charcoal & Biochar", "\"activated carbon\" investment"),
     ("Rest of World", "Biologicals & Microbial Crop Inputs", "\"agricultural biologicals\" funding acquisition"),
     ("Rest of World", "Agri-Products & Agro-Processing", "\"agro processing\" investment"),
     ("Rest of World", "Carbon Credits & Nursery Plantations", "\"carbon removal\" forestry investment"),
+    ("Rest of World", "Regenerative Farming & Soil Health", "\"regenerative agriculture\" investment policy"),
 ]
 
 SECTOR_KEYWORDS = {
@@ -58,6 +61,12 @@ SECTOR_KEYWORDS = {
     "Carbon Credits & Nursery Plantations": [
         "carbon credit", "carbon market", "carbon removal", "afforestation",
         "reforestation", "nursery", "plantation", "tree planting", "nature-based",
+    ],
+    "Regenerative Farming & Soil Health": [
+        "regenerative agriculture", "regenerative farming", "regenerative farmland",
+        "regenerative food", "soil health",
+        "soil carbon", "cover crop", "cover cropping", "no-till", "no till",
+        "conservation agriculture", "agroecology", "agroforestry",
     ],
 }
 
@@ -95,6 +104,13 @@ BUSINESS_TERMS = [
     "policy", "regulation", "partnership", "acquisition", "technology",
     "innovat", "financ", "entrepreneur",
 ]
+
+INDIA_TERMS = [
+    "india", "indian", "rajasthan", "punjab", "haryana", "maharashtra",
+    "karnataka", "kerala", "tamil nadu", "uttar pradesh", "madhya pradesh",
+]
+
+UGANDA_TERMS = ["uganda", "ugandan", "kampala", "kayunga", "jinja", "gulu"]
 
 SIGNALS = {
     "regulatory": "Review eligibility, compliance timelines and incentive access before committing capital.",
@@ -203,9 +219,13 @@ def fetch_newsapi() -> list[dict]:
 
 def classify_sector(text: str) -> str | None:
     lowered = text.lower()
+    regenerative = "Regenerative Farming & Soil Health"
+    if any(keyword in lowered for keyword in SECTOR_KEYWORDS[regenerative]):
+        return regenerative
     scores = {
         sector: sum(keyword in lowered for keyword in keywords)
         for sector, keywords in SECTOR_KEYWORDS.items()
+        if sector != regenerative
     }
     sector, score = max(scores.items(), key=lambda item: item[1])
     return sector if score else None
@@ -223,9 +243,9 @@ def classify_theme(text: str) -> str:
 
 def classify_geography(text: str, hint: str) -> str:
     lowered = text.lower()
-    if any(term in lowered for term in ["uganda", "kampala", "ugandan"]):
+    if any(term in lowered for term in UGANDA_TERMS):
         return "Uganda"
-    if any(term in lowered for term in ["india", "indian", "delhi", "mumbai", "bengaluru"]):
+    if any(term in lowered for term in INDIA_TERMS):
         return "India"
     return hint
 
@@ -260,10 +280,14 @@ def to_report(candidate: dict) -> dict | None:
     text = f"{candidate['headline']} {candidate['summary']}"
     lowered = text.lower()
     hint = candidate["geography_hint"]
-    if hint == "India" and not any(term in lowered for term in ["india", "indian"]):
+    if hint == "India" and not any(term in lowered for term in INDIA_TERMS):
+        return None
+    if hint == "Uganda" and not any(term in lowered for term in UGANDA_TERMS):
         return None
     sector = classify_sector(text)
-    if not sector or relevance_score(text) < 1:
+    if not sector:
+        return None
+    if sector != "Regenerative Farming & Soil Health" and relevance_score(text) < 1:
         return None
     theme = classify_theme(text)
     published = parse_date(candidate["published"])
@@ -309,7 +333,9 @@ def load_existing() -> list[dict]:
 def existing_report_is_relevant(report: dict) -> bool:
     text = report.get("headline", "").lower()
     geography = report.get("geography")
-    if geography == "India" and not any(term in text for term in ["india", "indian"]):
+    if geography == "India" and not any(term in text for term in INDIA_TERMS):
+        return False
+    if geography == "Uganda" and not any(term in text for term in UGANDA_TERMS):
         return False
     return classify_sector(text) is not None
 
