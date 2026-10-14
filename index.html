@@ -563,8 +563,13 @@
   .sector-pill{
     display:flex;align-items:center;gap:10px;min-height:58px;padding:10px 13px;
     border:1px solid var(--line);border-radius:12px;background:rgba(255,254,249,.5);
-    color:var(--ink-soft);font-size:.7rem;line-height:1.25;
+    color:var(--ink-soft);font:inherit;font-size:.7rem;line-height:1.25;text-align:left;
+    cursor:pointer;transition:border-color .18s,background .18s,color .18s,transform .18s;
   }
+  .sector-pill:hover{border-color:var(--forest);color:var(--forest);transform:translateY(-1px);}
+  .sector-pill:focus-visible{outline:3px solid rgba(255,181,71,.45);outline-offset:2px;}
+  .sector-pill.active{border-color:var(--forest);background:var(--forest);color:var(--white);}
+  .sector-pill.active span{background:var(--ochre);color:var(--ink);}
   .sector-pill span{
     display:grid;place-items:center;flex:none;width:27px;height:27px;border-radius:8px;
     background:#E1E9DD;color:var(--forest);font:500 .65rem/1 'DM Mono',monospace;
@@ -786,11 +791,11 @@
     </div>
 
     <div class="intel-sectors" aria-label="Industry sectors covered">
-      <div class="sector-pill"><span>AC</span>Activated Carbon, Charcoal &amp; Biochar</div>
-      <div class="sector-pill"><span>BI</span>Biologicals &amp; Microbial Crop Inputs</div>
-      <div class="sector-pill"><span>AP</span>Agri-Products &amp; Agro-Processing</div>
-      <div class="sector-pill"><span>CC</span>Carbon Credits &amp; Nursery Plantations</div>
-      <div class="sector-pill"><span>RF</span>Regenerative Farming &amp; Soil Health</div>
+      <button type="button" class="sector-pill" data-sector="Activated Carbon, Charcoal &amp; Biochar" aria-pressed="false"><span>AC</span>Activated Carbon, Charcoal &amp; Biochar</button>
+      <button type="button" class="sector-pill" data-sector="Biologicals &amp; Microbial Crop Inputs" aria-pressed="false"><span>BI</span>Biologicals &amp; Microbial Crop Inputs</button>
+      <button type="button" class="sector-pill" data-sector="Agri-Products &amp; Agro-Processing" aria-pressed="false"><span>AP</span>Agri-Products &amp; Agro-Processing</button>
+      <button type="button" class="sector-pill" data-sector="Carbon Credits &amp; Nursery Plantations" aria-pressed="false"><span>CC</span>Carbon Credits &amp; Nursery Plantations</button>
+      <button type="button" class="sector-pill" data-sector="Regenerative Farming &amp; Soil Health" aria-pressed="false"><span>RF</span>Regenerative Farming &amp; Soil Health</button>
     </div>
 
     <div class="intel-layout">
@@ -836,6 +841,7 @@ let sortMode = "potential";
 let lastFocusedElement = null;
 let intelligenceTheme = "all";
 let intelligenceGeography = "All";
+let intelligenceSector = "All";
 
 const INTELLIGENCE_THEMES = [
   {id:"all", label:"All themes"},
@@ -1062,7 +1068,8 @@ function renderNewsletter(){
 function filteredIntelligence(){
   return INTELLIGENCE_DATA.filter(item =>
     (intelligenceTheme === "all" || item.theme === intelligenceTheme) &&
-    (intelligenceGeography === "All" || item.geography === intelligenceGeography)
+    (intelligenceGeography === "All" || item.geography === intelligenceGeography) &&
+    (intelligenceSector === "All" || item.sector === intelligenceSector)
   );
 }
 
@@ -1099,6 +1106,11 @@ function renderIntelligence(){
       intelligenceTheme = button.dataset.theme;
       renderIntelligence();
     });
+  });
+  document.querySelectorAll(".sector-pill").forEach(button=>{
+    const active = button.dataset.sector === intelligenceSector;
+    button.classList.toggle("active",active);
+    button.setAttribute("aria-pressed",String(active));
   });
 
   const list = filteredIntelligence();
@@ -1164,6 +1176,12 @@ document.getElementById('btn-intelligence').addEventListener('click', ()=>setVie
 document.getElementById("intel-geography").addEventListener("change",event=>{
   intelligenceGeography = event.target.value;
   renderIntelligence();
+});
+document.querySelectorAll(".sector-pill").forEach(button=>{
+  button.addEventListener("click",()=>{
+    intelligenceSector = intelligenceSector === button.dataset.sector ? "All" : button.dataset.sector;
+    renderIntelligence();
+  });
 });
 document.getElementById("print-intelligence").addEventListener("click",()=>{
   document.body.classList.add("print-intelligence");
