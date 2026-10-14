@@ -3,22 +3,22 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Husk & Fibre — Agro-Material Business Intelligence</title>
+<title>Soul Agri – Husk & Fibre — Agro-Material Business Intelligence</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Instrument+Sans:wght@400;500;600;700&family=Newsreader:opsz,wght@6..72,500;6..72,600&display=swap" rel="stylesheet">
 <style>
   :root{
-    --paper:#EDEAE0;
-    --paper-deep:#E4E0D2;
-    --ink:#20291D;
-    --ink-soft:#4B5142;
-    --forest:#33502F;
-    --forest-deep:#233B22;
-    --ochre:#B4802C;
-    --rust:#8A4630;
-    --line:#C9C2A9;
-    --card:#F5F3EA;
-    --white:#FBFAF5;
+    --paper:#F7EDE6;
+    --paper-deep:#F0D8C8;
+    --ink:#3A2A24;
+    --ink-soft:#7A5C52;
+    --forest:#C96B4F;
+    --forest-deep:#8E4334;
+    --ochre:#E8A07A;
+    --rust:#C45C3E;
+    --line:#E5CABB;
+    --card:#FFF6F0;
+    --white:#FFFBF8;
   }
   *{box-sizing:border-box;}
   html{scroll-behavior:smooth;}
@@ -346,24 +346,25 @@
 
   /* ---------- 2026 EDITORIAL SYSTEM ---------- */
   :root{
-    --paper:#F4F1E8;
-    --paper-deep:#E8E1D2;
-    --ink:#172019;
-    --ink-soft:#596057;
-    --forest:#173F2A;
-    --forest-deep:#102C1D;
-    --ochre:#FFB547;
-    --rust:#B8482D;
-    --line:#CBC5B8;
-    --card:#FAF8F2;
-    --white:#FFFEF9;
-    --shadow:0 24px 70px rgba(16,44,29,.13);
+    --paper:#F7EDE6;
+    --paper-deep:#F0D8C8;
+    --ink:#3A2A24;
+    --ink-soft:#7A5C52;
+    --forest:#C96B4F;
+    --forest-deep:#8E4334;
+    --ochre:#E8A07A;
+    --rust:#C45C3E;
+    --line:#E5CABB;
+    --card:#FFF6F0;
+    --white:#FFFBF8;
+    --shadow:0 24px 70px rgba(142,67,52,.12);
   }
   *{scrollbar-color:var(--forest) var(--paper-deep);}
   body{
     font-family:'Instrument Sans',sans-serif;
     background:
-      radial-gradient(circle at 85% -10%,rgba(255,181,71,.20),transparent 28rem),
+      radial-gradient(circle at 88% -8%,rgba(232,160,122,.34),transparent 28rem),
+      radial-gradient(circle at 6% 0%,rgba(244,201,176,.26),transparent 22rem),
       var(--paper);
     letter-spacing:-.01em;
   }
@@ -385,18 +386,19 @@
 
   .masthead{
     padding:18px 32px 26px;
-    border-bottom:1px solid rgba(23,32,25,.18);
-    background:rgba(244,241,232,.88);
+    border-bottom:1px solid rgba(142,67,52,.12);
+    background:rgba(247,237,230,.9);
     backdrop-filter:blur(14px);
   }
   .masthead-row{align-items:center;}
   .brand{display:flex;align-items:center;gap:18px;}
   .brand-mark{
     display:grid;place-items:center;width:44px;height:44px;
-    border-radius:50%;background:var(--forest);color:var(--ochre);
+    border-radius:50%;background:var(--forest);color:var(--white);
     font-family:'Newsreader',serif;font-size:1.4rem;
   }
-  .brand h1{font-size:2rem;line-height:1;letter-spacing:-.04em;}
+  .brand h1{font-size:1.72rem;line-height:1.08;letter-spacing:-.035em;}
+  .brand .name-rest{font-weight:500;color:var(--ink-soft);}
   .brand .tagline{font-size:.84rem;max-width:560px;}
   .masthead-meta{
     display:flex;align-items:center;gap:10px;text-align:left;
@@ -404,8 +406,8 @@
     background:rgba(255,254,249,.55);
   }
   .masthead-meta::before{
-    content:"";width:7px;height:7px;border-radius:50%;background:#39A55A;
-    box-shadow:0 0 0 4px rgba(57,165,90,.12);
+    content:"";width:7px;height:7px;border-radius:50%;background:#E07A54;
+    box-shadow:0 0 0 4px rgba(224,122,84,.16);
   }
   .masthead-meta .issue-date{
     font-family:'DM Mono',monospace;color:var(--ink);font-size:.68rem;
@@ -415,8 +417,8 @@
   .control-bar{
     position:sticky;top:0;z-index:20;max-width:none;
     padding:12px max(32px,calc((100vw - 1180px)/2 + 32px));
-    background:rgba(244,241,232,.9);backdrop-filter:blur(16px);
-    border-bottom:1px solid rgba(23,32,25,.12);
+    background:rgba(247,237,230,.92);backdrop-filter:blur(16px);
+    border-bottom:1px solid rgba(142,67,52,.1);
     scrollbar-width:none;
   }
   .control-bar::-webkit-scrollbar{display:none;}
@@ -425,7 +427,7 @@
     padding:8px 17px;border:0!important;border-radius:999px;
     font-size:.78rem;transition:.2s ease;
   }
-  .view-toggle button.active{background:var(--forest);color:var(--white);box-shadow:0 4px 12px rgba(16,44,29,.18);}
+  .view-toggle button.active{background:var(--forest);color:var(--white);box-shadow:0 4px 12px rgba(142,67,52,.2);}
   .material-bar{
     padding:10px 12px 10px 16px;border:1px solid var(--line);border-radius:16px;
     background:rgba(255,254,249,.62);
@@ -435,7 +437,7 @@
     font-size:.75rem;transition:background .15s,color .15s;
   }
   .filter-chip:hover{background:var(--paper-deep);color:var(--ink);}
-  .filter-chip.active{background:var(--ochre);color:var(--ink);}
+  .filter-chip.active{background:var(--forest);color:var(--white);}
 
   main{padding-top:38px;}
   .utility-row{
@@ -465,7 +467,7 @@
   .featured-media video,.featured-media img,.featured-media>div{width:100%;height:100%!important;object-fit:cover;}
   .featured-media::after{
     content:"";position:absolute;inset:0;pointer-events:none;
-    background:linear-gradient(90deg,transparent 70%,rgba(16,44,29,.25));
+    background:linear-gradient(90deg,transparent 70%,rgba(142,67,52,.28));
   }
   .featured-copy{padding:40px;justify-content:center;gap:18px;}
   .featured-copy h2{font-size:2.3rem;color:var(--white);line-height:1.02;letter-spacing:-.035em;}
@@ -493,7 +495,7 @@
   .story-row:hover{transform:translateX(5px);}
   .story-row .thumb-wrap{
     border:0;border-radius:14px;background:var(--paper-deep);
-    cursor:pointer;box-shadow:0 8px 24px rgba(16,44,29,.08);
+    cursor:pointer;box-shadow:0 8px 24px rgba(142,67,52,.08);
     display:block;padding:0;width:100%;color:inherit;text-align:inherit;
   }
   .story-row video,.story-row .thumb-wrap img{width:100%;aspect-ratio:4/3;object-fit:cover;}
@@ -514,19 +516,19 @@
   .story-row:hover .story-action{background:var(--forest);color:var(--white);border-color:var(--forest);}
   .empty-state{padding:60px 20px;text-align:center;color:var(--ink-soft);border:1px dashed var(--line);border-radius:16px;}
 
-  .detail-overlay{padding:0;background:rgba(12,22,15,.66);backdrop-filter:blur(8px);}
+  .detail-overlay{padding:0;background:rgba(58,42,36,.62);backdrop-filter:blur(8px);}
   .detail-overlay.open{display:flex;align-items:flex-start;}
   .detail-panel{
     width:min(920px,calc(100% - 32px));margin:24px auto;border:0;border-radius:22px;
     background:var(--paper);box-shadow:0 32px 100px rgba(0,0,0,.35);overflow:hidden;
   }
-  .detail-head{position:sticky;top:0;z-index:2;background:rgba(244,241,232,.92);backdrop-filter:blur(12px);padding:14px 20px;border-color:var(--line);}
+  .detail-head{position:sticky;top:0;z-index:2;background:rgba(247,237,230,.94);backdrop-filter:blur(12px);padding:14px 20px;border-color:var(--line);}
   .close-btn{border:0;border-radius:50%;background:var(--paper-deep);width:36px;height:36px;}
   .detail-body{padding:28px 48px 48px;}
   .detail-body video,.detail-body iframe{border:0!important;border-radius:14px;}
   .detail-body h2{font-size:2.5rem;letter-spacing:-.035em;}
   .detail-grid{border-color:var(--line);gap:24px;}
-  .why-box{border:0;border-radius:12px;background:#E7EDDF;padding:18px 20px;}
+  .why-box{border:0;border-radius:12px;background:#F8E0D2;padding:18px 20px;}
   .source-links a{border-radius:999px;background:var(--card);}
 
   .newsletter-wrap{max-width:760px;}
@@ -544,7 +546,7 @@
     box-shadow:var(--shadow);overflow:hidden;position:relative;
   }
   .intel-header::after{
-    content:"";position:absolute;width:260px;height:260px;border:70px solid rgba(255,181,71,.12);
+    content:"";position:absolute;width:260px;height:260px;border:70px solid rgba(232,160,122,.18);
     border-radius:50%;right:-95px;top:-125px;pointer-events:none;
   }
   .intel-kicker{
@@ -600,12 +602,12 @@
     cursor:pointer;transition:border-color .18s,background .18s,color .18s,transform .18s;
   }
   .sector-pill:hover{border-color:var(--forest);color:var(--forest);transform:translateY(-1px);}
-  .sector-pill:focus-visible{outline:3px solid rgba(255,181,71,.45);outline-offset:2px;}
+  .sector-pill:focus-visible{outline:3px solid rgba(232,160,122,.45);outline-offset:2px;}
   .sector-pill.active{border-color:var(--forest);background:var(--forest);color:var(--white);}
   .sector-pill.active span{background:var(--ochre);color:var(--ink);}
   .sector-pill span{
     display:grid;place-items:center;flex:none;width:27px;height:27px;border-radius:8px;
-    background:#E1E9DD;color:var(--forest);font:500 .65rem/1 'DM Mono',monospace;
+    background:#F5D9C8;color:var(--forest);font:500 .65rem/1 'DM Mono',monospace;
   }
   .intel-layout{display:grid;grid-template-columns:minmax(0,1.12fr) minmax(320px,.88fr);gap:42px;}
   .intel-column-head{display:flex;align-items:end;justify-content:space-between;gap:16px;margin-bottom:4px;}
@@ -620,7 +622,7 @@
   }
   .intel-card-top{display:flex;align-items:center;justify-content:space-between;gap:12px;margin-bottom:11px;}
   .intel-theme-label{
-    padding:5px 8px;border-radius:6px;background:#E1E9DD;color:var(--forest);
+    padding:5px 8px;border-radius:6px;background:#F5D9C8;color:var(--forest);
     font:500 .62rem/1 'DM Mono',monospace;text-transform:uppercase;letter-spacing:.04em;
   }
   .intel-theme-label.deals{background:#E4E2F3;color:#3D3772;}
@@ -635,7 +637,7 @@
   .intel-card-summary{margin:0;color:var(--ink-soft);font-size:.82rem;line-height:1.55;}
   .intel-signal{
     margin:14px 0 0;padding:11px 13px;border-left:2px solid var(--ochre);
-    background:rgba(255,181,71,.08);color:var(--ink);font-size:.76rem;line-height:1.45;
+    background:rgba(201,107,79,.08);color:var(--ink);font-size:.76rem;line-height:1.45;
   }
   .intel-card-meta{
     display:flex;align-items:center;gap:7px;flex-wrap:wrap;margin-top:14px;
@@ -685,7 +687,7 @@
   }
   @media (max-width:480px){
     .masthead-meta{display:none;}
-    .brand h1{font-size:1.75rem;}
+    .brand h1{font-size:1.35rem;}
     .featured-media{height:260px;}
     .story-row{grid-template-columns:86px 1fr;}
     .story-meta{display:none;}
@@ -708,10 +710,10 @@
     body.print-intelligence .intelligence-wrap{display:block!important;}
     body.print-intelligence .intel-header{
       display:block;padding:0 0 8mm;border-radius:0;background:#fff;color:#111;
-      box-shadow:none;border-bottom:2px solid #173F2A;
+      box-shadow:none;border-bottom:2px solid #8E4334;
     }
     body.print-intelligence .intel-header::after{display:none;}
-    body.print-intelligence .intel-header h2{max-width:none;color:#102C1D;font-size:30pt;}
+    body.print-intelligence .intel-header h2{max-width:none;color:#8E4334;font-size:30pt;}
     body.print-intelligence .intel-subtitle,
     body.print-intelligence .intel-date{color:#555;}
     body.print-intelligence .intel-filter-bar{padding:5mm 0 2mm;border:0;}
@@ -734,9 +736,9 @@
 <header class="masthead">
   <div class="masthead-row">
     <div class="brand">
-      <span class="brand-mark" aria-hidden="true">H</span>
+      <span class="brand-mark" aria-hidden="true">S</span>
       <div>
-        <h1>Husk &amp; Fibre</h1>
+        <h1>Soul Agri <span class="name-rest">– Husk &amp; Fibre</span></h1>
         <div class="tagline">Signals, materials and businesses shaping the bio-economy.</div>
       </div>
     </div>
@@ -792,7 +794,7 @@
 
   <div class="newsletter-wrap" id="newsletter-wrap">
     <div class="nl-issue-head">
-      <div class="kicker" id="nl-kicker">HUSK &amp; FIBRE — WEEKLY DIGEST</div>
+      <div class="kicker" id="nl-kicker">SOUL AGRI – HUSK &amp; FIBRE — WEEKLY DIGEST</div>
       <h2>This week in agro-material business ideas</h2>
     </div>
     <p class="nl-intro">A sourced field note on turning agricultural waste into commercially viable materials — rated for business potential and linked to the original reporting.</p>
@@ -1267,7 +1269,7 @@ fetch('data.json').then(r=>{
   DATA = data;
   document.getElementById('issue-date').textContent = 'ISSUE — ' + data.generated_at;
   document.getElementById('story-total-label').textContent = data.stories.length + ' stories tracked';
-  document.getElementById('nl-kicker').textContent = 'HUSK & FIBRE — DIGEST · ' + data.generated_at;
+  document.getElementById('nl-kicker').textContent = 'SOUL AGRI – HUSK & FIBRE — DIGEST · ' + data.generated_at;
   renderFilters();
   renderDashboard();
   renderNewsletter();
