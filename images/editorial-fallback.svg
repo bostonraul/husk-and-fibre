@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Husk and Fibre editorial landscape</title>
+  <desc id="desc">An abstract agricultural landscape with fields, leaves and a rising sun.</desc>
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#e9e2cf"/>
+      <stop offset="1" stop-color="#f7f3e8"/>
+    </linearGradient>
+    <linearGradient id="field" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#55745d"/>
+      <stop offset="1" stop-color="#173c28"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" fill="url(#sky)"/>
+  <circle cx="930" cy="180" r="92" fill="#d6a33c" opacity=".9"/>
+  <path d="M0 455C210 350 385 390 580 474c179 77 365 88 620-20v346H0Z" fill="#8da176"/>
+  <path d="M0 565c226-108 432-65 617 17 182 81 365 80 583-17v235H0Z" fill="url(#field)"/>
+  <path d="M120 800c139-213 260-317 416-394M374 800c92-156 183-249 310-326M755 800c60-112 142-205 275-284" fill="none" stroke="#d7c28d" stroke-width="18" opacity=".55"/>
+  <g fill="#284d34">
+    <path d="M178 388c-54-95-32-181 50-246 31 103 12 188-50 246Z"/>
+    <path d="M187 402c75-77 159-85 248-29-82 71-165 82-248 29Z"/>
+    <path d="M172 410c-92-46-129-120-108-216 95 53 129 125 108 216Z"/>
+  </g>
+  <path d="M179 392v247" stroke="#284d34" stroke-width="16" stroke-linecap="round"/>
+  <text x="600" y="708" text-anchor="middle" fill="#f7f3e8" font-family="Georgia,serif" font-size="42" letter-spacing="8">HUSK &amp; FIBRE</text>
+</svg>

@@ -47,6 +47,7 @@ import os
 import re
 import sys
 import time
+from html import unescape
 from datetime import datetime, timezone
 
 import feedparser
@@ -62,13 +63,18 @@ MATERIAL_KEYWORDS = {
     "Bamboo":   ["bamboo"],
     "Palm":     ["palm leaf", "palm frond", "date palm", "areca leaf", "palm strand"],
     "Mango":    ["mango pulp", "mango leather", "mango waste"],
-    "Grass / Straw": ["rice straw", "wheat straw", "sugarcane bagasse", "paddy straw", "grass fibre"],
+    "Grass / Straw": [
+        "rice straw", "wheat straw", "sugarcane bagasse", "paddy straw",
+        "grass fibre", "crop residue", "crop waste", "stubble",
+    ],
 }
 
 BUSINESS_SIGNAL_WORDS = [
     "startup", "business", "market", "export", "revenue", "turnover",
     "manufactur", "factory", "investment", "profit", "entrepreneur",
     "scale", "demand", "supply chain", "commercializ", "commercialis",
+    "product", "processing", "livelihood", "income", "certification",
+    "technology", "innovation", "equipment", "predict", "policy", "regulation",
 ]
 
 # Free, no-key-required RSS feeds that regularly cover this beat.
@@ -100,8 +106,51 @@ def fetch_rss_candidates():
                 "url": entry.get("link", ""),
                 "published": entry.get("published", ""),
                 "source": feed.feed.get("title", url),
+                "image": extract_entry_image(entry),
             })
     return candidates
+
+
+def extract_entry_image(entry):
+    for field in ("media_content", "media_thumbnail"):
+        for item in entry.get(field, []) or []:
+            url = item.get("url") if isinstance(item, dict) else None
+            if url and url.startswith(("https://", "http://")):
+                return url
+    for link in entry.get("links", []) or []:
+        if isinstance(link, dict) and str(link.get("type", "")).startswith("image/"):
+            url = link.get("href")
+            if url and url.startswith(("https://", "http://")):
+                return url
+    return None
+
+
+def fetch_page_image(url):
+    if not url or not url.startswith(("https://", "http://")):
+        return None
+    try:
+        response = requests.get(
+            url,
+            timeout=15,
+            headers={"User-Agent": "Mozilla/5.0 (compatible; HuskAndFibre/1.0)"},
+        )
+        response.raise_for_status()
+        page = response.text[:300_000]
+        patterns = [
+            r'<meta[^>]+property=["\']og:image(?::secure_url)?["\'][^>]+content=["\']([^"\']+)',
+            r'<meta[^>]+content=["\']([^"\']+)["\'][^>]+property=["\']og:image(?::secure_url)?["\']',
+            r'<meta[^>]+name=["\']twitter:image["\'][^>]+content=["\']([^"\']+)',
+            r'<meta[^>]+content=["\']([^"\']+)["\'][^>]+name=["\']twitter:image["\']',
+        ]
+        for pattern in patterns:
+            match = re.search(pattern, page, flags=re.IGNORECASE)
+            if match:
+                image = unescape(match.group(1))
+                if image.startswith(("https://", "http://")):
+                    return image
+    except Exception as e:
+        print(f"  ! could not find image for {url}: {e}", file=sys.stderr)
+    return None
 
 
 def fetch_newsapi_candidates(query):
@@ -127,6 +176,7 @@ def fetch_newsapi_candidates(query):
             "url": a.get("url", ""),
             "published": a.get("publishedAt", ""),
             "source": (a.get("source") or {}).get("name", "news"),
+            "image": a.get("urlToImage"),
         }
         for a in articles
     ]
@@ -151,12 +201,18 @@ def business_signal_score(text):
 
 
 def relevant_and_scored(candidate):
-    joined = f"{candidate['headline']} {candidate['summary']}"
-    material = tag_material(joined)
+    # Only classify from the editorial focus, not a passing mention deep in
+    # the article. This prevents stories such as onion inflation being tagged
+    # "Bamboo" because bamboo appears once near the end.
+    focus = f"{candidate['headline']} {candidate['summary'][:1200]}"
+    material = tag_material(focus)
     if not material:
         return None
+    headline_has_material = tag_material(candidate["headline"]) is not None
+    if not headline_has_material and not any(word in focus.lower() for word in BUSINESS_SIGNAL_WORDS):
+        return None
     candidate["material"] = material
-    candidate["potential_score"] = business_signal_score(joined)
+    candidate["potential_score"] = business_signal_score(focus)
     return candidate
 
 
@@ -205,6 +261,27 @@ def slugify(text):
     return re.sub(r"[^a-z0-9]+", "-", text.lower()).strip("-")[:60]
 
 
+def is_auto_generated(story):
+    return str(story.get("why_it_matters", "")).startswith("Auto-generated entry")
+
+
+def existing_story_is_relevant(story):
+    if not is_auto_generated(story):
+        return True
+    candidate = {
+        "headline": story.get("headline", ""),
+        "summary": story.get("body") or story.get("dek", ""),
+    }
+    return relevant_and_scored(candidate) is not None
+
+
+def ensure_story_image(story):
+    if story.get("video") or story.get("video_youtube") or story.get("image"):
+        return
+    story["image"] = fetch_page_image(story.get("source_url")) or "images/editorial-fallback.svg"
+    story["image_alt"] = story.get("headline", "Editorial story image")
+
+
 def run():
     print("Collecting candidates...")
     candidates = fetch_rss_candidates()
@@ -216,6 +293,13 @@ def run():
     print(f"  {len(candidates)} raw candidates collected")
 
     existing = load_existing()
+    before = len(existing["stories"])
+    existing["stories"] = [s for s in existing["stories"] if existing_story_is_relevant(s)]
+    removed = before - len(existing["stories"])
+    if removed:
+        print(f"  removed {removed} previously misclassified stories")
+    for story in existing["stories"]:
+        ensure_story_image(story)
     known_urls = {s.get("source_url") for s in existing["stories"] if s.get("source_url")}
 
     new_stories = []
@@ -226,6 +310,7 @@ def run():
         if not scored:
             continue
         video_id = find_youtube_video(f"{scored['material']} {scored['headline']}")
+        image = scored.get("image") or fetch_page_image(scored["url"]) or "images/editorial-fallback.svg"
         new_stories.append({
             "id": slugify(scored["headline"]) or slugify(scored["url"]),
             "material": scored["material"],
@@ -237,6 +322,8 @@ def run():
             "capital_note": "Not yet assessed",
             "video_youtube": video_id,
             "video_caption": "Auto-matched video — verify relevance before featuring prominently",
+            "image": image,
+            "image_alt": scored["headline"],
             "body": scored["summary"],
             "why_it_matters": "Auto-generated entry — pipeline flagged this via keyword + business-signal scoring.",
             "source_url": c["url"],

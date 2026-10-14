@@ -428,7 +428,7 @@
     color:var(--white);box-shadow:var(--shadow);margin-bottom:46px;
   }
   .featured-media{min-height:430px;position:relative;overflow:hidden;background:#111;}
-  .featured-media video,.featured-media>div{width:100%;height:100%!important;object-fit:cover;}
+  .featured-media video,.featured-media img,.featured-media>div{width:100%;height:100%!important;object-fit:cover;}
   .featured-media::after{
     content:"";position:absolute;inset:0;pointer-events:none;
     background:linear-gradient(90deg,transparent 70%,rgba(16,44,29,.25));
@@ -863,17 +863,26 @@ const safeSourceUrl = value => {
   } catch { return "#"; }
 };
 const safeYoutubeId = value => /^[\w-]{6,20}$/.test(String(value ?? "")) ? String(value) : "";
+const safeImageUrl = value => {
+  const image = String(value ?? "");
+  if(/^images\/[\w./-]+$/i.test(image)) return escapeHTML(image);
+  try {
+    const url = new URL(image);
+    return ["http:","https:"].includes(url.protocol) ? escapeHTML(url.href) : "";
+  } catch { return ""; }
+};
 
 function videoTag(story){
   const video = safeMediaPath(story.video);
   const youtube = safeYoutubeId(story.video_youtube);
+  const image = safeImageUrl(story.image);
   if(video){
     return `<video src="${video}" muted loop playsinline preload="metadata" aria-label="${escapeHTML(story.video_caption || story.headline)}"></video>`;
   }
   if (youtube){
     return `<div><iframe width="100%" height="100%" src="https://www.youtube-nocookie.com/embed/${youtube}" title="${escapeHTML(story.headline)}" loading="lazy" allowfullscreen></iframe></div>`;
   }
-  return `<div style="display:grid;place-items:center;color:rgba(255,255,255,.7);font-size:.75rem;text-align:center;padding:20px;">Visual unavailable</div>`;
+  return `<img src="${image || "images/editorial-fallback.svg"}" alt="${escapeHTML(story.image_alt || story.headline)}" loading="eager">`;
 }
 
 function potentialDots(score){
@@ -945,7 +954,7 @@ function renderFeed(){
       <button class="thumb-wrap" data-id="${escapeHTML(s.id)}" aria-label="Open ${escapeHTML(s.headline)}">
         ${safeMediaPath(s.video) ? `<video src="${safeMediaPath(s.video)}" muted loop playsinline preload="metadata"></video><span class="play-badge">▶ WATCH</span>`
           : safeYoutubeId(s.video_youtube) ? `<img src="https://img.youtube.com/vi/${safeYoutubeId(s.video_youtube)}/mqdefault.jpg" alt="" loading="lazy"><span class="play-badge">▶ WATCH</span>`
-          : `<div style="aspect-ratio:9/13;display:flex;align-items:center;justify-content:center;color:var(--ink-soft);font-size:0.7rem;text-align:center;">no video yet</div>`}
+          : `<img src="${safeImageUrl(s.image) || "images/editorial-fallback.svg"}" alt="${escapeHTML(s.image_alt || s.headline)}" loading="lazy">`}
       </button>
       <div class="story-body">
         <span class="material-tag">${escapeHTML(s.material)}</span>
@@ -981,11 +990,12 @@ function openDetail(id){
   const body = document.getElementById('detail-body');
   const video = safeMediaPath(s.video);
   const youtube = safeYoutubeId(s.video_youtube);
+  const image = safeImageUrl(s.image);
   const mediaHtml = video
     ? `<video src="${video}" controls playsinline preload="metadata"></video>`
     : youtube
       ? `<div style="aspect-ratio:16/9;margin-bottom:22px;"><iframe width="100%" height="100%" src="https://www.youtube-nocookie.com/embed/${youtube}" title="${escapeHTML(s.headline)}" loading="lazy" allowfullscreen></iframe></div>`
-      : `<div style="padding:40px;text-align:center;color:var(--ink-soft);border:1px dashed var(--line);margin-bottom:22px;">No video is available for this brief.</div>`;
+      : `<img src="${image || "images/editorial-fallback.svg"}" alt="${escapeHTML(s.image_alt || s.headline)}" style="width:100%;max-height:480px;object-fit:cover;border-radius:14px;margin-bottom:22px;">`;
   body.innerHTML = `
     ${mediaHtml}
     <span class="material-tag">${escapeHTML(s.material)}</span>
