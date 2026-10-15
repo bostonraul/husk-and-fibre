@@ -1,6 +1,38 @@
 {
-  "generated_at": "2026-10-14T09:09:04+00:00",
+  "generated_at": "2026-10-15T08:17:04+00:00",
   "reports": [
+    {
+      "id": "481ce9fa7fdc28",
+      "cadence": "weekly",
+      "theme": "pestel",
+      "geography": "India",
+      "sector": "Agri-Products & Agro-Processing",
+      "date": "Week 42 · 2026",
+      "published_at": "2026-10-14T17:37:09+00:00",
+      "headline": "India: INERA and Bayer Partner to Bring Next-Generation, Climate-Resilient Crop Nutrition Solutions to Farmers",
+      "summary": "This development affects the agri-products & agro-processing value chain. Open the original report for transaction details, timing and named counterparties.",
+      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
+      "source": "AgriBusiness Global",
+      "source_url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPM25QR2VIbjZCMVZFaHF2RVRxMnBGdEJCRHdONjdDbTRUSnpsUl9iSlJJY3hsczNfWVZFMTFtR2dGT1E1Z2p0ZVhkWXNKNm85b0t0cnRreXdncldGNkVndHppN1pBc2dvdEh3Y3VpOTdRdHQ0bzJySllNV05IVENXX0NGRTU4R2FPenRxNVVMTDNTZWp0X1ZMYzVsYzFab2J1cnJsQ3BVbGVGb2U1TkhCTmhZUWxnRDBGZWVualFXWkg2WG81Q0NKVWNPZm80bUJ2ek55ZVJyWXdFdTU3UGZFSEdUTVp6S0tYSnpvNUVSbUlsU1HSAfMBQVVfeXFMTzNuUEdlSG42QjFWRWhxdkVUcTJwRnRCQkR3TjY3Q200VEp6bFJfYkpSSWN4bHMzX1lWRTExbUdnRk9RNWdqdGVYZFlzSjZvOW9LdHJ0a3l3Z3JXRjZFZ3R6aTdaQXNnb3RId2N1aTk3UXR0NG8yckpZTVdOSFRDV19DRkU1OEdhT3p0cTVVTEwzU2VqdF9WTGM1bGMxWm9idXJybENwVWxlRm9lNU5IQk5oWVFsZ0QwRmVlbmpRV1pINlhvNUNDSlVjT2ZvNG1CdnpOeWVScll3RXU1N1BmRUhHVE1aektLWEp6bzVFUm1JbFNR?oc=5",
+      "pestel": [
+        "Social",
+        "Environmental"
+      ]
+    },
+    {
+      "id": "95f5b7f0626097",
+      "cadence": "weekly",
+      "theme": "pestel",
+      "geography": "Rest of World",
+      "sector": "Regenerative Farming & Soil Health",
+      "date": "Week 42 · 2026",
+      "published_at": "2026-10-14T11:51:03+00:00",
+      "headline": "PepsiCo: Scaling and Investing in Regenerative Agriculture",
+      "summary": "This development affects the regenerative farming & soil health value chain. Open the original report for transaction details, timing and named counterparties.",
+      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
+      "source": "Sustainability Magazine",
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVDZPU0Z0dWRvVEdlRWVlVC01X1VqQ2NZZGZtR0dGaDM3bkxEaGVjQkR0dU5rNWVHb2RHbVVkNEJkYm1iVDBfc1k4YW5FWFFvUWdOTGNBTm5BYWYyaHZGZHp1cWRBYVJXdjA2bi01Wl9sUkttcElDQUNxMGdSYkhsRGdpOExqMlRvOENPdUM1aG9QN1ZfTHZn?oc=5"
+    },
     {
       "id": "7b03408af62662",
       "cadence": "weekly",
