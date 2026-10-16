@@ -2,6 +2,29 @@
   "generated_at": "2026-10-16",
   "stories": [
     {
+      "id": "how-2-friends-are-using-ai-to-help-200-farmers-make-money-fr",
+      "material": "Grass / Straw",
+      "region": "Unspecified — refine with NER in a later pass",
+      "headline": "How 2 Friends Are Using AI to Help 200+ Farmers Make Money From Leftover Crop Waste",
+      "dek": "",
+      "potential_score": 1,
+      "potential_label": "Low",
+      "capital_note": "Not yet assessed",
+      "video_youtube": null,
+      "video_caption": "Auto-matched video — verify relevance before featuring prominently",
+      "image": "https://img-cdn.publive.online/fit-in/1280x960/english-betterindia/media/media_files/2026/10/15/renewcred-2026-10-15-18-15-56.png",
+      "image_alt": "How 2 Friends Are Using AI to Help 200+ Farmers Make Money From Leftover Crop Waste",
+      "body": "",
+      "why_it_matters": "Auto-generated entry — pipeline flagged this via keyword + business-signal scoring.",
+      "source_url": "https://thebetterindia.com/web-stories/technology/carbon-credits-farmers-crop-waste-renewcred-ai-startup-india-12678426",
+      "sources": [
+        {
+          "name": "The Better India : Latest Posts",
+          "url": "https://thebetterindia.com/web-stories/technology/carbon-credits-farmers-crop-waste-renewcred-ai-startup-india-12678426"
+        }
+      ]
+    },
+    {
       "id": "when-ash-from-crop-fires-reached-his-home-this-16-yo-led-30-",
       "material": "Grass / Straw",
       "region": "Unspecified — refine with NER in a later pass",
