@@ -651,6 +651,17 @@
     color:var(--ink-soft);font:500 .58rem/1 'DM Mono',monospace;
   }
   .intel-empty{grid-column:1/-1;padding:60px 20px;text-align:center;color:var(--ink-soft);}
+  .briefing-panel{
+    display:grid;grid-template-columns:minmax(0,1.2fr) minmax(240px,.8fr);gap:22px;align-items:center;
+    margin:0 0 28px;padding:22px 24px;border:1px solid var(--line);border-radius:18px;background:rgba(255,248,243,.7);
+  }
+  .briefing-panel h3{margin:6px 0 8px;font-size:1.35rem;}
+  .briefing-panel p{margin:0;color:var(--ink-soft);font-size:.82rem;line-height:1.55;}
+  .briefing-tags{display:flex;flex-wrap:wrap;gap:7px;}
+  .briefing-tags span{
+    padding:6px 9px;border-radius:999px;background:var(--paper-deep);color:var(--forest);
+    font:500 .62rem/1 'DM Mono',monospace;letter-spacing:.03em;
+  }
 
   @media (max-width:800px){
     .masthead{padding:18px 20px;}
@@ -682,6 +693,7 @@
     .intel-actions{flex-wrap:wrap;}
     .intel-layout{grid-template-columns:1fr;gap:44px;}
     .intel-sectors{grid-template-columns:1fr 1fr;}
+    .briefing-panel{grid-template-columns:1fr;}
     .intel-filter-bar{align-items:flex-start;flex-direction:column;}
     .intel-theme-filters{width:100%;}
   }
@@ -831,13 +843,22 @@
       <div class="intel-result-count" id="intel-result-count"></div>
     </div>
 
-    <div class="intel-sectors" aria-label="Industry sectors covered">
-      <button type="button" class="sector-pill" data-sector="Activated Carbon, Charcoal &amp; Biochar" aria-pressed="false"><span>AC</span>Activated Carbon, Charcoal &amp; Biochar</button>
-      <button type="button" class="sector-pill" data-sector="Biologicals &amp; Microbial Crop Inputs" aria-pressed="false"><span>BI</span>Biologicals &amp; Microbial Crop Inputs</button>
-      <button type="button" class="sector-pill" data-sector="Agri-Products &amp; Agro-Processing" aria-pressed="false"><span>AP</span>Agri-Products &amp; Agro-Processing</button>
-      <button type="button" class="sector-pill" data-sector="Carbon Credits &amp; Nursery Plantations" aria-pressed="false"><span>CC</span>Carbon Credits &amp; Nursery Plantations</button>
-      <button type="button" class="sector-pill" data-sector="Regenerative Farming &amp; Soil Health" aria-pressed="false"><span>RF</span>Regenerative Farming &amp; Soil Health</button>
+    <div class="briefing-panel">
+      <div>
+        <div class="intel-kicker" style="color:var(--forest);margin:0 0 6px;">Mapped briefing list</div>
+        <h3>Mail goes only to assigned people, by geography and segment</h3>
+        <p>Each recipient is mapped to India, Uganda and/or world, plus the segments they track. They then receive a daily or weekly Soul Agri briefing with only that slice of intelligence.</p>
+      </div>
+      <div class="briefing-tags" aria-label="Briefing segments">
+        <span>India</span><span>Uganda</span><span>World</span>
+        <span>Biochar</span><span>BBM</span><span>Microbial</span><span>Biofertilizers</span>
+        <span>Carbon credits</span><span>Agro-products</span><span>Agro-processing</span>
+        <span>Regenerative</span><span>Permaculture</span><span>Agroforestry</span>
+        <span>Innovations</span><span>New launches</span>
+      </div>
     </div>
+
+    <div class="intel-sectors" id="intel-sectors" aria-label="Industry sectors covered"></div>
 
     <div class="intel-layout">
       <section>
@@ -892,6 +913,22 @@ const INTELLIGENCE_THEMES = [
   {id:"innovation", label:"Processing & Innovation"},
   {id:"pestel", label:"PESTEL"}
 ];
+const INTEL_SECTORS = [
+  {id:"Biochar & Activated Carbon", short:"BC", label:"Biochar"},
+  {id:"Bio-Based Materials", short:"BBM", label:"BBM"},
+  {id:"Microbial & Biofertilizers", short:"MB", label:"Microbial & biofertilizers"},
+  {id:"Agri-Products & Agro-Processing", short:"AP", label:"Agro-products & processing"},
+  {id:"Carbon Credits", short:"CC", label:"Carbon credits"},
+  {id:"Regenerative Farming", short:"RF", label:"Regenerative farming"},
+  {id:"Permaculture & Agroforestry", short:"PA", label:"Permaculture & agroforestry"},
+  {id:"Innovations & New Launches", short:"IN", label:"Innovations & launches"}
+];
+const LEGACY_INTEL_SECTORS = {
+  "Activated Carbon, Charcoal & Biochar": "Biochar & Activated Carbon",
+  "Biologicals & Microbial Crop Inputs": "Microbial & Biofertilizers",
+  "Carbon Credits & Nursery Plantations": "Carbon Credits",
+  "Regenerative Farming & Soil Health": "Regenerative Farming"
+};
 
 let INTELLIGENCE_DATA = [];
 
@@ -1169,11 +1206,12 @@ function renderIntelligence(){
       renderIntelligence();
     });
   });
-  document.querySelectorAll(".sector-pill").forEach(button=>{
-    const active = button.dataset.sector === intelligenceSector;
-    button.classList.toggle("active",active);
-    button.setAttribute("aria-pressed",String(active));
-  });
+  document.getElementById("intel-sectors").innerHTML = INTEL_SECTORS.map(sector=>`
+    <button type="button" class="sector-pill ${sector.id===intelligenceSector?'active':''}"
+      data-sector="${escapeHTML(sector.id)}" aria-pressed="${sector.id===intelligenceSector}">
+      <span>${escapeHTML(sector.short)}</span>${escapeHTML(sector.label)}
+    </button>
+  `).join("");
 
   const list = filteredIntelligence();
   const daily = list.filter(item=>item.cadence === "daily");
@@ -1193,7 +1231,10 @@ async function loadIntelligence(){
     if(!response.ok) throw new Error(`Intelligence request failed: ${response.status}`);
     const payload = await response.json();
     if(!Array.isArray(payload.reports)) throw new Error("Invalid intelligence data");
-    INTELLIGENCE_DATA = payload.reports;
+    INTELLIGENCE_DATA = payload.reports.map(item => ({
+      ...item,
+      sector: LEGACY_INTEL_SECTORS[item.sector] || item.sector
+    }));
     const updated = new Date(payload.generated_at);
     document.getElementById("intel-date").textContent = Number.isNaN(updated.getTime())
       ? "LATEST DAILY REFRESH"
@@ -1239,11 +1280,11 @@ document.getElementById("intel-geography").addEventListener("change",event=>{
   intelligenceGeography = event.target.value;
   renderIntelligence();
 });
-document.querySelectorAll(".sector-pill").forEach(button=>{
-  button.addEventListener("click",()=>{
-    intelligenceSector = intelligenceSector === button.dataset.sector ? "All" : button.dataset.sector;
-    renderIntelligence();
-  });
+document.getElementById("intel-sectors").addEventListener("click",event=>{
+  const button = event.target.closest(".sector-pill");
+  if(!button) return;
+  intelligenceSector = intelligenceSector === button.dataset.sector ? "All" : button.dataset.sector;
+  renderIntelligence();
 });
 document.getElementById("print-intelligence").addEventListener("click",()=>{
   document.body.classList.add("print-intelligence");

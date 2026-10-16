@@ -1,0 +1,57 @@
+name: Send intelligence briefings
+
+on:
+  schedule:
+    - cron: "17 4 * * *"   # daily after the intelligence refresh
+    - cron: "17 5 * * 1"   # weekly Monday briefing
+  workflow_dispatch:
+    inputs:
+      cadence:
+        description: Briefing cadence to send
+        required: true
+        default: weekly
+        type: choice
+        options:
+          - daily
+          - weekly
+      dry_run:
+        description: Build emails without sending
+        required: false
+        default: false
+        type: boolean
+
+jobs:
+  send-digest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install mail dependencies
+        run: pip install requests python-dateutil
+
+      - name: Choose cadence
+        id: cadence
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "value=${{ inputs.cadence }}" >> "$GITHUB_OUTPUT"
+          elif [ "${{ github.event.schedule }}" = "17 5 * * 1" ]; then
+            echo "value=weekly" >> "$GITHUB_OUTPUT"
+          else
+            echo "value=daily" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Send mapped briefings
+        env:
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          RESEND_FROM: ${{ secrets.RESEND_FROM }}
+          SUBSCRIBERS_JSON: ${{ secrets.SUBSCRIBERS_JSON }}
+        run: |
+          extra=""
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ] && [ "${{ inputs.dry_run }}" = "true" ]; then
+            extra="--dry-run"
+          fi
+          python pipeline/send_digest.py --cadence "${{ steps.cadence.outputs.value }}" $extra

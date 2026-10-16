@@ -24,51 +24,107 @@ MAX_REPORTS = 80
 MAX_AGE_DAYS = 30
 
 SEARCHES = [
-    ("India", "Activated Carbon, Charcoal & Biochar", "biochar India"),
-    ("India", "Activated Carbon, Charcoal & Biochar", "\"activated carbon\" India"),
-    ("India", "Biologicals & Microbial Crop Inputs", "\"agricultural biologicals\" India"),
+    ("India", "Biochar & Activated Carbon", "biochar India"),
+    ("India", "Biochar & Activated Carbon", "\"activated carbon\" India"),
+    ("India", "Bio-Based Materials", "\"bio-based materials\" India"),
+    ("India", "Microbial & Biofertilizers", "\"agricultural biologicals\" India"),
+    ("India", "Microbial & Biofertilizers", "biofertilizer India microbial"),
     ("India", "Agri-Products & Agro-Processing", "\"agro processing\" India investment"),
-    ("India", "Carbon Credits & Nursery Plantations", "\"carbon credits\" India agriculture"),
-    ("India", "Regenerative Farming & Soil Health", "\"regenerative agriculture\" India soil"),
-    ("Uganda", "Activated Carbon, Charcoal & Biochar", "biochar Uganda"),
+    ("India", "Carbon Credits", "\"carbon credits\" India agriculture"),
+    ("India", "Regenerative Farming", "\"regenerative agriculture\" India soil"),
+    ("India", "Permaculture & Agroforestry", "agroforestry India"),
+    ("India", "Permaculture & Agroforestry", "permaculture India"),
+    ("India", "Innovations & New Launches", "agritech launch India"),
+    ("Uganda", "Biochar & Activated Carbon", "biochar Uganda"),
+    ("Uganda", "Bio-Based Materials", "\"bio-based\" Uganda agriculture"),
+    ("Uganda", "Microbial & Biofertilizers", "biofertilizer Uganda"),
     ("Uganda", "Agri-Products & Agro-Processing", "\"agro processing\" Uganda investment"),
     ("Uganda", "Agri-Products & Agro-Processing", "\"agriculture technology\" Uganda"),
-    ("Uganda", "Carbon Credits & Nursery Plantations", "\"carbon credits\" Uganda forestry"),
-    ("Uganda", "Regenerative Farming & Soil Health", "\"regenerative agriculture\" Uganda"),
-    ("Rest of World", "Activated Carbon, Charcoal & Biochar", "biochar market acquisition"),
-    ("Rest of World", "Activated Carbon, Charcoal & Biochar", "\"activated carbon\" investment"),
-    ("Rest of World", "Biologicals & Microbial Crop Inputs", "\"agricultural biologicals\" funding acquisition"),
+    ("Uganda", "Carbon Credits", "\"carbon credits\" Uganda forestry"),
+    ("Uganda", "Regenerative Farming", "\"regenerative agriculture\" Uganda"),
+    ("Uganda", "Permaculture & Agroforestry", "agroforestry Uganda"),
+    ("Uganda", "Innovations & New Launches", "agriculture innovation Uganda"),
+    ("Rest of World", "Biochar & Activated Carbon", "biochar market acquisition"),
+    ("Rest of World", "Biochar & Activated Carbon", "\"activated carbon\" investment"),
+    ("Rest of World", "Bio-Based Materials", "\"bio-based materials\" funding"),
+    ("Rest of World", "Microbial & Biofertilizers", "\"agricultural biologicals\" funding acquisition"),
     ("Rest of World", "Agri-Products & Agro-Processing", "\"agro processing\" investment"),
-    ("Rest of World", "Carbon Credits & Nursery Plantations", "\"carbon removal\" forestry investment"),
-    ("Rest of World", "Regenerative Farming & Soil Health", "\"regenerative agriculture\" investment policy"),
+    ("Rest of World", "Carbon Credits", "\"carbon removal\" forestry investment"),
+    ("Rest of World", "Regenerative Farming", "\"regenerative agriculture\" investment policy"),
+    ("Rest of World", "Permaculture & Agroforestry", "agroforestry investment"),
+    ("Rest of World", "Innovations & New Launches", "agritech product launch"),
 ]
 
 SECTOR_KEYWORDS = {
-    "Activated Carbon, Charcoal & Biochar": [
+    "Biochar & Activated Carbon": [
         "activated carbon", "activated charcoal", "biochar", "charcoal",
         "pyrolysis", "carbonization", "carbonisation",
     ],
-    "Biologicals & Microbial Crop Inputs": [
+    "Bio-Based Materials": [
+        "bio-based material", "bio based material", "bbm", "biopolymer",
+        "biomaterial", "bioplastic", "plant-based material", "agro-material",
+        "agro material", "natural fibre", "natural fiber",
+    ],
+    "Microbial & Biofertilizers": [
         "biologicals", "biostimulant", "biofertilizer", "biofertiliser",
-        "microbial", "biopesticide", "crop input", "soil microbe",
+        "bio-fertilizer", "microbial", "biopesticide", "crop input",
+        "soil microbe", "microbiome",
     ],
     "Agri-Products & Agro-Processing": [
         "agro-processing", "agro processing", "food processing", "farm technology",
         "agritech", "agri-tech", "precision agriculture", "farm robot", "crop processing",
-        "agricultural processing", "post-harvest", "post harvest", "agriculture",
-        "agricultural", "farming", "farmers",
+        "agricultural processing", "post-harvest", "post harvest",
+        "agri-product", "agri product", "commodity processing",
     ],
-    "Carbon Credits & Nursery Plantations": [
+    "Carbon Credits": [
         "carbon credit", "carbon market", "carbon removal", "afforestation",
-        "reforestation", "nursery", "plantation", "tree planting", "nature-based",
+        "reforestation", "nursery plantation", "tree planting", "nature-based",
+        "carbon offset",
     ],
-    "Regenerative Farming & Soil Health": [
+    "Regenerative Farming": [
         "regenerative agriculture", "regenerative farming", "regenerative farmland",
-        "regenerative food", "soil health",
-        "soil carbon", "cover crop", "cover cropping", "no-till", "no till",
-        "conservation agriculture", "agroecology", "agroforestry",
+        "regenerative food", "soil health", "soil carbon", "cover crop",
+        "cover cropping", "no-till", "no till", "conservation agriculture",
+        "agroecology",
+    ],
+    "Permaculture & Agroforestry": [
+        "permaculture", "agroforestry", "agro-forestry", "food forest",
+        "silvopasture", "alley cropping",
+    ],
+    "Innovations & New Launches": [
+        "product launch", "new launch", "unveils", "rolls out", "go-to-market",
+        "commercial launch", "launches new",
     ],
 }
+
+LEGACY_SECTORS = {
+    "Activated Carbon, Charcoal & Biochar": "Biochar & Activated Carbon",
+    "Biologicals & Microbial Crop Inputs": "Microbial & Biofertilizers",
+    "Carbon Credits & Nursery Plantations": "Carbon Credits",
+    "Regenerative Farming & Soil Health": "Regenerative Farming",
+}
+
+SECTOR_SLUGS = {
+    "Biochar & Activated Carbon": "biochar",
+    "Bio-Based Materials": "bbm",
+    "Microbial & Biofertilizers": "microbial",
+    "Agri-Products & Agro-Processing": "agro-processing",
+    "Carbon Credits": "carbon-credits",
+    "Regenerative Farming": "regenerative",
+    "Permaculture & Agroforestry": "agroforestry",
+    "Innovations & New Launches": "innovations",
+}
+
+PRIORITY_SECTORS = [
+    "Biochar & Activated Carbon",
+    "Carbon Credits",
+    "Microbial & Biofertilizers",
+    "Bio-Based Materials",
+    "Permaculture & Agroforestry",
+    "Regenerative Farming",
+    "Innovations & New Launches",
+    "Agri-Products & Agro-Processing",
+]
 
 THEME_KEYWORDS = {
     "deals": [
@@ -217,18 +273,20 @@ def fetch_newsapi() -> list[dict]:
     return candidates
 
 
+def normalize_sector(value: str | None) -> str | None:
+    if not value:
+        return None
+    return LEGACY_SECTORS.get(value, value)
+
+
 def classify_sector(text: str) -> str | None:
     lowered = text.lower()
-    regenerative = "Regenerative Farming & Soil Health"
-    if any(keyword in lowered for keyword in SECTOR_KEYWORDS[regenerative]):
-        return regenerative
     scores = {
         sector: sum(keyword in lowered for keyword in keywords)
         for sector, keywords in SECTOR_KEYWORDS.items()
-        if sector != regenerative
     }
-    sector, score = max(scores.items(), key=lambda item: item[1])
-    return sector if score else None
+    ranked = [sector for sector in PRIORITY_SECTORS if scores.get(sector)]
+    return ranked[0] if ranked else None
 
 
 def classify_theme(text: str) -> str:
@@ -287,7 +345,7 @@ def to_report(candidate: dict) -> dict | None:
     sector = classify_sector(text)
     if not sector:
         return None
-    if sector != "Regenerative Farming & Soil Health" and relevance_score(text) < 1:
+    if sector not in {"Regenerative Farming", "Permaculture & Agroforestry"} and relevance_score(text) < 1:
         return None
     theme = classify_theme(text)
     published = parse_date(candidate["published"])
@@ -306,6 +364,7 @@ def to_report(candidate: dict) -> dict | None:
         "theme": theme,
         "geography": classify_geography(text, candidate["geography_hint"]),
         "sector": sector,
+        "segment": SECTOR_SLUGS[sector],
         "date": date_label,
         "published_at": published.isoformat(),
         "headline": candidate["headline"][:180],
@@ -337,7 +396,12 @@ def existing_report_is_relevant(report: dict) -> bool:
         return False
     if geography == "Uganda" and not any(term in text for term in UGANDA_TERMS):
         return False
-    return classify_sector(text) is not None
+    sector = normalize_sector(report.get("sector")) or classify_sector(text)
+    if not sector:
+        return False
+    report["sector"] = sector
+    report["segment"] = SECTOR_SLUGS.get(sector, report.get("segment"))
+    return True
 
 
 def run() -> int:

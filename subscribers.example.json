@@ -1,0 +1,25 @@
+{
+  "subscribers": [
+    {
+      "name": "India biochar lead",
+      "email": "person@example.com",
+      "cadence": "weekly",
+      "geographies": ["India"],
+      "segments": ["biochar", "carbon-credits"]
+    },
+    {
+      "name": "Uganda desk",
+      "email": "uganda@example.com",
+      "cadence": "daily",
+      "geographies": ["Uganda", "India"],
+      "segments": ["all"]
+    },
+    {
+      "name": "Global regenerative",
+      "email": "markets@example.com",
+      "cadence": "weekly",
+      "geographies": ["All"],
+      "segments": ["regenerative", "agroforestry", "permaculture", "innovations"]
+    }
+  ]
+}
