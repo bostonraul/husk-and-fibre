@@ -141,17 +141,17 @@ def matches_subscriber(report: dict, subscriber: dict) -> bool:
 
 def select_reports(reports: list[dict], subscriber: dict, cadence: str) -> list[dict]:
     now = datetime.now(timezone.utc)
-    window = timedelta(hours=36) if cadence == "daily" else timedelta(days=8)
-    selected = []
-    for report in reports:
-        published = parse_date(report.get("published_at"))
-        if published < now - window:
-            continue
-        if not matches_subscriber(report, subscriber):
-            continue
-        selected.append(report)
-    selected.sort(key=lambda item: parse_date(item.get("published_at")), reverse=True)
-    return selected[:12]
+    window = timedelta(days=3) if cadence == "daily" else timedelta(days=8)
+    matched = [report for report in reports if matches_subscriber(report, subscriber)]
+    matched.sort(key=lambda item: parse_date(item.get("published_at")), reverse=True)
+    recent = [
+        report for report in matched
+        if parse_date(report.get("published_at")) >= now - window
+    ]
+    if recent:
+        return recent[:12]
+    # Quiet window: still send the latest matching items so a first run is not empty.
+    return matched[:8]
 
 
 def synopsis_text(reports: list[dict], cadence: str) -> str:
@@ -293,7 +293,7 @@ def run() -> int:
         reports = select_reports(feed["reports"], subscriber, args.cadence)
         if not reports:
             skipped += 1
-            print(f"  skip {mask_email(subscriber['email'])}: no matching {args.cadence} reports")
+            print(f"  skip {mask_email(subscriber['email'])}: no reports match this geography/segments")
             continue
         subject, html = render_email(subscriber, reports, args.cadence)
         print(f"  {args.cadence} {mask_email(subscriber['email'])}: {len(reports)} reports")
