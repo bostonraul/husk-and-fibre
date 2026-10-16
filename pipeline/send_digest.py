@@ -21,6 +21,7 @@ ROOT = Path(__file__).resolve().parents[1]
 FEED_FILE = ROOT / "intelligence.json"
 LOCAL_SUBSCRIBERS = ROOT / "subscribers.json"
 RESEND_URL = "https://api.resend.com/emails"
+SITE_URL = "https://bostonraul.github.io/husk-and-fibre/"
 
 SEGMENT_ALIASES = {
     "all": "all",
@@ -219,8 +220,11 @@ def render_email(subscriber: dict, reports: list[dict], cadence: str) -> tuple[s
       <table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="max-width:640px;margin:0 auto;background:#FFF8F3;border:1px solid #E5CABB;border-radius:18px;">
         <tr>
           <td style="padding:28px 28px 18px;">
-            <div style="font:500 11px/1 DM Mono,ui-monospace,monospace;letter-spacing:.08em;text-transform:uppercase;color:#C96B4F;">Soul Agri – Husk &amp; Fibre</div>
-            <h1 style="margin:10px 0 8px;font:600 28px/1.1 Newsreader,Georgia,serif;color:#3A2A24;">
+            <a href="{SITE_URL}" style="display:inline-block;font:500 11px/1 DM Mono,ui-monospace,monospace;letter-spacing:.08em;text-transform:uppercase;color:#C96B4F;text-decoration:none;">Soul Agri – Husk &amp; Fibre</a>
+            <div style="margin:8px 0 0;">
+              <a href="{SITE_URL}" style="font:500 13px/1.4 Instrument Sans,Arial,sans-serif;color:#8E4334;">Visit the website ↗</a>
+            </div>
+            <h1 style="margin:14px 0 8px;font:600 28px/1.1 Newsreader,Georgia,serif;color:#3A2A24;">
               {cadence.title()} intelligence briefing
             </h1>
             <p style="margin:0;font:400 15px/1.55 Instrument Sans,Arial,sans-serif;color:#7A5C52;">
@@ -236,7 +240,7 @@ def render_email(subscriber: dict, reports: list[dict], cadence: str) -> tuple[s
         <tr>
           <td style="padding:8px 28px 28px;font:400 12px/1.5 Instrument Sans,Arial,sans-serif;color:#7A5C52;">
             Mapped to your selected geographies and segments.
-            <a href="https://bostonraul.github.io/husk-and-fibre/" style="color:#8E4334;">Open the live intelligence desk</a>.
+            <a href="{SITE_URL}" style="color:#8E4334;">Open the live intelligence desk</a>.
           </td>
         </tr>
       </table>
