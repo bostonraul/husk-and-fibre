@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T06:59:44+00:00",
+  "generated_at": "2026-10-16T10:36:01+00:00",
   "reports": [
     {
       "id": "2ad33e7b5f4beb",
@@ -186,6 +186,21 @@
         "Economic",
         "Environmental"
       ]
+    },
+    {
+      "id": "434d99cd4f77f6",
+      "cadence": "weekly",
+      "theme": "pestel",
+      "geography": "India",
+      "sector": "Regenerative Farming",
+      "segment": "regenerative",
+      "date": "Week 42 · 2026",
+      "published_at": "2026-10-12T17:03:30+00:00",
+      "headline": "The Better Cotton Initiative is reshaping its model to establish itself as a benchmark for regenerative agriculture",
+      "summary": "This development affects the regenerative farming value chain. Open the original report for transaction details, timing and named counterparties.",
+      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
+      "source": "FashionNetwork India",
+      "source_url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPUnNkQ0h6SndnN09HZzROSlJXWXdVbXBzc1VUX0ZuZjNfdnk3OHdtZDZLbnlVVW5BQXFfOVlIR1ZxdTl0aVRTdjM1X3lILXNEeVNZNWlsLXJDZDBPdWFfQ3pTZTJ3eG42OElQNHVlQnFqWDFWUGstSmVWWlRvTVBqSHU3aVVJdTJxZGxrdFhNMTMxeDFRdXlTZnA2aXZlUnJOOFBuSURtdjhtVDVMZW4tR2R3QkNVWUZseFlyUzcxS1VzZHBFOFl2YjlyZ3EzUG9LWGNYa2piTnR0SEJJcnh1Qk5nMWU2V3JfM3JWYUFlQ0ZZcHAtRmc?oc=5"
     },
     {
       "id": "e8e4c35a2c1b8d",
