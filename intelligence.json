@@ -1,6 +1,54 @@
 {
-  "generated_at": "2026-10-15T08:17:04+00:00",
+  "generated_at": "2026-10-16T08:09:27+00:00",
   "reports": [
+    {
+      "id": "ff29c3444511e5",
+      "cadence": "daily",
+      "theme": "innovation",
+      "geography": "Rest of World",
+      "sector": "Agri-Products & Agro-Processing",
+      "date": "15 Oct 2026",
+      "published_at": "2026-10-15T20:22:55+00:00",
+      "headline": "Igbinedion University, NAS target $1tr GDP through technology-driven agriculture",
+      "summary": "This development affects the agri-products & agro-processing value chain. Open the original report for transaction details, timing and named counterparties.",
+      "signal": "Assess field performance, unit economics and the route from pilot deployment to repeatable commercial scale.",
+      "source": "The Nigerian Observer",
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPOTdnOXFFUlZldlBKSV95ZG4ybThzbGVMWTJMMmkxTFZWNnQtQ3Q5QXEzTFJUZTlqRG1GTktzeFp5aDI2bDVUVHRiLVl3ckI3SVF6VG9xUWpVcE11QnFmdDJteF9OWE1keFBKUlBlRldfVGFyT09lVnhoVkx6MThyTE9fQ3JYMUtKRFNUaFVPNlNsUFJvVmFLTTVFNFU1cjFSZ3hhTnBPTVQtVmswUjMwYkNWYnlCLVhJbGp0VA?oc=5",
+      "pestel": [
+        "Technological"
+      ]
+    },
+    {
+      "id": "2ad33e7b5f4beb",
+      "cadence": "daily",
+      "theme": "innovation",
+      "geography": "Rest of World",
+      "sector": "Regenerative Farming & Soil Health",
+      "date": "15 Oct 2026",
+      "published_at": "2026-10-15T09:02:34+00:00",
+      "headline": "PepsiCo: Fragmented Supply Chains & Regenerative Farming",
+      "summary": "This development affects the regenerative farming & soil health value chain. Open the original report for transaction details, timing and named counterparties.",
+      "signal": "Assess field performance, unit economics and the route from pilot deployment to repeatable commercial scale.",
+      "source": "Supply Chain Digital Magazine",
+      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRWU3Q0V4U0pmZzBQb1pvUVpDanVBdXJVWEJkMlNSOVZJdV9aaG1ZakQxZjJVN05BSXdBMFFFYVB0VjRyeHA0MzNneU9TdXhVMDVsZUJXYUk4UU1udkZVR3dhZExCSjZUcWtIY3hhdHM0N0ZIb2lMZzR1ZjVYRmFYWVN0dGVseVZrbkhzVGVEU3RjUTA?oc=5",
+      "pestel": [
+        "Technological"
+      ]
+    },
+    {
+      "id": "b258528e10877f",
+      "cadence": "weekly",
+      "theme": "pestel",
+      "geography": "Rest of World",
+      "sector": "Regenerative Farming & Soil Health",
+      "date": "Week 42 · 2026",
+      "published_at": "2026-10-15T07:00:00+00:00",
+      "headline": "2026 From the Ground Up: Transparent Pathways to Regenerative Food Systems",
+      "summary": "This development affects the regenerative farming & soil health value chain. Open the original report for transaction details, timing and named counterparties.",
+      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
+      "source": "As You Sow",
+      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9uUnVTUFMyeWstVE51SG1xb0pYR3VERHJ0dFFkWkRNVG5FZElZcWw0SHpSVkR4cklEaWlPOWdTMU5nZHhXTlJic3ZXS3dKZ3pjci0yaHVlQW9YOXIzQ2wyUnVKMjl6NE0?oc=5"
+    },
     {
       "id": "481ce9fa7fdc28",
       "cadence": "weekly",
@@ -83,6 +131,34 @@
       "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbG1YelpnUVUxaWJNNDlxQjNlWXg5WkMzYkVmYUJydGw2ZjktbGoxTENyZ0w1U29fSFZoM3V2VVRVODlNZFhOMlpVN3Nvc3JxQXl2am0wN2kzS3Z4TXFRak5WcnhXM3JVT1RhM2lhNy1fMjNueThtcURqRlYzb2FGR2lNLVZSQktBMWtLdVZSOHZQM0w4Y21OMzk4ZS1UalFDeTNfZ2szSGdWaF9WbkJDY2JB?oc=5"
     },
     {
+      "id": "6adafc2148bbd9",
+      "cadence": "weekly",
+      "theme": "pestel",
+      "geography": "Rest of World",
+      "sector": "Regenerative Farming & Soil Health",
+      "date": "Week 42 · 2026",
+      "published_at": "2026-10-13T16:42:56+00:00",
+      "headline": "How Federal Investments Could Shape Regenerative Agriculture Opportunities",
+      "summary": "This development affects the regenerative farming & soil health value chain. Open the original report for transaction details, timing and named counterparties.",
+      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
+      "source": "RTI International",
+      "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1pSDlVVzJlSENBOWxidmdTLTMwSEFfV00zSDFwQ0g1SHZ0MzNHT3VoeldrcjVrR3MtN3JMUFRDQnhJbHd2d3VicEJPdVZmLVRTQ20wZXRvZTZsa0l2aFlKcEMzejRaR2VQZlQybENnVFpqZVczdTNXUWk4X3o?oc=5"
+    },
+    {
+      "id": "a5ce3a34030c85",
+      "cadence": "weekly",
+      "theme": "pestel",
+      "geography": "Rest of World",
+      "sector": "Carbon Credits & Nursery Plantations",
+      "date": "Week 42 · 2026",
+      "published_at": "2026-10-13T14:02:50+00:00",
+      "headline": "Govt giving priority on solar power, pollution prevention, tree plantation: Faridul",
+      "summary": "This development affects the carbon credits & nursery plantations value chain. Open the original report for transaction details, timing and named counterparties.",
+      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
+      "source": "Bangladesh Sangbad Sangstha (BSS)",
+      "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBELUpRMDhYY29XOFkxNFZNZzYzYWRhLUFFSGwxRFFqY1Y1anBzdGFFd1RDSmlxd1gxS2Vpd0NITm45SmNUbUVHNS04clNGUQ?oc=5"
+    },
+    {
       "id": "cd18d62a19c626",
       "cadence": "weekly",
       "theme": "pestel",
@@ -95,23 +171,6 @@
       "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
       "source": "AgroSpectrum India",
       "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWXd5OVQzcEdnXzZDaDhZYXB4dUdzNFFzMUQtaXpVdkNrY3VzZjZBektHdzM3VUM0Tjg5Z1F5RXVEcjZmRk9nWVFQVnNXcmhtSWVCWE02UjhWTVdHc1pZeGR5UUxHUXlXVnZHbmR2THhnS0J4amJfX0Z5VUprRWdoLTRjWDdxNnQxSmF6a3BaakRwNzBUN1AyODhGTjRvWHAtYUFOcVBaNl9WNlU3TU5iOEI2TGRPWVJQWmc?oc=5"
-    },
-    {
-      "id": "99f9b179d33fc6",
-      "cadence": "weekly",
-      "theme": "pestel",
-      "geography": "Rest of World",
-      "sector": "Agri-Products & Agro-Processing",
-      "date": "Week 42 · 2026",
-      "published_at": "2026-10-12T18:17:40+00:00",
-      "headline": "BNP Paribas AM Releases an Updated ESG and Net-Zero Strategy for 2026-2030",
-      "summary": "This development affects the agri-products & agro-processing value chain. Open the original report for transaction details, timing and named counterparties.",
-      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
-      "source": "Agriculture Investment Marketplace",
-      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPajU4Z1Y3eGdublJjS05QQjNMcUtpaXl5UFo4QXROdFhScEJ0LWJpVlNEam5Kc1pTaF9VUVE1SHdlb2swXzE3bFpZTlQwaTVHTlpTLTBZSGhUQW5MQUoyb1U3NmJ6Zm4wQzVRQmpoTzFsRzVrZWhoVDYwbENra2tNTE9scnJYTDNEXzVvcFdUbGtlVzd2NnQ3bU11UWNrXzRMS2Z1dGNYMVdrbkVLTkE?oc=5",
-      "pestel": [
-        "Economic"
-      ]
     },
     {
       "id": "e8e4c35a2c1b8d",
