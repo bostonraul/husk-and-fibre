@@ -1,6 +1,21 @@
 {
-  "generated_at": "2026-10-16T10:36:01+00:00",
+  "generated_at": "2026-10-17T07:46:32+00:00",
   "reports": [
+    {
+      "id": "87b3e5c2b6fb27",
+      "cadence": "daily",
+      "theme": "innovation",
+      "geography": "Rest of World",
+      "sector": "Agri-Products & Agro-Processing",
+      "segment": "agro-processing",
+      "date": "16 Oct 2026",
+      "published_at": "2026-10-16T11:08:31+00:00",
+      "headline": "Dhanuka Agritech launches herbicide for weed management in maize, sugarcane",
+      "summary": "This development affects the agri-products & agro-processing value chain. Open the original report for transaction details, timing and named counterparties.",
+      "signal": "Assess field performance, unit economics and the route from pilot deployment to repeatable commercial scale.",
+      "source": "BusinessLine",
+      "source_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPUDZ5UnVfZVM1OEZhVExJQndIZUdGQnIyVmNySjB3eHNHS1R1R3hUcElWMlVvZDcyMmhxVzIzZ1BHRUpfY3JkN1JjVzd4SXpzM1JfX0l2dTUyck5rbVdUTkUwLWlxM0N2elFPck9NamFFYkVsT0N5NTlxekZaTDh3ZVNLdDQxQzdDSk1DQU0xM0E1V3B4bWs4eGhQSldwUjNqX3ZpN29xX3V4cTNwemZjTkpES2VUZ0tzdGlrMTBKRF9PcXAzZnI0eGx1cWtxSmRZbmpVamRrbzZta1RiZWM3ZWkxZmRBVUZ50gHvAUFVX3lxTFBKWEdqNlVyYmlTb29RYXJBVFVlRE5CX2k2SVI5VFp5WUJuS0ZxU3pLNlFka3Y3T1B6YWF4eUFlcGFuYTVRb2xlQ0NFdER2dVY5M1JPNV9tMERaRkc4akE0Sy1NcjlmUUZaZlNxT0hRdUpWbzNFRDhJZHVwekd6aVlHT2p5OFhsRlNldlF6cHd3bVRpZVlVSlV2a2dORktfSWFLVjNhcWpKcEdfa2stN0l6bUZVbXdldGRQeTJfdmFKblM5TEUxRTlvNVBjMHp0aHhfRTRhdHU0V3ZVM2lfNUtuc3ZKdTN1Mk1kd19OTExr?oc=5"
+    },
     {
       "id": "2ad33e7b5f4beb",
       "cadence": "daily",
@@ -88,7 +103,7 @@
       ]
     },
     {
-      "id": "1f910449998dbc",
+      "id": "0c206f53674035",
       "cadence": "weekly",
       "theme": "pestel",
       "geography": "Uganda",
@@ -100,7 +115,7 @@
       "summary": "This development affects the regenerative farming value chain. Open the original report for transaction details, timing and named counterparties.",
       "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
       "source": "Nilepost",
-      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQVJOd2ZiZGl0ZE9hZ0ppUlNvbS1OUXFTeDZwTnpUSHkzMVpGNUVEN3NUUWdydEpMQ19OSXlxbnRaZDhnYkM2WENGX2g3SFZfQV9vX0tLbVdQdG5oVUpLdGtyWl9mZnBoNEdDVjF2SEN6MFdXZmhiUXpvUTV0cUoyaDZ1UjBOUm1VUVZvaVYxb096SEdEZDVkamJpWjFsVVNLcFlvSlJ3RWxIWVNldzlJVTR2bDVDRm1VMlJlOGV0dVFkUdIBwgFBVV95cUxOQVJOd2ZiZGl0ZE9hZ0ppUlNvbS1OUXFTeDZwTnpUSHkzMVpGNUVEN3NUUWdydEpMQ19OSXlxbnRaZDhnYkM2WENGX2g3SFZfQV9vX0tLbVdQdG5oVUpLdGtyWl9mZnBoNEdDVjF2SEN6MFdXZmhiUXpvUTV0cUoyaDZ1UjBOUm1VUVZvaVYxb096SEdEZDVkamJpWjFsVVNLcFlvSlJ3RWxIWVNldzlJVTR2bDVDRm1VMlJlOGV0dVFkUQ?oc=5",
+      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPczByWnNCekxQb2M2aUFMY180UWZGNW5TR0V1WlRRWW5BSmV1WG9LWGJRU194MkNGWjdtdWM2MWw1dVpoOEVFWlhzaDQtclJYd1g2aEtrRExOY015c1JDU0dtR2swdjFzSDZLdG1jdF9NV3hIb3EtU1RUMWdQSHZ4SXdUaUd0S2lqSUFjdXRpVWl4bnpCTWdJYWt4NU4xTTR4aFh6dG41N3UtUEdSeDRGal85RUdiTjJJUWfSAcIBQVVfeXFMTkFSTndmYmRpdGRPYWdKaVJTb20tTlFxU3g2cE56VEh5MzFaRjVFRDdzVFFncnRKTENfTkl5cW50WmQ4Z2JDNlhDRl9oN0hWX0Ffb19LS21XUHRuaFVKS3RrclpfZmZwaDRHQ1YxdkhDejBXV2ZoYlF6b1E1dHFKMmg2dVIwTlJtVVFWb2lWMW9PekhHRGQ1ZGpiaVoxbFVTS3BZb0pSd0VsSFlTZXc5SVU0dmw1Q0ZtVTJSZThldHVRZFE?oc=5",
       "pestel": [
         "Social"
       ]
@@ -188,21 +203,6 @@
       ]
     },
     {
-      "id": "434d99cd4f77f6",
-      "cadence": "weekly",
-      "theme": "pestel",
-      "geography": "India",
-      "sector": "Regenerative Farming",
-      "segment": "regenerative",
-      "date": "Week 42 · 2026",
-      "published_at": "2026-10-12T17:03:30+00:00",
-      "headline": "The Better Cotton Initiative is reshaping its model to establish itself as a benchmark for regenerative agriculture",
-      "summary": "This development affects the regenerative farming value chain. Open the original report for transaction details, timing and named counterparties.",
-      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
-      "source": "FashionNetwork India",
-      "source_url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPUnNkQ0h6SndnN09HZzROSlJXWXdVbXBzc1VUX0ZuZjNfdnk3OHdtZDZLbnlVVW5BQXFfOVlIR1ZxdTl0aVRTdjM1X3lILXNEeVNZNWlsLXJDZDBPdWFfQ3pTZTJ3eG42OElQNHVlQnFqWDFWUGstSmVWWlRvTVBqSHU3aVVJdTJxZGxrdFhNMTMxeDFRdXlTZnA2aXZlUnJOOFBuSURtdjhtVDVMZW4tR2R3QkNVWUZseFlyUzcxS1VzZHBFOFl2YjlyZ3EzUG9LWGNYa2piTnR0SEJJcnh1Qk5nMWU2V3JfM3JWYUFlQ0ZZcHAtRmc?oc=5"
-    },
-    {
       "id": "e8e4c35a2c1b8d",
       "cadence": "weekly",
       "theme": "pestel",
@@ -218,6 +218,24 @@
       "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBnZEtoeVh4VEY2X0tvY2hjblVIR2xFVXBmamNKRjdrbGQ5b2k3RUVkVHhySF9NQnRmaVFMQ25ScG5YLUFqM3BZTFl6Z2pBUEk0RS1kU3hwT0VGdXN3REZqdDhIVEQ?oc=5",
       "pestel": [
         "Economic"
+      ]
+    },
+    {
+      "id": "239fdace320686",
+      "cadence": "weekly",
+      "theme": "pestel",
+      "geography": "Rest of World",
+      "sector": "Regenerative Farming",
+      "segment": "regenerative",
+      "date": "Week 42 · 2026",
+      "published_at": "2026-10-12T07:00:00+00:00",
+      "headline": "Primient expands regenerative agriculture efforts to help boost farmer profitability",
+      "summary": "This development affects the regenerative farming value chain. Open the original report for transaction details, timing and named counterparties.",
+      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
+      "source": "Brownfield Ag News",
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUVhyM0dMSnF5dUJSc2g2aXZLdEpFeDV4OGdRMm5ZbURTTGVvSDZOMk9PUFpBNm01Tmo5dWdnSG5iYXpjV1pPWHZWODkwOEh0bUdJeE96bXprNUJiTjBiTW8ybkNwNWdlNnFZSE9qRk1vTlBuSnpPeGtFQ0FPR1JzNlBleWZ6X09UcGNzZU5rd1pLUFdyUEdGZ3I5NEFDRlAyVkRoRHBVOWFyM2dlQVJVRjJnMFB3MDVuZ2pR?oc=5",
+      "pestel": [
+        "Social"
       ]
     },
     {
@@ -238,21 +256,6 @@
         "Environmental"
       ],
       "segment": "carbon-credits"
-    },
-    {
-      "id": "edf5a9f7054e1e",
-      "cadence": "weekly",
-      "theme": "pestel",
-      "geography": "India",
-      "sector": "Microbial & Biofertilizers",
-      "segment": "microbial",
-      "date": "Week 41 · 2026",
-      "published_at": "2026-10-09T22:17:51+00:00",
-      "headline": "Absolute’s INERA begins commercial sales of biologicals in Kenya",
-      "summary": "This development affects the microbial & biofertilizers value chain. Open the original report for transaction details, timing and named counterparties.",
-      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
-      "source": "AgroSpectrum India",
-      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNLTF0bm1JZkZTXzJTWjJVSGZjRTNjMUdRRU04ZGg2dldKVGhYMm5HblBKV1diLWhqWDZUOF9LSkZZbGZudUZsb1Vxa2NoNS1fU1F3a0pGX3Q5eFdwOWplc1ptVXJLOWk4LWZMZnBUYmJjWUNTNGdRVDRiV2FOYmdhTTFLQVJoV1JPeDFzZ1YzVnljNUg4bTE2MWwyUHlwdGxHWHRaT1I5R0w3M1FOdHNFOXlB?oc=5"
     },
     {
       "id": "f1e0871d5cbd76",
