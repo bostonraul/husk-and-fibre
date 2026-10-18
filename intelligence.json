@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-10-17T07:46:32+00:00",
+  "generated_at": "2026-10-18T08:00:55+00:00",
   "reports": [
+    {
+      "id": "6f2efe3b2170ad",
+      "cadence": "weekly",
+      "theme": "pestel",
+      "geography": "Rest of World",
+      "sector": "Permaculture & Agroforestry",
+      "segment": "agroforestry",
+      "date": "Week 42 · 2026",
+      "published_at": "2026-10-17T19:11:34+00:00",
+      "headline": "Agroforestry emerges as a green investment path for Tanzania’s youth",
+      "summary": "This development affects the permaculture & agroforestry value chain. Open the original report for transaction details, timing and named counterparties.",
+      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
+      "source": "Daily News",
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVEdudWF6R1pwdkF4T0FiV0Q0WHNoM3RQaFNVQ0dlc1NNRmtZYlo1bzQ4ck9MWjE4TnlMVU9sLUN4Y0lZQllLc3JkSVdGLVREYXV5VUJaNldCNnhGR1BjMVVwLVM0T1JUSWMxdk9aclAyTXFOZ081ckJWZG5VV1gtMW1EbGNDNDhrdHhDc3RFU0s4YXJMdGFr?oc=5",
+      "pestel": [
+        "Environmental"
+      ]
+    },
+    {
+      "id": "e2b1411228f670",
+      "cadence": "daily",
+      "theme": "innovation",
+      "geography": "India",
+      "sector": "Agri-Products & Agro-Processing",
+      "segment": "agro-processing",
+      "date": "17 Oct 2026",
+      "published_at": "2026-10-17T10:18:45+00:00",
+      "headline": "UPES and IIT Guwahati partner to integrate AI across clean energy and agritech innovation ecosystem in India",
+      "summary": "This development affects the agri-products & agro-processing value chain. Open the original report for transaction details, timing and named counterparties.",
+      "signal": "Assess field performance, unit economics and the route from pilot deployment to repeatable commercial scale.",
+      "source": "AgroSpectrum India",
+      "source_url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPek5KQnhEcFp4MlJvSGphV1Z3bG0yRDdkUVFHYklxSVpWTjN0Q0VwQ045RXVTcXROMFo0Ui1tcDhOc2hYNWxJSVh3NXRScmx2QVdINE90cDJmQzBUcHl1YUFxUkpRRlJSaTlPWWwxUU9fU3dXbFdRMXZMVHdvV1Zpc0d0bjFMQ19UUm5GV25mUTI1WS0yLS1Jc0JZa2hReThUMGU5QkRrdXAtZXBZZGowTVA2TkhnOFJyQl9za1dzNGhIbUczSy1yeTc0TzdNX29YS2pZdnUwRHlGUHlOeXNrcVcwWmVlRk5wdVd1T25R?oc=5",
+      "pestel": [
+        "Technological"
+      ]
+    },
     {
       "id": "87b3e5c2b6fb27",
       "cadence": "daily",
