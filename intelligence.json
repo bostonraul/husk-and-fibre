@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T08:00:55+00:00",
+  "generated_at": "2026-10-19T08:50:45+00:00",
   "reports": [
     {
       "id": "6f2efe3b2170ad",
@@ -8,8 +8,8 @@
       "geography": "Rest of World",
       "sector": "Permaculture & Agroforestry",
       "segment": "agroforestry",
-      "date": "Week 42 · 2026",
-      "published_at": "2026-10-17T19:11:34+00:00",
+      "date": "Week 43 · 2026",
+      "published_at": "2026-10-19T07:09:58+00:00",
       "headline": "Agroforestry emerges as a green investment path for Tanzania’s youth",
       "summary": "This development affects the permaculture & agroforestry value chain. Open the original report for transaction details, timing and named counterparties.",
       "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
@@ -18,6 +18,21 @@
       "pestel": [
         "Environmental"
       ]
+    },
+    {
+      "id": "c3703985fd50b6",
+      "cadence": "daily",
+      "theme": "regulatory",
+      "geography": "Rest of World",
+      "sector": "Regenerative Farming",
+      "segment": "regenerative",
+      "date": "17 Oct 2026",
+      "published_at": "2026-10-17T11:29:19+00:00",
+      "headline": "From Plot to Policy: Evidence, Incentives and Convergence Needed to Scale Regenerative Agriculture",
+      "summary": "This development affects the regenerative farming value chain. Open the original report for transaction details, timing and named counterparties.",
+      "signal": "Review eligibility, compliance timelines and incentive access before committing capital.",
+      "source": "Global Agriculture",
+      "source_url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNYlhDbHA5TlMyU1Nob1NzMDNQcFJNbU4xTXlwRGI5VnJsSXdxVmNpQUVGcWQ0eDJrSWd6QlNjVWVTSjZSc2hKOEtSRTBvTWEyZ18tdEktdFQ1b0xxcWtac3ROTWM4eXQwQTVGMzRBTTRXRFp1R1AzTVVvbEQtQV9GLTlUaHFTS09GWHJJUXg4N1ZWcXNQMlFVSkRWSU1jWmw4LUplTk9sYmZ2bFA4eUFsUDR3NTdnOUlWNV81LWFUODYwOFlaNG4xXy1qb0M1VXlGT01zaXVlMjM1dXk0TmU2ZXprTklKSldzTUE?oc=5"
     },
     {
       "id": "e2b1411228f670",
@@ -139,6 +154,25 @@
       ]
     },
     {
+      "id": "cc0eb330d896ff",
+      "cadence": "daily",
+      "theme": "capital",
+      "geography": "Rest of World",
+      "sector": "Permaculture & Agroforestry",
+      "segment": "agroforestry",
+      "date": "14 Oct 2026",
+      "published_at": "2026-10-14T07:00:00+00:00",
+      "headline": "Haiti’s government and FAO call on development partners and investors to support agroforestry value chains",
+      "summary": "This development affects the permaculture & agroforestry value chain. Open the original report for transaction details, timing and named counterparties.",
+      "signal": "Compare the funding structure with project maturity, contracted demand and expected cash-flow timing.",
+      "source": "Food and Agriculture Organization",
+      "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNLUdhSHU5SnRnMC1UZ2R1ZjVMNUVULThReFVzdjBXdDl1YUY1bGkwaXAxdWh6ZGowZHNYcklmeTY3WHctd3h6SGJnUzNaQWZnUHducmZFNndoVW96NmtNUWZvLTFaYktqdG5jdGlUQUlOelBwb0RMd19Kb052dXlsUUxWYmFtSkUyUmczWQ?oc=5",
+      "pestel": [
+        "Political",
+        "Environmental"
+      ]
+    },
+    {
       "id": "0c206f53674035",
       "cadence": "weekly",
       "theme": "pestel",
@@ -237,6 +271,21 @@
         "Economic",
         "Environmental"
       ]
+    },
+    {
+      "id": "434d99cd4f77f6",
+      "cadence": "weekly",
+      "theme": "pestel",
+      "geography": "India",
+      "sector": "Regenerative Farming",
+      "segment": "regenerative",
+      "date": "Week 42 · 2026",
+      "published_at": "2026-10-12T17:03:30+00:00",
+      "headline": "The Better Cotton Initiative is reshaping its model to establish itself as a benchmark for regenerative agriculture",
+      "summary": "This development affects the regenerative farming value chain. Open the original report for transaction details, timing and named counterparties.",
+      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
+      "source": "FashionNetwork India",
+      "source_url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPUnNkQ0h6SndnN09HZzROSlJXWXdVbXBzc1VUX0ZuZjNfdnk3OHdtZDZLbnlVVW5BQXFfOVlIR1ZxdTl0aVRTdjM1X3lILXNEeVNZNWlsLXJDZDBPdWFfQ3pTZTJ3eG42OElQNHVlQnFqWDFWUGstSmVWWlRvTVBqSHU3aVVJdTJxZGxrdFhNMTMxeDFRdXlTZnA2aXZlUnJOOFBuSURtdjhtVDVMZW4tR2R3QkNVWUZseFlyUzcxS1VzZHBFOFl2YjlyZ3EzUG9LWGNYa2piTnR0SEJJcnh1Qk5nMWU2V3JfM3JWYUFlQ0ZZcHAtRmc?oc=5"
     },
     {
       "id": "e8e4c35a2c1b8d",
