@@ -1,6 +1,58 @@
 {
-  "generated_at": "2026-10-20T08:30:56+00:00",
+  "generated_at": "2026-10-21T08:33:16+00:00",
   "reports": [
+    {
+      "id": "1c82691f9edbbd",
+      "cadence": "weekly",
+      "theme": "pestel",
+      "geography": "Rest of World",
+      "sector": "Carbon Credits",
+      "segment": "carbon-credits",
+      "date": "Week 43 · 2026",
+      "published_at": "2026-10-20T19:25:46+00:00",
+      "headline": "Google and McKinsey Contract 320,000 Tonnes of Carbon Removal From Working Trees",
+      "summary": "This development affects the carbon credits value chain. Open the original report for transaction details, timing and named counterparties.",
+      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
+      "source": "ESG News",
+      "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBoU2lKNVZ2TnkwbzkzTnA5Tms3cUpfSmFBWnJuRlR0dUNabm1BMjE4cjl2aUtBWlA5UlVFN2p0dUhDQlFBcnMxXzl5NmNMa1c1MGw1aFp5SUY1dWoxREE?oc=5",
+      "pestel": [
+        "Environmental"
+      ]
+    },
+    {
+      "id": "e47a45b42d2e90",
+      "cadence": "weekly",
+      "theme": "pestel",
+      "geography": "Rest of World",
+      "sector": "Permaculture & Agroforestry",
+      "segment": "agroforestry",
+      "date": "Week 43 · 2026",
+      "published_at": "2026-10-20T18:08:11+00:00",
+      "headline": "BNDES Climate Fund Commits R$250M to Belterra For 4,000-Ha. Cocoa Agroforestry Development",
+      "summary": "This development affects the permaculture & agroforestry value chain. Open the original report for transaction details, timing and named counterparties.",
+      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
+      "source": "Agriculture Investment Marketplace",
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdTFmZW1GY3ZFOVVPRFpVV00wOVBOS2NTay1RdlN0dU5vY285dW5Mdml1T1lJNFcwQTh5RWl1aUlDZEthMkxTWFJWWHFmWXFZN3lZb0dmaC1heVBuV3UzQWZtNkhPX1RWbHpzUnpnZDhDZVVBR1lNT091aE5Fd1dMRWFEVmR0LWFWdGlyTFBrZHp0cC1aWjdRQjhGLWNNbmdwQjI5VlVfUFBQSDhqUjJxOUdxQ09yZC1lanllQ3VBdw?oc=5",
+      "pestel": [
+        "Economic",
+        "Environmental"
+      ]
+    },
+    {
+      "id": "2dc9daa04915ca",
+      "cadence": "weekly",
+      "theme": "pestel",
+      "geography": "Rest of World",
+      "sector": "Regenerative Farming",
+      "segment": "regenerative",
+      "date": "Week 43 · 2026",
+      "published_at": "2026-10-20T08:22:11+00:00",
+      "headline": "Regenerative agriculture and Europe's circular future",
+      "summary": "This development affects the regenerative farming value chain. Open the original report for transaction details, timing and named counterparties.",
+      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
+      "source": "Lombard Odier",
+      "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPa2VLQkJQMEpkUGJOaVp5V1JNZ1BXNDVRcUtXMkdITWZTcmlLRUlXaWtiRlNZbDZBWnJpWkdlSWdXOHJjbGFtMHF1MXhsRXhlUWdEU3BsYklUd3ptb1ZicXNCQVNUZ2t3RGxYa24tNmcwTU9tdENKTnNtRjhVdl9GUGZuNmczV25IRUhr?oc=5"
+    },
     {
       "id": "078f705efac348",
       "cadence": "weekly",
@@ -9,7 +61,7 @@
       "sector": "Microbial & Biofertilizers",
       "segment": "microbial",
       "date": "Week 43 · 2026",
-      "published_at": "2026-10-20T05:56:40+00:00",
+      "published_at": "2026-10-20T05:56:41+00:00",
       "headline": "Liquid Biofertilizer Manufacturing Plant Setup in India",
       "summary": "This development affects the microbial & biofertilizers value chain. Open the original report for transaction details, timing and named counterparties.",
       "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
@@ -282,21 +334,6 @@
       "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
       "source": "RTI International",
       "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1pSDlVVzJlSENBOWxidmdTLTMwSEFfV00zSDFwQ0g1SHZ0MzNHT3VoeldrcjVrR3MtN3JMUFRDQnhJbHd2d3VicEJPdVZmLVRTQ20wZXRvZTZsa0l2aFlKcEMzejRaR2VQZlQybENnVFpqZVczdTNXUWk4X3o?oc=5"
-    },
-    {
-      "id": "cd18d62a19c626",
-      "cadence": "weekly",
-      "theme": "pestel",
-      "geography": "India",
-      "sector": "Regenerative Farming",
-      "segment": "regenerative",
-      "date": "Week 42 · 2026",
-      "published_at": "2026-10-13T12:36:17+00:00",
-      "headline": "Can regenerative agriculture become agriculture’s new mainstream?",
-      "summary": "This development affects the regenerative farming value chain. Open the original report for transaction details, timing and named counterparties.",
-      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
-      "source": "AgroSpectrum India",
-      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWXd5OVQzcEdnXzZDaDhZYXB4dUdzNFFzMUQtaXpVdkNrY3VzZjZBektHdzM3VUM0Tjg5Z1F5RXVEcjZmRk9nWVFQVnNXcmhtSWVCWE02UjhWTVdHc1pZeGR5UUxHUXlXVnZHbmR2THhnS0J4amJfX0Z5VUprRWdoLTRjWDdxNnQxSmF6a3BaakRwNzBUN1AyODhGTjRvWHAtYUFOcVBaNl9WNlU3TU5iOEI2TGRPWVJQWmc?oc=5"
     },
     {
       "id": "99f9b179d33fc6",
