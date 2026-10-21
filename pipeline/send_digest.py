@@ -6,6 +6,7 @@ from __future__ import annotations
 import argparse
 import json
 import os
+import re
 import sys
 import time
 from collections import defaultdict
@@ -249,6 +250,19 @@ def render_email(subscriber: dict, reports: list[dict], cadence: str) -> tuple[s
     return subject, html
 
 
+def sanitize_from_address(value: str) -> str:
+    cleaned = value.strip().strip('"').strip("'").replace("\r", " ").replace("\n", " ")
+    cleaned = re.sub(r"\s+", " ", cleaned).strip()
+    _, email = parseaddr(cleaned)
+    if "@" in email and "." in email.split("@")[-1]:
+        return cleaned
+    raise ValueError(
+        "RESEND_FROM is not a valid sender. Use either "
+        "`briefings@yourdomain.com` or `Soul Agri <briefings@yourdomain.com>` "
+        "with no extra quotes."
+    )
+
+
 def send_email(api_key: str, from_address: str, to_address: str, subject: str, html: str) -> None:
     response = requests.post(
         RESEND_URL,
@@ -286,10 +300,18 @@ def run() -> int:
         return 0
 
     api_key = os.environ.get("RESEND_API_KEY", "").strip()
-    from_address = os.environ.get("RESEND_FROM", "").strip()
-    if not args.dry_run and (not api_key or not from_address):
+    raw_from = os.environ.get("RESEND_FROM", "").strip()
+    if not args.dry_run and (not api_key or not raw_from):
         print("RESEND_API_KEY and RESEND_FROM are required to send mail.", file=sys.stderr)
         return 1
+    try:
+        from_address = sanitize_from_address(raw_from) if raw_from else ""
+    except ValueError as error:
+        print(str(error), file=sys.stderr)
+        return 1
+    if from_address:
+        _, from_email = parseaddr(from_address)
+        print(f"Sending as {mask_email(from_email)}")
 
     sent = 0
     skipped = 0
