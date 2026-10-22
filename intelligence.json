@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-10-21T08:33:16+00:00",
+  "generated_at": "2026-10-22T08:35:20+00:00",
   "reports": [
+    {
+      "id": "73eb12a36e2d25",
+      "cadence": "weekly",
+      "theme": "pestel",
+      "geography": "India",
+      "sector": "Bio-Based Materials",
+      "segment": "bbm",
+      "date": "Week 43 · 2026",
+      "published_at": "2026-10-21T10:19:07+00:00",
+      "headline": "India Bioplastics Market 2026-2034: Size, Share, Key Trends, Growth Rate, Top Players & Forecast Report",
+      "summary": "This development affects the bio-based materials value chain. Open the original report for transaction details, timing and named counterparties.",
+      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
+      "source": "openPR.com",
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZ2lqWUNmWXRoS2ZxME9QNnZ4V0otdnQySW5MYmZZOC02M1dVXzBQcWdIRlMzMEFqbVJZMm1tZmR5anlRZGsxcTJRZDFaZ1drazNrN0VzQWJGeXhqT2RfempkV2lJc0p4a1kweGNiczQtTWVPT0VXU3otTVB4STJtYzktcUJVWFhSdTMxQlJZZFJHTVdLaTZr?oc=5",
+      "pestel": [
+        "Economic"
+      ]
+    },
     {
       "id": "1c82691f9edbbd",
       "cadence": "weekly",
@@ -33,6 +51,43 @@
       "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
       "source": "Agriculture Investment Marketplace",
       "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdTFmZW1GY3ZFOVVPRFpVV00wOVBOS2NTay1RdlN0dU5vY285dW5Mdml1T1lJNFcwQTh5RWl1aUlDZEthMkxTWFJWWHFmWXFZN3lZb0dmaC1heVBuV3UzQWZtNkhPX1RWbHpzUnpnZDhDZVVBR1lNT091aE5Fd1dMRWFEVmR0LWFWdGlyTFBrZHp0cC1aWjdRQjhGLWNNbmdwQjI5VlVfUFBQSDhqUjJxOUdxQ09yZC1lanllQ3VBdw?oc=5",
+      "pestel": [
+        "Economic",
+        "Environmental"
+      ]
+    },
+    {
+      "id": "8af81e916acb69",
+      "cadence": "weekly",
+      "theme": "pestel",
+      "geography": "Rest of World",
+      "sector": "Carbon Credits",
+      "segment": "carbon-credits",
+      "date": "Week 43 · 2026",
+      "published_at": "2026-10-20T16:53:36+00:00",
+      "headline": "Google and McKinsey Back Brazil Silvopasture Project in 320,000-Tonne Carbon Removal Deal",
+      "summary": "This development affects the carbon credits value chain. Open the original report for transaction details, timing and named counterparties.",
+      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
+      "source": "CarbonCredits.com",
+      "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUEZtdnVqd1dvYlUyV2NWVVdUNHFxeEVGTUpRQmt3bGlWYnhNSm92ZXN2ZzRJM0hEN3dlZGJZaFJPMmxBcVhDQ0FQMjlpTlVNcnVNTzJudEFlTE45ZDNDSmlrS2M4Wnl3RXg1Z3VzUHViWWR4STNQLUZIb1YxY2RMaHZMVQ?oc=5",
+      "pestel": [
+        "Environmental"
+      ]
+    },
+    {
+      "id": "bead3c3b74d983",
+      "cadence": "weekly",
+      "theme": "pestel",
+      "geography": "Rest of World",
+      "sector": "Carbon Credits",
+      "segment": "carbon-credits",
+      "date": "Week 43 · 2026",
+      "published_at": "2026-10-20T16:50:57+00:00",
+      "headline": "Philippines Moves to Build National Carbon Market Under New Executive Order",
+      "summary": "This development affects the carbon credits value chain. Open the original report for transaction details, timing and named counterparties.",
+      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
+      "source": "CarbonCredits.com",
+      "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPbWxWMWs5U05IWWQ4b04wMWZRNHA4WWs4Mnhpa0t4TW82aVRKb0N2TEJCMWxXRC15M25IN2RaejlUdWdJTFo2RGVYMTBxSUNWUWFlQlgwMGJobk90dGF6aXZia0VTQW92UFNnbklMLWpTLUY4eWkxS0VIX3I1QzBTNVY4QmEyWEFoeWw1SXFpU053c1JrLXlpajljbnd6VTl2Zm92YXdmSWE5b0VSbXY5cFExcHRUcU1IUXFLYWVmWkRmZFZpRFRzdHl1bUVBRW1jT19IVEFGNzROTGNLb0s0?oc=5",
       "pestel": [
         "Economic",
         "Environmental"
@@ -87,19 +142,19 @@
       ]
     },
     {
-      "id": "cc952a2e1749fe",
+      "id": "ca303ca33983db",
       "cadence": "weekly",
       "theme": "pestel",
       "geography": "Rest of World",
       "sector": "Carbon Credits",
       "segment": "carbon-credits",
       "date": "Week 43 · 2026",
-      "published_at": "2026-10-19T13:52:47+00:00",
+      "published_at": "2026-10-19T16:18:18+00:00",
       "headline": "Google, McKinsey strike Brazil carbon removal deal with silvopasture project",
       "summary": "This development affects the carbon credits value chain. Open the original report for transaction details, timing and named counterparties.",
       "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
-      "source": "KELO-AM",
-      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdUpqaUVkcGt0cHJkN1kzbk5wb2JkQ2MwNVlFblJTamRHUW1RNEhDOGhLb09KcVRzTDY1S3l6cm5CX3ZORFBwdm5VWXo2cEZXTzVkaThmenBhT0lPS2NCTF9SbnBVczdzUmhlT2QtaUdEMHRqUU5BSFlpcDJ2RTByM3kzcFN1Mk95U0ZQc0U0eEVIZFNsZzJ2c05uOXlJTTRRcmduNFlTQQ?oc=5",
+      "source": "Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZ3dueURyYnIwanJiVVIyLXdGYnJhTzRVMTV6bnc4WnZtRjhIWmQ3X0JyOHhjX1l3c0JpV1dqcTlBQ2RYdUE2NlIzYkFWcVljMGJGa25uUTFJMU81YXFQdDVrREtMeThDa3djVlcycWZxZW54dFpZOGhWNWhfZDYyWm5uVkNnV2pNZ0RRbmxkYmZGV0JjdFFDbXlhRnN2WUdjQ0NBN2podGdJcmhidkJTMVo5blVST0N3dV9JWjM3TDdFaVF2RWlKMzIwQ3E?oc=5",
       "pestel": [
         "Environmental"
       ]
