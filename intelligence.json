@@ -1,6 +1,108 @@
 {
-  "generated_at": "2026-10-22T08:35:20+00:00",
+  "generated_at": "2026-10-23T08:31:26+00:00",
   "reports": [
+    {
+      "id": "a1f96353ea03fb",
+      "cadence": "weekly",
+      "theme": "pestel",
+      "geography": "India",
+      "sector": "Microbial & Biofertilizers",
+      "segment": "microbial",
+      "date": "Week 43 · 2026",
+      "published_at": "2026-10-23T06:45:06+00:00",
+      "headline": "India Agricultural Biologicals Market 2026-2034: 11.71% CAGR Drives Growth to USD 3.15 Billion",
+      "summary": "This development affects the microbial & biofertilizers value chain. Open the original report for transaction details, timing and named counterparties.",
+      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
+      "source": "openPR.com",
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUFhma05UZm55dXhxMlhKX3BCQnVVdHJKeEdZeU1FQnpySjFlckVDa19vTWphUGdxVkdoZExHalBMUW1vanNuZkhoODV2Y3ZPTlNBSnJfVXJhNmFDYm1pWUg5MUhfTUJXaW41YUpUMmJoX2JBYzF4eFNlRmJhenN5U29VanZoakR3ZlNKLUhhNy1ObzctMGpVcnl3?oc=5",
+      "pestel": [
+        "Economic"
+      ]
+    },
+    {
+      "id": "e2b1411228f670",
+      "cadence": "daily",
+      "theme": "innovation",
+      "geography": "India",
+      "sector": "Agri-Products & Agro-Processing",
+      "segment": "agro-processing",
+      "date": "23 Oct 2026",
+      "published_at": "2026-10-23T01:42:53+00:00",
+      "headline": "UPES and IIT Guwahati partner to integrate AI across clean energy and agritech innovation ecosystem in India",
+      "summary": "This development affects the agri-products & agro-processing value chain. Open the original report for transaction details, timing and named counterparties.",
+      "signal": "Assess field performance, unit economics and the route from pilot deployment to repeatable commercial scale.",
+      "source": "AgroSpectrum India",
+      "source_url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPek5KQnhEcFp4MlJvSGphV1Z3bG0yRDdkUVFHYklxSVpWTjN0Q0VwQ045RXVTcXROMFo0Ui1tcDhOc2hYNWxJSVh3NXRScmx2QVdINE90cDJmQzBUcHl1YUFxUkpRRlJSaTlPWWwxUU9fU3dXbFdRMXZMVHdvV1Zpc0d0bjFMQ19UUm5GV25mUTI1WS0yLS1Jc0JZa2hReThUMGU5QkRrdXAtZXBZZGowTVA2TkhnOFJyQl9za1dzNGhIbUczSy1yeTc0TzdNX29YS2pZdnUwRHlGUHlOeXNrcVcwWmVlRk5wdVd1T25R?oc=5",
+      "pestel": [
+        "Technological"
+      ]
+    },
+    {
+      "id": "75cc5aa3564034",
+      "cadence": "weekly",
+      "theme": "pestel",
+      "geography": "Rest of World",
+      "sector": "Biochar & Activated Carbon",
+      "segment": "biochar",
+      "date": "Week 43 · 2026",
+      "published_at": "2026-10-22T18:50:56+00:00",
+      "headline": "Fayetteville PWC breaks ground on new Granular Activated Carbon System",
+      "summary": "This development affects the biochar & activated carbon value chain. Open the original report for transaction details, timing and named counterparties.",
+      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
+      "source": "Greater Fayetteville Business Journal",
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTE9CTmNOWENBNnRIcVhmcWRpdTdNeEVKTFZibjlpV0NLOHJOZXFXX3QwUHFmTUt2X1BFRF9LUmJ5NUlqWXNSd1R3dDhRRGxYWWFoTTZUVG5RSzRyajlIUlJkSWxwS3RMUnhTY3NHYTNRZndESDdkdTU3Q3MwYTE1ZkFmMnlKZ3BjY3JueXJLbVB0Wk5PYUd2NXN5elVGOTZMTTlvLWktclo1YldsZXVLbWZlSjRLM2xxWFI4MTJGUTFWaGEwQVVCcjZRUE1UbnVxVFdB?oc=5",
+      "pestel": [
+        "Environmental"
+      ]
+    },
+    {
+      "id": "856d4e4890171d",
+      "cadence": "daily",
+      "theme": "deals",
+      "geography": "Rest of World",
+      "sector": "Agri-Products & Agro-Processing",
+      "segment": "agro-processing",
+      "date": "22 Oct 2026",
+      "published_at": "2026-10-22T17:20:41+00:00",
+      "headline": "MISTI eyes agro-processing boost through FAO partnership",
+      "summary": "This development affects the agri-products & agro-processing value chain. Open the original report for transaction details, timing and named counterparties.",
+      "signal": "Track counterparties, valuation signals and local market-access advantages created by the transaction.",
+      "source": "Khmer Times",
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUk1ENlRJM2poVkN4VjVFai1ENWRKRU9EZ05WNGl3VWdWLTBMZldabzlxaGJYZW1ieXpYSjM0NkZfbEYyX05jNW14RnlrVzB1M1luRER0U1UxNkN4dXhHTGIzTkJSNFA2ZURFSFlmc2puZ25tV2xJc19UeEdtU09OWFNfTWQ5bTVwNDlNcG9fTlc2YkZ3dXA5cVlLang?oc=5"
+    },
+    {
+      "id": "036a996632aa05",
+      "cadence": "daily",
+      "theme": "innovation",
+      "geography": "Rest of World",
+      "sector": "Microbial & Biofertilizers",
+      "segment": "microbial",
+      "date": "22 Oct 2026",
+      "published_at": "2026-10-22T15:09:48+00:00",
+      "headline": "Agricultural Biologicals Attract Global Investment as U.S. Innovation and Brazil Drive Growth",
+      "summary": "This development affects the microbial & biofertilizers value chain. Open the original report for transaction details, timing and named counterparties.",
+      "signal": "Assess field performance, unit economics and the route from pilot deployment to repeatable commercial scale.",
+      "source": "AgroLatam",
+      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQa1p5TE9CVUl5dzZjWTJ4dXNaQ2ZvSmgxbUtJTEE5LWp3TG1EVzk2Q19UY1p2MEdqTFBjMEZLRk1TUVBYMFh5RF82RWs5X1FFM1V0RlhjUzY1Q0tsajBmWFFOcFV6M1JpZnZ1Q1dwazlscFVzNXpPYkprMU53RFRBWW1VQ2d0ZEVJWEotZDAycE5EYUo2ZDJiNFc1dWUtekw1c2R6WnZzMmJGbXJya0taU2NHTTdHdw?oc=5",
+      "pestel": [
+        "Technological"
+      ]
+    },
+    {
+      "id": "a26356f0b3d41b",
+      "cadence": "daily",
+      "theme": "deals",
+      "geography": "India",
+      "sector": "Agri-Products & Agro-Processing",
+      "segment": "agro-processing",
+      "date": "22 Oct 2026",
+      "published_at": "2026-10-22T11:37:41+00:00",
+      "headline": "𝐊𝐞𝐧𝐲𝐚 𝐞𝐱𝐩𝐥𝐨𝐫𝐢𝐧𝐠 𝐢𝐧𝐯𝐞𝐬𝐭𝐦𝐞𝐧𝐭 𝐢𝐧 𝐫𝐢𝐜𝐞 𝐩𝐫𝐨𝐝𝐮𝐜𝐭𝐢𝐨𝐧, 𝐜𝐮𝐭 𝐢𝐦𝐩𝐨𝐫𝐭𝐬, 𝐜𝐫𝐞𝐚𝐭𝐞 𝐣𝐨𝐛𝐬 Kenya is seeking strategic partnerships with Indian agro-processing firms to expand domestic rice production",
+      "summary": "This development affects the agri-products & agro-processing value chain. Open the original report for transaction details, timing and named counterparties.",
+      "signal": "Track counterparties, valuation signals and local market-access advantages created by the transaction.",
+      "source": "Facebook",
+      "source_url": "https://news.google.com/rss/articles/CBMizghBVV95cUxQanVWLThMbm1Yam1QWGR4eHZlLWhHRGpBZndfZk1YU2ladUtSQ2hHSllDQ2lITndSM1kxenU1dUR3VW81WmNENEhUX080OHNRV0VGRkJYWE5obVI0X0tYQXljU3ZGaDQ0Y05yc0lMbkNJOGhXV2lKMnMzaUdReGNGQTBHUkNkelBLbEs3WUxKZ21PVi1CQ01kMmhldnVITXQySWV6NUJsZUhIQUJsczVMMFZFT0pyeWdURGM3eWxFUHotVVExSmJXUENwb2oxcUo5NVd2RG1XTF9yN0Y4d3BobEN0VmFGbzdVc3FTdkRDMFFGd1RSRldFdk0tRHJwaEtrZEdOX21lOVMyX2ZVTHRLRkwyNFU3ZGEteDdGOFpBOTk2RGlvNWhHNi1EUHJUTk9JLUVXcG41cHBkckphWC1WR09ONGhNQmV0Rk9NN3dIeG5wVkQwZU1RM29nOU1XSjZwXzFTT2dpVG9GVXNJME1FbzVOYVhhLWVtbkI3d2MweU5rMEN0OXZ3bDk5MXRRSjFRT0lDbGtYS2RVaFZ6eG5obzN4d29BYXg1SXpHTktiRXh2aXVDLUVRMVBaX1RpXzFZSENVdEhiRU5kclBvRDlRMGl4djl4Zl9YWW5TdkpGNHNIaE56X2k2UGFaSlkwM3hhRXBabXhRdWpWcDN3ZGFVT1lidzZuekFVLXh3QXJyanJIdHRlX2RwN20tMVI5VWx4MFYxdFhmMEhDYkU2Y0cwVUJDMzU0dlkyZlpwcDdjVDRVS2NtUm56SFhDbkFucEV2WC1xSFByb0lGdFoxREZFcG5qcWpRVTNFTTdQYU56YzJDMWJHUjhUelJpUUYtcW1vRkc0bWtmV055VHpSQjFaZTZUd19fM3NkOVpCQ0dKYzlGanQ2NUJSQ0pQSjhWTWhnREZNRW9QSjdRakt4X0xnemhCTkpUR1JpNFJiUmNtTlU3YXF0WldBODEzek1sWTR6LWZtcHlVODZsUzBLNkFoZmQ1MU5TRm1Lb1l4WTQxVjRCWi1kT0FTZDcyQTFVWVZPek5tQzMwUWllbkJYNGFBaEV3akMxYmNxd1Jjb25TemdEMmZ0YzNjMkFMODNLelkzQTN4YW8wU2hGM1hzTWlYbmV1MG5Wc2NZR3BZZHhsR0NpY0pNTmg2bnItdnN4bXNqQ2x2WjN1NTZsekF0bkRIa2swcjQ2bU1PVHh2X0JJWFBVLUlfQnBIZmd0WFFnMXJxNXExLWYzbEpib2tVVUJRcm02WUhUblpFUVBQRks4YWlVeG5NLW9iTGRLdERZc3R3eEhQNmU0QVhMRU5HcVBLRWNDLVp1aHE5aUMxUkRlZHRITDdGMEZhdE9jRzJFNWRkTVFocXpIUlBqaGFreU1NT2xuOVVYanVOYUZFekZFNkE0M0xwV2JSXzNvaVhLcnBYdldtN0c5dEFkVUxJRHB5dmZzekFGUFZlTmh4Q2Vn?oc=5"
+    },
     {
       "id": "73eb12a36e2d25",
       "cadence": "weekly",
@@ -124,37 +226,19 @@
       "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUjlTYm9oSFRTWVQzMnM4b0FfczJ4bURTcXdHekhLREl6clFxNkExVkRRel9namgxWWhyTGl5VTQ5d1RXcjhXZEV5MzhlMko3SkxDZXdUaXZvT0k4QTRoR2wzQmFiZTZwZWg3TkFCVHhjZUFfaW9jSXNOUTFtMVdBeDlnaTlNWVlwMElGdElOVEhmcHJGT000?oc=5"
     },
     {
-      "id": "e2b1411228f670",
-      "cadence": "daily",
-      "theme": "innovation",
-      "geography": "India",
-      "sector": "Agri-Products & Agro-Processing",
-      "segment": "agro-processing",
-      "date": "20 Oct 2026",
-      "published_at": "2026-10-20T03:25:17+00:00",
-      "headline": "UPES and IIT Guwahati partner to integrate AI across clean energy and agritech innovation ecosystem in India",
-      "summary": "This development affects the agri-products & agro-processing value chain. Open the original report for transaction details, timing and named counterparties.",
-      "signal": "Assess field performance, unit economics and the route from pilot deployment to repeatable commercial scale.",
-      "source": "AgroSpectrum India",
-      "source_url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPek5KQnhEcFp4MlJvSGphV1Z3bG0yRDdkUVFHYklxSVpWTjN0Q0VwQ045RXVTcXROMFo0Ui1tcDhOc2hYNWxJSVh3NXRScmx2QVdINE90cDJmQzBUcHl1YUFxUkpRRlJSaTlPWWwxUU9fU3dXbFdRMXZMVHdvV1Zpc0d0bjFMQ19UUm5GV25mUTI1WS0yLS1Jc0JZa2hReThUMGU5QkRrdXAtZXBZZGowTVA2TkhnOFJyQl9za1dzNGhIbUczSy1yeTc0TzdNX29YS2pZdnUwRHlGUHlOeXNrcVcwWmVlRk5wdVd1T25R?oc=5",
-      "pestel": [
-        "Technological"
-      ]
-    },
-    {
-      "id": "ca303ca33983db",
+      "id": "ec6e3602a9a97f",
       "cadence": "weekly",
       "theme": "pestel",
       "geography": "Rest of World",
       "sector": "Carbon Credits",
       "segment": "carbon-credits",
       "date": "Week 43 · 2026",
-      "published_at": "2026-10-19T16:18:18+00:00",
+      "published_at": "2026-10-19T13:27:02+00:00",
       "headline": "Google, McKinsey strike Brazil carbon removal deal with silvopasture project",
       "summary": "This development affects the carbon credits value chain. Open the original report for transaction details, timing and named counterparties.",
       "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
-      "source": "Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZ3dueURyYnIwanJiVVIyLXdGYnJhTzRVMTV6bnc4WnZtRjhIWmQ3X0JyOHhjX1l3c0JpV1dqcTlBQ2RYdUE2NlIzYkFWcVljMGJGa25uUTFJMU81YXFQdDVrREtMeThDa3djVlcycWZxZW54dFpZOGhWNWhfZDYyWm5uVkNnV2pNZ0RRbmxkYmZGV0JjdFFDbXlhRnN2WUdjQ0NBN2podGdJcmhidkJTMVo5blVST0N3dV9JWjM3TDdFaVF2RWlKMzIwQ3E?oc=5",
+      "source": "WTVB",
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcENEVDZYTUdydFEzdHRmMnFzQmZLUHk3YmxNYms3U09WcndwMmNBT1hXYTRjcTZtREtCSFVmSWp1T2FKcXBfZ3FGU2FPbHVDell4bWJKLUNhOXIwZXV4anliVk1PWTlmeGNGX3Q4WnlETjEyNVlaZ2hmblFqZnhzckFXdnNWYmVfZ1NfRDJvR3p5WjM5UTFhekhWMDhkbHF5WHhHYWt2RVIwQQ?oc=5",
       "pestel": [
         "Environmental"
       ]
@@ -206,6 +290,24 @@
       "signal": "Review eligibility, compliance timelines and incentive access before committing capital.",
       "source": "Global Agriculture",
       "source_url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNYlhDbHA5TlMyU1Nob1NzMDNQcFJNbU4xTXlwRGI5VnJsSXdxVmNpQUVGcWQ0eDJrSWd6QlNjVWVTSjZSc2hKOEtSRTBvTWEyZ18tdEktdFQ1b0xxcWtac3ROTWM4eXQwQTVGMzRBTTRXRFp1R1AzTVVvbEQtQV9GLTlUaHFTS09GWHJJUXg4N1ZWcXNQMlFVSkRWSU1jWmw4LUplTk9sYmZ2bFA4eUFsUDR3NTdnOUlWNV81LWFUODYwOFlaNG4xXy1qb0M1VXlGT01zaXVlMjM1dXk0TmU2ZXprTklKSldzTUE?oc=5"
+    },
+    {
+      "id": "c9700079457932",
+      "cadence": "daily",
+      "theme": "innovation",
+      "geography": "Uganda",
+      "sector": "Agri-Products & Agro-Processing",
+      "segment": "agro-processing",
+      "date": "16 Oct 2026",
+      "published_at": "2026-10-16T15:13:07+00:00",
+      "headline": "WORD FOOD DAY: Uganda turns to farm technology as WFP warns El Niño threatens hunger gains",
+      "summary": "This development affects the agri-products & agro-processing value chain. Open the original report for transaction details, timing and named counterparties.",
+      "signal": "Assess field performance, unit economics and the route from pilot deployment to repeatable commercial scale.",
+      "source": "PML Daily",
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdkVTb3ZYZ2U5aTE3RlBGOFF0MTI5VGlVU0NEVjJYck90akRWd0Ztd012ak1pZlpqUkRPcnZnTGJmQko5Wkp1SVRfNTBySXgtY1lTSV93V2NyWUE2aFVScmtqVmltcXhHektUaXJxcGlMTTZEcGFDbWRub2J1UTZkSXdKNlc4TmdkOWF3MlI3WXJDMUtrS1d3RnJjRFloUVJYbzItSGJla3VJcDBPaUptLVU4X3VTcGVLMGYxbFBkcF9rUWFmTWdV?oc=5",
+      "pestel": [
+        "Technological"
+      ]
     },
     {
       "id": "87b3e5c2b6fb27",
