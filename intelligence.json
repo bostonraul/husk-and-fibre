@@ -1,6 +1,63 @@
 {
-  "generated_at": "2026-10-23T08:31:26+00:00",
+  "generated_at": "2026-10-24T08:06:35+00:00",
   "reports": [
+    {
+      "id": "4442e366f2dcf1",
+      "cadence": "weekly",
+      "theme": "pestel",
+      "geography": "Rest of World",
+      "sector": "Regenerative Farming",
+      "segment": "regenerative",
+      "date": "Week 43 · 2026",
+      "published_at": "2026-10-23T16:34:42+00:00",
+      "headline": "Florida Farmers Are Making The Move To Regenerative Agriculture",
+      "summary": "This development affects the regenerative farming value chain. Open the original report for transaction details, timing and named counterparties.",
+      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
+      "source": "CleanTechnica",
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbWJueENubDFSVEduaTZpWUtpQnVEZG5jcTNQRXlYUGU3VnlUZmZzSzk0VExhM1luMnpxMS11aDNPV0xrbUQtRXBibW5PczlDUkZIb2JGV2w2UG9Zc3JBWDNESTBBbXFscWR0WGdXMTFtSTBXLUtNWi0yUFlkVVdfTDhmZHYyWVhFN1BIVEU1UHRmZXdvWXMwMEVLS1FfOHgwczFR?oc=5",
+      "pestel": [
+        "Social"
+      ]
+    },
+    {
+      "id": "33d2e190541130",
+      "cadence": "daily",
+      "theme": "innovation",
+      "geography": "Rest of World",
+      "sector": "Carbon Credits",
+      "segment": "carbon-credits",
+      "date": "23 Oct 2026",
+      "published_at": "2026-10-23T13:22:58+00:00",
+      "headline": "Carbon Removal Technology Market Gains Momentum as Climeworks",
+      "summary": "This development affects the carbon credits value chain. Open the original report for transaction details, timing and named counterparties.",
+      "signal": "Assess field performance, unit economics and the route from pilot deployment to repeatable commercial scale.",
+      "source": "openPR.com",
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQOExnUjJhOHlfQ3dGdzM5UkxxYkxEOUI0cF9pMUFWV1YxNGlQY29SNnplTTFQcUoxZ3hscl9MNk1nQW5hYTBxU29hcnFRSXp2MWVhem1qcllxcmNDb01fWHRFQnJRZEIzZVhuUU0tNnlwSENIdDdtTjl2cE53ZGZNU3dsNTB4NGJBSUx0SzlWVGFfdU5ydTBEYmt6RkFFdw?oc=5",
+      "pestel": [
+        "Economic",
+        "Technological",
+        "Environmental"
+      ]
+    },
+    {
+      "id": "fe5f84563f9487",
+      "cadence": "weekly",
+      "theme": "pestel",
+      "geography": "India",
+      "sector": "Carbon Credits",
+      "segment": "carbon-credits",
+      "date": "Week 43 · 2026",
+      "published_at": "2026-10-23T11:14:26+00:00",
+      "headline": "The real test of India’s carbon market is getting the price right",
+      "summary": "This development affects the carbon credits value chain. Open the original report for transaction details, timing and named counterparties.",
+      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
+      "source": "Carbon Copy",
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRC1SQk1wMWtKbVk0RGFfVjJtbUcyOThaMEVMNFJodTFxc1dMV3dGZml0d09NMGFaZktSUkNXTzcxaVd0NDlOSVE3a2ttRjhyeDFQTGVqN3ZvOTZkVC1UT2J4SGE3SW5KNkVZV05tNGdoaThfZURFYjdPVmRvNTFzWlBTbVFlc0hLa1dsTVAyUzBHMlpYX3dmbw?oc=5",
+      "pestel": [
+        "Economic",
+        "Environmental"
+      ]
+    },
     {
       "id": "a1f96353ea03fb",
       "cadence": "weekly",
@@ -266,7 +323,7 @@
       "sector": "Permaculture & Agroforestry",
       "segment": "agroforestry",
       "date": "Week 43 · 2026",
-      "published_at": "2026-10-19T07:09:58+00:00",
+      "published_at": "2026-10-19T07:00:00+00:00",
       "headline": "Agroforestry emerges as a green investment path for Tanzania’s youth",
       "summary": "This development affects the permaculture & agroforestry value chain. Open the original report for transaction details, timing and named counterparties.",
       "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
@@ -1072,27 +1129,6 @@
         "Environmental"
       ],
       "segment": "carbon-credits"
-    },
-    {
-      "id": "a57acb9071cd99",
-      "cadence": "daily",
-      "theme": "innovation",
-      "geography": "India",
-      "sector": "Agri-Products & Agro-Processing",
-      "date": "23 Sep 2026",
-      "published_at": "2026-09-23T12:11:17+00:00",
-      "headline": "India’s farm carbon market reaches smallholders as Punjab, Haryana farmers receive first digital payments",
-      "summary": "This development affects the agri-products & agro-processing value chain. Open the original report for transaction details, timing and named counterparties.",
-      "signal": "Assess field performance, unit economics and the route from pilot deployment to repeatable commercial scale.",
-      "source": "AgroSpectrum India",
-      "source_url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPV3dRU1BVY0JURVM1TlgxTDVVT2owci1QUU1Ndk9POHZBaTZFcWxTQWRZX3BKU1R3cFpDUjV5bVRFejA5OFZYMGpxMmNuMFBhckFfY0NVbFVXN05wU2N5eFplYWl4QlpIMGF2QVUxVzl5ZDB6Uk9SREJ3STRzVV85dVlnTWxJbjNfN1ctMlg4cGpLeGZpZkt3eDZCQTFObURZMTh3bjEzbWp3eUs4VTF3cTVDVEtVd2xtMEF6ZXF3dWRxc3g4d0RUUXZaU0V6STNqcEhBMG1UcUhOSm1OZUJGbDRKT2NTenc?oc=5",
-      "pestel": [
-        "Economic",
-        "Social",
-        "Technological",
-        "Environmental"
-      ],
-      "segment": "agro-processing"
     }
   ]
 }
