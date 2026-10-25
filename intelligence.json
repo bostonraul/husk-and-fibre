@@ -1,6 +1,36 @@
 {
-  "generated_at": "2026-10-24T08:06:35+00:00",
+  "generated_at": "2026-10-25T08:23:47+00:00",
   "reports": [
+    {
+      "id": "6333d833647fda",
+      "cadence": "weekly",
+      "theme": "pestel",
+      "geography": "India",
+      "sector": "Regenerative Farming",
+      "segment": "regenerative",
+      "date": "Week 43 · 2026",
+      "published_at": "2026-10-25T02:52:36+00:00",
+      "headline": "Explainer: What is regenerative agriculture and why does India need it?",
+      "summary": "This development affects the regenerative farming value chain. Open the original report for transaction details, timing and named counterparties.",
+      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
+      "source": "DD News",
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOejA5TFNMQkhGVW5QXzh4LVdOTHV0bVYySDRRSGV6dUFZNUNVd0o4b3cyaFA1aFpwTGJGQlF0SmhZTmw2cFZqclR0aUZacDlaVkRPSkt1SEF2YkhObUp6MzlDZ0NVeWhHZ1l1a0dSdWV5cTBaay1zTE8zeUZrMnI5WE01MHk1RW9FOVlTZDVHc1haLXp6d3hIcTBhWQ?oc=5"
+    },
+    {
+      "id": "8eeaa4888a219a",
+      "cadence": "weekly",
+      "theme": "pestel",
+      "geography": "Rest of World",
+      "sector": "Agri-Products & Agro-Processing",
+      "segment": "agro-processing",
+      "date": "Week 43 · 2026",
+      "published_at": "2026-10-24T23:45:04+00:00",
+      "headline": "Industry minister calls for investment in modern agro-processing",
+      "summary": "This development affects the agri-products & agro-processing value chain. Open the original report for transaction details, timing and named counterparties.",
+      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
+      "source": "Khmer Times",
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZTRIeHlObWVIQ21tY2o4Mk96SG1SZmZQMFN3dVUweUwyUEJFRlpJb3V2dFpyaTRXenNhS2JRa2VraDBRalQ2MFVnbUJjM1hncjJSXy02YnExLWNoTjBuNmFKX3g2X0YtZlVKeWQtc3g4Vmh0QzVpbDlFTUI0Mk03X0hGNzhGTmg3OENFMHFCZEdlcWxOOGo1LS1zY2lkQ0RYS1lRNUhpTQ?oc=5"
+    },
     {
       "id": "4442e366f2dcf1",
       "cadence": "weekly",
@@ -93,6 +123,21 @@
       "pestel": [
         "Technological"
       ]
+    },
+    {
+      "id": "710fede4629a88",
+      "cadence": "weekly",
+      "theme": "pestel",
+      "geography": "Rest of World",
+      "sector": "Biochar & Activated Carbon",
+      "segment": "biochar",
+      "date": "Week 43 · 2026",
+      "published_at": "2026-10-22T20:00:39+00:00",
+      "headline": "AgriFood Signals: Danone turns yogurt into renewable energy, Bison Ventures lands $160m, biochar projects",
+      "summary": "This development affects the biochar & activated carbon value chain. Open the original report for transaction details, timing and named counterparties.",
+      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
+      "source": "AgFunderNews",
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZVBPWjl2Q0xIN19Sa0J6RExWbEdSVHFzQU5wdHdVVERfSkY4UzlLQWVBYmFaTVl2NmtsNDhWNDNvRUNXbkFxNnVCTTF5UldDY1FlSUhtRF92amRldjV5cTQyT3EzU29sX1h6blFlTkpPLTVTNmlWNzgwLXdBZmNPVl9SODFHcGZ1Nk5VZEx3SFhDMEZSam5VS0liSVNkeWNxdTAzNHpjY2RwdmM4RWFUd2FKWXBBX0JtdnJ2cDNpcUZTSm1m?oc=5"
     },
     {
       "id": "75cc5aa3564034",
@@ -283,19 +328,19 @@
       "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUjlTYm9oSFRTWVQzMnM4b0FfczJ4bURTcXdHekhLREl6clFxNkExVkRRel9namgxWWhyTGl5VTQ5d1RXcjhXZEV5MzhlMko3SkxDZXdUaXZvT0k4QTRoR2wzQmFiZTZwZWg3TkFCVHhjZUFfaW9jSXNOUTFtMVdBeDlnaTlNWVlwMElGdElOVEhmcHJGT000?oc=5"
     },
     {
-      "id": "ec6e3602a9a97f",
+      "id": "ca303ca33983db",
       "cadence": "weekly",
       "theme": "pestel",
       "geography": "Rest of World",
       "sector": "Carbon Credits",
       "segment": "carbon-credits",
       "date": "Week 43 · 2026",
-      "published_at": "2026-10-19T13:27:02+00:00",
+      "published_at": "2026-10-19T16:18:18+00:00",
       "headline": "Google, McKinsey strike Brazil carbon removal deal with silvopasture project",
       "summary": "This development affects the carbon credits value chain. Open the original report for transaction details, timing and named counterparties.",
       "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
-      "source": "WTVB",
-      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcENEVDZYTUdydFEzdHRmMnFzQmZLUHk3YmxNYms3U09WcndwMmNBT1hXYTRjcTZtREtCSFVmSWp1T2FKcXBfZ3FGU2FPbHVDell4bWJKLUNhOXIwZXV4anliVk1PWTlmeGNGX3Q4WnlETjEyNVlaZ2hmblFqZnhzckFXdnNWYmVfZ1NfRDJvR3p5WjM5UTFhekhWMDhkbHF5WHhHYWt2RVIwQQ?oc=5",
+      "source": "Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZ3dueURyYnIwanJiVVIyLXdGYnJhTzRVMTV6bnc4WnZtRjhIWmQ3X0JyOHhjX1l3c0JpV1dqcTlBQ2RYdUE2NlIzYkFWcVljMGJGa25uUTFJMU81YXFQdDVrREtMeThDa3djVlcycWZxZW54dFpZOGhWNWhfZDYyWm5uVkNnV2pNZ0RRbmxkYmZGV0JjdFFDbXlhRnN2WUdjQ0NBN2podGdJcmhidkJTMVo5blVST0N3dV9JWjM3TDdFaVF2RWlKMzIwQ3E?oc=5",
       "pestel": [
         "Environmental"
       ]
@@ -1040,91 +1085,6 @@
       "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
       "source": "carbonherald.com",
       "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUkIteXVOV21TZEJ1VWRrTmlkY3BuLWx3R0RIOEhtbGIwQ2VqMldMTC1sSlAyVEpQcHN1VHB4UVBKbml2NjFlRWxxVTUwbjF4TGJHUVBEUWhQQmFTNl9ybE1Gdmg2QkthNW95ZVVWMHZwYUs1ZG54RkdqM2tpN1lwRUtqVVluOWZqQ3gzZEg3UGM2cXJGdThzM24xa0pRdGcx?oc=5",
-      "pestel": [
-        "Environmental"
-      ],
-      "segment": "carbon-credits"
-    },
-    {
-      "id": "3b253eca8cdb8e",
-      "cadence": "weekly",
-      "theme": "pestel",
-      "geography": "Rest of World",
-      "sector": "Agri-Products & Agro-Processing",
-      "date": "Week 39 · 2026",
-      "published_at": "2026-09-25T03:00:00+00:00",
-      "headline": "Aucamp urges faster agricultural master plan rollout and more private investment",
-      "summary": "This development affects the agri-products & agro-processing value chain. Open the original report for transaction details, timing and named counterparties.",
-      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
-      "source": "businessday.co.za",
-      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVUl6bFA3d1B1ME5jUHNhbVU1VGlVTkZPMnJvQklzSnpZT2VuT2xIMlpZaS1xZ0hoblljajJKUTVQN0dkaERZVjZ6dDJNaTh1SEh0S1huLVdsMEQzUzlsS3NuZnEwcjR2b3ktU1FSV3NqUTdZZ3hxeW1rVXpKLWRkVzJaQUx3Und5UTRJcXFYcWFDbVp4WEIzcVZTeGpDN1Jrb0s5RA?oc=5",
-      "segment": "agro-processing"
-    },
-    {
-      "id": "864705f7953e14",
-      "cadence": "weekly",
-      "theme": "pestel",
-      "geography": "Rest of World",
-      "sector": "Carbon Credits",
-      "date": "Week 39 · 2026",
-      "published_at": "2026-09-24T18:06:46+00:00",
-      "headline": "Canada Opens Door To International Carbon Markets In Push To Build Carbon Removal Industry",
-      "summary": "This development affects the carbon credits & nursery plantations value chain. Open the original report for transaction details, timing and named counterparties.",
-      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
-      "source": "Carbon Herald",
-      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQS1GeDROS3Y5VDZXMGpic2pXOGdGQnhmRDhxWlFwQ2NzTEVNUVR0VVZUbFNqdWY0M2Uxc1VXTkNfYTJfNGpOWnN0TXljTk12dUlFX2hBQnlYeHI0bTdhNzA4WDVoZzFHTXdSbzE2bTY0bDJBZkxVTTMxZjAydjVwUmtlcDI3XzU5SEYwQ1dOdEhERV9mVG1fZG4xVnVPOTBLT2RfcUdqUmF4TUdjV0l3LXV3eWwxbmc?oc=5",
-      "pestel": [
-        "Economic",
-        "Environmental"
-      ],
-      "segment": "carbon-credits"
-    },
-    {
-      "id": "1e75f9cb303b81",
-      "cadence": "weekly",
-      "theme": "pestel",
-      "geography": "Rest of World",
-      "sector": "Agri-Products & Agro-Processing",
-      "date": "Week 39 · 2026",
-      "published_at": "2026-09-24T17:24:34+00:00",
-      "headline": "Cambodia eyes China investment in agro-processing",
-      "summary": "This development affects the agri-products & agro-processing value chain. Open the original report for transaction details, timing and named counterparties.",
-      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
-      "source": "Khmer Times",
-      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSHRFYkVDWEgxejdYZXczLTRhX1V6SnNwdnFrd3VHUVRWTVhWY2tIdVE2cjdfd1dOM18zOTRfQnFFdkJYenVQMTNFNXdhcjkxdDhEblhuNEpMbDBWUEtCOUtIZEctN0Q1RWxZOEpQRV9NMnBZbmdKZVFXajFOSDhaMlJta2Y4NTg5eHZlRFBpbVdOTzg?oc=5",
-      "segment": "agro-processing"
-    },
-    {
-      "id": "a72edb53661d8e",
-      "cadence": "weekly",
-      "theme": "pestel",
-      "geography": "Rest of World",
-      "sector": "Carbon Credits",
-      "date": "Week 39 · 2026",
-      "published_at": "2026-09-24T16:45:23+00:00",
-      "headline": "Mombak Targets $150M for Amazon Reforestation as Salesforce Joins Carbon Removal Buyers",
-      "summary": "This development affects the carbon credits & nursery plantations value chain. Open the original report for transaction details, timing and named counterparties.",
-      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
-      "source": "CarbonCredits.com",
-      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWXlXcGpVN1lXWDlJbDNuZ0lMSnA4NmU4WGxZSXJscWNadlN3OXBON25jMkUwaHJrTTFsRjc3aHNRMm9ORmFSRm5NaGw4bXRiU2VqS2VYS1RsZnlkUUROUzVGRXVOaGpSNVBvYmRlNFBFUDVFUWZpT1hhQzJxdDduS1VRVFM4UE1fOVRwcG93?oc=5",
-      "pestel": [
-        "Environmental"
-      ],
-      "segment": "carbon-credits"
-    },
-    {
-      "id": "b5dff2adaf304d",
-      "cadence": "weekly",
-      "theme": "pestel",
-      "geography": "Rest of World",
-      "sector": "Carbon Credits",
-      "date": "Week 39 · 2026",
-      "published_at": "2026-09-24T12:04:08+00:00",
-      "headline": "Paracel Carbon Forestry Project verifies first carbon removal credits",
-      "summary": "This development affects the carbon credits & nursery plantations value chain. Open the original report for transaction details, timing and named counterparties.",
-      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
-      "source": "Trafigura",
-      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPR1ZzUUE1RHpzT2FtcElhX21kMTItTHFwNlVfcy1zdG11ck1vdEMyanRqMFRtWW1yQzJYNmFaNFhYY1VDOU5ZZGpRdnpMM0pSV0FFOWJvSkdhd0ZUaG9aTW56LTNpbUlHTXozbi1LMWhGQUlVbU5yeXpYdFZmVFg1SmplZFRiV3dXMW1oLUJvSlhVaHdRMWdmdlFweFdxb2ljbGJSdFV2R0x2RER1YjMxU0xSeXFqanl2eGdXVnhNWXdiTnpXUlV1SzJNSVBCSVU?oc=5",
       "pestel": [
         "Environmental"
       ],
