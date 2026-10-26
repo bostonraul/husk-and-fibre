@@ -1,6 +1,21 @@
 {
-  "generated_at": "2026-10-25T08:23:47+00:00",
+  "generated_at": "2026-10-26T08:53:02+00:00",
   "reports": [
+    {
+      "id": "4bfe3327f06ebb",
+      "cadence": "weekly",
+      "theme": "pestel",
+      "geography": "Rest of World",
+      "sector": "Agri-Products & Agro-Processing",
+      "segment": "agro-processing",
+      "date": "Week 43 · 2026",
+      "published_at": "2026-10-25T23:12:39+00:00",
+      "headline": "Shekhawati Investment Push Targets Agro-Processing and Jobs",
+      "summary": "This development affects the agri-products & agro-processing value chain. Open the original report for transaction details, timing and named counterparties.",
+      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
+      "source": "Urban Acres",
+      "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMWtTbHhOTm4ya0J1SUdUdklfQ3NvamtUc0ZVbjNKVnNndVF3ODhUYlFNTHc3TzVaeGlpMl9RRXR5Uzk4QnVPUVpmMUtTTFZZZ2pieEdRZHRkbVFTV0pVNTNYQUcwZEpmRnVQRkZQZWxEN3VZSWtjWEVQb1gwWklDQVNoS08yTWMwS1E?oc=5"
+    },
     {
       "id": "6333d833647fda",
       "cadence": "weekly",
@@ -125,6 +140,24 @@
       ]
     },
     {
+      "id": "75cc5aa3564034",
+      "cadence": "weekly",
+      "theme": "pestel",
+      "geography": "Rest of World",
+      "sector": "Biochar & Activated Carbon",
+      "segment": "biochar",
+      "date": "Week 43 · 2026",
+      "published_at": "2026-10-22T23:30:21+00:00",
+      "headline": "Fayetteville PWC breaks ground on new Granular Activated Carbon System",
+      "summary": "This development affects the biochar & activated carbon value chain. Open the original report for transaction details, timing and named counterparties.",
+      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
+      "source": "Greater Fayetteville Business Journal",
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTE9CTmNOWENBNnRIcVhmcWRpdTdNeEVKTFZibjlpV0NLOHJOZXFXX3QwUHFmTUt2X1BFRF9LUmJ5NUlqWXNSd1R3dDhRRGxYWWFoTTZUVG5RSzRyajlIUlJkSWxwS3RMUnhTY3NHYTNRZndESDdkdTU3Q3MwYTE1ZkFmMnlKZ3BjY3JueXJLbVB0Wk5PYUd2NXN5elVGOTZMTTlvLWktclo1YldsZXVLbWZlSjRLM2xxWFI4MTJGUTFWaGEwQVVCcjZRUE1UbnVxVFdB?oc=5",
+      "pestel": [
+        "Environmental"
+      ]
+    },
+    {
       "id": "710fede4629a88",
       "cadence": "weekly",
       "theme": "pestel",
@@ -138,24 +171,6 @@
       "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
       "source": "AgFunderNews",
       "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZVBPWjl2Q0xIN19Sa0J6RExWbEdSVHFzQU5wdHdVVERfSkY4UzlLQWVBYmFaTVl2NmtsNDhWNDNvRUNXbkFxNnVCTTF5UldDY1FlSUhtRF92amRldjV5cTQyT3EzU29sX1h6blFlTkpPLTVTNmlWNzgwLXdBZmNPVl9SODFHcGZ1Nk5VZEx3SFhDMEZSam5VS0liSVNkeWNxdTAzNHpjY2RwdmM4RWFUd2FKWXBBX0JtdnJ2cDNpcUZTSm1m?oc=5"
-    },
-    {
-      "id": "75cc5aa3564034",
-      "cadence": "weekly",
-      "theme": "pestel",
-      "geography": "Rest of World",
-      "sector": "Biochar & Activated Carbon",
-      "segment": "biochar",
-      "date": "Week 43 · 2026",
-      "published_at": "2026-10-22T18:50:56+00:00",
-      "headline": "Fayetteville PWC breaks ground on new Granular Activated Carbon System",
-      "summary": "This development affects the biochar & activated carbon value chain. Open the original report for transaction details, timing and named counterparties.",
-      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
-      "source": "Greater Fayetteville Business Journal",
-      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTE9CTmNOWENBNnRIcVhmcWRpdTdNeEVKTFZibjlpV0NLOHJOZXFXX3QwUHFmTUt2X1BFRF9LUmJ5NUlqWXNSd1R3dDhRRGxYWWFoTTZUVG5RSzRyajlIUlJkSWxwS3RMUnhTY3NHYTNRZndESDdkdTU3Q3MwYTE1ZkFmMnlKZ3BjY3JueXJLbVB0Wk5PYUd2NXN5elVGOTZMTTlvLWktclo1YldsZXVLbWZlSjRLM2xxWFI4MTJGUTFWaGEwQVVCcjZRUE1UbnVxVFdB?oc=5",
-      "pestel": [
-        "Environmental"
-      ]
     },
     {
       "id": "856d4e4890171d",
@@ -1041,54 +1056,6 @@
       "source": "Bantu Gazette",
       "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQN28talR3UzJxMy1vdlo4MWJCNXQxQ2pjY2VJUmhEZDctSWZFdzZfcUZ2TVpXUnpiX1BqZmhEdUxhZDlwRHJOcDJEOFhaT1QtYlUtRGdLRHJVbVRqT1ZFdTRJVUNqVXllZjM2X0hJYmJSQ1FVTFlrSjhHcFhaUkNMR0NrbWltel9EQ3JxM2F4eXpOVWhUMkJnQVNWbFJMaXBIWmxXMHBKaUFlVFVpTnlKTVBFODlHUkU?oc=5",
       "segment": "agro-processing"
-    },
-    {
-      "id": "0ef5f8e2f5916a",
-      "cadence": "daily",
-      "theme": "deals",
-      "geography": "Rest of World",
-      "sector": "Agri-Products & Agro-Processing",
-      "date": "25 Sep 2026",
-      "published_at": "2026-09-25T16:25:44+00:00",
-      "headline": "SKN recommissions Agro-Processing Unit in partnership with Taiwan",
-      "summary": "This development affects the agri-products & agro-processing value chain. Open the original report for transaction details, timing and named counterparties.",
-      "signal": "Track counterparties, valuation signals and local market-access advantages created by the transaction.",
-      "source": "WINNFM 98.9",
-      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZTA0XzAzbXFwMnhPMlhXTVJpOHJWb0xGU3dTeTNZVzcxNHRBbF9helgweXVEZ1Fha1AxcmtCUGl4eVNnaWFBZVJNZmlub1Y0bmNIQVhQY2RPRUZaUktfV1cyamg0U2VEVjBDWGZVTk81cUk1U2JFQzRPU3BTbDBlNWpUZ2dKZmtGZDlWa1VidkJ6ZENscFFuekRxSQ?oc=5",
-      "segment": "agro-processing"
-    },
-    {
-      "id": "3022f19a4e44c3",
-      "cadence": "weekly",
-      "theme": "pestel",
-      "geography": "Rest of World",
-      "sector": "Agri-Products & Agro-Processing",
-      "date": "Week 39 · 2026",
-      "published_at": "2026-09-25T12:19:04+00:00",
-      "headline": "NESG Seeks Agro-Processing Investment To Cut 40% Post-harvest Losses",
-      "summary": "This development affects the agri-products & agro-processing value chain. Open the original report for transaction details, timing and named counterparties.",
-      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
-      "source": "LEADERSHIP Newspapers",
-      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdDNuanlPeEtmRWhRYWFtSjVRcUNGYVRIZ3piaGVYcENZVDF1b2Y0SXh4UVh1b1lYdmI5bXdyVjRaeEVCa0l4czJLdGU4amZfM3g3Z0w3M0c4QzZnWXIySEhEM0ZkSnU2Y3V6REV0NjlSdFdWdmlJMGI0VW5vZURpWWFHbzhRNllwNW5BYzhaLTlPaFRJ?oc=5",
-      "segment": "agro-processing"
-    },
-    {
-      "id": "f998f87ec9e490",
-      "cadence": "weekly",
-      "theme": "pestel",
-      "geography": "Rest of World",
-      "sector": "Carbon Credits",
-      "date": "Week 39 · 2026",
-      "published_at": "2026-09-25T10:25:14+00:00",
-      "headline": "Paracel Carbon Forestry Project Verifies First Carbon Credits In Paraguay",
-      "summary": "This development affects the carbon credits & nursery plantations value chain. Open the original report for transaction details, timing and named counterparties.",
-      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
-      "source": "carbonherald.com",
-      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUkIteXVOV21TZEJ1VWRrTmlkY3BuLWx3R0RIOEhtbGIwQ2VqMldMTC1sSlAyVEpQcHN1VHB4UVBKbml2NjFlRWxxVTUwbjF4TGJHUVBEUWhQQmFTNl9ybE1Gdmg2QkthNW95ZVVWMHZwYUs1ZG54RkdqM2tpN1lwRUtqVVluOWZqQ3gzZEg3UGM2cXJGdThzM24xa0pRdGcx?oc=5",
-      "pestel": [
-        "Environmental"
-      ],
-      "segment": "carbon-credits"
     }
   ]
 }
