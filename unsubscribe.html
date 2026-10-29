@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Unsubscribe — Soul Agri – Husk &amp; Fibre</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Instrument+Sans:wght@400;500;600&family=Newsreader:opsz,wght@6..72,600&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --paper:#F7EDE6; --ink:#3A2A24; --ink-soft:#7A5C52;
+    --forest:#C96B4F; --forest-deep:#8E4334; --line:#E5CABB; --card:#FFF6F0;
+  }
+  body{
+    margin:0; min-height:100vh; display:grid; place-items:center;
+    background:radial-gradient(circle at 88% -8%,rgba(232,160,122,.34),transparent 28rem), var(--paper);
+    color:var(--ink); font:400 16px/1.55 'Instrument Sans',sans-serif;
+  }
+  main{
+    width:min(520px, calc(100% - 40px)); padding:36px 32px;
+    background:var(--card); border:1px solid var(--line); border-radius:22px;
+  }
+  .kicker{
+    color:var(--forest); font:500 .72rem/1 'Instrument Sans',sans-serif;
+    letter-spacing:.08em; text-transform:uppercase;
+  }
+  h1{margin:10px 0 12px; font:600 1.9rem/1.15 'Newsreader',serif; color:var(--forest-deep);}
+  p{margin:0 0 14px; color:var(--ink-soft);}
+  .email{color:var(--ink); font-weight:600;}
+  a.button{
+    display:inline-block; margin-top:8px; padding:11px 16px; border-radius:999px;
+    background:var(--forest); color:#fff; text-decoration:none; font-weight:600;
+  }
+  a.home{display:inline-block; margin-top:16px; color:var(--forest-deep);}
+</style>
+</head>
+<body>
+<main>
+  <div class="kicker">Soul Agri – Husk &amp; Fibre</div>
+  <h1>Unsubscribe from briefings</h1>
+  <p id="copy">You can leave the mapped intelligence list at any time. Send the request below and we will stop mailing this address.</p>
+  <a class="button" id="mail" href="mailto:?subject=Unsubscribe%20Soul%20Agri%20briefing">Send unsubscribe request</a>
+  <p><a class="home" href="./">Back to the website</a></p>
+</main>
+<script>
+const params = new URLSearchParams(location.search);
+const email = params.get("email") || "";
+const safe = email.replace(/[<>"']/g, "");
+if (safe && /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(safe)) {
+  document.getElementById("copy").innerHTML =
+    `This will request removal of <span class="email"></span> from the Soul Agri briefing list.`;
+  document.querySelector(".email").textContent = safe;
+  document.getElementById("mail").href =
+    `mailto:?subject=${encodeURIComponent("Unsubscribe Soul Agri briefing")}&body=${encodeURIComponent("Please unsubscribe this address from Soul Agri intelligence briefings: " + safe)}`;
+}
+</script>
+</body>
+</html>

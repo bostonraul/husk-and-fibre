@@ -13,6 +13,7 @@ from collections import defaultdict
 from datetime import datetime, timedelta, timezone
 from email.utils import parseaddr
 from pathlib import Path
+from urllib.parse import quote
 
 import requests
 from dateutil import parser as date_parser
@@ -176,8 +177,17 @@ def escape(value: str) -> str:
     )
 
 
-def render_email(subscriber: dict, reports: list[dict], cadence: str) -> tuple[str, str]:
+def unsubscribe_url(email: str) -> str:
+    return f"{SITE_URL}unsubscribe.html?email={quote(email)}"
+
+
+def render_email(subscriber: dict, reports: list[dict], cadence: str, from_email: str) -> tuple[str, str, str]:
     greeting = subscriber["name"] or "there"
+    unsub = unsubscribe_url(subscriber["email"])
+    mailto_unsub = (
+        f"mailto:{from_email}?subject=Unsubscribe%20Soul%20Agri%20briefing"
+        f"&body=Please%20unsubscribe%20{quote(subscriber['email'])}"
+    )
     subject = (
         f"Soul Agri {'daily' if cadence == 'daily' else 'weekly'} intelligence"
         f" · {datetime.now(timezone.utc).strftime('%d %b %Y')}"
@@ -240,14 +250,41 @@ def render_email(subscriber: dict, reports: list[dict], cadence: str) -> tuple[s
         </tr>
         <tr>
           <td style="padding:8px 28px 28px;font:400 12px/1.5 Instrument Sans,Arial,sans-serif;color:#7A5C52;">
-            Mapped to your selected geographies and segments.
+            You receive this because you were added to the Soul Agri mapped briefing list.
             <a href="{SITE_URL}" style="color:#8E4334;">Open the live intelligence desk</a>.
+            <div style="margin-top:14px;padding-top:14px;border-top:1px solid #E5CABB;">
+              Soul Agri – Husk &amp; Fibre ·
+              <a href="{unsub}" style="color:#8E4334;">Unsubscribe</a>
+              ·
+              <a href="{mailto_unsub}" style="color:#8E4334;">Email us to stop</a>
+            </div>
           </td>
         </tr>
       </table>
     </div>
     """
-    return subject, html
+    text_lines = [
+        "Soul Agri – Husk & Fibre",
+        f"{cadence.title()} intelligence briefing",
+        "",
+        f"Hello {greeting}, {synopsis_text(reports, cadence)}",
+        f"Website: {SITE_URL}",
+        "",
+    ]
+    for geography, items in grouped.items():
+        text_lines.append(geography.upper())
+        for item in items:
+            text_lines.extend([
+                f"- {item.get('headline')}",
+                f"  {item.get('summary')}",
+                f"  {item.get('source_url')}",
+                "",
+            ])
+    text_lines.extend([
+        "You receive this because you were added to the Soul Agri mapped briefing list.",
+        f"Unsubscribe: {unsub}",
+    ])
+    return subject, html, "\n".join(text_lines)
 
 
 def sanitize_from_address(value: str) -> str:
@@ -263,7 +300,16 @@ def sanitize_from_address(value: str) -> str:
     )
 
 
-def send_email(api_key: str, from_address: str, to_address: str, subject: str, html: str) -> None:
+def send_email(
+    api_key: str,
+    from_address: str,
+    from_email: str,
+    to_address: str,
+    subject: str,
+    html: str,
+    text: str,
+) -> None:
+    unsub = unsubscribe_url(to_address)
     response = requests.post(
         RESEND_URL,
         headers={
@@ -273,8 +319,17 @@ def send_email(api_key: str, from_address: str, to_address: str, subject: str, h
         json={
             "from": from_address,
             "to": [to_address],
+            "reply_to": from_email,
             "subject": subject,
             "html": html,
+            "text": text,
+            "headers": {
+                "List-Unsubscribe": f"<mailto:{from_email}?subject=unsubscribe>, <{unsub}>",
+                "List-Id": "<briefings.soul-agri.husk-and-fibre>",
+            },
+            "tags": [
+                {"name": "cadence", "value": "briefing"},
+            ],
         },
         timeout=30,
     )
@@ -309,8 +364,8 @@ def run() -> int:
     except ValueError as error:
         print(str(error), file=sys.stderr)
         return 1
+    from_email = parseaddr(from_address)[1] if from_address else "briefings@localhost"
     if from_address:
-        _, from_email = parseaddr(from_address)
         print(f"Sending as {mask_email(from_email)}")
 
     sent = 0
@@ -321,10 +376,10 @@ def run() -> int:
             skipped += 1
             print(f"  skip {mask_email(subscriber['email'])}: no reports match this geography/segments")
             continue
-        subject, html = render_email(subscriber, reports, args.cadence)
+        subject, html, text = render_email(subscriber, reports, args.cadence, from_email)
         print(f"  {args.cadence} {mask_email(subscriber['email'])}: {len(reports)} reports")
         if not args.dry_run:
-            send_email(api_key, from_address, subscriber["email"], subject, html)
+            send_email(api_key, from_address, from_email, subscriber["email"], subject, html, text)
             time.sleep(0.4)
         sent += 1
 
