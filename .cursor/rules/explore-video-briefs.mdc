@@ -1,0 +1,36 @@
+---
+description: How to ingest uploaded Explore videos into Husk & Fibre
+alwaysApply: true
+---
+
+# Explore video briefs
+
+New `videos/*.mp4` files are not live until they are renamed and added as curated stories in `data.json`. Do not leave raw uploads unlinked.
+
+## Ingest checklist
+
+1. Rename to `videos/[a-z0-9-]+.mp4`. `index.html` `safeMediaPath` only accepts `videos/[\w./-]+`, so spaces, punctuation and emoji will not play.
+2. Skip duplicates (same size/content as an existing clip). Do not add a second card.
+3. Insert a curated story next to the other video briefs (before `paul-and-mike-indian-chocolate` unless a better neighbour is obvious).
+4. Match this shape and voice — editorial headline, no clickbait, no emoji, no raw filename as the title:
+
+```json
+{
+  "id": "short-kebab-id",
+  "material": "Neem",
+  "region": "India",
+  "headline": "Declarative sentence naming the opportunity",
+  "dek": "One sentence on the commercial idea.",
+  "potential_score": 4,
+  "potential_label": "High — short market reason",
+  "capital_note": "Low/mid/high: what the money buys",
+  "video": "videos/short-kebab-id.mp4",
+  "video_caption": "What the clip shows",
+  "body": "2–4 sentences: the uploaded brief, the value chain, and the commercial catch.",
+  "why_it_matters": "One sentence on why this is a business signal.",
+  "sources": [{ "name": "Watch uploaded brief", "url": "videos/short-kebab-id.mp4" }]
+}
+```
+
+5. Identify the company or process when the clip is specific (e.g. BioCap, Malai). Add a named source URL if known.
+6. Auto-RSS entries (`why_it_matters` starting `Auto-generated entry`) are a different format. Do not use that for uploaded videos.

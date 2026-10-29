@@ -117,6 +117,50 @@
       "image_alt": "The Stamp That Changed Everything: How Forest Certification Is Transforming Smallholder Livelihoods in India"
     },
     {
+      "id": "neem-oil-manufacturing-india",
+      "material": "Neem",
+      "region": "India",
+      "headline": "India has abundant neem trees, but most of the oil opportunity is still unprocessed",
+      "dek": "A manufacturing brief on turning collected neem seed into oil, cake and agro-input products rather than leaving a large share of the crop unused.",
+      "potential_score": 4,
+      "potential_label": "High — demand exceeds processed supply",
+      "capital_note": "Mid-high: seed procurement, extraction and quality testing",
+      "video": "videos/neem-oil-manufacturing-india.mp4",
+      "video_caption": "A manufacturing brief on India's neem-oil processing opportunity",
+      "body": "The uploaded brief points to a familiar Indian paradox: neem trees are widespread, yet only a small share of collected seed is processed into oil. Demand from biopesticides, cosmetics and neem-coated urea already exceeds reliable supply, which is why collection networks, drying, extraction and quality control matter as much as the tree itself. The commercial model is a processing business rather than a novelty product: secure seed, extract consistently, and sell oil and cake into existing agricultural and personal-care channels.",
+      "why_it_matters": "The bottleneck is processing and quality, not the plant — which is why a manufacturing unit can capture more value than selling unprocessed seed.",
+      "sources": [
+        {
+          "name": "Watch uploaded brief",
+          "url": "videos/neem-oil-manufacturing-india.mp4"
+        }
+      ]
+    },
+    {
+      "id": "agri-input-capsule-packaging",
+      "material": "Agri-tech",
+      "region": "India",
+      "headline": "Farm inputs are moving from bulky bottles and pouches into compact one-acre capsules",
+      "dek": "Dry, pre-measured capsules replace liquid bottles and pouches so farmers activate a one-acre dose in the spray tank instead of shipping and storing mostly water.",
+      "potential_score": 4,
+      "potential_label": "High — logistics and input-delivery innovation",
+      "capital_note": "Mid: formulation, capsule manufacturing and dealer distribution",
+      "video": "videos/agri-input-capsule-packaging.mp4",
+      "video_caption": "Compact agri-input capsules replacing bottles, pouches and bulky containers",
+      "body": "The uploaded clip starts from a practical farm problem: agricultural inputs still travel in bottles, pouches and bulky containers, so farmers have to measure, store and haul mostly water. Compact capsules such as Sunraysia's BioCap keep microbes dry and dormant until they are mixed into water, delivering a pre-measured one-acre dose through ordinary spraying equipment. The packaging change is the product: less plastic, less freight, longer shelf life and fewer measuring errors. Scale depends on dealer adoption, viability holding in the field, and whether farmers trust a new format enough to drop familiar bottles.",
+      "why_it_matters": "If a farm input can travel as a few grams instead of a litre of liquid, distribution cost and plastic waste fall together.",
+      "sources": [
+        {
+          "name": "Watch uploaded brief",
+          "url": "videos/agri-input-capsule-packaging.mp4"
+        },
+        {
+          "name": "Sunraysia BioCap",
+          "url": "https://sunraysia.co.in/biocap/index.html"
+        }
+      ]
+    },
+    {
       "id": "paul-and-mike-indian-chocolate",
       "material": "Cocoa",
       "region": "Kerala, India",
