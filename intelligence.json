@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-10-29T09:56:33+00:00",
+  "generated_at": "2026-10-30T09:59:25+00:00",
   "reports": [
+    {
+      "id": "de0989b9ebaa53",
+      "cadence": "daily",
+      "theme": "deals",
+      "geography": "Rest of World",
+      "sector": "Regenerative Farming",
+      "segment": "regenerative",
+      "date": "29 Oct 2026",
+      "published_at": "2026-10-29T17:14:27+00:00",
+      "headline": "Agrifood corporates find a new model for financing regenerative agriculture via Soil Capital partnership",
+      "summary": "This development affects the regenerative farming value chain. Open the original report for transaction details, timing and named counterparties.",
+      "signal": "Track counterparties, valuation signals and local market-access advantages created by the transaction.",
+      "source": "AgFunderNews",
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxObi1ZVjQxMS12aEtlaVJ0S1R1czhTaS1FYklOUTZUYkhrUXdIU20zLV9QTHJPa28tYzFUZ1lfdmZMbnJaSTFKaU0wdS0yWFJxREFPZ3FvbE1qeTVMeEZVR3h6eVNsSUw0UmViOW1CbnZVRUVacmtaZFhjSDNwakpPVzdaUWFrdGhxNmV2d2JuaFU4ckpGYzF6LVVaanF3NEhhTFNUWDZNRFJPMGtESVpyVnlfQ1hNRk13bDdNb2h0cnFvWXp2bU56UA?oc=5",
+      "pestel": [
+        "Environmental"
+      ]
+    },
+    {
+      "id": "0ec55878f08c51",
+      "cadence": "weekly",
+      "theme": "pestel",
+      "geography": "Rest of World",
+      "sector": "Regenerative Farming",
+      "segment": "regenerative",
+      "date": "Week 44 · 2026",
+      "published_at": "2026-10-29T10:58:28+00:00",
+      "headline": "Betty Kibaara of the Rockefeller Foundation has commended Murang’a County for promoting agroecology and regenerative agriculture, noting that sustainable farming practices can rest",
+      "summary": "This development affects the regenerative farming value chain. Open the original report for transaction details, timing and named counterparties.",
+      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
+      "source": "Facebook",
+      "source_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQV0RwUmFwSV8yY2FWRE9HQWZXcVNPeE5CYW54TlZpMHJ3WVZIcHczLU9qSng5dDcwNU1mTHFQaEs2ZjU5RFYtSE1MLXlSZU1lY280UWVJUGZ4TjNHejlxUXY5WG13aTBUMU0tbmQ2ZG1KZmZwZ1oxSzZHbm80cnVwbjhRUjMzTEhMQnBCWTMwbUxmN1JNM1NiUktvOXhaVVZqWTFrYkQ0R0wtSktTRktuMUlvblpFY3RXb25abDExLTA4aTkzZERsa3luSy1VZ1U0TUN3VERERnRUbjZxbFE?oc=5",
+      "pestel": [
+        "Environmental"
+      ]
+    },
     {
       "id": "98419c7b350f81",
       "cadence": "daily",
@@ -37,6 +73,21 @@
       "pestel": [
         "Environmental"
       ]
+    },
+    {
+      "id": "5df54315ba794f",
+      "cadence": "weekly",
+      "theme": "pestel",
+      "geography": "Rest of World",
+      "sector": "Carbon Credits",
+      "segment": "carbon-credits",
+      "date": "Week 44 · 2026",
+      "published_at": "2026-10-28T10:41:46+00:00",
+      "headline": "Two Kenyan firms selected for African accelerator targeting nature-based businesses",
+      "summary": "This development affects the carbon credits value chain. Open the original report for transaction details, timing and named counterparties.",
+      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
+      "source": "Capital FM Africa",
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOV19YZWpteFpaYTZHMVJkZ1FQc29OQUJVaGFBVE9WeTRucFh5MmM3OWlfaWhGN0dkV1liWVFvdjFudEdfOTd2dl9XZ0lmRHp4TkY4U1prNzdPenNldVVFVU16S0wtWVN3UzEyX0JSNS1ZUjM4TkFxZW8teEs0U3FUY2pzd1otMk1yU056dThuYmlkbzlUbUtxb3JZTmpTRF9jV3dWNXJqbzIzZlpFT1E?oc=5"
     },
     {
       "id": "c0926acaab3ca1",
@@ -1091,25 +1142,6 @@
       "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
       "source": "openPR.com",
       "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdTltX2V1ejVzUnpJMmg0Q0tnZDc5THZrS0dIdDNyaTdhbjlOMTVVSEhsWjdHRlNDN1h2UDA5czVXYU9yUVFCTHdmYUFFWFpVX2lYY2ZZMldobEt3MXc1UjVUeFo2QVhVVG1ZSVM3TUdaRzA1c0l0R1NYMmJOeDRVWFFrcHo0SDRFTDdmS2E4b251OGtmcUgycWxOVzQwdw?oc=5",
-      "pestel": [
-        "Economic",
-        "Environmental"
-      ],
-      "segment": "biochar"
-    },
-    {
-      "id": "03aa722aec05f7",
-      "cadence": "weekly",
-      "theme": "pestel",
-      "geography": "India",
-      "sector": "Biochar & Activated Carbon",
-      "date": "Week 40 · 2026",
-      "published_at": "2026-09-30T06:51:40+00:00",
-      "headline": "India’s Activated Carbon Exports Face Pressure",
-      "summary": "This development affects the activated carbon, charcoal & biochar value chain. Open the original report for transaction details, timing and named counterparties.",
-      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
-      "source": "Chemical Industry Digest",
-      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOY3FwajBwZnNyd1FaX0hEeUY4M2lZZTFSOVBjYWhIRC1lcmVsVnhnYmFueUFsS0t5ZGZSelJtT0JidkxfbDRWOC1aUXZ4OUVzUWU4R29IamR1U2w1UGxCdVNtVkgzRGxNV2dQZEwxOTYwNVI4bW1DdXhGSXdCa3ZTT01PQmdRaGZLWDBBVHJlY0k5MjlZdUlIRTVn?oc=5",
       "pestel": [
         "Economic",
         "Environmental"
