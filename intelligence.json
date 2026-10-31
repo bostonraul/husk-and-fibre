@@ -1,6 +1,91 @@
 {
-  "generated_at": "2026-10-30T09:59:25+00:00",
+  "generated_at": "2026-10-31T09:37:25+00:00",
   "reports": [
+    {
+      "id": "ffe49de3754b27",
+      "cadence": "daily",
+      "theme": "regulatory",
+      "geography": "Rest of World",
+      "sector": "Regenerative Farming",
+      "segment": "regenerative",
+      "date": "31 Oct 2026",
+      "published_at": "2026-10-31T01:55:46+00:00",
+      "headline": "ASEAN must turn policy into action and attract investment to advance regenerative agriculture",
+      "summary": "This development affects the regenerative farming value chain. Open the original report for transaction details, timing and named counterparties.",
+      "signal": "Review eligibility, compliance timelines and incentive access before committing capital.",
+      "source": "联合早报",
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVUIzWXVFX0dveXRoTTRyTkQ4ZEZIcEtyaEFzSnY3UVFzQUVyZ0FLWVF2YWczOW1wa3ZUZkx6VndlYlJhbDNtc182TUpCbGxUOXBjam9KaXdSemtOSk9UTTNHc0QycmxGQlBHX21LS1lieFZBaFZ5eDFjNEh3UjZFZ0RZR1RoMWRONURWLWJ3d2ZsWlowZDhnSHY3ZGtBd0d6cTloREV3VVdfZHZxTTVXQzhjQmJnLWVJeHZtYUk3VXRCckJCNjBpOQ?oc=5"
+    },
+    {
+      "id": "8470b201c05704",
+      "cadence": "weekly",
+      "theme": "pestel",
+      "geography": "Rest of World",
+      "sector": "Agri-Products & Agro-Processing",
+      "segment": "agro-processing",
+      "date": "Week 44 · 2026",
+      "published_at": "2026-10-30T20:58:59+00:00",
+      "headline": "Mitas enters the Chinese market with a big range of products",
+      "summary": "This development affects the agri-products & agro-processing value chain. Open the original report for transaction details, timing and named counterparties.",
+      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
+      "source": "https://world-agritech.com/",
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTDZ2R1o1Y3U1THFvZlA1UC10TDZqU051V1JDVWtPVmlyamE1cGFnYUkyLVZod1dkZi05UnIwb2F6TnU0ekpDdE1zR21mWnJEeGZVcnFjRElzbmt6LXAtaXlBU1dyNG1oLTdOdGxtTXNlOU9uSW9nZEtYWm5OZVpxRkp6ekplay1Rc2kyb08xeGhQenlucGZaUFpaUGVvazBm?oc=5",
+      "pestel": [
+        "Economic"
+      ]
+    },
+    {
+      "id": "f7919bda25dc5c",
+      "cadence": "weekly",
+      "theme": "pestel",
+      "geography": "Rest of World",
+      "sector": "Bio-Based Materials",
+      "segment": "bbm",
+      "date": "Week 44 · 2026",
+      "published_at": "2026-10-30T16:57:50+00:00",
+      "headline": "Bio-Based Leather Market (2034): Plant-Based Materials, Sustainable Fashion & Automotive Industry Expansion",
+      "summary": "This development affects the bio-based materials value chain. Open the original report for transaction details, timing and named counterparties.",
+      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
+      "source": "openPR.com",
+      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPalMzWmZBcS12Uk5WWHhXUkNoRzBGeGt6VHByUVZGMkltS1BhZVZkenVkR2hOY0JwdG0zWDBBelg2WmR5QUJHc2FzUjN4NWQ5MU9qVEtUZlp3Qm9rdm5jT0ZZMFpqYThGOWNmcDE0cTNtWmx6dVhxZVpFeGpjNFIzTFZfWmxtcEJuNXJ1RlE5Y0Q?oc=5",
+      "pestel": [
+        "Economic",
+        "Environmental"
+      ]
+    },
+    {
+      "id": "f9064c67d451e3",
+      "cadence": "weekly",
+      "theme": "pestel",
+      "geography": "Rest of World",
+      "sector": "Biochar & Activated Carbon",
+      "segment": "biochar",
+      "date": "Week 44 · 2026",
+      "published_at": "2026-10-30T05:19:25+00:00",
+      "headline": "Carbonxt outlines core activated carbon business and investment risk framework",
+      "summary": "This development affects the biochar & activated carbon value chain. Open the original report for transaction details, timing and named counterparties.",
+      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
+      "source": "TipRanks",
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQUjQ3VHNNN2M1TVo4alRrR2E3bDZzaHBCQ216aW5GbW1vblI5ZWZfNWljTS05WFRUV3JHUFJzTnFZUjg0MlhNRGxCZEFsb1R5S3Zsd3FYWmFqRHp4dmFLYVdTcnBjWEthaHNBUjFNeWJXZ2hJU0FsWW1qMUtmQ2lBQk81YjBreGRHSFZKMHpEajM5LThhdEVOYlhUVlV5Y0JOWF96Q09lcVZWQ2lsTjZoSUx4b0h3aXVHUXhTcmJmT0c5MjR1dEpwUm9n?oc=5",
+      "pestel": [
+        "Environmental"
+      ]
+    },
+    {
+      "id": "4de47e6b1a572f",
+      "cadence": "weekly",
+      "theme": "pestel",
+      "geography": "Rest of World",
+      "sector": "Regenerative Farming",
+      "segment": "regenerative",
+      "date": "Week 44 · 2026",
+      "published_at": "2026-10-30T00:00:00+00:00",
+      "headline": "Regenerative agriculture for rural surveyors",
+      "summary": "This development affects the regenerative farming value chain. Open the original report for transaction details, timing and named counterparties.",
+      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
+      "source": "MODUS | RICS",
+      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeDJDTnRsYXlxWVB0TkxqakN2NGJZVmRqYVJaYlZZT2NWbXZabzZRTXItY0ZtQnZmek1kdl9jRWE0cml4YTMzQXRLenBMQnpUQkdPajhYWGViMUNjT0NxaDNxaVVNdVJWVnROOVhqcWZvMWZ6R2phSk9fNVV0SF9ULXhzTUQ?oc=5"
+    },
     {
       "id": "de0989b9ebaa53",
       "cadence": "daily",
@@ -1107,43 +1192,6 @@
       "source": "IMARC Group",
       "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOOUZFU3A3dGlObjVwejJvVmZlcEcwN0U5cE96ZDVfTFhvdVhaeDZBZ2lmOWs2UHdxM3Y5SEQwZS1UdlJXS0tNNENSTlZGTmxpWkUtaVB3Q0JTOW9janFsOGZ2TG9zQXBJNjlQWElSVC13Z0drUmg3ZW11LUpKVFhra3JUQ0dZMjdKWHVSN0dVdEFaZw?oc=5",
       "pestel": [
-        "Environmental"
-      ],
-      "segment": "biochar"
-    },
-    {
-      "id": "bc5c76a37285b3",
-      "cadence": "daily",
-      "theme": "deals",
-      "geography": "Rest of World",
-      "sector": "Agri-Products & Agro-Processing",
-      "date": "30 Sep 2026",
-      "published_at": "2026-09-30T19:55:46+00:00",
-      "headline": "Minister of Agriculture identifies Climate-Smart Agriculture and regional partnerships as investment opportunities",
-      "summary": "This development affects the agri-products & agro-processing value chain. Open the original report for transaction details, timing and named counterparties.",
-      "signal": "Track counterparties, valuation signals and local market-access advantages created by the transaction.",
-      "source": "Belize News and Opinion on www.breakingbelizenews.com",
-      "source_url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPMzZhQ3pSNnAzOTBDUlktWlVQNXBXcW9iaTd4dXZjX25wWHhaYWRCN2Fzc0txa3F1cGhGZUtVWjM1cDh1LWpJblFsRTgzZkZDYTh2c2ZZbmNUeW13eWdkQjBFSTlxNWNpR0RjeDBBbktJVlNMZXRKa0RTWnYtZ3dDUndBelBDcl9XTkszOTBrdHAzdlRUdnNpRzc2b1pjUmpQc05NYldmLWRTOVVjTkZRTEx1bVBfWjdhVzJ1UEFCcWNsSEwxTkREUi02UjBPOE14SUZKS3dfWHZ6U1MtWEgzWHdmSGRnTDJGM2o0aXo5bFJCZVU?oc=5",
-      "pestel": [
-        "Environmental"
-      ],
-      "segment": "agro-processing"
-    },
-    {
-      "id": "f4c49f010ef4ac",
-      "cadence": "weekly",
-      "theme": "pestel",
-      "geography": "Rest of World",
-      "sector": "Biochar & Activated Carbon",
-      "date": "Week 40 · 2026",
-      "published_at": "2026-09-30T10:44:56+00:00",
-      "headline": "What Is Driving the Global Activated Carbon Market Toward USD 11.3 Billion?",
-      "summary": "This development affects the activated carbon, charcoal & biochar value chain. Open the original report for transaction details, timing and named counterparties.",
-      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
-      "source": "openPR.com",
-      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdTltX2V1ejVzUnpJMmg0Q0tnZDc5THZrS0dIdDNyaTdhbjlOMTVVSEhsWjdHRlNDN1h2UDA5czVXYU9yUVFCTHdmYUFFWFpVX2lYY2ZZMldobEt3MXc1UjVUeFo2QVhVVG1ZSVM3TUdaRzA1c0l0R1NYMmJOeDRVWFFrcHo0SDRFTDdmS2E4b251OGtmcUgycWxOVzQwdw?oc=5",
-      "pestel": [
-        "Economic",
         "Environmental"
       ],
       "segment": "biochar"
