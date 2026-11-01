@@ -1,6 +1,40 @@
 {
-  "generated_at": "2026-10-31T09:37:25+00:00",
+  "generated_at": "2026-11-01T10:26:04+00:00",
   "reports": [
+    {
+      "id": "596ed644d5f290",
+      "cadence": "weekly",
+      "theme": "pestel",
+      "geography": "Rest of World",
+      "sector": "Biochar & Activated Carbon",
+      "segment": "biochar",
+      "date": "Week 44 · 2026",
+      "published_at": "2026-10-31T22:51:04+00:00",
+      "headline": "Activated Carbon (Specialty Grades) Market Forecast to 2035, Driven by Stricter Water and Air Quality Rules",
+      "summary": "This development affects the biochar & activated carbon value chain. Open the original report for transaction details, timing and named counterparties.",
+      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
+      "source": "IndexBox",
+      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPck0wNnIxRHB6LVloVkM5T0VaSnNjQ0o0d0pzVXh6MWtrSTIwbmhsN2ZfYm9uSHA3dWNBM0hUeEFvUE9ENDk4Wlg0NjNTRXJILVEzREpYZ2pCM0JlYUlKQ0tKNHFRTERFYkpKMXd3bENzZVNpU2RBTkhhdGtaRGwzYXpYOWUyY0lsdGdNckZQTXd3MFEtR3piR1dlSTU2Szgxa0VsdXRxS0JDQV9LUlFUNGk1UEVBZVB1bzJLaWlyRmVReVFVVmo1QTl5UmN5YVU?oc=5",
+      "pestel": [
+        "Economic",
+        "Environmental"
+      ]
+    },
+    {
+      "id": "6333d833647fda",
+      "cadence": "weekly",
+      "theme": "pestel",
+      "geography": "India",
+      "sector": "Regenerative Farming",
+      "segment": "regenerative",
+      "date": "Week 44 · 2026",
+      "published_at": "2026-10-31T08:33:09+00:00",
+      "headline": "Explainer: What is regenerative agriculture and why does India need it?",
+      "summary": "This development affects the regenerative farming value chain. Open the original report for transaction details, timing and named counterparties.",
+      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
+      "source": "DD News",
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOejA5TFNMQkhGVW5QXzh4LVdOTHV0bVYySDRRSGV6dUFZNUNVd0o4b3cyaFA1aFpwTGJGQlF0SmhZTmw2cFZqclR0aUZacDlaVkRPSkt1SEF2YkhObUp6MzlDZ0NVeWhHZ1l1a0dSdWV5cTBaay1zTE8zeUZrMnI5WE01MHk1RW9FOVlTZDVHc1haLXp6d3hIcTBhWQ?oc=5"
+    },
     {
       "id": "ffe49de3754b27",
       "cadence": "daily",
@@ -266,21 +300,6 @@
       "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
       "source": "Urban Acres",
       "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMWtTbHhOTm4ya0J1SUdUdklfQ3NvamtUc0ZVbjNKVnNndVF3ODhUYlFNTHc3TzVaeGlpMl9RRXR5Uzk4QnVPUVpmMUtTTFZZZ2pieEdRZHRkbVFTV0pVNTNYQUcwZEpmRnVQRkZQZWxEN3VZSWtjWEVQb1gwWklDQVNoS08yTWMwS1E?oc=5"
-    },
-    {
-      "id": "6333d833647fda",
-      "cadence": "weekly",
-      "theme": "pestel",
-      "geography": "India",
-      "sector": "Regenerative Farming",
-      "segment": "regenerative",
-      "date": "Week 43 · 2026",
-      "published_at": "2026-10-25T02:52:36+00:00",
-      "headline": "Explainer: What is regenerative agriculture and why does India need it?",
-      "summary": "This development affects the regenerative farming value chain. Open the original report for transaction details, timing and named counterparties.",
-      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
-      "source": "DD News",
-      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOejA5TFNMQkhGVW5QXzh4LVdOTHV0bVYySDRRSGV6dUFZNUNVd0o4b3cyaFA1aFpwTGJGQlF0SmhZTmw2cFZqclR0aUZacDlaVkRPSkt1SEF2YkhObUp6MzlDZ0NVeWhHZ1l1a0dSdWV5cTBaay1zTE8zeUZrMnI5WE01MHk1RW9FOVlTZDVHc1haLXp6d3hIcTBhWQ?oc=5"
     },
     {
       "id": "8eeaa4888a219a",
@@ -1177,24 +1196,6 @@
         "Technological"
       ],
       "segment": "agro-processing"
-    },
-    {
-      "id": "8258e056efa3ec",
-      "cadence": "weekly",
-      "theme": "pestel",
-      "geography": "India",
-      "sector": "Biochar & Activated Carbon",
-      "date": "Week 40 · 2026",
-      "published_at": "2026-10-01T13:15:01+00:00",
-      "headline": "Activated Carbon Manufacturing Plant Setup in India",
-      "summary": "This development affects the activated carbon, charcoal & biochar value chain. Open the original report for transaction details, timing and named counterparties.",
-      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
-      "source": "IMARC Group",
-      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOOUZFU3A3dGlObjVwejJvVmZlcEcwN0U5cE96ZDVfTFhvdVhaeDZBZ2lmOWs2UHdxM3Y5SEQwZS1UdlJXS0tNNENSTlZGTmxpWkUtaVB3Q0JTOW9janFsOGZ2TG9zQXBJNjlQWElSVC13Z0drUmg3ZW11LUpKVFhra3JUQ0dZMjdKWHVSN0dVdEFaZw?oc=5",
-      "pestel": [
-        "Environmental"
-      ],
-      "segment": "biochar"
     }
   ]
 }
