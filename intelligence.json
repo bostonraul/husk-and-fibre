@@ -1,6 +1,25 @@
 {
-  "generated_at": "2026-11-01T10:26:04+00:00",
+  "generated_at": "2026-11-02T11:01:57+00:00",
   "reports": [
+    {
+      "id": "110c44009b0f27",
+      "cadence": "weekly",
+      "theme": "pestel",
+      "geography": "Rest of World",
+      "sector": "Carbon Credits",
+      "segment": "carbon-credits",
+      "date": "Week 45 · 2026",
+      "published_at": "2026-11-02T07:23:42+00:00",
+      "headline": "Marketing Bago’s carbon market initiative at COP31",
+      "summary": "This development affects the carbon credits value chain. Open the original report for transaction details, timing and named counterparties.",
+      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
+      "source": "Apex News Exclusive",
+      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUl9URU9EUGdhLUNoOUZwNWpTLXdJbTQ1ZVhGaHZoREhJeUFPNUFuM3AwV08zb3g4Y0lKQ3BCdXZnVTNMSzcxbEp6eXZZX2VXUTBoLWFST1g4Z0hYMnpvc21WazU5NzFma2V4OHVKYkc3VWt2Z2poSl9TN2JmdWhVaWJBMFNhc2UzaERTQUtnRUUwdw?oc=5",
+      "pestel": [
+        "Economic",
+        "Environmental"
+      ]
+    },
     {
       "id": "596ed644d5f290",
       "cadence": "weekly",
@@ -84,6 +103,24 @@
       "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPalMzWmZBcS12Uk5WWHhXUkNoRzBGeGt6VHByUVZGMkltS1BhZVZkenVkR2hOY0JwdG0zWDBBelg2WmR5QUJHc2FzUjN4NWQ5MU9qVEtUZlp3Qm9rdm5jT0ZZMFpqYThGOWNmcDE0cTNtWmx6dVhxZVpFeGpjNFIzTFZfWmxtcEJuNXJ1RlE5Y0Q?oc=5",
       "pestel": [
         "Economic",
+        "Environmental"
+      ]
+    },
+    {
+      "id": "3e7620507bb49a",
+      "cadence": "weekly",
+      "theme": "pestel",
+      "geography": "India",
+      "sector": "Carbon Credits",
+      "segment": "carbon-credits",
+      "date": "Week 44 · 2026",
+      "published_at": "2026-10-30T16:52:00+00:00",
+      "headline": "Jharkhand identifies five carbon credit projects to monetise green schemes",
+      "summary": "This development affects the carbon credits value chain. Open the original report for transaction details, timing and named counterparties.",
+      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
+      "source": "The Times of India",
+      "source_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNUXp5R0xjMEZVcnhBeU9JUGk5dnJ4eDN5cXNSWEdwX3c3XzFRa0RKNDN2a0Zjb05oa0ltNE1CNy1UaWFsYjBXTjFJUms4S3UxMHg4eDV1QzYtTHFMeUgwOU1YMlFSQmd6Znh6ejVTSHlXTklxMnVRX01MWGpYVWV5akNCRXIwTk9FM1dpckVUR1ZtczZjU0gyS0h5MTdnZ0JRcy1YeXFsaTFQMXpLNDJZdElZLTZDRHNZblUzd1E2U1JCWk5XTU1qeWlZWnVFV2EyVU5TelVxSWRlU3VlUkxuMnh30gHnAUFVX3lxTE5UbGlhTHktYmc1eEFxQWd1RGMwVlhzQzNFR3QtcWVsX2NDV0VHRXV1SlNjMzNzajlxeXJ6Tmx1d055QVgtTTQ5bzZpMXNvMVpjZW1XRngyaGFySFBJdGdvNkdDcVNkY2Z6WXdJVzA5RnEyTnI1TVJOOHdOejljVWpsWXhuUmlXLW5sek9JQXAwc2VzVXV4UGtnU0NSSTg3VEp5WEQ1TnRJSXBKR2JTbjdHd0NobW5tNHV5VnBWZG1Pc0xvMGEwTml3WmxrSFBjSzhVMWMxMTVRN1hBSENUMkNGV3I0OXZtMA?oc=5",
+      "pestel": [
         "Environmental"
       ]
     },
@@ -1141,61 +1178,6 @@
         "Environmental"
       ],
       "segment": "biochar"
-    },
-    {
-      "id": "a95fbfd69b5a9f",
-      "cadence": "daily",
-      "theme": "capital",
-      "geography": "Rest of World",
-      "sector": "Agri-Products & Agro-Processing",
-      "date": "03 Oct 2026",
-      "published_at": "2026-10-03T00:44:21+00:00",
-      "headline": "Caribbean Export to pitch three agro-processing projects to investors at CIF 2026",
-      "summary": "This development affects the agri-products & agro-processing value chain. Open the original report for transaction details, timing and named counterparties.",
-      "signal": "Compare the funding structure with project maturity, contracted demand and expected cash-flow timing.",
-      "source": "Jamaica Observer",
-      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOM0t0ZmhmS01wX21HNFBiZDRnVVgyNjBfZk9iZzlZaWxVZEdubWNfM2lMYzNnOHkyU2NmemdpUV9nNFlvekRfR1hVMTM4MGg5Q3EweG00M1RkVnprcmg0bVd6MG1EVEtqRG9LZC0tX3ZqLUlnamR3b3VSVUNFdWRYZEFiOW94bm1sbkNrWDhpUUN1dGtpMVVVUXpaLTJoMFd5REV4YmFTdnF0QWJ0R09vYnZJZ1JRWHM?oc=5",
-      "pestel": [
-        "Economic"
-      ],
-      "segment": "agro-processing"
-    },
-    {
-      "id": "4d05cc45bc70c0",
-      "cadence": "weekly",
-      "theme": "pestel",
-      "geography": "Rest of World",
-      "sector": "Carbon Credits",
-      "date": "Week 40 · 2026",
-      "published_at": "2026-10-02T17:28:44+00:00",
-      "headline": "How Canada’s New ITMO Framework Could Unlock International Carbon Markets",
-      "summary": "This development affects the carbon credits & nursery plantations value chain. Open the original report for transaction details, timing and named counterparties.",
-      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
-      "source": "CarbonCredits.com",
-      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYzVQMG9NRkpLdDFtVUhaa1JsLV94eDhXaFZZcnZjOTQ1N3EtbVlDaDBGSkdjQWlBc0FsOFdYbjVCYjJ6d2QtSnRZc2dYQzY5RTlwR3pUTnN0Y1FkakUwMFpvM1FFYVMyOElpQTEyX2ZqZ21zcUVONklMTUQybVJLR3h3Z1lVSDJyTkRqOTFCSloxM2w2RWpzcXZ2cHd3MTYz?oc=5",
-      "pestel": [
-        "Economic",
-        "Environmental"
-      ],
-      "segment": "carbon-credits"
-    },
-    {
-      "id": "7e2aea84f72cf0",
-      "cadence": "daily",
-      "theme": "innovation",
-      "geography": "Uganda",
-      "sector": "Agri-Products & Agro-Processing",
-      "date": "02 Oct 2026",
-      "published_at": "2026-10-02T12:11:11+00:00",
-      "headline": "Uganda’s Investment Push Opens Door for North Dakota Agriculture, Technology Firms",
-      "summary": "This development affects the agri-products & agro-processing value chain. Open the original report for transaction details, timing and named counterparties.",
-      "signal": "Assess field performance, unit economics and the route from pilot deployment to repeatable commercial scale.",
-      "source": "Nilepost",
-      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdXlTbzNTNDloaWF5ZW9YVWt3Tm9tdW1Qa2l4bmV1b2pWWFVJSTdObXFkblZiUGRtRHFPbDdsdVQzb3pCVXJkSEFwREstYjlnVXV5S3pCNGtZTEVZaG0yU0ZaYXFmVGhlMGVPTnBHOGxMX3pnSTlmTUFKTGdmdVlKb1YyN1NRcExIenRQN0JTOHduaC1zSGZUVzdYNS1WaWUxdkg1cGdvVVBRSHNZdVhQbzRKa01RZ01pQ05SdEJn0gHGAUFVX3lxTE55VHV2bnA2N19CMFBVR05od2Q4bUl4RzI1T3VUWWZWT3VVeE5ELW9zQ0hoaDlGY1BBRmtUeHAzaXRqbG83eWs1Ung4Q3V3SlVQTVJIS283dHNreUp5ZVlDcmF0VHZjREJ2S1JHTV91MFZGNEZGUFFzMWFTck5NTFR2YVdVbmdGM3dUM1phckhJcmQ5al9mRVBBeFpFeFhFMEdVWDRtTElwLW1hTUdCLXI5b0djWWlKMlhXRVZqeVFnYlNUOF9aQQ?oc=5",
-      "pestel": [
-        "Technological"
-      ],
-      "segment": "agro-processing"
     }
   ]
 }
