@@ -1,22 +1,40 @@
 {
-  "generated_at": "2026-11-02T11:01:57+00:00",
+  "generated_at": "2026-11-03T10:50:22+00:00",
   "reports": [
     {
-      "id": "110c44009b0f27",
+      "id": "4486c8281c2da0",
       "cadence": "weekly",
       "theme": "pestel",
       "geography": "Rest of World",
       "sector": "Carbon Credits",
       "segment": "carbon-credits",
       "date": "Week 45 · 2026",
-      "published_at": "2026-11-02T07:23:42+00:00",
+      "published_at": "2026-11-03T07:17:45+00:00",
       "headline": "Marketing Bago’s carbon market initiative at COP31",
       "summary": "This development affects the carbon credits value chain. Open the original report for transaction details, timing and named counterparties.",
       "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
-      "source": "Apex News Exclusive",
-      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUl9URU9EUGdhLUNoOUZwNWpTLXdJbTQ1ZVhGaHZoREhJeUFPNUFuM3AwV08zb3g4Y0lKQ3BCdXZnVTNMSzcxbEp6eXZZX2VXUTBoLWFST1g4Z0hYMnpvc21WazU5NzFma2V4OHVKYkc3VWt2Z2poSl9TN2JmdWhVaWJBMFNhc2UzaERTQUtnRUUwdw?oc=5",
+      "source": "Blueprint Newspapers",
+      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5VQkJ4U01GaHFqTG56by12cHh2UndJNnV5T3ZJUVB1b0h5NDBfbFdTUi1UbnQ5Wk0xVkhpc096Uk5VenhBdS0zLXZZM3hGdC1VYWx6ZmhsLWVJZ1I5aUxuVTRfRVM2MkxnZEg4dWt2Qk90cG92Q1h2aS1MMA?oc=5",
       "pestel": [
         "Economic",
+        "Environmental"
+      ]
+    },
+    {
+      "id": "b3bc512cc924b2",
+      "cadence": "daily",
+      "theme": "innovation",
+      "geography": "India",
+      "sector": "Regenerative Farming",
+      "segment": "regenerative",
+      "date": "02 Nov 2026",
+      "published_at": "2026-11-02T05:03:00+00:00",
+      "headline": "Centre launches Khet Bachaao Abhiyaan-Rabi 2026 to promote soil health, balanced fertiliser use across 50,000 villages",
+      "summary": "This development affects the regenerative farming value chain. Open the original report for transaction details, timing and named counterparties.",
+      "signal": "Assess field performance, unit economics and the route from pilot deployment to repeatable commercial scale.",
+      "source": "https://www.indiagazette.com/",
+      "source_url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNTzVSeTBINmVoVGdidEV3cGIzYVhJRVAyREkzU3Mtb3BrQ2t4UmZLU2x5NVZBNmxUdFJxdFhzVFRoald4R3BYZ1N6S1VDMldWX1BncG5RTUQzVUxaSlR6SzBETGRGbl9oVlFIcHZZVzhBTGpnZ2loTV91b2R3S2J3MTZrWG53UmRjUjVqNlpNRVN2V1dEVU5vU1NrbzF0Unl1cGFHV0tOaEFoSElUdWVCeFBrRmVjNDZUelJydFplaXZvYnRjUUtjTUtJXzJHMzNtSzMteXlYdnJKOWE1Tk1JaGhielpRN0txWTFwYkNvN2Z5UQ?oc=5",
+      "pestel": [
         "Environmental"
       ]
     },
@@ -53,6 +71,21 @@
       "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
       "source": "DD News",
       "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOejA5TFNMQkhGVW5QXzh4LVdOTHV0bVYySDRRSGV6dUFZNUNVd0o4b3cyaFA1aFpwTGJGQlF0SmhZTmw2cFZqclR0aUZacDlaVkRPSkt1SEF2YkhObUp6MzlDZ0NVeWhHZ1l1a0dSdWV5cTBaay1zTE8zeUZrMnI5WE01MHk1RW9FOVlTZDVHc1haLXp6d3hIcTBhWQ?oc=5"
+    },
+    {
+      "id": "c951dc23713bec",
+      "cadence": "weekly",
+      "theme": "pestel",
+      "geography": "Rest of World",
+      "sector": "Agri-Products & Agro-Processing",
+      "segment": "agro-processing",
+      "date": "Week 44 · 2026",
+      "published_at": "2026-10-31T07:27:00+00:00",
+      "headline": "Dhanuka Agritech (NSE:DHANUKA) Releases Q2 FY27 Unaudited Financial Results: Key Insights",
+      "summary": "This development affects the agri-products & agro-processing value chain. Open the original report for transaction details, timing and named counterparties.",
+      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
+      "source": "Kalkine Media",
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNc2UydUU1eGlpMGI3NjI3dm1aTV9CX2NIRUhxZEU2T1QybnpKNng3NjRoOVdLTlVyMTUxN3JYT1FTa3BnclJlQ2VNQXMzRDBjTGlJbUJUSU1rQ3dGMkdnTklGNW01V1o3SnZSeDl4bkZIX1laQWlQR1hvQzBCVDRqc2dXMlVxWGVnb1oweFNUcGZMbnJxOGNjNXBnOEhDUmU4Y3ExTFBMOUdCT0FXOU93VFdtRVpua3A0QnJQYjZPOU95QWh4SlREZm9keGc?oc=5"
     },
     {
       "id": "ffe49de3754b27",
@@ -103,24 +136,6 @@
       "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPalMzWmZBcS12Uk5WWHhXUkNoRzBGeGt6VHByUVZGMkltS1BhZVZkenVkR2hOY0JwdG0zWDBBelg2WmR5QUJHc2FzUjN4NWQ5MU9qVEtUZlp3Qm9rdm5jT0ZZMFpqYThGOWNmcDE0cTNtWmx6dVhxZVpFeGpjNFIzTFZfWmxtcEJuNXJ1RlE5Y0Q?oc=5",
       "pestel": [
         "Economic",
-        "Environmental"
-      ]
-    },
-    {
-      "id": "3e7620507bb49a",
-      "cadence": "weekly",
-      "theme": "pestel",
-      "geography": "India",
-      "sector": "Carbon Credits",
-      "segment": "carbon-credits",
-      "date": "Week 44 · 2026",
-      "published_at": "2026-10-30T16:52:00+00:00",
-      "headline": "Jharkhand identifies five carbon credit projects to monetise green schemes",
-      "summary": "This development affects the carbon credits value chain. Open the original report for transaction details, timing and named counterparties.",
-      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
-      "source": "The Times of India",
-      "source_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNUXp5R0xjMEZVcnhBeU9JUGk5dnJ4eDN5cXNSWEdwX3c3XzFRa0RKNDN2a0Zjb05oa0ltNE1CNy1UaWFsYjBXTjFJUms4S3UxMHg4eDV1QzYtTHFMeUgwOU1YMlFSQmd6Znh6ejVTSHlXTklxMnVRX01MWGpYVWV5akNCRXIwTk9FM1dpckVUR1ZtczZjU0gyS0h5MTdnZ0JRcy1YeXFsaTFQMXpLNDJZdElZLTZDRHNZblUzd1E2U1JCWk5XTU1qeWlZWnVFV2EyVU5TelVxSWRlU3VlUkxuMnh30gHnAUFVX3lxTE5UbGlhTHktYmc1eEFxQWd1RGMwVlhzQzNFR3QtcWVsX2NDV0VHRXV1SlNjMzNzajlxeXJ6Tmx1d055QVgtTTQ5bzZpMXNvMVpjZW1XRngyaGFySFBJdGdvNkdDcVNkY2Z6WXdJVzA5RnEyTnI1TVJOOHdOejljVWpsWXhuUmlXLW5sek9JQXAwc2VzVXV4UGtnU0NSSTg3VEp5WEQ1TnRJSXBKR2JTbjdHd0NobW5tNHV5VnBWZG1Pc0xvMGEwTml3WmxrSFBjSzhVMWMxMTVRN1hBSENUMkNGV3I0OXZtMA?oc=5",
-      "pestel": [
         "Environmental"
       ]
     },
@@ -261,6 +276,25 @@
       "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbzAtUmNuanc0WkpDRmVkX0d5anoxMkczV3dBMVMzQk5leUd4MHFHMFlHMWZwNGVvSE5JU3RHc3A2S2p4eWVZVmFJdU5ZTzN1aVRWX3dqd2VQbEFfVUpnamlZc0c1RFFoMzhwdjRDOExPb0tBTWlNbDJfbjR0bm5vTzJPZWFVekZoMnFhTkg5R1JzUDZ3Y1ViUWhCVUVvaWRmaHczNXZlTy1QaHRYLUp2bDRHUDN3R29hWEow?oc=5",
       "pestel": [
         "Technological"
+      ]
+    },
+    {
+      "id": "687594ac3e11e2",
+      "cadence": "weekly",
+      "theme": "pestel",
+      "geography": "Rest of World",
+      "sector": "Biochar & Activated Carbon",
+      "segment": "biochar",
+      "date": "Week 44 · 2026",
+      "published_at": "2026-10-28T07:00:00+00:00",
+      "headline": "Activated Carbon Fiber (ACF) Market Size & Share, 2026-2035",
+      "summary": "This development affects the biochar & activated carbon value chain. Open the original report for transaction details, timing and named counterparties.",
+      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
+      "source": "Global Market Insights Inc.",
+      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOeGRja0JRUUt4cl9mX3BWVkhPc1pkWFFHUWV6UVFaT2JYZEdmaWFUa294eGFKcFhkR3ZMTjJwNjRiN1dGc1FxTmZfcDZGN00tRDNsb3lGeGlmbGZBX1pYdy0zRDNNZENOaEUxa1Job2VtZTU1MDZ3N21GbnVBVHZpYkFlcEI?oc=5",
+      "pestel": [
+        "Economic",
+        "Environmental"
       ]
     },
     {
