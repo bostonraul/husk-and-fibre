@@ -1,6 +1,62 @@
 {
-  "generated_at": "2026-11-03T10:50:22+00:00",
+  "generated_at": "2026-11-04T10:53:23+00:00",
   "reports": [
+    {
+      "id": "7b96ca3c3688da",
+      "cadence": "weekly",
+      "theme": "pestel",
+      "geography": "India",
+      "sector": "Regenerative Farming",
+      "segment": "regenerative",
+      "date": "Week 45 · 2026",
+      "published_at": "2026-11-03T18:32:19+00:00",
+      "headline": "India makes first soil carbon payments to farmers in Punjab, Haryana",
+      "summary": "This development affects the regenerative farming value chain. Open the original report for transaction details, timing and named counterparties.",
+      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
+      "source": "DD News",
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNzZISG1nckdnRTE3YURaU1ZnY1N1M0Y5cE9LTldDV1RUcGtGMW5SRVBicEJDLUxTNE96YS0wMURPcHBfVmhVa1hqN2d0XzFQblZtN3ppMW9kY1YxWEhEbzhXVVQyVXhzTDRZeU01STRVbDdHN255QWxwalE4elRNMDNiYXhQeThwQXN5WjE1Z3ZFSGVKUXBxWA?oc=5",
+      "pestel": [
+        "Social",
+        "Environmental"
+      ]
+    },
+    {
+      "id": "00285cd5d5e01c",
+      "cadence": "weekly",
+      "theme": "pestel",
+      "geography": "Rest of World",
+      "sector": "Permaculture & Agroforestry",
+      "segment": "agroforestry",
+      "date": "Week 45 · 2026",
+      "published_at": "2026-11-03T14:16:04+00:00",
+      "headline": "Agroforestry Seedlings Market To 2035: Carbon Sequestration Demand Drives Growth - News and Statistics",
+      "summary": "This development affects the permaculture & agroforestry value chain. Open the original report for transaction details, timing and named counterparties.",
+      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
+      "source": "IndexBox",
+      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTk5NNnBVRWhiVmoxV25pdGI2UmxPeENTQ052d2FsNWFIOGxQVHgtdF9vU05CcTNDS3hvQ1pBbnN3SkI1QW1oV1lVV1hQMTQtV2JXMGYwTnVKcDM1VjAyQnFXMzM1VmdrNVR3c2RiaUNHMUhZNEZUX2JFSS11YU9MTXpFa0F2OGVuZUVrS21OVFNob0VmVHc0eVpJX1BsRlRrSS1HVFJpb3NNUDhqeGJ4TlIwa0FZZWtranc?oc=5",
+      "pestel": [
+        "Economic",
+        "Environmental"
+      ]
+    },
+    {
+      "id": "b591eacc922337",
+      "cadence": "weekly",
+      "theme": "pestel",
+      "geography": "Rest of World",
+      "sector": "Permaculture & Agroforestry",
+      "segment": "agroforestry",
+      "date": "Week 45 · 2026",
+      "published_at": "2026-11-03T12:31:39+00:00",
+      "headline": "Sutton-in-Ashfield-based Food Paper invests in local agroforestry and biodiversity restoration project",
+      "summary": "This development affects the permaculture & agroforestry value chain. Open the original report for transaction details, timing and named counterparties.",
+      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
+      "source": "Love Business East Midlands",
+      "source_url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxORXAzRnR5VG9qeVJEUENaSlNnaWhfdEE3RWI3bWVmWHdEYXdaYS1TOTc0ak1yQl9MOGQ5SzRLbURCa3dZZmlubXMyaWdrcVFOZVR1d2FmMkp5UUdxSDBkYTFGcllmMzV6NWd6OW5talBjTFlhd2dfU0EyYXRmako4WWozTWhWc1g4a2QzWXZjUmUyakdOdTFmSmxyaVRzSkpud2F5SVI1bUxDUnJ2ZkR3VjZHd2E5MHloR05OZ3piWGFRRXpESjU2eGlZSXBzZ1ZjRW12TUc4UlNmZ29SM2V4bFhrc1hlbWZrWDNLcjRLX3ctRm9aczZqb3FZR1hMMVlpR2RnVQ?oc=5",
+      "pestel": [
+        "Environmental"
+      ]
+    },
     {
       "id": "4486c8281c2da0",
       "cadence": "weekly",
@@ -21,22 +77,37 @@
       ]
     },
     {
-      "id": "b3bc512cc924b2",
-      "cadence": "daily",
-      "theme": "innovation",
+      "id": "5155724d78900d",
+      "cadence": "weekly",
+      "theme": "pestel",
       "geography": "India",
       "sector": "Regenerative Farming",
       "segment": "regenerative",
-      "date": "02 Nov 2026",
-      "published_at": "2026-11-02T05:03:00+00:00",
-      "headline": "Centre launches Khet Bachaao Abhiyaan-Rabi 2026 to promote soil health, balanced fertiliser use across 50,000 villages",
+      "date": "Week 45 · 2026",
+      "published_at": "2026-11-02T11:23:00+00:00",
+      "headline": "Khet Bachaao Abhiyaan: how centre aims to improve soil health and promote sustainable farming",
       "summary": "This development affects the regenerative farming value chain. Open the original report for transaction details, timing and named counterparties.",
-      "signal": "Assess field performance, unit economics and the route from pilot deployment to repeatable commercial scale.",
-      "source": "https://www.indiagazette.com/",
-      "source_url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNTzVSeTBINmVoVGdidEV3cGIzYVhJRVAyREkzU3Mtb3BrQ2t4UmZLU2x5NVZBNmxUdFJxdFhzVFRoald4R3BYZ1N6S1VDMldWX1BncG5RTUQzVUxaSlR6SzBETGRGbl9oVlFIcHZZVzhBTGpnZ2loTV91b2R3S2J3MTZrWG53UmRjUjVqNlpNRVN2V1dEVU5vU1NrbzF0Unl1cGFHV0tOaEFoSElUdWVCeFBrRmVjNDZUelJydFplaXZvYnRjUUtjTUtJXzJHMzNtSzMteXlYdnJKOWE1Tk1JaGhielpRN0txWTFwYkNvN2Z5UQ?oc=5",
+      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
+      "source": "DD India",
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOT24yLUxZaVBGejVySURJN1NPU2lNSXFKWDBPSjdTSjJMVlNaWVdndzFBbzJGVW5Ta0lkeDMzbWFocHdGeE5hdGdZYVgwYnBBbEtOLWlnQW81RW9Ia2RZRjNpM294c3Y3VTFYM3JRV0xJMjYxTnFrcjQyUmpyRlRCR1pRVmlJcHhHakdHTkdFX3F2RVV5R1JzUjFEUzQ3ZlNDTHNyM2QwWjJENTJnTktsRUNadWtCLU5GdFE1a1FYS1o?oc=5",
       "pestel": [
         "Environmental"
       ]
+    },
+    {
+      "id": "85c8e2005813c5",
+      "cadence": "weekly",
+      "theme": "pestel",
+      "geography": "Rest of World",
+      "sector": "Agri-Products & Agro-Processing",
+      "segment": "agro-processing",
+      "date": "Week 44 · 2026",
+      "published_at": "2026-11-01T19:02:53+00:00",
+      "headline": "Dhanuka Agritech Ltd (BOM:507717) (Q2 2027) Earnings Call Highlights: 10% Revenue Growth ...",
+      "summary": "This development affects the agri-products & agro-processing value chain. Open the original report for transaction details, timing and named counterparties.",
+      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
+      "source": "Yahoo Finance",
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSVlQYklOS3V2Rk5EaHNCN25UM2wzcDJmVjluVVo1amtXcjNmaDhDT0FGOHJ4MjRQeVByODZWNGdfeHQtZ3A5UFUyQS02cWcxNjh3dUdpVDBKUHNKcGRwS1JnUUVpUTJ0Z1BtdjRXakhnRHpwZUUwR3NEZnZUMUhQajFZdzNaSnpCeGNVNjg1bUVnOUUtZkdqR282U3g?oc=5"
     },
     {
       "id": "596ed644d5f290",
@@ -224,6 +295,42 @@
       "source_url": "https://news.google.com/rss/articles/CBMiiAlBVV95cUxNVE5CeVBYR3UzSUlRcjl1MXF6T1RSS2RzNThNNWt1ZFRyVFh0TTIwbTZtN0pBQ2pJMnotSDh2OG5LRmhzd1J5UnRIdmlYSlc1OXZDcXRSLWJ6VkcwSzZaTE5WNUtvNjBPTmwwZWozdTB5cW44eDhYTXJwamRFTGRtUVQ5c0ZvY0ZkUUhWa3FDaFpWLVFhNE9QbS1lUXJDMVVZTnRZZ01uVXdTbEtQSUsxekZhdVEtaXdwLW16dnRGdTk1bXJZVi1xMm5VcWVEMmRadlJ6QVNRSHFsQzlyTjJRWjFuVUVnUFgyUVAxTV9vaDNpZ3lrT0Zad1hLanQ0WHBuTGlCdHU1aWhPN3JDeTVTYVNCTnphUWV6QUtaQXowQW5pTXpraFJVV2ZfVzlsTHpDek1IOC1ndHpVQ3A5NF9ZaUpyalVqQ3Rvc2tQYVg1emxEU295YVNaWDJkZUtxWkhrOGxfYVNFUlN2WE1HQXV1dUF5T0lQR1pZbmVWTGEyTTlKbkc0YllieUx6YVFJY3FpTXZrcERTNzA4c3hUSUhhbV9BM0R2ZkFiNEtWVTNCVjlVOUhPbVYwaXhzbWdjRE5tMnc1ck1jWXpCUFFzYTRaYmF4N25rUEJEdHU2NXdkWllXZC1fUzZzLVRWZ3Y5N0l4TmpTMmlTZWU4VWdBLXhqT1d4a1RWTkdRdnlCTzdwTTVyVFoxS0JOME82LUd0STNTUUlLdFpyM084ei1FdDdMQ0ptTUZSak5sVlBhQVF6LU1uWlNvTl9mMXliU0Q1RHdWUGs3Rnh0QksxejBWR3JRWUZ6R3F3b3h3a3pHNy1oZWRwY2RzV0pQOGNzV0M0eTA3N1FoRlFpYmNVWkdhQWJnRjBZSlNPanRWWEdLeVVfWDhaRUpuTnNmRlBHTEdIaXVKRDM5aldoQkk3dUl6ZnV5b1ktbndUSkhfTjg5c0JmM2RNYWcwSHJpYUNHUng4VzZmYzNqNm5Zb3BOSHVBZVdBbHdNZTZWNFZKR2tCMzBTaHVNc0R1dUlDVEJQNzJ5M25GZEVPTFE3a3c4al9lUEgxZ3lmb01MZTI5UjNUcWsxRGUxX0tZZG5sZ0NIQmhSRDZDdmdmTEhGODVYS2VQbW1teDQzUEJzYTZPRTRMWGdCTG9fVEdoUlR2YkFWOGt6WDFlYlNuQmFaeEpPZ3hfTEpSZ2c3X1J6OXM5N1drVThfQ1hjbXFWQkdsRWFvN0FaZVR2SktnYTlTU3dqUjFoS2RNaWJ6RzNRVmwyTWotMy1UWHppanBhZFpXXzJzdXFTX3J6Nk9IUGxWa3RxRnEzMG1iNmFWS3hwU0NOYmJJZVAxWjNtUjZWNWN0ZThxY0hJYmNjRnpZMm5seE9WN1JoM2QxZC1NNXpfSk8tMUw2U05hcGx0dHRZOVljRW5LX2w0Ynlod2ZKb3hqMDUtUENoOUFZdmtQekdPaUlnemlDR3V4Q3lTUzdqLWFfTjNYaEplSjhOcEM5ZzkyYVo0N0NIdE9mcENSSGNwQ1l2S3I2cFN1bU9oZTlhQ0RTcw?oc=5",
       "pestel": [
         "Political",
+        "Environmental"
+      ]
+    },
+    {
+      "id": "19503ade71f901",
+      "cadence": "daily",
+      "theme": "capital",
+      "geography": "Rest of World",
+      "sector": "Biochar & Activated Carbon",
+      "segment": "biochar",
+      "date": "29 Oct 2026",
+      "published_at": "2026-10-29T08:10:43+00:00",
+      "headline": "Biochar Industrial Secures $1.5 Million Pre-Seed Funding to Scale Industrial Carbon Removal in Africa",
+      "summary": "This development affects the biochar & activated carbon value chain. Open the original report for transaction details, timing and named counterparties.",
+      "signal": "Compare the funding structure with project maturity, contracted demand and expected cash-flow timing.",
+      "source": "Tech In Africa",
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPNzB6M3BWMVNIX3ZyVVpTVElNVVgzU1JqVmtHWExELWxlRnBoaW1Jb1EzR21mRzlZd2tjZWQ1VXF3alZkWkRJVmlKaWoxcGpHemlocUdWNXpCbzJJRldUcU1JZld5WlFsYm9vbExqcEFoamQ4Vk5OX0drQkdPNG9idGFlN2I5UWdMNHBJRjRvaEJqWkdyQTRQVGV2YmxlNjFkX29jNEVWaWM3QlVPaVR1N01HMk5TWk9ZdDJCXzNQdnNmMDhscV9KXzF3?oc=5",
+      "pestel": [
+        "Environmental"
+      ]
+    },
+    {
+      "id": "af2eb9156af220",
+      "cadence": "weekly",
+      "theme": "pestel",
+      "geography": "Rest of World",
+      "sector": "Permaculture & Agroforestry",
+      "segment": "agroforestry",
+      "date": "Week 44 · 2026",
+      "published_at": "2026-10-29T07:00:00+00:00",
+      "headline": "French developer to partner on Rwanda agroforestry project",
+      "summary": "This development affects the permaculture & agroforestry value chain. Open the original report for transaction details, timing and named counterparties.",
+      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
+      "source": "Quantum Commodity Intelligence",
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQVdqM1VsUU1PbFk0RFYyQ2FoYzQtRlhLeEJJMVlPNDlORWV6WUxraU5GRjExeTl2UnlZS0xSRHFhLXVqa0txSUx6TGFXbXNmTTM5OFhYaTVVWFppMUVUMDQ3dmlxcWFLcEZ6ejlFR2g4Si1NOVU5Z0t6aVdKSHJqUlFWVV9zZVhqdS1fbDJNcHpvZUgxZ0RSRktJQTVMSDB0NUlFQXlfRVJ6UlBV?oc=5",
+      "pestel": [
         "Environmental"
       ]
     },
@@ -1190,25 +1297,6 @@
       "source": "BusinessToday Malaysia",
       "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWXA4N0ZqVnJxTFEyNmJyNmxUVzVQSTh3aFdWVkxlUU90a0JES1hnRW1tbmhfRGg5aFBXT25hM2hYU3VLeGdtakphejNOcC05WHBZZVdzVlYwQWxuMmV3UVVKa2pBcWx2YzNyampsRzU0andzd294eWlrWFhLaUVubFliUVFyNl9vcTRsaGNDLTF5dnp3TUJKOXlzMGJMaHJjY3dDallwUHZxcHdYS1VwMA?oc=5",
       "pestel": [
-        "Environmental"
-      ],
-      "segment": "biochar"
-    },
-    {
-      "id": "6d6a85cf89435c",
-      "cadence": "daily",
-      "theme": "regulatory",
-      "geography": "Rest of World",
-      "sector": "Biochar & Activated Carbon",
-      "date": "04 Oct 2026",
-      "published_at": "2026-10-04T11:36:04+00:00",
-      "headline": "Tire Pyrolysis Oil Market to Accelerate Toward 2035 Driven by Maritime Decarbonization Mandates",
-      "summary": "This development affects the activated carbon, charcoal & biochar value chain. Open the original report for transaction details, timing and named counterparties.",
-      "signal": "Review eligibility, compliance timelines and incentive access before committing capital.",
-      "source": "IndexBox",
-      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQLWFCUHBZUmtCRmtHSWsyamxHTEc4RXJWaEJFN0lUZnYxTHFJUWliTHQyNVFLR3o2UUxGYlNnbG1nYUxrVlFuUzZEdGtoZXlKMGNaTnFRMndSVG80TGpLcjQxb1BzZ2ZyakV0WlhmSnlkeU00MUVobFpHbW1OQ3gySXRUSnQ1Xzl5STUyU3FBWXRrY3V1enVuRlY0dnZTU0U1V1dCNlpZd0k1VXdBVlVQMVN1bk9xbkFtMFBRdDgtbHVJZlU?oc=5",
-      "pestel": [
-        "Economic",
         "Environmental"
       ],
       "segment": "biochar"
