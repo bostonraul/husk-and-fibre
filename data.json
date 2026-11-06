@@ -2,6 +2,29 @@
   "generated_at": "2026-11-06",
   "stories": [
     {
+      "id": "hp-celebrates-lights-of-change",
+      "material": "Grass / Straw",
+      "region": "Unspecified — refine with NER in a later pass",
+      "headline": "HP Celebrates Lights of Change",
+      "dek": "This Diwali, HP celebrates the Lights of Change – the thoughtful innovations lighting up India and making lives brighter. From turning farm stubble into a resource to making health",
+      "potential_score": 2,
+      "potential_label": "Fair",
+      "capital_note": "Not yet assessed",
+      "video_youtube": null,
+      "video_caption": "Auto-matched video — verify relevance before featuring prominently",
+      "image": "https://img-cdn.publive.online/fit-in/1280x960/english-betterindia/media/youtube_thumbnails/vi/KTl5h57_em4/maxresdefault.jpg",
+      "image_alt": "HP Celebrates Lights of Change",
+      "body": "This Diwali, HP celebrates the Lights of Change – the thoughtful innovations lighting up India and making lives brighter. From turning farm stubble into a resource to making healthcare more accessible, these stories show how one idea can solve a real problem and create an impact that reaches far beyond itself.\nWatch these stories of dreamers and achievers who are making a difference, and discover the many ways innovation is shaping a brighter India.\nVisit https://www.hpcreatorsgarage.com to explore more stories and share an innovation that inspires you.\nIn collaboration with @HPIndiaVideos \n#HPLightsOfChange #HPDiwali #HappyDiwali #HP #Innovations #innovators",
+      "why_it_matters": "Auto-generated entry — pipeline flagged this via keyword + business-signal scoring.",
+      "source_url": "https://thebetterindia.com/videos/hp-celebrates-lights-of-change-12788822",
+      "sources": [
+        {
+          "name": "The Better India : Latest Posts",
+          "url": "https://thebetterindia.com/videos/hp-celebrates-lights-of-change-12788822"
+        }
+      ]
+    },
+    {
       "id": "how-2-friends-are-using-ai-to-help-200-farmers-make-money-fr",
       "material": "Grass / Straw",
       "region": "Unspecified — refine with NER in a later pass",
