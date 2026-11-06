@@ -1,6 +1,102 @@
 {
-  "generated_at": "2026-11-05T10:56:18+00:00",
+  "generated_at": "2026-11-06T10:50:53+00:00",
   "reports": [
+    {
+      "id": "b41bbf37a4cbad",
+      "cadence": "weekly",
+      "theme": "pestel",
+      "geography": "Rest of World",
+      "sector": "Carbon Credits",
+      "segment": "carbon-credits",
+      "date": "Week 45 · 2026",
+      "published_at": "2026-11-06T10:00:13+00:00",
+      "headline": "Forests or underground storage? New metric compares risks of carbon removal projects",
+      "summary": "This development affects the carbon credits value chain. Open the original report for transaction details, timing and named counterparties.",
+      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
+      "source": "Phys.org",
+      "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSF95MzFhUmFGc2FIb0ctUHpQWTdVS0syY1NrUTUwSGxkMjU5dUxXOUZFbUJJYUFkTkw0QWJOYTRJZEpaZFpuS2dNS2hwT01mM3dMaFpqNjRJQ20zU3hmaVdoQ2VUR3ptenhtZVhxel8tdWtFOVo5UHZSM3dWcVZZVkJR?oc=5",
+      "pestel": [
+        "Environmental"
+      ]
+    },
+    {
+      "id": "92edccc71fda2d",
+      "cadence": "weekly",
+      "theme": "pestel",
+      "geography": "Rest of World",
+      "sector": "Agri-Products & Agro-Processing",
+      "segment": "agro-processing",
+      "date": "Week 45 · 2026",
+      "published_at": "2026-11-05T10:42:45+00:00",
+      "headline": "Dhanuka Agritech Q2 revenue rose 9.9% on insecticide sales",
+      "summary": "This development affects the agri-products & agro-processing value chain. Open the original report for transaction details, timing and named counterparties.",
+      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
+      "source": "Multibagg AI",
+      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZE9GNFo4NGh3MTRhb1dkMGdpZGRUcEkzX3gtNHZ0WVFCNjY3ejk4d29HZ1pDTGd2R3U2amtoWXhHWXI2VllXNXhOTHIzODVNaWdYcmFyVVdMcUpScmwwdzNLTVVUWXpnVk1GOXlqTGVLaDRmelM3UmROZENfZU1FV25sRzU5ZFJhN3UtaUhLd0JiRFJBajFiUXRCS3NrV3RQRU9kSjRyczA4cW9UUHdYc3NHNUVwT2xjOVE?oc=5"
+    },
+    {
+      "id": "196b39288c85bc",
+      "cadence": "daily",
+      "theme": "capital",
+      "geography": "Rest of World",
+      "sector": "Agri-Products & Agro-Processing",
+      "segment": "agro-processing",
+      "date": "04 Nov 2026",
+      "published_at": "2026-11-04T20:26:23+00:00",
+      "headline": "Gombe woos Czech investors to expand agro-processing, manufacturing",
+      "summary": "This development affects the agri-products & agro-processing value chain. Open the original report for transaction details, timing and named counterparties.",
+      "signal": "Compare the funding structure with project maturity, contracted demand and expected cash-flow timing.",
+      "source": "Business News Nigeria",
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYUZtWnA0b1o4bkctODNlenRPQnBWaEl4OWF5NElnRXVhMGJaN1VGQ2FlUGxNV3ZJdDRTOFhCMGduNmR5RDhhcWstY3JVcWo3end4alZ2ZVk0ajREZXNHQ0FsS2RZLUxUUzlMNXNxaEtnZVFNZU8xODJBd2Q4RmpHb0lVcGp0c2hPTFV3VEkzbDk4WXRxSzBMYnZ3eHZ0XzdxQnFrNzln?oc=5"
+    },
+    {
+      "id": "d2d8a9c6533c78",
+      "cadence": "weekly",
+      "theme": "pestel",
+      "geography": "Rest of World",
+      "sector": "Agri-Products & Agro-Processing",
+      "segment": "agro-processing",
+      "date": "Week 45 · 2026",
+      "published_at": "2026-11-04T13:20:59+00:00",
+      "headline": "Dhanuka Agritech reports 9.91% revenue growth in Q2 FY27",
+      "summary": "This development affects the agri-products & agro-processing value chain. Open the original report for transaction details, timing and named counterparties.",
+      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
+      "source": "InvestyWise",
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTDBwZjFyS0IwVmVOTGF4Zk5jTm9lU0VQRmpvbFpvbGpWdnY4QVc2NHYxMWZEdVV0V25oMFE2RS1zNktibkJqc0VTazdSZlEwd20tOUdTRFdIWXA2aWwyd2o0SXYtb1NXT3J3ci10RXo1TDFETk1QR0p1Q3Y0eVJGcDhfSlhoOXB2a09hU0ZzQjdJRlZNamdQQzFuWWdQZw?oc=5"
+    },
+    {
+      "id": "924b00a4cc39da",
+      "cadence": "weekly",
+      "theme": "pestel",
+      "geography": "India",
+      "sector": "Biochar & Activated Carbon",
+      "segment": "biochar",
+      "date": "Week 45 · 2026",
+      "published_at": "2026-11-04T12:12:53+00:00",
+      "headline": "Jain Irrigation Q2 FY27 slides: revenue rises 10%, biochar deal signals pivot By Investing.com",
+      "summary": "This development affects the biochar & activated carbon value chain. Open the original report for transaction details, timing and named counterparties.",
+      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
+      "source": "Investing.com India",
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQ1ZIR1lGZlY5YlM5ZWpNRUlMMFNNT3NpUnlxZWs4UWtHNHVualk5emFSNTZtdGo1WFo1MkhzYjVwZTEwTHc1cWphTEQ3OEVHTWtpZzFFYWJFb19wM1E5M0ZLUmJ6YWYyS1JWTVBEeWg5R2daMUk4cURZVUN3UzMxSHRzdHBKTG9fTngzQjlTRDV5NG5PV3pTc3hBMGhtb3dyVDh2UU5tbV9pSVJwSklKQ1BZQjkzN05IUWVIcV9ncW5OUjBqWWlPY3RfSVN1LWhz?oc=5"
+    },
+    {
+      "id": "7ed91fd921ebdb",
+      "cadence": "daily",
+      "theme": "capital",
+      "geography": "Rest of World",
+      "sector": "Permaculture & Agroforestry",
+      "segment": "agroforestry",
+      "date": "04 Nov 2026",
+      "published_at": "2026-11-04T02:15:16+00:00",
+      "headline": "THE Department of Environment and Natural Resources (DENR) has opened some 144,000 hectares of forest land in the Davao Region to private investors, part of about 500,000 hectares ",
+      "summary": "This development affects the permaculture & agroforestry value chain. Open the original report for transaction details, timing and named counterparties.",
+      "signal": "Compare the funding structure with project maturity, contracted demand and expected cash-flow timing.",
+      "source": "Facebook",
+      "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOUmNsNWpMUVVDT2hlMC0zd1ZILVJhME1ocjhYZERjRWdVNEF0YlpBN29hODFzR19qNlp4QkQ2YWd1RlBSQ2I4cVNSbkZpUnc3TW43Ujg0ZWdzZDY5SzkyRjMzcFRqRk9yUl9SZGJaZ3BzNFR4cXRHeTh6NXhTUHVVMVBpT2xGRGoyeGpnQzFocWstd1BlWTJYa0F0MTdoNEs5ZnJhVU1xUDBkZGp1OWpxaXl6ZjhzQjQtc0szMEdRZ3lScGt5cl9xOXIxdjhqaFA5TFhRUkdrNTJNbXBiU3dV?oc=5",
+      "pestel": [
+        "Environmental"
+      ]
+    },
     {
       "id": "7b96ca3c3688da",
       "cadence": "weekly",
@@ -73,6 +169,24 @@
       "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5VQkJ4U01GaHFqTG56by12cHh2UndJNnV5T3ZJUVB1b0h5NDBfbFdTUi1UbnQ5Wk0xVkhpc096Uk5VenhBdS0zLXZZM3hGdC1VYWx6ZmhsLWVJZ1I5aUxuVTRfRVM2MkxnZEg4dWt2Qk90cG92Q1h2aS1MMA?oc=5",
       "pestel": [
         "Economic",
+        "Environmental"
+      ]
+    },
+    {
+      "id": "b3bc512cc924b2",
+      "cadence": "daily",
+      "theme": "innovation",
+      "geography": "India",
+      "sector": "Regenerative Farming",
+      "segment": "regenerative",
+      "date": "02 Nov 2026",
+      "published_at": "2026-11-02T05:03:00+00:00",
+      "headline": "Centre launches Khet Bachaao Abhiyaan-Rabi 2026 to promote soil health, balanced fertiliser use across 50,000 villages",
+      "summary": "This development affects the regenerative farming value chain. Open the original report for transaction details, timing and named counterparties.",
+      "signal": "Assess field performance, unit economics and the route from pilot deployment to repeatable commercial scale.",
+      "source": "https://www.indiagazette.com/",
+      "source_url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNTzVSeTBINmVoVGdidEV3cGIzYVhJRVAyREkzU3Mtb3BrQ2t4UmZLU2x5NVZBNmxUdFJxdFhzVFRoald4R3BYZ1N6S1VDMldWX1BncG5RTUQzVUxaSlR6SzBETGRGbl9oVlFIcHZZVzhBTGpnZ2loTV91b2R3S2J3MTZrWG53UmRjUjVqNlpNRVN2V1dEVU5vU1NrbzF0Unl1cGFHV0tOaEFoSElUdWVCeFBrRmVjNDZUelJydFplaXZvYnRjUUtjTUtJXzJHMzNtSzMteXlYdnJKOWE1Tk1JaGhielpRN0txWTFwYkNvN2Z5UQ?oc=5",
+      "pestel": [
         "Environmental"
       ]
     },
@@ -1210,57 +1324,6 @@
       "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdldJa1hFTDNvRmRDekQ0LUNObG5tMzZBbmxhX1BiTTVQUXVKWjctZFI5aWRKMVJtTjB3WHJoS255RXJBc0xNSUZ2S29jS0dUNVkyUy1PLWpNdVFTQmFKbUNGTWZ4aE1FbkFKazUwOWttUW9keW5mamh0Znl1SGxGb21IRmMtcndqNG5KYU9hRzFIc0ZrUnp3U01TaWs0eEpiSE5GYnRmc090OG1XM1JQaFVTU3BidG1rX1ZnZklfYm1ZSzhl?oc=5",
       "pestel": [
         "Economic",
-        "Environmental"
-      ],
-      "segment": "biochar"
-    },
-    {
-      "id": "e537d813d11230",
-      "cadence": "weekly",
-      "theme": "pestel",
-      "geography": "Rest of World",
-      "sector": "Microbial & Biofertilizers",
-      "date": "Week 41 · 2026",
-      "published_at": "2026-10-07T08:00:15+00:00",
-      "headline": "Agricultural Biologicals Market Enters New Expansion Phase as",
-      "summary": "This development affects the biologicals & microbial crop inputs value chain. Open the original report for transaction details, timing and named counterparties.",
-      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
-      "source": "openPR.com",
-      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOd2NfREM1am1yYUowY1l2QzVxOXBKMzlqTmxBQ093VVB0NGNPM3VwZGowQWZfajdGNlBFMGVTdDBQdTlXd1lZVXdRYVY2MWt4bjNVMW9nbmV2eS02SzVMeExYblRTbjdxVjBYSUpOUS12Z2VGQUEwZlhQMGhfanYyeDgzUEVQVV8xMS1EYXltc05OOEYzR3lNTVVJLVd6QQ?oc=5",
-      "pestel": [
-        "Economic"
-      ],
-      "segment": "microbial"
-    },
-    {
-      "id": "1697f09e8aeec2",
-      "cadence": "weekly",
-      "theme": "pestel",
-      "geography": "Rest of World",
-      "sector": "Agri-Products & Agro-Processing",
-      "date": "Week 41 · 2026",
-      "published_at": "2026-10-06T12:32:41+00:00",
-      "headline": "Sunday Ephraim Ezeobiora: Champion of agricultural investment",
-      "summary": "This development affects the agri-products & agro-processing value chain. Open the original report for transaction details, timing and named counterparties.",
-      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
-      "source": "The Sun Nigeria",
-      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQX3ZVU3BuaHUyQ05KZEh3UkNaaTdya3ZjaGhSR2R5X2h6eV9IemNZZmpsNFhSVS1lRHV2RnpUcm4ybnRTbUczNUYxZW5vcm1hcGJlVjNzQ1ZITWQ3VlFSRkwwYUVrMUl2bFhaUEVIRkNqYXFmaHAtcF9RMjRZV0ZXMkViOVQyUQ?oc=5",
-      "segment": "agro-processing"
-    },
-    {
-      "id": "7958366a56c9e4",
-      "cadence": "weekly",
-      "theme": "pestel",
-      "geography": "Rest of World",
-      "sector": "Biochar & Activated Carbon",
-      "date": "Week 41 · 2026",
-      "published_at": "2026-10-06T12:27:23+00:00",
-      "headline": "Elridge Energy invests RM45m to venture into activated carbon business",
-      "summary": "This development affects the activated carbon, charcoal & biochar value chain. Open the original report for transaction details, timing and named counterparties.",
-      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
-      "source": "The Edge Malaysia",
-      "source_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1QaFM3TTVFQ2RCa2d5dWNPMHB2aC1HN1lJNC1aRzIzdEtucVdIcU9UNTJDb1N2SVlvRTQ1WDU0WFQxZlNGdFlmSlNmR2ZsRGxF?oc=5",
-      "pestel": [
         "Environmental"
       ],
       "segment": "biochar"
