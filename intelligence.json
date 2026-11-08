@@ -1,6 +1,39 @@
 {
-  "generated_at": "2026-11-07T10:04:31+00:00",
+  "generated_at": "2026-11-08T10:18:51+00:00",
   "reports": [
+    {
+      "id": "4b5966ce5eacfb",
+      "cadence": "daily",
+      "theme": "innovation",
+      "geography": "India",
+      "sector": "Microbial & Biofertilizers",
+      "segment": "microbial",
+      "date": "08 Nov 2026",
+      "published_at": "2026-11-08T04:35:10+00:00",
+      "headline": "Beneath Our Fields: How microbial innovation can transform agriculture and food security in Northeast India",
+      "summary": "This development affects the microbial & biofertilizers value chain. Open the original report for transaction details, timing and named counterparties.",
+      "signal": "Assess field performance, unit economics and the route from pilot deployment to repeatable commercial scale.",
+      "source": "Organiser",
+      "source_url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPS2tyWkJDVUh4bjZuTFJpNklpaDFYRWlQSGFfWXo4MDFWNkg3NDdtTGxVRTRlQlVNOVZWSnBmMkFhYTFrZnM1WVp3XzNYUmsxX0hMMk0wOEMxRDBQejFpUG9yeDBfWXdpUkNqaG5EaWdubzlEN01UQjJQMFJXMjJIX3JxZVFNLW85MVRET25wUXRVZDVPbFRkTzhxbG9pOGVHYVdaQ2xheHc0d1FrODVhaFI3OHhFNlVTUkZpUG51eXJkUGk1bUVXU29jem9hWXR0U05JMkVrdTdBbGkzUDJCYVJacHlUZzhzX0xZ0gHwAUFVX3lxTE1rWGY0ZHBKR1FsQ0xOX3lVQW1IMlZob3l6cTFqS3dvb2JxcHZPdVpjcUV4blJ4Vnk5UHJ6SDZFQTVNV3BYUTVOYV9GRFRGZ09fakdCbnItQ2F4cWhCT2xtZC0tcG9wTVlQekxhV1NzQUwwVGM0LVpwcHM3QTlsYXRaWS1hWjBhYTZHcVR5VE40a05ETVY3cmFsektRQ19INFBDR1NWVUV6alpkcTVVNUd5Vmx4aFVMWEJSd3pHdTFVQXhxOHlQaW5QUWZ6cVMtYlVUWGdWNS1EejRIc19xV1N0bXBJWFEtQ2E0NGdKSUNmeA?oc=5",
+      "pestel": [
+        "Technological"
+      ]
+    },
+    {
+      "id": "2ca89e46bde9b3",
+      "cadence": "weekly",
+      "theme": "pestel",
+      "geography": "Rest of World",
+      "sector": "Agri-Products & Agro-Processing",
+      "segment": "agro-processing",
+      "date": "Week 45 · 2026",
+      "published_at": "2026-11-07T18:01:56+00:00",
+      "headline": "Gombe Seeks Czech Investment in Agro-Processing: What It Could Mean for Local SMEs",
+      "summary": "This development affects the agri-products & agro-processing value chain. Open the original report for transaction details, timing and named counterparties.",
+      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
+      "source": "MSME Africa",
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOR2RvTjV5Y08taElqdEFzNVZHLU9McmV5VUQ5N0JfMTlGLVROWjhKa0xHd01IUHIweW1VYnAtT2xtdU9zOGdFSHhqLXJUTWc3c3VjSUlzUkFoZTcwMXdGOGdCZHJZOTlyVkZBbTNTaDQ0Y0hrSGxSS2ctTUJTcGNmTC0wMGJaWEdVZjZYZTZyXzQ4YzF0bW04enQtVDNvcnVTM0FkVVB1NHFaNnlvV09ETQ?oc=5"
+    },
     {
       "id": "f4c7aa54f9387b",
       "cadence": "weekly",
@@ -53,24 +86,6 @@
       ]
     },
     {
-      "id": "5155724d78900d",
-      "cadence": "weekly",
-      "theme": "pestel",
-      "geography": "India",
-      "sector": "Regenerative Farming",
-      "segment": "regenerative",
-      "date": "Week 45 · 2026",
-      "published_at": "2026-11-05T12:48:11+00:00",
-      "headline": "Khet Bachaao Abhiyaan: how centre aims to improve soil health and promote sustainable farming",
-      "summary": "This development affects the regenerative farming value chain. Open the original report for transaction details, timing and named counterparties.",
-      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
-      "source": "DD India",
-      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOT24yLUxZaVBGejVySURJN1NPU2lNSXFKWDBPSjdTSjJMVlNaWVdndzFBbzJGVW5Ta0lkeDMzbWFocHdGeE5hdGdZYVgwYnBBbEtOLWlnQW81RW9Ia2RZRjNpM294c3Y3VTFYM3JRV0xJMjYxTnFrcjQyUmpyRlRCR1pRVmlJcHhHakdHTkdFX3F2RVV5R1JzUjFEUzQ3ZlNDTHNyM2QwWjJENTJnTktsRUNadWtCLU5GdFE1a1FYS1o?oc=5",
-      "pestel": [
-        "Environmental"
-      ]
-    },
-    {
       "id": "92edccc71fda2d",
       "cadence": "weekly",
       "theme": "pestel",
@@ -99,6 +114,24 @@
       "signal": "Compare the funding structure with project maturity, contracted demand and expected cash-flow timing.",
       "source": "Business News Nigeria",
       "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYUZtWnA0b1o4bkctODNlenRPQnBWaEl4OWF5NElnRXVhMGJaN1VGQ2FlUGxNV3ZJdDRTOFhCMGduNmR5RDhhcWstY3JVcWo3end4alZ2ZVk0ajREZXNHQ0FsS2RZLUxUUzlMNXNxaEtnZVFNZU8xODJBd2Q4RmpHb0lVcGp0c2hPTFV3VEkzbDk4WXRxSzBMYnZ3eHZ0XzdxQnFrNzln?oc=5"
+    },
+    {
+      "id": "cbb6d37f71ce78",
+      "cadence": "weekly",
+      "theme": "pestel",
+      "geography": "Rest of World",
+      "sector": "Agri-Products & Agro-Processing",
+      "segment": "agro-processing",
+      "date": "Week 45 · 2026",
+      "published_at": "2026-11-04T20:41:37+00:00",
+      "headline": "Gombe seeks Czech investment to expand agro-processing and manufacturing",
+      "summary": "This development affects the agri-products & agro-processing value chain. Open the original report for transaction details, timing and named counterparties.",
+      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
+      "source": "Traders Union",
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaWRxZ3JyaGtnbTVyYzJpdWtxQVpqZy1iQUtONHJTY2c0b3hjNGdVWnBQWmVIOHRPekhyWVpSdWxnTEh4SmswSDBLZUJmQWYwVHBZQWxLOHNCYlRzelg4QllzWHdOWjJWYTJWSkNLOWRjdkNQMEhsSkI2blZNS2xJRXhFWXU4bThDMGQ4Y0xvckRTN3FnNVZlRmQ1R285TEtaRFFZ?oc=5",
+      "pestel": [
+        "Economic"
+      ]
     },
     {
       "id": "d2d8a9c6533c78",
@@ -220,6 +253,24 @@
       "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5VQkJ4U01GaHFqTG56by12cHh2UndJNnV5T3ZJUVB1b0h5NDBfbFdTUi1UbnQ5Wk0xVkhpc096Uk5VenhBdS0zLXZZM3hGdC1VYWx6ZmhsLWVJZ1I5aUxuVTRfRVM2MkxnZEg4dWt2Qk90cG92Q1h2aS1MMA?oc=5",
       "pestel": [
         "Economic",
+        "Environmental"
+      ]
+    },
+    {
+      "id": "b3bc512cc924b2",
+      "cadence": "daily",
+      "theme": "innovation",
+      "geography": "India",
+      "sector": "Regenerative Farming",
+      "segment": "regenerative",
+      "date": "02 Nov 2026",
+      "published_at": "2026-11-02T05:03:00+00:00",
+      "headline": "Centre launches Khet Bachaao Abhiyaan-Rabi 2026 to promote soil health, balanced fertiliser use across 50,000 villages",
+      "summary": "This development affects the regenerative farming value chain. Open the original report for transaction details, timing and named counterparties.",
+      "signal": "Assess field performance, unit economics and the route from pilot deployment to repeatable commercial scale.",
+      "source": "https://www.indiagazette.com/",
+      "source_url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNTzVSeTBINmVoVGdidEV3cGIzYVhJRVAyREkzU3Mtb3BrQ2t4UmZLU2x5NVZBNmxUdFJxdFhzVFRoald4R3BYZ1N6S1VDMldWX1BncG5RTUQzVUxaSlR6SzBETGRGbl9oVlFIcHZZVzhBTGpnZ2loTV91b2R3S2J3MTZrWG53UmRjUjVqNlpNRVN2V1dEVU5vU1NrbzF0Unl1cGFHV0tOaEFoSElUdWVCeFBrRmVjNDZUelJydFplaXZvYnRjUUtjTUtJXzJHMzNtSzMteXlYdnJKOWE1Tk1JaGhielpRN0txWTFwYkNvN2Z5UQ?oc=5",
+      "pestel": [
         "Environmental"
       ]
     },
@@ -1311,21 +1362,6 @@
         "Economic",
         "Environmental"
       ]
-    },
-    {
-      "id": "cba63a64a1a665",
-      "cadence": "weekly",
-      "theme": "pestel",
-      "geography": "Rest of World",
-      "sector": "Regenerative Farming",
-      "date": "Week 41 · 2026",
-      "published_at": "2026-10-08T13:14:32+00:00",
-      "headline": "€25 million invested in regenerative farmland fund",
-      "summary": "This development affects the regenerative farming & soil health value chain. Open the original report for transaction details, timing and named counterparties.",
-      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
-      "source": "FreshPlaza",
-      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNX0Y3bHVrQzdpd1Jhc0R6cmV5bXZjaXkwZ2pUNVUzYjAtZFdYVFNNc2lKcGw2Q0NXQURCZDhyaWFzeEo4TFN1bEF1Vmczcm9yRUM2LUh5VHdKNm51VFZpaXB0SzE4SHJ0cGRmZ1VnbXpNbDBhOXpocGw5b0F0YlZuSDBnVnRNZWE4bGxhVGl2eHpnclZqblo2YXAtX25yeE5kZmRrUGVYNXN4WU9YS05R?oc=5",
-      "segment": "regenerative"
     }
   ]
 }
