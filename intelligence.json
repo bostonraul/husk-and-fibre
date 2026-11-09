@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-11-08T10:18:51+00:00",
+  "generated_at": "2026-11-09T11:28:48+00:00",
   "reports": [
+    {
+      "id": "8e3ea5069a13e8",
+      "cadence": "daily",
+      "theme": "deals",
+      "geography": "Rest of World",
+      "sector": "Regenerative Farming",
+      "segment": "regenerative",
+      "date": "09 Nov 2026",
+      "published_at": "2026-11-09T08:36:06+00:00",
+      "headline": "Partnership by design: How public programs can unlock private co-investment in regenerative agriculture",
+      "summary": "This development affects the regenerative farming value chain. Open the original report for transaction details, timing and named counterparties.",
+      "signal": "Track counterparties, valuation signals and local market-access advantages created by the transaction.",
+      "source": "The World Business Council for Sustainable Development (WBCSD)",
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSWNaT2VsM0k3dEx6UnpCR1FrMzFvQjduRmx0c2w2NmMzeVFfcVQtTDFQbVBmNFN6Yms0Nm9PeTBNWGRvSTg0dENoeUowbWRoOGZXLXNVeTktYjdfX01HcGl4RUhDbG9NU3dFZmpaLU5Zc0t0RGVFWlNvX0oxX1NtMUxYcktfNUZkaWVLT1gtcTh5aHlueE4ya19pbERmRHQ5ODZtZHZYNEZONGdSOTJuWktHZGZkRkNTVE94aTM1eTluT3NHWGtvREpnVVN4aFpu?oc=5",
+      "pestel": [
+        "Environmental"
+      ]
+    },
     {
       "id": "4b5966ce5eacfb",
       "cadence": "daily",
@@ -27,7 +45,7 @@
       "sector": "Agri-Products & Agro-Processing",
       "segment": "agro-processing",
       "date": "Week 45 · 2026",
-      "published_at": "2026-11-07T18:01:56+00:00",
+      "published_at": "2026-11-08T01:44:40+00:00",
       "headline": "Gombe Seeks Czech Investment in Agro-Processing: What It Could Mean for Local SMEs",
       "summary": "This development affects the agri-products & agro-processing value chain. Open the original report for transaction details, timing and named counterparties.",
       "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
@@ -81,6 +99,24 @@
       "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
       "source": "Phys.org",
       "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSF95MzFhUmFGc2FIb0ctUHpQWTdVS0syY1NrUTUwSGxkMjU5dUxXOUZFbUJJYUFkTkw0QWJOYTRJZEpaZFpuS2dNS2hwT01mM3dMaFpqNjRJQ20zU3hmaVdoQ2VUR3ptenhtZVhxel8tdWtFOVo5UHZSM3dWcVZZVkJR?oc=5",
+      "pestel": [
+        "Environmental"
+      ]
+    },
+    {
+      "id": "5155724d78900d",
+      "cadence": "weekly",
+      "theme": "pestel",
+      "geography": "India",
+      "sector": "Regenerative Farming",
+      "segment": "regenerative",
+      "date": "Week 45 · 2026",
+      "published_at": "2026-11-05T12:48:11+00:00",
+      "headline": "Khet Bachaao Abhiyaan: how centre aims to improve soil health and promote sustainable farming",
+      "summary": "This development affects the regenerative farming value chain. Open the original report for transaction details, timing and named counterparties.",
+      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
+      "source": "DD India",
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOT24yLUxZaVBGejVySURJN1NPU2lNSXFKWDBPSjdTSjJMVlNaWVdndzFBbzJGVW5Ta0lkeDMzbWFocHdGeE5hdGdZYVgwYnBBbEtOLWlnQW81RW9Ia2RZRjNpM294c3Y3VTFYM3JRV0xJMjYxTnFrcjQyUmpyRlRCR1pRVmlJcHhHakdHTkdFX3F2RVV5R1JzUjFEUzQ3ZlNDTHNyM2QwWjJENTJnTktsRUNadWtCLU5GdFE1a1FYS1o?oc=5",
       "pestel": [
         "Environmental"
       ]
@@ -257,19 +293,19 @@
       ]
     },
     {
-      "id": "b3bc512cc924b2",
+      "id": "95d1da4d3bf19f",
       "cadence": "daily",
       "theme": "innovation",
       "geography": "India",
       "sector": "Regenerative Farming",
       "segment": "regenerative",
       "date": "02 Nov 2026",
-      "published_at": "2026-11-02T05:03:00+00:00",
+      "published_at": "2026-11-02T15:03:00+00:00",
       "headline": "Centre launches Khet Bachaao Abhiyaan-Rabi 2026 to promote soil health, balanced fertiliser use across 50,000 villages",
       "summary": "This development affects the regenerative farming value chain. Open the original report for transaction details, timing and named counterparties.",
       "signal": "Assess field performance, unit economics and the route from pilot deployment to repeatable commercial scale.",
-      "source": "https://www.indiagazette.com/",
-      "source_url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNTzVSeTBINmVoVGdidEV3cGIzYVhJRVAyREkzU3Mtb3BrQ2t4UmZLU2x5NVZBNmxUdFJxdFhzVFRoald4R3BYZ1N6S1VDMldWX1BncG5RTUQzVUxaSlR6SzBETGRGbl9oVlFIcHZZVzhBTGpnZ2loTV91b2R3S2J3MTZrWG53UmRjUjVqNlpNRVN2V1dEVU5vU1NrbzF0Unl1cGFHV0tOaEFoSElUdWVCeFBrRmVjNDZUelJydFplaXZvYnRjUUtjTUtJXzJHMzNtSzMteXlYdnJKOWE1Tk1JaGhielpRN0txWTFwYkNvN2Z5UQ?oc=5",
+      "source": "India's News.Net",
+      "source_url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQSDV5S1FCN2p3eDFCZWhJRWlDYWNNdVFuVjJGdVJKZkJTcUN0RVZ4WEVQdFQzaE5iYUpxVDhoR1VxRjBmQ1dZeG5VclpRQlZtVFg0Vms1TllQMmNkOWl1Ql80b2ZqbmVPanFkZllLOFZreHlaTkVPWXJRdHE2SjhsLWhCdmhWeUd3V1EwMHpsbU93eGREYndhUUh2cjYxMzFhejlJSklpaHh6N3pfX0pCRWhTQk1FQzFfenUtaHR0QlUxTGtRVUVRVHRRNEluWDQ4cHhzZy12ZW8ydkJoeEJpU21RRmF2OEpBZ1Y1aW83bw?oc=5",
       "pestel": [
         "Environmental"
       ]
@@ -1323,44 +1359,6 @@
       "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUVhyM0dMSnF5dUJSc2g2aXZLdEpFeDV4OGdRMm5ZbURTTGVvSDZOMk9PUFpBNm01Tmo5dWdnSG5iYXpjV1pPWHZWODkwOEh0bUdJeE96bXprNUJiTjBiTW8ybkNwNWdlNnFZSE9qRk1vTlBuSnpPeGtFQ0FPR1JzNlBleWZ6X09UcGNzZU5rd1pLUFdyUEdGZ3I5NEFDRlAyVkRoRHBVOWFyM2dlQVJVRjJnMFB3MDVuZ2pR?oc=5",
       "pestel": [
         "Social"
-      ]
-    },
-    {
-      "id": "5fc8e4c600925d",
-      "cadence": "weekly",
-      "theme": "pestel",
-      "geography": "Rest of World",
-      "sector": "Carbon Credits",
-      "date": "Week 41 · 2026",
-      "published_at": "2026-10-10T13:39:49+00:00",
-      "headline": "Chestnut Carbon Expands Forest Portfolio and Deepens Role in Carbon Removal Market",
-      "summary": "This development affects the carbon credits & nursery plantations value chain. Open the original report for transaction details, timing and named counterparties.",
-      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
-      "source": "TipRanks",
-      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZ05kMF83LXVIemc5NEdUVUhVQ1VkNnJWbF9NLW1uWktxNTBtTVJYV3daaS1EOUZrb201eE1HbjV2UTBoTFJLZ0xvQjI5aWZ5Q1RaTUJET3VWOHltemVKUkNkc0NBX2NadEIxc2doYmxlT045LTBRMGxtdFlvWm5saVRGMENQTlk5V2p5V3J1X3E3c3MyaTV2b2hIem85cVhjX2FNS2FLVGtPdkxrbFpwTVFNdEduaklDeDR4ZUdKRER6REdEcFJMWFpn?oc=5",
-      "pestel": [
-        "Economic",
-        "Environmental"
-      ],
-      "segment": "carbon-credits"
-    },
-    {
-      "id": "f1e0871d5cbd76",
-      "cadence": "weekly",
-      "theme": "pestel",
-      "geography": "Rest of World",
-      "sector": "Carbon Credits",
-      "segment": "carbon-credits",
-      "date": "Week 41 · 2026",
-      "published_at": "2026-10-09T12:53:44+00:00",
-      "headline": "The Brazil carbon credits market is projected to reach USD 31.61",
-      "summary": "This development affects the carbon credits value chain. Open the original report for transaction details, timing and named counterparties.",
-      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
-      "source": "openPR.com",
-      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObXRNVDRwT3Q4R0dFZGtQRUdYMVIwMTJqUUhOQmRTTERIRThOWWJuTE9LYjR5S0hOZ24zdGliNEI2N085TlpkbGYtWkdsVEZpdC1ESzdrazJES1lON2hpZThrTDdBWkQ2SHdWQmpBdjNrZHhnWXJZTUllTjBNNFlxOGlXa3N2UW9JWVNqazlCdVY4TUk3WEZzR0hfR1cyVTFGb2c?oc=5",
-      "pestel": [
-        "Economic",
-        "Environmental"
       ]
     }
   ]
