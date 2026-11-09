@@ -2,6 +2,29 @@
   "generated_at": "2026-11-09",
   "stories": [
     {
+      "id": "takachar-hp-lights-of-change",
+      "material": "Grass / Straw",
+      "region": "Unspecified — refine with NER in a later pass",
+      "headline": "Takachar | HP Lights of Change",
+      "dek": "What if crop waste could become a resource instead of being burnt?\nThat’s the idea behind Takachar. Co-founded by Vidyut Mohan, the company has developed portable technology that c",
+      "potential_score": 4,
+      "potential_label": "High",
+      "capital_note": "Not yet assessed",
+      "video_youtube": null,
+      "video_caption": "Auto-matched video — verify relevance before featuring prominently",
+      "image": "https://img-cdn.publive.online/fit-in/1280x960/english-betterindia/media/youtube_thumbnails/vi/EXWw10w-fkg/maxresdefault.jpg",
+      "image_alt": "Takachar | HP Lights of Change",
+      "body": "What if crop waste could become a resource instead of being burnt?\nThat’s the idea behind Takachar. Co-founded by Vidyut Mohan, the company has developed portable technology that converts agricultural waste into biochar and other valuable products. Today, Takachar is working with around 5,500 farmers to process 9,000 tonnes of agricultural material instead of burning it.\nThis Diwali, HP celebrates the Lights of Change across India.\nVisit https://www.hpcreatorsgarage.com to explore more stories and share an innovation that inspires you.\nIn collaboration with @HPIndiaVideos \n#HPLightsOfChange #HPDiwali #HappyDiwali #HP #Takachar #innovators",
+      "why_it_matters": "Auto-generated entry — pipeline flagged this via keyword + business-signal scoring.",
+      "source_url": "https://thebetterindia.com/videos/takachar-hp-lights-of-change-12795932",
+      "sources": [
+        {
+          "name": "The Better India : Latest Posts",
+          "url": "https://thebetterindia.com/videos/takachar-hp-lights-of-change-12795932"
+        }
+      ]
+    },
+    {
       "id": "hp-celebrates-lights-of-change",
       "material": "Grass / Straw",
       "region": "Unspecified — refine with NER in a later pass",
