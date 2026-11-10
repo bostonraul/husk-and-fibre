@@ -1,6 +1,21 @@
 {
-  "generated_at": "2026-11-09T11:28:48+00:00",
+  "generated_at": "2026-11-10T11:09:41+00:00",
   "reports": [
+    {
+      "id": "64e81619ec402e",
+      "cadence": "weekly",
+      "theme": "pestel",
+      "geography": "Rest of World",
+      "sector": "Regenerative Farming",
+      "segment": "regenerative",
+      "date": "Week 46 · 2026",
+      "published_at": "2026-11-09T17:39:46+00:00",
+      "headline": "Guest article: A landscape-scale strategy for regenerative agriculture",
+      "summary": "This development affects the regenerative farming value chain. Open the original report for transaction details, timing and named counterparties.",
+      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
+      "source": "AgFunderNews",
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTXMtcVJmcEhoQUVXNGpGeDk3QXYzQkxuOXl5dUFTS0RsT0FwT0JfSWcyckpVNlNoSVJMbWRxNVNaSmhuTVBnckZEeGFjbTdSX1RtZGNxUFRPbmlVY3dGdDZwb1VLd21Hd0pVU01Gd2pzemxHY2xRSDU2VUE1a2EyVXhZRlFfSU5wZWxGUldGUXdxRUJzbXh2S3V3?oc=5"
+    },
     {
       "id": "8e3ea5069a13e8",
       "cadence": "daily",
@@ -9,7 +24,7 @@
       "sector": "Regenerative Farming",
       "segment": "regenerative",
       "date": "09 Nov 2026",
-      "published_at": "2026-11-09T08:36:06+00:00",
+      "published_at": "2026-11-09T10:25:25+00:00",
       "headline": "Partnership by design: How public programs can unlock private co-investment in regenerative agriculture",
       "summary": "This development affects the regenerative farming value chain. Open the original report for transaction details, timing and named counterparties.",
       "signal": "Track counterparties, valuation signals and local market-access advantages created by the transaction.",
@@ -17,6 +32,24 @@
       "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSWNaT2VsM0k3dEx6UnpCR1FrMzFvQjduRmx0c2w2NmMzeVFfcVQtTDFQbVBmNFN6Yms0Nm9PeTBNWGRvSTg0dENoeUowbWRoOGZXLXNVeTktYjdfX01HcGl4RUhDbG9NU3dFZmpaLU5Zc0t0RGVFWlNvX0oxX1NtMUxYcktfNUZkaWVLT1gtcTh5aHlueE4ya19pbERmRHQ5ODZtZHZYNEZONGdSOTJuWktHZGZkRkNTVE94aTM1eTluT3NHWGtvREpnVVN4aFpu?oc=5",
       "pestel": [
         "Environmental"
+      ]
+    },
+    {
+      "id": "e2b1411228f670",
+      "cadence": "daily",
+      "theme": "innovation",
+      "geography": "India",
+      "sector": "Agri-Products & Agro-Processing",
+      "segment": "agro-processing",
+      "date": "09 Nov 2026",
+      "published_at": "2026-11-09T01:34:31+00:00",
+      "headline": "UPES and IIT Guwahati partner to integrate AI across clean energy and agritech innovation ecosystem in India",
+      "summary": "This development affects the agri-products & agro-processing value chain. Open the original report for transaction details, timing and named counterparties.",
+      "signal": "Assess field performance, unit economics and the route from pilot deployment to repeatable commercial scale.",
+      "source": "AgroSpectrum India",
+      "source_url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPek5KQnhEcFp4MlJvSGphV1Z3bG0yRDdkUVFHYklxSVpWTjN0Q0VwQ045RXVTcXROMFo0Ui1tcDhOc2hYNWxJSVh3NXRScmx2QVdINE90cDJmQzBUcHl1YUFxUkpRRlJSaTlPWWwxUU9fU3dXbFdRMXZMVHdvV1Zpc0d0bjFMQ19UUm5GV25mUTI1WS0yLS1Jc0JZa2hReThUMGU5QkRrdXAtZXBZZGowTVA2TkhnOFJyQl9za1dzNGhIbUczSy1yeTc0TzdNX29YS2pZdnUwRHlGUHlOeXNrcVcwWmVlRk5wdVd1T25R?oc=5",
+      "pestel": [
+        "Technological"
       ]
     },
     {
@@ -51,6 +84,25 @@
       "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
       "source": "MSME Africa",
       "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOR2RvTjV5Y08taElqdEFzNVZHLU9McmV5VUQ5N0JfMTlGLVROWjhKa0xHd01IUHIweW1VYnAtT2xtdU9zOGdFSHhqLXJUTWc3c3VjSUlzUkFoZTcwMXdGOGdCZHJZOTlyVkZBbTNTaDQ0Y0hrSGxSS2ctTUJTcGNmTC0wMGJaWEdVZjZYZTZyXzQ4YzF0bW04enQtVDNvcnVTM0FkVVB1NHFaNnlvV09ETQ?oc=5"
+    },
+    {
+      "id": "8090efe8fc11ff",
+      "cadence": "weekly",
+      "theme": "pestel",
+      "geography": "Rest of World",
+      "sector": "Biochar & Activated Carbon",
+      "segment": "biochar",
+      "date": "Week 45 · 2026",
+      "published_at": "2026-11-07T17:11:04+00:00",
+      "headline": "Wood Activated Carbon Market To 2035: Water Treatment Rules Support Forward Growth - News and Statistics",
+      "summary": "This development affects the biochar & activated carbon value chain. Open the original report for transaction details, timing and named counterparties.",
+      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
+      "source": "IndexBox",
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNX2Q2YUd0M3llZ3RncG5LZEZJbFFYclNlYko5cWNwRlQ0dFc3ekxGd0lPeURxb01oaWJwZktZNWVDenlmZ3N2b0FGUTNSZ2hPVHh0WmRhWTNPNGpRUjJhZ2lieWhrTTZaZGRVSW1nSnhqcF9odnVpOFRoM1VFODBGZ2JORkZkaTh0N1JPeXlCX0VhMHgzUDNFNlpMbDBVSnpMYzdrN0xMcEtvVzR6YmV4bHBkaXhPN1Y0VndBLQ?oc=5",
+      "pestel": [
+        "Economic",
+        "Environmental"
+      ]
     },
     {
       "id": "f4c7aa54f9387b",
@@ -289,24 +341,6 @@
       "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5VQkJ4U01GaHFqTG56by12cHh2UndJNnV5T3ZJUVB1b0h5NDBfbFdTUi1UbnQ5Wk0xVkhpc096Uk5VenhBdS0zLXZZM3hGdC1VYWx6ZmhsLWVJZ1I5aUxuVTRfRVM2MkxnZEg4dWt2Qk90cG92Q1h2aS1MMA?oc=5",
       "pestel": [
         "Economic",
-        "Environmental"
-      ]
-    },
-    {
-      "id": "95d1da4d3bf19f",
-      "cadence": "daily",
-      "theme": "innovation",
-      "geography": "India",
-      "sector": "Regenerative Farming",
-      "segment": "regenerative",
-      "date": "02 Nov 2026",
-      "published_at": "2026-11-02T15:03:00+00:00",
-      "headline": "Centre launches Khet Bachaao Abhiyaan-Rabi 2026 to promote soil health, balanced fertiliser use across 50,000 villages",
-      "summary": "This development affects the regenerative farming value chain. Open the original report for transaction details, timing and named counterparties.",
-      "signal": "Assess field performance, unit economics and the route from pilot deployment to repeatable commercial scale.",
-      "source": "India's News.Net",
-      "source_url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQSDV5S1FCN2p3eDFCZWhJRWlDYWNNdVFuVjJGdVJKZkJTcUN0RVZ4WEVQdFQzaE5iYUpxVDhoR1VxRjBmQ1dZeG5VclpRQlZtVFg0Vms1TllQMmNkOWl1Ql80b2ZqbmVPanFkZllLOFZreHlaTkVPWXJRdHE2SjhsLWhCdmhWeUd3V1EwMHpsbU93eGREYndhUUh2cjYxMzFhejlJSklpaHh6N3pfX0pCRWhTQk1FQzFfenUtaHR0QlUxTGtRVUVRVHRRNEluWDQ4cHhzZy12ZW8ydkJoeEJpU21RRmF2OEpBZ1Y1aW83bw?oc=5",
-      "pestel": [
         "Environmental"
       ]
     },
@@ -783,24 +817,6 @@
       "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUFhma05UZm55dXhxMlhKX3BCQnVVdHJKeEdZeU1FQnpySjFlckVDa19vTWphUGdxVkdoZExHalBMUW1vanNuZkhoODV2Y3ZPTlNBSnJfVXJhNmFDYm1pWUg5MUhfTUJXaW41YUpUMmJoX2JBYzF4eFNlRmJhenN5U29VanZoakR3ZlNKLUhhNy1ObzctMGpVcnl3?oc=5",
       "pestel": [
         "Economic"
-      ]
-    },
-    {
-      "id": "e2b1411228f670",
-      "cadence": "daily",
-      "theme": "innovation",
-      "geography": "India",
-      "sector": "Agri-Products & Agro-Processing",
-      "segment": "agro-processing",
-      "date": "23 Oct 2026",
-      "published_at": "2026-10-23T01:42:53+00:00",
-      "headline": "UPES and IIT Guwahati partner to integrate AI across clean energy and agritech innovation ecosystem in India",
-      "summary": "This development affects the agri-products & agro-processing value chain. Open the original report for transaction details, timing and named counterparties.",
-      "signal": "Assess field performance, unit economics and the route from pilot deployment to repeatable commercial scale.",
-      "source": "AgroSpectrum India",
-      "source_url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPek5KQnhEcFp4MlJvSGphV1Z3bG0yRDdkUVFHYklxSVpWTjN0Q0VwQ045RXVTcXROMFo0Ui1tcDhOc2hYNWxJSVh3NXRScmx2QVdINE90cDJmQzBUcHl1YUFxUkpRRlJSaTlPWWwxUU9fU3dXbFdRMXZMVHdvV1Zpc0d0bjFMQ19UUm5GV25mUTI1WS0yLS1Jc0JZa2hReThUMGU5QkRrdXAtZXBZZGowTVA2TkhnOFJyQl9za1dzNGhIbUczSy1yeTc0TzdNX29YS2pZdnUwRHlGUHlOeXNrcVcwWmVlRk5wdVd1T25R?oc=5",
-      "pestel": [
-        "Technological"
       ]
     },
     {
@@ -1341,24 +1357,6 @@
       "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBnZEtoeVh4VEY2X0tvY2hjblVIR2xFVXBmamNKRjdrbGQ5b2k3RUVkVHhySF9NQnRmaVFMQ25ScG5YLUFqM3BZTFl6Z2pBUEk0RS1kU3hwT0VGdXN3REZqdDhIVEQ?oc=5",
       "pestel": [
         "Economic"
-      ]
-    },
-    {
-      "id": "239fdace320686",
-      "cadence": "weekly",
-      "theme": "pestel",
-      "geography": "Rest of World",
-      "sector": "Regenerative Farming",
-      "segment": "regenerative",
-      "date": "Week 42 · 2026",
-      "published_at": "2026-10-12T07:00:00+00:00",
-      "headline": "Primient expands regenerative agriculture efforts to help boost farmer profitability",
-      "summary": "This development affects the regenerative farming value chain. Open the original report for transaction details, timing and named counterparties.",
-      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
-      "source": "Brownfield Ag News",
-      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUVhyM0dMSnF5dUJSc2g2aXZLdEpFeDV4OGdRMm5ZbURTTGVvSDZOMk9PUFpBNm01Tmo5dWdnSG5iYXpjV1pPWHZWODkwOEh0bUdJeE96bXprNUJiTjBiTW8ybkNwNWdlNnFZSE9qRk1vTlBuSnpPeGtFQ0FPR1JzNlBleWZ6X09UcGNzZU5rd1pLUFdyUEdGZ3I5NEFDRlAyVkRoRHBVOWFyM2dlQVJVRjJnMFB3MDVuZ2pR?oc=5",
-      "pestel": [
-        "Social"
       ]
     }
   ]
