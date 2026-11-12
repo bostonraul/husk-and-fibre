@@ -1,6 +1,40 @@
 {
-  "generated_at": "2026-11-11T10:55:03+00:00",
+  "generated_at": "2026-11-12T11:04:18+00:00",
   "reports": [
+    {
+      "id": "15c90bead53e6c",
+      "cadence": "weekly",
+      "theme": "pestel",
+      "geography": "Rest of World",
+      "sector": "Biochar & Activated Carbon",
+      "segment": "biochar",
+      "date": "Week 46 · 2026",
+      "published_at": "2026-11-12T10:10:27+00:00",
+      "headline": "U.S. Coal Based Activated Carbon Market Is Going to Boom |• Calgon Carbon Corporation • Cabot Corporation",
+      "summary": "This development affects the biochar & activated carbon value chain. Open the original report for transaction details, timing and named counterparties.",
+      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
+      "source": "openPR.com",
+      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPOUZTWnZ1OWZFUkUzeDQyM1dhV0RyVnhDYzVyWlR1UDA4cmZGa1MwWU4xV05KNXBEd0tzTHE0cE02Z1lYUlV0N3FzRWtGMEliT09UcGVUdWZmVHlQVnA0bUFEZ1FOMm84WlNRaXlHRmZTVTBEUWhpTDQxUldkRUNkN3liR09qUzNhSHI1clZFa0FBNFRxWnc?oc=5",
+      "pestel": [
+        "Economic",
+        "Environmental"
+      ]
+    },
+    {
+      "id": "8cf4fa07202ae1",
+      "cadence": "weekly",
+      "theme": "pestel",
+      "geography": "Uganda",
+      "sector": "Agri-Products & Agro-Processing",
+      "segment": "agro-processing",
+      "date": "Week 46 · 2026",
+      "published_at": "2026-11-11T20:56:30+00:00",
+      "headline": "Experts call for more solar investment to boost Agro-processing in East Africa",
+      "summary": "This development affects the agri-products & agro-processing value chain. Open the original report for transaction details, timing and named counterparties.",
+      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
+      "source": "NTV Uganda",
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPc2RSWmdBbDNteFhGdTYzM1FrWEItUFpJWnA4MXZ0Nkc4OFRnalpiOGt3cFB4d05TeS1tdm5MbWpLNDl6VW5WdGRpZFFYenU2bnVtT0VFeW9ta3RtQTVBQTRrYmJtTi1LWV80aDRyQlRXaGlLWmlDVzZwZTY0bk1nRFRhZ2NOTWNuLUcwWEFMcXV5UzVfXzVLeDFiTktITjEwMktBbktSV00?oc=5"
+    },
     {
       "id": "ee37e6c9b22219",
       "cadence": "weekly",
@@ -67,6 +101,24 @@
       "signal": "Track counterparties, valuation signals and local market-access advantages created by the transaction.",
       "source": "The World Business Council for Sustainable Development (WBCSD)",
       "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSWNaT2VsM0k3dEx6UnpCR1FrMzFvQjduRmx0c2w2NmMzeVFfcVQtTDFQbVBmNFN6Yms0Nm9PeTBNWGRvSTg0dENoeUowbWRoOGZXLXNVeTktYjdfX01HcGl4RUhDbG9NU3dFZmpaLU5Zc0t0RGVFWlNvX0oxX1NtMUxYcktfNUZkaWVLT1gtcTh5aHlueE4ya19pbERmRHQ5ODZtZHZYNEZONGdSOTJuWktHZGZkRkNTVE94aTM1eTluT3NHWGtvREpnVVN4aFpu?oc=5",
+      "pestel": [
+        "Environmental"
+      ]
+    },
+    {
+      "id": "d8350351080a11",
+      "cadence": "weekly",
+      "theme": "pestel",
+      "geography": "Uganda",
+      "sector": "Permaculture & Agroforestry",
+      "segment": "agroforestry",
+      "date": "Week 46 · 2026",
+      "published_at": "2026-11-09T07:17:00+00:00",
+      "headline": "Agroforestry: Challenges and Opportunities in Rhino Camp and Imvepi Refugee Settlements of Arua District, Northern Uganda",
+      "summary": "This development affects the permaculture & agroforestry value chain. Open the original report for transaction details, timing and named counterparties.",
+      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
+      "source": "Landscape Alliance",
+      "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9xaElNMW1EVEdaa2ExTF9hWVBqOUQ1OFVDRmxGbmE2eGhpeGxVcG1aTTdqWlQzWTJ3c2JEZmtOZXl2QjNnWDMwTVZ3Y3ZmeWJSbXB1V1pEeWJ3VFhJTHFjaWFCVjQyV20yYzl1Y0d2Zw?oc=5",
       "pestel": [
         "Environmental"
       ]
@@ -193,24 +245,6 @@
       ]
     },
     {
-      "id": "5155724d78900d",
-      "cadence": "weekly",
-      "theme": "pestel",
-      "geography": "India",
-      "sector": "Regenerative Farming",
-      "segment": "regenerative",
-      "date": "Week 45 · 2026",
-      "published_at": "2026-11-05T12:48:11+00:00",
-      "headline": "Khet Bachaao Abhiyaan: how centre aims to improve soil health and promote sustainable farming",
-      "summary": "This development affects the regenerative farming value chain. Open the original report for transaction details, timing and named counterparties.",
-      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
-      "source": "DD India",
-      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOT24yLUxZaVBGejVySURJN1NPU2lNSXFKWDBPSjdTSjJMVlNaWVdndzFBbzJGVW5Ta0lkeDMzbWFocHdGeE5hdGdZYVgwYnBBbEtOLWlnQW81RW9Ia2RZRjNpM294c3Y3VTFYM3JRV0xJMjYxTnFrcjQyUmpyRlRCR1pRVmlJcHhHakdHTkdFX3F2RVV5R1JzUjFEUzQ3ZlNDTHNyM2QwWjJENTJnTktsRUNadWtCLU5GdFE1a1FYS1o?oc=5",
-      "pestel": [
-        "Environmental"
-      ]
-    },
-    {
       "id": "92edccc71fda2d",
       "cadence": "weekly",
       "theme": "pestel",
@@ -272,21 +306,6 @@
       "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
       "source": "InvestyWise",
       "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTDBwZjFyS0IwVmVOTGF4Zk5jTm9lU0VQRmpvbFpvbGpWdnY4QVc2NHYxMWZEdVV0V25oMFE2RS1zNktibkJqc0VTazdSZlEwd20tOUdTRFdIWXA2aWwyd2o0SXYtb1NXT3J3ci10RXo1TDFETk1QR0p1Q3Y0eVJGcDhfSlhoOXB2a09hU0ZzQjdJRlZNamdQQzFuWWdQZw?oc=5"
-    },
-    {
-      "id": "924b00a4cc39da",
-      "cadence": "weekly",
-      "theme": "pestel",
-      "geography": "India",
-      "sector": "Biochar & Activated Carbon",
-      "segment": "biochar",
-      "date": "Week 45 · 2026",
-      "published_at": "2026-11-04T12:12:53+00:00",
-      "headline": "Jain Irrigation Q2 FY27 slides: revenue rises 10%, biochar deal signals pivot By Investing.com",
-      "summary": "This development affects the biochar & activated carbon value chain. Open the original report for transaction details, timing and named counterparties.",
-      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
-      "source": "Investing.com India",
-      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQ1ZIR1lGZlY5YlM5ZWpNRUlMMFNNT3NpUnlxZWs4UWtHNHVualk5emFSNTZtdGo1WFo1MkhzYjVwZTEwTHc1cWphTEQ3OEVHTWtpZzFFYWJFb19wM1E5M0ZLUmJ6YWYyS1JWTVBEeWg5R2daMUk4cURZVUN3UzMxSHRzdHBKTG9fTngzQjlTRDV5NG5PV3pTc3hBMGhtb3dyVDh2UU5tbV9pSVJwSklKQ1BZQjkzN05IUWVIcV9ncW5OUjBqWWlPY3RfSVN1LWhz?oc=5"
     },
     {
       "id": "7ed91fd921ebdb",
@@ -1340,24 +1359,6 @@
       "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
       "source": "RTI International",
       "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1pSDlVVzJlSENBOWxidmdTLTMwSEFfV00zSDFwQ0g1SHZ0MzNHT3VoeldrcjVrR3MtN3JMUFRDQnhJbHd2d3VicEJPdVZmLVRTQ20wZXRvZTZsa0l2aFlKcEMzejRaR2VQZlQybENnVFpqZVczdTNXUWk4X3o?oc=5"
-    },
-    {
-      "id": "99f9b179d33fc6",
-      "cadence": "weekly",
-      "theme": "pestel",
-      "geography": "Rest of World",
-      "sector": "Agri-Products & Agro-Processing",
-      "date": "Week 42 · 2026",
-      "published_at": "2026-10-12T18:17:40+00:00",
-      "headline": "BNP Paribas AM Releases an Updated ESG and Net-Zero Strategy for 2026-2030",
-      "summary": "This development affects the agri-products & agro-processing value chain. Open the original report for transaction details, timing and named counterparties.",
-      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
-      "source": "Agriculture Investment Marketplace",
-      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPajU4Z1Y3eGdublJjS05QQjNMcUtpaXl5UFo4QXROdFhScEJ0LWJpVlNEam5Kc1pTaF9VUVE1SHdlb2swXzE3bFpZTlQwaTVHTlpTLTBZSGhUQW5MQUoyb1U3NmJ6Zm4wQzVRQmpoTzFsRzVrZWhoVDYwbENra2tNTE9scnJYTDNEXzVvcFdUbGtlVzd2NnQ3bU11UWNrXzRMS2Z1dGNYMVdrbkVLTkE?oc=5",
-      "pestel": [
-        "Economic"
-      ],
-      "segment": "agro-processing"
     }
   ]
 }
