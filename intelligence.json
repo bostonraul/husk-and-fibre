@@ -1,6 +1,77 @@
 {
-  "generated_at": "2026-11-12T11:04:18+00:00",
+  "generated_at": "2026-11-13T10:57:12+00:00",
   "reports": [
+    {
+      "id": "fd7e22fd3179d6",
+      "cadence": "weekly",
+      "theme": "pestel",
+      "geography": "India",
+      "sector": "Agri-Products & Agro-Processing",
+      "segment": "agro-processing",
+      "date": "Week 46 · 2026",
+      "published_at": "2026-11-13T08:50:57+00:00",
+      "headline": "Food Processing Plant Setup Cost in India",
+      "summary": "This development affects the agri-products & agro-processing value chain. Open the original report for transaction details, timing and named counterparties.",
+      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
+      "source": "IMARC Group",
+      "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1ZQzRzdktKTmZsV3E4em1PWTRKaGZ4b0ZjMlZjcWtDZlU0cGpsQ0FHdGtFaXk5LVVhaFpZb3hvdVVlWEozdmNaczZqY0g5WGF0NS04eWFwbVVlWGFrZjlnT01CVGFsNmdxNzNCaGVlZkYyM1o3T1RRWVVXTXJGUQ?oc=5"
+    },
+    {
+      "id": "c2f65a0aa46e0d",
+      "cadence": "weekly",
+      "theme": "pestel",
+      "geography": "Rest of World",
+      "sector": "Biochar & Activated Carbon",
+      "segment": "biochar",
+      "date": "Week 46 · 2026",
+      "published_at": "2026-11-13T05:06:04+00:00",
+      "headline": "Coal Based Activated Carbon Market To 2035: Water Treatment Rules Drive Growth - News and Statistics",
+      "summary": "This development affects the biochar & activated carbon value chain. Open the original report for transaction details, timing and named counterparties.",
+      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
+      "source": "IndexBox",
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQeXlMb19ZblpXeU5OZkpGQnRSTkhZc05rYlprYmoxT1NjRXNjakFsSThfcjFvRDJiSjUyem43cTBOV2p2cHl5Q0NXREd1X3J1Y09SUFRDVXYtd3R1aU5zcGlqbFhfNzRaOWg2LWxQUlR5SDUyR2N5cFlTODdsVE1LN25tdzBtOVVyS3VqeXRJaGpBak9MMEVzdFhNbnVGV3c0QnFGczRZdzlBSFNKU0JqbDdEeGNlcjA5T3NxaTBzdE5vZGlaZkpLY0FtZVBud3U1?oc=5",
+      "pestel": [
+        "Economic",
+        "Environmental"
+      ]
+    },
+    {
+      "id": "86b4cfac9cf154",
+      "cadence": "daily",
+      "theme": "innovation",
+      "geography": "Rest of World",
+      "sector": "Carbon Credits",
+      "segment": "carbon-credits",
+      "date": "12 Nov 2026",
+      "published_at": "2026-11-12T17:58:28+00:00",
+      "headline": "Nuveen Natural Capital Launches Global Nature-Based Solutions Strategy with $100M Anchor From TIAA",
+      "summary": "This development affects the carbon credits value chain. Open the original report for transaction details, timing and named counterparties.",
+      "signal": "Assess field performance, unit economics and the route from pilot deployment to repeatable commercial scale.",
+      "source": "Agriculture Investment Marketplace",
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOMHVDSjBQVXl5N1JUZGxhSEdTUmJzWlVfWkxnSzlvTm1QT0N0bmxTRE1kX0wtMjVuZjlrTWhsc0pPYWVnWXBBN1daLVNyZFhjTkdKS2dkYjdmbkNOLUdXYm1pT2QxbGMwa0ZfcWl0OWZybnBsempRNXVkdXpaYjItZk1MWnR2QUVnb0phNXJnSDJOeTdxdEdWNFRjTTJ1OEhaRk8tQXBqRmh1cWpXaDRkU0FjSC1pNjFJbHJEYzVLU01tOEJaczU4MHYxOGk?oc=5",
+      "pestel": [
+        "Economic"
+      ]
+    },
+    {
+      "id": "abc752fa656ab4",
+      "cadence": "weekly",
+      "theme": "pestel",
+      "geography": "Rest of World",
+      "sector": "Biochar & Activated Carbon",
+      "segment": "biochar",
+      "date": "Week 46 · 2026",
+      "published_at": "2026-11-12T12:22:02+00:00",
+      "headline": "Activated Carbon Fiber (ACF) Market Outlook 2026-2032 | Rising",
+      "summary": "This development affects the biochar & activated carbon value chain. Open the original report for transaction details, timing and named counterparties.",
+      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
+      "source": "openPR.com",
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWlJZNGhpQWtqbFpJSXU1VjdfMHc0NGs1Sm9CZWR5TmxSX0w2eDZKS21fTVlDNnE5RmRuVjhtYTRmdWR4X205QWxHd2ZLRVZBamlwNndGM1ZqWWVZZmplQjNHbWs4Nk1Ua29ad0wzZmNjRGx4Q0lUaXRxcC1sX0dIY05MQmxRYldoUTNodHNiQ3Q2QkQ1dHl5Mk13?oc=5",
+      "pestel": [
+        "Economic",
+        "Environmental"
+      ]
+    },
     {
       "id": "15c90bead53e6c",
       "cadence": "weekly",
@@ -68,6 +139,24 @@
       "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
       "source": "Nilepost",
       "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMm9VbzVlSVFyeGtUUXFoVmtyWWY4THl1RHZHSG5iclJ3c3U5VWcwVzZETWl5U295Umh6S3N2WnNyQUdUTHVjVHZheXR5UzlLUFZyMi1jYkVLb3M4bmYzTnJsUzh5VVZqcHVYNkxBTUtsTERkUlFDZlZvTWhWTllnWVVjVnhiNnVQNHZYMnlNVzlORXhQWWd5dEp0eXEzS3YzZzZoV1lJSdIBrwFBVV95cUxOaHpqN2tSTzZJeUNfcmM2OXhmRE8xWHZOZk9XNktsZzhKTnhUNE5OVE1wV1pTdjhTR0tyMmdtNG14dXlhX3MwbGJodWl6TjJNVURwQXlYU0pfaTRtQUFacjE2azFsd1RQdmFJTnBpdnJhRE1wNlhZTVN6THNZRnJxODkwQU5pTUpTcG5uVG80azlGbElSTWxFejktQ0Z1SEczNEtjMWtvUjRZekh5S2tv?oc=5",
+      "pestel": [
+        "Environmental"
+      ]
+    },
+    {
+      "id": "128f37adfa3949",
+      "cadence": "weekly",
+      "theme": "pestel",
+      "geography": "Rest of World",
+      "sector": "Regenerative Farming",
+      "segment": "regenerative",
+      "date": "Week 46 · 2026",
+      "published_at": "2026-11-10T15:15:00+00:00",
+      "headline": "Investing in soil health can become an economic opportunity for European agriculture",
+      "summary": "This development affects the regenerative farming value chain. Open the original report for transaction details, timing and named counterparties.",
+      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
+      "source": "EIN Presswire",
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPVmJkeE5YWHY5MDNNSktYTDVIX05faVBHV3Rvd2VqRlUzNWY2RlRUWmFRY0Q2ZzYwQXZpVU5aUENvMnNldHl1eVJQS0FLVjZvU3FNYTg3aGg4NWZCOHQ1QmMyWEhZR2ZraGptam1kdFZSWXA5anpxOEZQaXRSRFFTWXhDR3oyTmxDMTFHbWZvc0F6RS1HUk9tMjFXRHVGUzZ1cFU1UmQybU42MGVLRUdxdlNHdG00SDgxY3NEbUxDTEZIODRhZ0xWN3VNTQ?oc=5",
       "pestel": [
         "Environmental"
       ]
@@ -1273,92 +1362,6 @@
       "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
       "source": "Sustainability Magazine",
       "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVDZPU0Z0dWRvVEdlRWVlVC01X1VqQ2NZZGZtR0dGaDM3bkxEaGVjQkR0dU5rNWVHb2RHbVVkNEJkYm1iVDBfc1k4YW5FWFFvUWdOTGNBTm5BYWYyaHZGZHp1cWRBYVJXdjA2bi01Wl9sUkttcElDQUNxMGdSYkhsRGdpOExqMlRvOENPdUM1aG9QN1ZfTHZn?oc=5"
-    },
-    {
-      "id": "7b03408af62662",
-      "cadence": "weekly",
-      "theme": "pestel",
-      "geography": "India",
-      "sector": "Carbon Credits",
-      "segment": "carbon-credits",
-      "date": "Week 42 · 2026",
-      "published_at": "2026-10-14T08:42:09+00:00",
-      "headline": "India Carbon Credit Market 2026-2034 - USD 33.69 Billion to USD 405.47 Billion Outlook | IMARC Group",
-      "summary": "This development affects the carbon credits value chain. Open the original report for transaction details, timing and named counterparties.",
-      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
-      "source": "openPR.com",
-      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdHU3X2dzcUUzTnluYy1uTzNzMlF5MVZtZVVyUnpKS05xMkZwazUzNXFZNDBXLVdWaDB1RWFUZVhTRnJVQW0tMkZWcG1uT182Z3JNV0VCZGZ0cm1SYjFQOE1PSHR0ZjQtMlZjSXk3aWdvMWpzS1NPVTBfY1N3TFB2S1E1QmhJV1FxcWs5S0kyRVRTZm9iY09jeHZuTm8zZw?oc=5",
-      "pestel": [
-        "Economic",
-        "Environmental"
-      ]
-    },
-    {
-      "id": "cc0eb330d896ff",
-      "cadence": "daily",
-      "theme": "capital",
-      "geography": "Rest of World",
-      "sector": "Permaculture & Agroforestry",
-      "segment": "agroforestry",
-      "date": "14 Oct 2026",
-      "published_at": "2026-10-14T07:00:00+00:00",
-      "headline": "Haiti’s government and FAO call on development partners and investors to support agroforestry value chains",
-      "summary": "This development affects the permaculture & agroforestry value chain. Open the original report for transaction details, timing and named counterparties.",
-      "signal": "Compare the funding structure with project maturity, contracted demand and expected cash-flow timing.",
-      "source": "Food and Agriculture Organization",
-      "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNLUdhSHU5SnRnMC1UZ2R1ZjVMNUVULThReFVzdjBXdDl1YUY1bGkwaXAxdWh6ZGowZHNYcklmeTY3WHctd3h6SGJnUzNaQWZnUHducmZFNndoVW96NmtNUWZvLTFaYktqdG5jdGlUQUlOelBwb0RMd19Kb052dXlsUUxWYmFtSkUyUmczWQ?oc=5",
-      "pestel": [
-        "Political",
-        "Environmental"
-      ]
-    },
-    {
-      "id": "0c206f53674035",
-      "cadence": "weekly",
-      "theme": "pestel",
-      "geography": "Uganda",
-      "sector": "Regenerative Farming",
-      "segment": "regenerative",
-      "date": "Week 42 · 2026",
-      "published_at": "2026-10-14T05:22:39+00:00",
-      "headline": "Kayunga Farmers Urged to Adopt Solar Irrigation and Regenerative Agriculture",
-      "summary": "This development affects the regenerative farming value chain. Open the original report for transaction details, timing and named counterparties.",
-      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
-      "source": "Nilepost",
-      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPczByWnNCekxQb2M2aUFMY180UWZGNW5TR0V1WlRRWW5BSmV1WG9LWGJRU194MkNGWjdtdWM2MWw1dVpoOEVFWlhzaDQtclJYd1g2aEtrRExOY015c1JDU0dtR2swdjFzSDZLdG1jdF9NV3hIb3EtU1RUMWdQSHZ4SXdUaUd0S2lqSUFjdXRpVWl4bnpCTWdJYWt4NU4xTTR4aFh6dG41N3UtUEdSeDRGal85RUdiTjJJUWfSAcIBQVVfeXFMTkFSTndmYmRpdGRPYWdKaVJTb20tTlFxU3g2cE56VEh5MzFaRjVFRDdzVFFncnRKTENfTkl5cW50WmQ4Z2JDNlhDRl9oN0hWX0Ffb19LS21XUHRuaFVKS3RrclpfZmZwaDRHQ1YxdkhDejBXV2ZoYlF6b1E1dHFKMmg2dVIwTlJtVVFWb2lWMW9PekhHRGQ1ZGpiaVoxbFVTS3BZb0pSd0VsSFlTZXc5SVU0dmw1Q0ZtVTJSZThldHVRZFE?oc=5",
-      "pestel": [
-        "Social"
-      ]
-    },
-    {
-      "id": "53a40568c7147e",
-      "cadence": "weekly",
-      "theme": "pestel",
-      "geography": "Uganda",
-      "sector": "Agri-Products & Agro-Processing",
-      "segment": "agro-processing",
-      "date": "Week 42 · 2026",
-      "published_at": "2026-10-14T04:33:02+00:00",
-      "headline": "Uganda seeks Thai investment in agro-processing, manufacturing and tourism",
-      "summary": "This development affects the agri-products & agro-processing value chain. Open the original report for transaction details, timing and named counterparties.",
-      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
-      "source": "PML Daily",
-      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbG1YelpnUVUxaWJNNDlxQjNlWXg5WkMzYkVmYUJydGw2ZjktbGoxTENyZ0w1U29fSFZoM3V2VVRVODlNZFhOMlpVN3Nvc3JxQXl2am0wN2kzS3Z4TXFRak5WcnhXM3JVT1RhM2lhNy1fMjNueThtcURqRlYzb2FGR2lNLVZSQktBMWtLdVZSOHZQM0w4Y21OMzk4ZS1UalFDeTNfZ2szSGdWaF9WbkJDY2JB?oc=5"
-    },
-    {
-      "id": "6adafc2148bbd9",
-      "cadence": "weekly",
-      "theme": "pestel",
-      "geography": "Rest of World",
-      "sector": "Regenerative Farming",
-      "segment": "regenerative",
-      "date": "Week 42 · 2026",
-      "published_at": "2026-10-13T16:42:56+00:00",
-      "headline": "How Federal Investments Could Shape Regenerative Agriculture Opportunities",
-      "summary": "This development affects the regenerative farming value chain. Open the original report for transaction details, timing and named counterparties.",
-      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
-      "source": "RTI International",
-      "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1pSDlVVzJlSENBOWxidmdTLTMwSEFfV00zSDFwQ0g1SHZ0MzNHT3VoeldrcjVrR3MtN3JMUFRDQnhJbHd2d3VicEJPdVZmLVRTQ20wZXRvZTZsa0l2aFlKcEMzejRaR2VQZlQybENnVFpqZVczdTNXUWk4X3o?oc=5"
     }
   ]
 }
