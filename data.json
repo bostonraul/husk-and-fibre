@@ -2,6 +2,29 @@
   "generated_at": "2026-11-14",
   "stories": [
     {
+      "id": "they-mocked-his-idea-now-he-s-turning-waste-into-ceiling-til",
+      "material": "Grass / Straw",
+      "region": "Unspecified — refine with NER in a later pass",
+      "headline": "They Mocked His Idea. Now He's Turning Waste Into Ceiling Tiles",
+      "dek": "Every year, tonnes of paddy stubble are set on fire across Punjab, adding to the air pollution choking North India. But what if this farm waste could become something useful?\nFor e",
+      "potential_score": 5,
+      "potential_label": "Very High",
+      "capital_note": "Not yet assessed",
+      "video_youtube": null,
+      "video_caption": "Auto-matched video — verify relevance before featuring prominently",
+      "image": "https://img-cdn.publive.online/fit-in/1280x960/english-betterindia/media/youtube_thumbnails/vi/2ewL-FoK_j8/maxresdefault.jpg",
+      "image_alt": "They Mocked His Idea. Now He's Turning Waste Into Ceiling Tiles",
+      "body": "Every year, tonnes of paddy stubble are set on fire across Punjab, adding to the air pollution choking North India. But what if this farm waste could become something useful?\nFor eight years, Gurdaspur-based innovator Parminder Singh experimented with paddy waste in his garage, even when people mocked his idea.\nHis hard work led to an unusual innovation: drop-down ceiling tiles made using paddy stubble.\nDesigned to provide heat and cold insulation, these tiles are also waterproof and fire-resistant.\nThrough his startup, Agro Stubble Management, Parminder hopes to give farmers a reason to earn from crop residue instead of burning it.\nHis vision is to establish production plants across Punjab, where discarded stubble can become a valuable raw material.\nIt’s an idea that could turn agricultural waste into a resource, create livelihood opportunities and offer another way to tackle stubble burning.\n#StubbleBurning #Punjab #SustainableInnovation #ClimateAction #AgriTech",
+      "why_it_matters": "Auto-generated entry — pipeline flagged this via keyword + business-signal scoring.",
+      "source_url": "https://thebetterindia.com/videos/they-mocked-his-idea-now-hes-turning-waste-into-ceiling-tiles-12808714",
+      "sources": [
+        {
+          "name": "The Better India : Latest Posts",
+          "url": "https://thebetterindia.com/videos/they-mocked-his-idea-now-hes-turning-waste-into-ceiling-tiles-12808714"
+        }
+      ]
+    },
+    {
       "id": "how-an-assam-father-daughter-are-making-notebooks-from-rhino",
       "material": "Bamboo",
       "region": "Unspecified — refine with NER in a later pass",
