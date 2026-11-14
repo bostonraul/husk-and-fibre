@@ -1,6 +1,25 @@
 {
-  "generated_at": "2026-11-13T10:57:12+00:00",
+  "generated_at": "2026-11-14T10:23:24+00:00",
   "reports": [
+    {
+      "id": "17539c15a89f0d",
+      "cadence": "daily",
+      "theme": "innovation",
+      "geography": "Rest of World",
+      "sector": "Agri-Products & Agro-Processing",
+      "segment": "agro-processing",
+      "date": "13 Nov 2026",
+      "published_at": "2026-11-13T10:27:11+00:00",
+      "headline": "Agritech startup Crop Cura expands to Rwanda to digitize smallholder farming",
+      "summary": "This development affects the agri-products & agro-processing value chain. Open the original report for transaction details, timing and named counterparties.",
+      "signal": "Assess field performance, unit economics and the route from pilot deployment to repeatable commercial scale.",
+      "source": "Innovation Village",
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdlF4aENjMmJtNTQ2QThLTEhsTVA2MzE1VFZoNTlSckFoUnFoM2ZUT3d5ZDRoTE9aYkEtdTVJUUpVYWdxalN1NXQzQVpRVG9rUE1lYmplRzdvajlDWVdVbEJsdWNid0JsdFdWXzRfd1hsRXdiZDd6T0tpYUZ6WE9NZDU4c0hRR1Y3dUU3NWVzRlBRUVItYXJISnN2NGczWnRJcHhDOWFXU1luUV9S?oc=5",
+      "pestel": [
+        "Social",
+        "Technological"
+      ]
+    },
     {
       "id": "fd7e22fd3179d6",
       "cadence": "weekly",
@@ -279,24 +298,6 @@
       "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNX2Q2YUd0M3llZ3RncG5LZEZJbFFYclNlYko5cWNwRlQ0dFc3ekxGd0lPeURxb01oaWJwZktZNWVDenlmZ3N2b0FGUTNSZ2hPVHh0WmRhWTNPNGpRUjJhZ2lieWhrTTZaZGRVSW1nSnhqcF9odnVpOFRoM1VFODBGZ2JORkZkaTh0N1JPeXlCX0VhMHgzUDNFNlpMbDBVSnpMYzdrN0xMcEtvVzR6YmV4bHBkaXhPN1Y0VndBLQ?oc=5",
       "pestel": [
         "Economic",
-        "Environmental"
-      ]
-    },
-    {
-      "id": "f4c7aa54f9387b",
-      "cadence": "weekly",
-      "theme": "pestel",
-      "geography": "India",
-      "sector": "Agri-Products & Agro-Processing",
-      "segment": "agro-processing",
-      "date": "Week 45 · 2026",
-      "published_at": "2026-11-06T13:34:44+00:00",
-      "headline": "IIT Kanpur-Incubated ScaNxt secures investment from Zerodha’s Rainmatter, SIDBI and Exim Bank to scale climate-smart agritech and EV mechanisation",
-      "summary": "This development affects the agri-products & agro-processing value chain. Open the original report for transaction details, timing and named counterparties.",
-      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
-      "source": "AgroSpectrum India",
-      "source_url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOYkl2Wnh5QW5CaXhNWUlYQmxZd3d4Y0RJU0d0WkVzd0pYZFBpaXVVdFY3bmFLV3ptcjI5WVIyTlhPTlk1cGVfd0Z6QXZBTXZuWmNHTk02RTIyV0FOaktUbnA0MnoxSW1ZOFVWbkxmRGVuaE56cktpcmVoN054c0RUc1FaYTUtQTJBUnNFMDlzV1pnY3c3VDEzRHF1b0YyaEpmdThsOUNBSEV1Y3IycVAyNW5QZVJjT1ZGNUxFcFZET2xxNGRkV0l5dnM5d01PR2N6aDVxeklTOTJyVXhjbUJKZFBaVDV2MnVlNkYxS0YyTFNWc1VjeEdZXzVLVVZzQmhCUHlTQkFRME9uaTQ2LUlOdmFLWDFoVV8ycmxJNQ?oc=5",
-      "pestel": [
         "Environmental"
       ]
     },
@@ -1295,73 +1296,6 @@
       "signal": "Assess field performance, unit economics and the route from pilot deployment to repeatable commercial scale.",
       "source": "BusinessLine",
       "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNRmtRN2hxM2FVcE5VQ0JSTmticzNQakZYU1diZ1Fxa3loTUxMWjdnaVNGUVFaTE1IOE9VaGZ2UUU3QjhwTTFITHljOE1sNk5TN1BjSHJ6S0ppQzRTOXNrMGdPcGV1MG1BTlJrdUNUVEVTY29yaTRuQjJab0t5SUNyTnp4Z1FnaFNSb09MeXdSQWtVTnNKSDV1U0s1V3ZJZ0VPVFd0THlPRDdpeGxrMV8tZjJXVFltQUNrdEpPWS0tSnZ3U2ZYcnIxQjJpd2ZpSnota2g4eDQ2bzRWMmhWbW9J0gHmAUFVX3lxTE5tc2hld1RDYjFnSnhnZVpNLXBaNnZPcVl3VWFyYW5uaUE0XzJsRGdpdXlhZUs0aFNzcjQ5dHozSUp5TFZxdURhY096MU8wM25wVGdtYnR6TTFoa3JvN09YSHJlV0N3UlBSYS1VNEZlN3FCU2k5bVNqZzh2d1ZuaGFnNnVvN3dqTHotSlJaLWRBLUc2ckNqeXNMZnBHUGhQa2QyS3lZdGNSbTZwa2dJa0t6Zldnbllpc2RtMWQ5TXY2UDdjX0tLRVlhM0dlZmNBczctRTZvTDVtT2FTbVkzelZZTFlpTzBR?oc=5"
-    },
-    {
-      "id": "2ad33e7b5f4beb",
-      "cadence": "daily",
-      "theme": "innovation",
-      "geography": "Rest of World",
-      "sector": "Regenerative Farming",
-      "segment": "regenerative",
-      "date": "15 Oct 2026",
-      "published_at": "2026-10-15T09:02:34+00:00",
-      "headline": "PepsiCo: Fragmented Supply Chains & Regenerative Farming",
-      "summary": "This development affects the regenerative farming value chain. Open the original report for transaction details, timing and named counterparties.",
-      "signal": "Assess field performance, unit economics and the route from pilot deployment to repeatable commercial scale.",
-      "source": "Supply Chain Digital Magazine",
-      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRWU3Q0V4U0pmZzBQb1pvUVpDanVBdXJVWEJkMlNSOVZJdV9aaG1ZakQxZjJVN05BSXdBMFFFYVB0VjRyeHA0MzNneU9TdXhVMDVsZUJXYUk4UU1udkZVR3dhZExCSjZUcWtIY3hhdHM0N0ZIb2lMZzR1ZjVYRmFYWVN0dGVseVZrbkhzVGVEU3RjUTA?oc=5",
-      "pestel": [
-        "Technological"
-      ]
-    },
-    {
-      "id": "b258528e10877f",
-      "cadence": "weekly",
-      "theme": "pestel",
-      "geography": "Rest of World",
-      "sector": "Regenerative Farming",
-      "segment": "regenerative",
-      "date": "Week 42 · 2026",
-      "published_at": "2026-10-15T07:00:00+00:00",
-      "headline": "2026 From the Ground Up: Transparent Pathways to Regenerative Food Systems",
-      "summary": "This development affects the regenerative farming value chain. Open the original report for transaction details, timing and named counterparties.",
-      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
-      "source": "As You Sow",
-      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9uUnVTUFMyeWstVE51SG1xb0pYR3VERHJ0dFFkWkRNVG5FZElZcWw0SHpSVkR4cklEaWlPOWdTMU5nZHhXTlJic3ZXS3dKZ3pjci0yaHVlQW9YOXIzQ2wyUnVKMjl6NE0?oc=5"
-    },
-    {
-      "id": "481ce9fa7fdc28",
-      "cadence": "weekly",
-      "theme": "pestel",
-      "geography": "India",
-      "sector": "Agri-Products & Agro-Processing",
-      "date": "Week 42 · 2026",
-      "published_at": "2026-10-14T17:37:09+00:00",
-      "headline": "India: INERA and Bayer Partner to Bring Next-Generation, Climate-Resilient Crop Nutrition Solutions to Farmers",
-      "summary": "This development affects the agri-products & agro-processing value chain. Open the original report for transaction details, timing and named counterparties.",
-      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
-      "source": "AgriBusiness Global",
-      "source_url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPM25QR2VIbjZCMVZFaHF2RVRxMnBGdEJCRHdONjdDbTRUSnpsUl9iSlJJY3hsczNfWVZFMTFtR2dGT1E1Z2p0ZVhkWXNKNm85b0t0cnRreXdncldGNkVndHppN1pBc2dvdEh3Y3VpOTdRdHQ0bzJySllNV05IVENXX0NGRTU4R2FPenRxNVVMTDNTZWp0X1ZMYzVsYzFab2J1cnJsQ3BVbGVGb2U1TkhCTmhZUWxnRDBGZWVualFXWkg2WG81Q0NKVWNPZm80bUJ2ek55ZVJyWXdFdTU3UGZFSEdUTVp6S0tYSnpvNUVSbUlsU1HSAfMBQVVfeXFMTzNuUEdlSG42QjFWRWhxdkVUcTJwRnRCQkR3TjY3Q200VEp6bFJfYkpSSWN4bHMzX1lWRTExbUdnRk9RNWdqdGVYZFlzSjZvOW9LdHJ0a3l3Z3JXRjZFZ3R6aTdaQXNnb3RId2N1aTk3UXR0NG8yckpZTVdOSFRDV19DRkU1OEdhT3p0cTVVTEwzU2VqdF9WTGM1bGMxWm9idXJybENwVWxlRm9lNU5IQk5oWVFsZ0QwRmVlbmpRV1pINlhvNUNDSlVjT2ZvNG1CdnpOeWVScll3RXU1N1BmRUhHVE1aektLWEp6bzVFUm1JbFNR?oc=5",
-      "pestel": [
-        "Social",
-        "Environmental"
-      ],
-      "segment": "agro-processing"
-    },
-    {
-      "id": "95f5b7f0626097",
-      "cadence": "weekly",
-      "theme": "pestel",
-      "geography": "Rest of World",
-      "sector": "Regenerative Farming",
-      "segment": "regenerative",
-      "date": "Week 42 · 2026",
-      "published_at": "2026-10-14T11:51:03+00:00",
-      "headline": "PepsiCo: Scaling and Investing in Regenerative Agriculture",
-      "summary": "This development affects the regenerative farming value chain. Open the original report for transaction details, timing and named counterparties.",
-      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
-      "source": "Sustainability Magazine",
-      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVDZPU0Z0dWRvVEdlRWVlVC01X1VqQ2NZZGZtR0dGaDM3bkxEaGVjQkR0dU5rNWVHb2RHbVVkNEJkYm1iVDBfc1k4YW5FWFFvUWdOTGNBTm5BYWYyaHZGZHp1cWRBYVJXdjA2bi01Wl9sUkttcElDQUNxMGdSYkhsRGdpOExqMlRvOENPdUM1aG9QN1ZfTHZn?oc=5"
     }
   ]
 }
