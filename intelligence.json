@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T10:23:24+00:00",
+  "generated_at": "2026-11-15T10:50:35+00:00",
   "reports": [
     {
       "id": "17539c15a89f0d",
@@ -109,21 +109,6 @@
         "Economic",
         "Environmental"
       ]
-    },
-    {
-      "id": "8cf4fa07202ae1",
-      "cadence": "weekly",
-      "theme": "pestel",
-      "geography": "Uganda",
-      "sector": "Agri-Products & Agro-Processing",
-      "segment": "agro-processing",
-      "date": "Week 46 · 2026",
-      "published_at": "2026-11-11T20:56:30+00:00",
-      "headline": "Experts call for more solar investment to boost Agro-processing in East Africa",
-      "summary": "This development affects the agri-products & agro-processing value chain. Open the original report for transaction details, timing and named counterparties.",
-      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
-      "source": "NTV Uganda",
-      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPc2RSWmdBbDNteFhGdTYzM1FrWEItUFpJWnA4MXZ0Nkc4OFRnalpiOGt3cFB4d05TeS1tdm5MbWpLNDl6VW5WdGRpZFFYenU2bnVtT0VFeW9ta3RtQTVBQTRrYmJtTi1LWV80aDRyQlRXaGlLWmlDVzZwZTY0bk1nRFRhZ2NOTWNuLUcwWEFMcXV5UzVfXzVLeDFiTktITjEwMktBbktSV00?oc=5"
     },
     {
       "id": "ee37e6c9b22219",
@@ -247,6 +232,24 @@
       "source_url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPek5KQnhEcFp4MlJvSGphV1Z3bG0yRDdkUVFHYklxSVpWTjN0Q0VwQ045RXVTcXROMFo0Ui1tcDhOc2hYNWxJSVh3NXRScmx2QVdINE90cDJmQzBUcHl1YUFxUkpRRlJSaTlPWWwxUU9fU3dXbFdRMXZMVHdvV1Zpc0d0bjFMQ19UUm5GV25mUTI1WS0yLS1Jc0JZa2hReThUMGU5QkRrdXAtZXBZZGowTVA2TkhnOFJyQl9za1dzNGhIbUczSy1yeTc0TzdNX29YS2pZdnUwRHlGUHlOeXNrcVcwWmVlRk5wdVd1T25R?oc=5",
       "pestel": [
         "Technological"
+      ]
+    },
+    {
+      "id": "1d8760983ab327",
+      "cadence": "weekly",
+      "theme": "pestel",
+      "geography": "Rest of World",
+      "sector": "Agri-Products & Agro-Processing",
+      "segment": "agro-processing",
+      "date": "Week 45 · 2026",
+      "published_at": "2026-11-08T17:17:11+00:00",
+      "headline": "Sanwo-Olu seeks more investments in manufacturing, agro-processing at Lagos Trade Fair",
+      "summary": "This development affects the agri-products & agro-processing value chain. Open the original report for transaction details, timing and named counterparties.",
+      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
+      "source": "Western Post",
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQVlaVlIxN0d1THN2V0tsYmRyenpUbE91enZwTENvUVhLS0JYNDJTUVNGTUlBSzd4dzB2c1JwTmF3dXc1Qm1ZR1FMUjltcUF4bjZqWXcwUmRqOWhjZE1xSkl4S2VUQzNRVzlwRHFnTk93TlZ1UkhrbzBlWDl4ZDFXakpmdDNGOUNiMnFPd2VwTGxOODVUanBhZ1kwYmw4RFM3WnpOd2VWRURDbU4ySGZlWkZiaw?oc=5",
+      "pestel": [
+        "Economic"
       ]
     },
     {
@@ -1281,21 +1284,6 @@
       "signal": "Assess field performance, unit economics and the route from pilot deployment to repeatable commercial scale.",
       "source": "BusinessLine",
       "source_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPUDZ5UnVfZVM1OEZhVExJQndIZUdGQnIyVmNySjB3eHNHS1R1R3hUcElWMlVvZDcyMmhxVzIzZ1BHRUpfY3JkN1JjVzd4SXpzM1JfX0l2dTUyck5rbVdUTkUwLWlxM0N2elFPck9NamFFYkVsT0N5NTlxekZaTDh3ZVNLdDQxQzdDSk1DQU0xM0E1V3B4bWs4eGhQSldwUjNqX3ZpN29xX3V4cTNwemZjTkpES2VUZ0tzdGlrMTBKRF9PcXAzZnI0eGx1cWtxSmRZbmpVamRrbzZta1RiZWM3ZWkxZmRBVUZ50gHvAUFVX3lxTFBKWEdqNlVyYmlTb29RYXJBVFVlRE5CX2k2SVI5VFp5WUJuS0ZxU3pLNlFka3Y3T1B6YWF4eUFlcGFuYTVRb2xlQ0NFdER2dVY5M1JPNV9tMERaRkc4akE0Sy1NcjlmUUZaZlNxT0hRdUpWbzNFRDhJZHVwekd6aVlHT2p5OFhsRlNldlF6cHd3bVRpZVlVSlV2a2dORktfSWFLVjNhcWpKcEdfa2stN0l6bUZVbXdldGRQeTJfdmFKblM5TEUxRTlvNVBjMHp0aHhfRTRhdHU0V3ZVM2lfNUtuc3ZKdTN1Mk1kd19OTExr?oc=5"
-    },
-    {
-      "id": "7a4b59dee7737f",
-      "cadence": "daily",
-      "theme": "innovation",
-      "geography": "Rest of World",
-      "sector": "Agri-Products & Agro-Processing",
-      "segment": "agro-processing",
-      "date": "16 Oct 2026",
-      "published_at": "2026-10-16T07:00:00+00:00",
-      "headline": "Dhanuka Agritech launches fungicide for rice blast disease in paddy",
-      "summary": "This development affects the agri-products & agro-processing value chain. Open the original report for transaction details, timing and named counterparties.",
-      "signal": "Assess field performance, unit economics and the route from pilot deployment to repeatable commercial scale.",
-      "source": "BusinessLine",
-      "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNRmtRN2hxM2FVcE5VQ0JSTmticzNQakZYU1diZ1Fxa3loTUxMWjdnaVNGUVFaTE1IOE9VaGZ2UUU3QjhwTTFITHljOE1sNk5TN1BjSHJ6S0ppQzRTOXNrMGdPcGV1MG1BTlJrdUNUVEVTY29yaTRuQjJab0t5SUNyTnp4Z1FnaFNSb09MeXdSQWtVTnNKSDV1U0s1V3ZJZ0VPVFd0THlPRDdpeGxrMV8tZjJXVFltQUNrdEpPWS0tSnZ3U2ZYcnIxQjJpd2ZpSnota2g4eDQ2bzRWMmhWbW9J0gHmAUFVX3lxTE5tc2hld1RDYjFnSnhnZVpNLXBaNnZPcVl3VWFyYW5uaUE0XzJsRGdpdXlhZUs0aFNzcjQ5dHozSUp5TFZxdURhY096MU8wM25wVGdtYnR6TTFoa3JvN09YSHJlV0N3UlBSYS1VNEZlN3FCU2k5bVNqZzh2d1ZuaGFnNnVvN3dqTHotSlJaLWRBLUc2ckNqeXNMZnBHUGhQa2QyS3lZdGNSbTZwa2dJa0t6Zldnbllpc2RtMWQ5TXY2UDdjX0tLRVlhM0dlZmNBczctRTZvTDVtT2FTbVkzelZZTFlpTzBR?oc=5"
     }
   ]
 }
