@@ -1,6 +1,44 @@
 {
-  "generated_at": "2026-11-15T10:50:35+00:00",
+  "generated_at": "2026-11-16T11:14:02+00:00",
   "reports": [
+    {
+      "id": "1697786cbac6ca",
+      "cadence": "daily",
+      "theme": "regulatory",
+      "geography": "India",
+      "sector": "Carbon Credits",
+      "segment": "carbon-credits",
+      "date": "15 Nov 2026",
+      "published_at": "2026-11-15T17:03:24+00:00",
+      "headline": "India's carbon credit market needs liquidity and credible price signals",
+      "summary": "This development affects the carbon credits value chain. Open the original report for transaction details, timing and named counterparties.",
+      "signal": "Review eligibility, compliance timelines and incentive access before committing capital.",
+      "source": "Business Standard",
+      "source_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTGZpelhkX2V1ak8tMk9rZFpoZjZ1V1VlWHBGSXFGOEFJYjRuRXZ1Y2E4ampIWHZNcm5nUGcxeGJ4S0pHd3oteGRjYWpCY1JaV01rZzY3UmRYY1V4OTRubzZvc2YzZGxNZVU4WlFoOFY4aWZFOFN5T0dzaTlaNVdqV1dfcVBHSEpoOHNMUTlwOWtJQms4M3dhcTFYS0tNNHhER29hMmFIckFhN3lUbWJ1aGc3RmdSWndYWURwZzV1QlF3YVJpeGV1a1RPa2lYaktjMk4xQWlWQkl5TG9ocUHSAd4BQVVfeXFMTkxmaXpYZF9ldWpPLTJPa2RaaGY2dVdVZVhwRklxRjhBSWI0bkV2dWNhOGpqSFh2TXJuZ1BnMXhieEtKR3d6LXhkY2FqQmNSWldNa2c2N1JkWGNVeDk0bm82b3NmM2RsTWVVOFpRaDhWOGlmRThTeU9Hc2k5WjVXaldXX3FQR0hKaDhzTFE5cDlrSUJrODN3YXExWEtLTTR4REdvYTJhSHJBYTd5VG1idWhnN0ZnUlp3WFlEcGc1dUJRd2FSaXhldWtUT2tpWGpLYzJOMUFpVkJJeUxvaHFB?oc=5",
+      "pestel": [
+        "Economic",
+        "Environmental",
+        "Legal"
+      ]
+    },
+    {
+      "id": "a0c432da223bc9",
+      "cadence": "weekly",
+      "theme": "pestel",
+      "geography": "Rest of World",
+      "sector": "Permaculture & Agroforestry",
+      "segment": "agroforestry",
+      "date": "Week 46 · 2026",
+      "published_at": "2026-11-14T01:30:00+00:00",
+      "headline": "How agroforestry offers new opportunities for semi-pastoralists in Ethiopia",
+      "summary": "This development affects the permaculture & agroforestry value chain. Open the original report for transaction details, timing and named counterparties.",
+      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
+      "source": "Forests News, Center for International Forestry Research",
+      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTU5ZVXBCVE1zYWVvRTgza0cwV2VFLUtfRGRTSzh5TWdEZWltMGFQWmpuY1ptNHJVeHpJQ3oyTzJjWkx6Nzc5UFNxRmJpQmhjeGlHTUhlVGVHYUpHUUpWcnVpV0FiU1lZMmhYYWRtYWpJZWV1WnJNVlo4VkgxLUY4VF9KME1pQlRrX005bGN1dTBadw?oc=5",
+      "pestel": [
+        "Environmental"
+      ]
+    },
     {
       "id": "17539c15a89f0d",
       "cadence": "daily",
@@ -1251,39 +1289,6 @@
       "signal": "Review eligibility, compliance timelines and incentive access before committing capital.",
       "source": "Global Agriculture",
       "source_url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNYlhDbHA5TlMyU1Nob1NzMDNQcFJNbU4xTXlwRGI5VnJsSXdxVmNpQUVGcWQ0eDJrSWd6QlNjVWVTSjZSc2hKOEtSRTBvTWEyZ18tdEktdFQ1b0xxcWtac3ROTWM4eXQwQTVGMzRBTTRXRFp1R1AzTVVvbEQtQV9GLTlUaHFTS09GWHJJUXg4N1ZWcXNQMlFVSkRWSU1jWmw4LUplTk9sYmZ2bFA4eUFsUDR3NTdnOUlWNV81LWFUODYwOFlaNG4xXy1qb0M1VXlGT01zaXVlMjM1dXk0TmU2ZXprTklKSldzTUE?oc=5"
-    },
-    {
-      "id": "c9700079457932",
-      "cadence": "daily",
-      "theme": "innovation",
-      "geography": "Uganda",
-      "sector": "Agri-Products & Agro-Processing",
-      "segment": "agro-processing",
-      "date": "16 Oct 2026",
-      "published_at": "2026-10-16T15:13:07+00:00",
-      "headline": "WORD FOOD DAY: Uganda turns to farm technology as WFP warns El Niño threatens hunger gains",
-      "summary": "This development affects the agri-products & agro-processing value chain. Open the original report for transaction details, timing and named counterparties.",
-      "signal": "Assess field performance, unit economics and the route from pilot deployment to repeatable commercial scale.",
-      "source": "PML Daily",
-      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdkVTb3ZYZ2U5aTE3RlBGOFF0MTI5VGlVU0NEVjJYck90akRWd0Ztd012ak1pZlpqUkRPcnZnTGJmQko5Wkp1SVRfNTBySXgtY1lTSV93V2NyWUE2aFVScmtqVmltcXhHektUaXJxcGlMTTZEcGFDbWRub2J1UTZkSXdKNlc4TmdkOWF3MlI3WXJDMUtrS1d3RnJjRFloUVJYbzItSGJla3VJcDBPaUptLVU4X3VTcGVLMGYxbFBkcF9rUWFmTWdV?oc=5",
-      "pestel": [
-        "Technological"
-      ]
-    },
-    {
-      "id": "87b3e5c2b6fb27",
-      "cadence": "daily",
-      "theme": "innovation",
-      "geography": "Rest of World",
-      "sector": "Agri-Products & Agro-Processing",
-      "segment": "agro-processing",
-      "date": "16 Oct 2026",
-      "published_at": "2026-10-16T11:08:31+00:00",
-      "headline": "Dhanuka Agritech launches herbicide for weed management in maize, sugarcane",
-      "summary": "This development affects the agri-products & agro-processing value chain. Open the original report for transaction details, timing and named counterparties.",
-      "signal": "Assess field performance, unit economics and the route from pilot deployment to repeatable commercial scale.",
-      "source": "BusinessLine",
-      "source_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPUDZ5UnVfZVM1OEZhVExJQndIZUdGQnIyVmNySjB3eHNHS1R1R3hUcElWMlVvZDcyMmhxVzIzZ1BHRUpfY3JkN1JjVzd4SXpzM1JfX0l2dTUyck5rbVdUTkUwLWlxM0N2elFPck9NamFFYkVsT0N5NTlxekZaTDh3ZVNLdDQxQzdDSk1DQU0xM0E1V3B4bWs4eGhQSldwUjNqX3ZpN29xX3V4cTNwemZjTkpES2VUZ0tzdGlrMTBKRF9PcXAzZnI0eGx1cWtxSmRZbmpVamRrbzZta1RiZWM3ZWkxZmRBVUZ50gHvAUFVX3lxTFBKWEdqNlVyYmlTb29RYXJBVFVlRE5CX2k2SVI5VFp5WUJuS0ZxU3pLNlFka3Y3T1B6YWF4eUFlcGFuYTVRb2xlQ0NFdER2dVY5M1JPNV9tMERaRkc4akE0Sy1NcjlmUUZaZlNxT0hRdUpWbzNFRDhJZHVwekd6aVlHT2p5OFhsRlNldlF6cHd3bVRpZVlVSlV2a2dORktfSWFLVjNhcWpKcEdfa2stN0l6bUZVbXdldGRQeTJfdmFKblM5TEUxRTlvNVBjMHp0aHhfRTRhdHU0V3ZVM2lfNUtuc3ZKdTN1Mk1kd19OTExr?oc=5"
     }
   ]
 }
