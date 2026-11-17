@@ -1,6 +1,124 @@
 {
-  "generated_at": "2026-11-16T11:14:02+00:00",
+  "generated_at": "2026-11-17T11:49:29+00:00",
   "reports": [
+    {
+      "id": "f9ecb3df178130",
+      "cadence": "weekly",
+      "theme": "pestel",
+      "geography": "Rest of World",
+      "sector": "Bio-Based Materials",
+      "segment": "bbm",
+      "date": "Week 47 · 2026",
+      "published_at": "2026-11-17T10:12:52+00:00",
+      "headline": "Growth of the Bioplastics and Biopolymers Market Driven by Increasing Applications and Rising Demand",
+      "summary": "This development affects the bio-based materials value chain. Open the original report for transaction details, timing and named counterparties.",
+      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
+      "source": "openPR.com",
+      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTzd0dUJmSThGeXNGeUJIQVd2eEtEd0xwSW5Ydk9iUlZmNmJDM2tSVm9CbTVuMF9qb1lQeHh6blV3SWhfZzNfVF8tV09obTJFYkd2ZUY5Mzl2SklHSWFEMktCRkltblFnRnRFaTRfdHJtSTdNVGZPTW1JSzhWZldXSEpkcV9mSUh1eUloMW9id1p6bTRwUXc?oc=5",
+      "pestel": [
+        "Economic"
+      ]
+    },
+    {
+      "id": "495c50b5b2f994",
+      "cadence": "weekly",
+      "theme": "pestel",
+      "geography": "India",
+      "sector": "Biochar & Activated Carbon",
+      "segment": "biochar",
+      "date": "Week 47 · 2026",
+      "published_at": "2026-11-17T09:30:37+00:00",
+      "headline": "Once An Earthshot Awards Winner, This Indian Startup Is Turning Stubble Into Biochar",
+      "summary": "This development affects the biochar & activated carbon value chain. Open the original report for transaction details, timing and named counterparties.",
+      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
+      "source": "The Better India",
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSlVqMmpPYjlVZzBqWlp3RWVFVlYwbnM4TXBHSExTRzZQdnpxWlNRTDhoQ0dKVjRORWtaeWF5NTN6dHhuZ3M1WDBUSkRDMnlOd2M0ZVY5ckcyLXdNQ3RQZnJ3dk8yOGd3SUVpeHhCWWh3Ql83ME9OZjJXYW9EZWdkWmI5UFdhZzNMN3RZZUpEc3pzUVdFTll4NVpfY1g4VkQwNmtWWWdsUQ?oc=5"
+    },
+    {
+      "id": "7b96ca3c3688da",
+      "cadence": "weekly",
+      "theme": "pestel",
+      "geography": "India",
+      "sector": "Regenerative Farming",
+      "segment": "regenerative",
+      "date": "Week 47 · 2026",
+      "published_at": "2026-11-17T08:30:27+00:00",
+      "headline": "India makes first soil carbon payments to farmers in Punjab, Haryana",
+      "summary": "This development affects the regenerative farming value chain. Open the original report for transaction details, timing and named counterparties.",
+      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
+      "source": "DD News",
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNzZISG1nckdnRTE3YURaU1ZnY1N1M0Y5cE9LTldDV1RUcGtGMW5SRVBicEJDLUxTNE96YS0wMURPcHBfVmhVa1hqN2d0XzFQblZtN3ppMW9kY1YxWEhEbzhXVVQyVXhzTDRZeU01STRVbDdHN255QWxwalE4elRNMDNiYXhQeThwQXN5WjE1Z3ZFSGVKUXBxWA?oc=5",
+      "pestel": [
+        "Social",
+        "Environmental"
+      ]
+    },
+    {
+      "id": "2839bd07ee64e8",
+      "cadence": "weekly",
+      "theme": "pestel",
+      "geography": "Rest of World",
+      "sector": "Carbon Credits",
+      "segment": "carbon-credits",
+      "date": "Week 47 · 2026",
+      "published_at": "2026-11-17T00:06:02+00:00",
+      "headline": "Forest Green Rovers purchases 56 tonnes of carbon credits from UK woodland project",
+      "summary": "This development affects the carbon credits value chain. Open the original report for transaction details, timing and named counterparties.",
+      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
+      "source": "BusinessGreen",
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQczlTZDM5YlpucGF4WlRFRENqcncweDljNjI5NlItVThXaTNGMDMxTDl3eGVWeUFSNi1TSFg5SElqVFZEdnV4MlItWVdLajFNRlBSRkJyTlJpcDkyOXJEOHphQzlMTWh6R2U5Y00xUy16elE1cVZXMlVJMXNIQmlMaVJLUklVcjZZMGFZaVZKYXNIWm0xTnpsNDA3NGNOMnhmXzQ2ZzNuc2hlUWxJVi11Q0lfZGZFaERC?oc=5",
+      "pestel": [
+        "Environmental"
+      ]
+    },
+    {
+      "id": "c96795baf1067c",
+      "cadence": "weekly",
+      "theme": "pestel",
+      "geography": "Rest of World",
+      "sector": "Carbon Credits",
+      "segment": "carbon-credits",
+      "date": "Week 47 · 2026",
+      "published_at": "2026-11-16T19:51:32+00:00",
+      "headline": "From landscape priorities to investment opportunities: Unlocking finance for nature-based solutions across ASEAN",
+      "summary": "This development affects the carbon credits value chain. Open the original report for transaction details, timing and named counterparties.",
+      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
+      "source": "International Union for Conservation of Nature",
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTV8xRVFHNGFQT2ZKWjByaUNxZGdmS2F3QWp3WGZQaV8tNDJsWFBFd0l3a01JdEY3Y0FMMFNUQWthR05fcHAyTldZdlI2bTk4dWlkd3FNRUpRaTBONW5CY0hjYm43SWpLdFBjaWRBbkVtNTR0cDlyX0Y4NG9pbUFmM0ZpbmJ5MWJ1ZUxfdmgwZjA0OVp4cHhXTjJXUVM4bmx0T3NyYzF2UXl4OHpmVGVNbjhrOF9NOGs?oc=5"
+    },
+    {
+      "id": "3ea29612a2a160",
+      "cadence": "weekly",
+      "theme": "pestel",
+      "geography": "India",
+      "sector": "Agri-Products & Agro-Processing",
+      "segment": "agro-processing",
+      "date": "Week 47 · 2026",
+      "published_at": "2026-11-16T11:52:26+00:00",
+      "headline": "India’s Agritech Ecosystem and the Business Case for Smarter Farming",
+      "summary": "This development affects the agri-products & agro-processing value chain. Open the original report for transaction details, timing and named counterparties.",
+      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
+      "source": "Business News This Week",
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcVNNQzVhUFRsZ2VWRmdNcGgzOWwyckoxTFRWTTBFX0lrY3pGcGlHVVBJMHRDYnZzQnpyVjJMV3RWdHBGWDFLTkh2UnhCYS0wbzJ5Y3VESzJOZkdRQVZhWWh2MS1VVjhXUjMxcjVxMlZSTm95eDViS2JtSXNHSVB1V2Q4VFlab2M5LTZDSUwwTjdWWk5ZVnNkQXR3OEkyY3FiSmNiWklHUDJhUTNoMXl6ek53?oc=5"
+    },
+    {
+      "id": "b8fb9b112773f6",
+      "cadence": "weekly",
+      "theme": "pestel",
+      "geography": "Rest of World",
+      "sector": "Regenerative Farming",
+      "segment": "regenerative",
+      "date": "Week 47 · 2026",
+      "published_at": "2026-11-16T09:34:03+00:00",
+      "headline": "Regenerative farming needs investment, and farmers can’t carry the costs alone",
+      "summary": "This development affects the regenerative farming value chain. Open the original report for transaction details, timing and named counterparties.",
+      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
+      "source": "News24",
+      "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdTFhdTA3QTZMbzdhd1dhZmtlbmtjUjdvbXVWUzd3eENOVS01UGtibVFVSDRpdXBfNURzRERya2lpR3d4VVA5VmhBdXIwYUU1c1hPeWFhdlgtQXdsVXZhTVdhNU9LNUQtUnV6ZmRlV2NqUjJVajNseDNyS1NIVjZ5NkFFSjJ2Z1FYd2hyZGNDYWdoZmFwN1VqdXNRbVp3MmVRZDl3eXBtY0JzcElsc0ljeXJRTVBjUlp3M2UwbzhObjRXRjNpZHBDeThEcE43a29EQ3V4UDZZQQ?oc=5",
+      "pestel": [
+        "Social"
+      ]
+    },
     {
       "id": "1697786cbac6ca",
       "cadence": "daily",
@@ -130,6 +248,25 @@
       ]
     },
     {
+      "id": "95b40b88affbc5",
+      "cadence": "daily",
+      "theme": "capital",
+      "geography": "Rest of World",
+      "sector": "Carbon Credits",
+      "segment": "carbon-credits",
+      "date": "12 Nov 2026",
+      "published_at": "2026-11-12T11:00:00+00:00",
+      "headline": "COP31: Financing strategies, policy handbook launched by Singapore and partners to strengthen carbon markets",
+      "summary": "This development affects the carbon credits value chain. Open the original report for transaction details, timing and named counterparties.",
+      "signal": "Compare the funding structure with project maturity, contracted demand and expected cash-flow timing.",
+      "source": "The Business Times",
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOeXhBcVBHSU41dEMxU0JtcHlES3pCSkM3cDNqbDlncmsxcEphYTV0cjBGU00yRWRvaDNxYmVxa1MtNkgzS1RUbjFCQmRCUHBubmtESm0wRG04Ykh5TXcwSnE2d1ljSE5OSFBzMGdaSG1CZ0JyWDBsalB1bVV3SVdLU2N5SVlYWmlac1J2VDB2OElTVFdZZE1wbWRJdTNTb2lwSDRybG9wZlJQYVVJSlBTVm45MkRBTWtTSmo2T1luYkVPZmtEZDBndUdfblUzTFA1OUNF?oc=5",
+      "pestel": [
+        "Economic",
+        "Environmental"
+      ]
+    },
+    {
       "id": "15c90bead53e6c",
       "cadence": "weekly",
       "theme": "pestel",
@@ -183,6 +320,24 @@
       "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMm9VbzVlSVFyeGtUUXFoVmtyWWY4THl1RHZHSG5iclJ3c3U5VWcwVzZETWl5U295Umh6S3N2WnNyQUdUTHVjVHZheXR5UzlLUFZyMi1jYkVLb3M4bmYzTnJsUzh5VVZqcHVYNkxBTUtsTERkUlFDZlZvTWhWTllnWVVjVnhiNnVQNHZYMnlNVzlORXhQWWd5dEp0eXEzS3YzZzZoV1lJSdIBrwFBVV95cUxOaHpqN2tSTzZJeUNfcmM2OXhmRE8xWHZOZk9XNktsZzhKTnhUNE5OVE1wV1pTdjhTR0tyMmdtNG14dXlhX3MwbGJodWl6TjJNVURwQXlYU0pfaTRtQUFacjE2azFsd1RQdmFJTnBpdnJhRE1wNlhZTVN6THNZRnJxODkwQU5pTUpTcG5uVG80azlGbElSTWxFejktQ0Z1SEczNEtjMWtvUjRZekh5S2tv?oc=5",
       "pestel": [
         "Environmental"
+      ]
+    },
+    {
+      "id": "deaa71295b8949",
+      "cadence": "daily",
+      "theme": "deals",
+      "geography": "Rest of World",
+      "sector": "Regenerative Farming",
+      "segment": "regenerative",
+      "date": "10 Nov 2026",
+      "published_at": "2026-11-10T15:59:05+00:00",
+      "headline": "PepsiCo says farmer partnerships are key to making progress toward 2030 regenerative agriculture goals",
+      "summary": "This development affects the regenerative farming value chain. Open the original report for transaction details, timing and named counterparties.",
+      "signal": "Track counterparties, valuation signals and local market-access advantages created by the transaction.",
+      "source": "Brownfield Ag News",
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNS05ic3drSDlOalV6WFdvOW85bVE2TGw4ZDU1NFpaR3FiZ0RKT05FeUpIb2hONzBHWVFFT2ZaNGsyNUZDWml5QzJET2VMUjNtaks0T1g0WTQ5T1pnYi1JOWVUdTJpSGRjZEhjMVV1YjFnRVVkX1h1M05nYjhMTDRPd0E3Wm8yRHRucUNONlJLaGpuSk9NRWNfcFd5SVZOYVYwSWNCVFdjRTcwbWFRcGRyUUVaY3UxMGpPZjJpX1BTeTd5OFg1V1V0MHRSRWpGbnpMQlhv?oc=5",
+      "pestel": [
+        "Social"
       ]
     },
     {
@@ -453,25 +608,6 @@
       "source": "Facebook",
       "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOUmNsNWpMUVVDT2hlMC0zd1ZILVJhME1ocjhYZERjRWdVNEF0YlpBN29hODFzR19qNlp4QkQ2YWd1RlBSQ2I4cVNSbkZpUnc3TW43Ujg0ZWdzZDY5SzkyRjMzcFRqRk9yUl9SZGJaZ3BzNFR4cXRHeTh6NXhTUHVVMVBpT2xGRGoyeGpnQzFocWstd1BlWTJYa0F0MTdoNEs5ZnJhVU1xUDBkZGp1OWpxaXl6ZjhzQjQtc0szMEdRZ3lScGt5cl9xOXIxdjhqaFA5TFhRUkdrNTJNbXBiU3dV?oc=5",
       "pestel": [
-        "Environmental"
-      ]
-    },
-    {
-      "id": "7b96ca3c3688da",
-      "cadence": "weekly",
-      "theme": "pestel",
-      "geography": "India",
-      "sector": "Regenerative Farming",
-      "segment": "regenerative",
-      "date": "Week 45 · 2026",
-      "published_at": "2026-11-03T18:32:19+00:00",
-      "headline": "India makes first soil carbon payments to farmers in Punjab, Haryana",
-      "summary": "This development affects the regenerative farming value chain. Open the original report for transaction details, timing and named counterparties.",
-      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
-      "source": "DD News",
-      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNzZISG1nckdnRTE3YURaU1ZnY1N1M0Y5cE9LTldDV1RUcGtGMW5SRVBicEJDLUxTNE96YS0wMURPcHBfVmhVa1hqN2d0XzFQblZtN3ppMW9kY1YxWEhEbzhXVVQyVXhzTDRZeU01STRVbDdHN255QWxwalE4elRNMDNiYXhQeThwQXN5WjE1Z3ZFSGVKUXBxWA?oc=5",
-      "pestel": [
-        "Social",
         "Environmental"
       ]
     },
@@ -1241,54 +1377,6 @@
       "pestel": [
         "Environmental"
       ]
-    },
-    {
-      "id": "f428b6bd15d711",
-      "cadence": "weekly",
-      "theme": "pestel",
-      "geography": "Rest of World",
-      "sector": "Bio-Based Materials",
-      "segment": "bbm",
-      "date": "Week 43 · 2026",
-      "published_at": "2026-10-19T12:00:00+00:00",
-      "headline": "Hyosung Chairman Hyun-Joon Cho Advances Bio-Based Materials Strategy with Commercial Bio-BDO Production in Vietnam",
-      "summary": "This development affects the bio-based materials value chain. Open the original report for transaction details, timing and named counterparties.",
-      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
-      "source": "PR Newswire",
-      "source_url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPbHJlQVpjZ3l2SkxUV2Fxejd4ek1LLW44WExlZjdVX0ZvYy0xT3pnRHNtelB4azdmQmlzM0FoTVg5dE54NzB0UkROOGRScEhRUXJNRlhYdXhMZ01INDgwbk96ZWxTLXpwZ2Zubkl5NkdCQ2hSNmNMaUlpMTlqTHA0cGRiVUFHS25MUU92VGROQmdzcFhKQnZxalV4eVUyeFVrV01wcFB2QmJKTjRhcnAyZ2xCN3BXYmxUUG85Z0Z6b0pncFg5NDFCa1ZQT3QwdHp2TjY1bjZJdzVBRWhnLV85MmduQVM3NGt2SHlBa1dyS2FFZFB6Qk9PRlBqTEZOSFU?oc=5"
-    },
-    {
-      "id": "6f2efe3b2170ad",
-      "cadence": "weekly",
-      "theme": "pestel",
-      "geography": "Rest of World",
-      "sector": "Permaculture & Agroforestry",
-      "segment": "agroforestry",
-      "date": "Week 43 · 2026",
-      "published_at": "2026-10-19T07:00:00+00:00",
-      "headline": "Agroforestry emerges as a green investment path for Tanzania’s youth",
-      "summary": "This development affects the permaculture & agroforestry value chain. Open the original report for transaction details, timing and named counterparties.",
-      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
-      "source": "Daily News",
-      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVEdudWF6R1pwdkF4T0FiV0Q0WHNoM3RQaFNVQ0dlc1NNRmtZYlo1bzQ4ck9MWjE4TnlMVU9sLUN4Y0lZQllLc3JkSVdGLVREYXV5VUJaNldCNnhGR1BjMVVwLVM0T1JUSWMxdk9aclAyTXFOZ081ckJWZG5VV1gtMW1EbGNDNDhrdHhDc3RFU0s4YXJMdGFr?oc=5",
-      "pestel": [
-        "Environmental"
-      ]
-    },
-    {
-      "id": "c3703985fd50b6",
-      "cadence": "daily",
-      "theme": "regulatory",
-      "geography": "Rest of World",
-      "sector": "Regenerative Farming",
-      "segment": "regenerative",
-      "date": "17 Oct 2026",
-      "published_at": "2026-10-17T11:29:19+00:00",
-      "headline": "From Plot to Policy: Evidence, Incentives and Convergence Needed to Scale Regenerative Agriculture",
-      "summary": "This development affects the regenerative farming value chain. Open the original report for transaction details, timing and named counterparties.",
-      "signal": "Review eligibility, compliance timelines and incentive access before committing capital.",
-      "source": "Global Agriculture",
-      "source_url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNYlhDbHA5TlMyU1Nob1NzMDNQcFJNbU4xTXlwRGI5VnJsSXdxVmNpQUVGcWQ0eDJrSWd6QlNjVWVTSjZSc2hKOEtSRTBvTWEyZ18tdEktdFQ1b0xxcWtac3ROTWM4eXQwQTVGMzRBTTRXRFp1R1AzTVVvbEQtQV9GLTlUaHFTS09GWHJJUXg4N1ZWcXNQMlFVSkRWSU1jWmw4LUplTk9sYmZ2bFA4eUFsUDR3NTdnOUlWNV81LWFUODYwOFlaNG4xXy1qb0M1VXlGT01zaXVlMjM1dXk0TmU2ZXprTklKSldzTUE?oc=5"
     }
   ]
 }
