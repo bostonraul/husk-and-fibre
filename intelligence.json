@@ -1,6 +1,54 @@
 {
-  "generated_at": "2026-11-17T11:49:29+00:00",
+  "generated_at": "2026-11-18T11:39:28+00:00",
   "reports": [
+    {
+      "id": "a1795a12caed67",
+      "cadence": "weekly",
+      "theme": "pestel",
+      "geography": "Rest of World",
+      "sector": "Regenerative Farming",
+      "segment": "regenerative",
+      "date": "Week 47 · 2026",
+      "published_at": "2026-11-18T06:26:59+00:00",
+      "headline": "ASEAN backs urgent shift to regenerative farming to secure food supply",
+      "summary": "This development affects the regenerative farming value chain. Open the original report for transaction details, timing and named counterparties.",
+      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
+      "source": "jiji press",
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSkVGRW9MalJ6bDdiME8zdmJnZEV4Y0FSUVJFOHFFRWxuWnp2c3ZOaFVfRFNNRndGY2tEcFFrSVVxd0RBX1lDckQyOFhudXJNQlVGXzV3V3Nrc0dwQmFILXVnRHRzMWk0b3RHR2FrS2VlR0Q0SXhPQXR6c0QwU2dDY1BRSVB0ZUVka0dIWUVSdHhFaTJ3dFM4?oc=5"
+    },
+    {
+      "id": "6271a7067df9b1",
+      "cadence": "weekly",
+      "theme": "pestel",
+      "geography": "Rest of World",
+      "sector": "Microbial & Biofertilizers",
+      "segment": "microbial",
+      "date": "Week 47 · 2026",
+      "published_at": "2026-11-17T14:52:39+00:00",
+      "headline": "Agricultural Biologicals: Industry Giants Expand as Specialized Companies Fight for Market Share",
+      "summary": "This development affects the microbial & biofertilizers value chain. Open the original report for transaction details, timing and named counterparties.",
+      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
+      "source": "AgroLatam",
+      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOS3hJMjZRZF9LU1FhRWZqbnY5Zkt0R2QtamdteFhOS1F0bzl4dkc0SUt3TlFGNzRRdFlqbDV4WDVvZVV6NVItSHR2UGJGWWVvSE1EVmM3cFNqb3NTeFVsMlFENmNxSFNhNHFzLXRnQmNDYlpWZERKWEVFWWRDUFFJbXBaczZFQWdaazIta3plSzZzNE1nUDFHazRiRVZXakdmRU9JWktmZmgtbEJZWlc0ZlNSYjBaZw?oc=5",
+      "pestel": [
+        "Economic"
+      ]
+    },
+    {
+      "id": "7f95cb74fb3937",
+      "cadence": "weekly",
+      "theme": "pestel",
+      "geography": "Rest of World",
+      "sector": "Regenerative Farming",
+      "segment": "regenerative",
+      "date": "Week 47 · 2026",
+      "published_at": "2026-11-17T13:45:13+00:00",
+      "headline": "Food, drinks majors sign regenerative agriculture initiative",
+      "summary": "This development affects the regenerative farming value chain. Open the original report for transaction details, timing and named counterparties.",
+      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
+      "source": "Yahoo Finance",
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSGxzMHRmMEEzdWZNY251VVFrOVJGd3Z2UW1wYmk5am0zUmJ6dTNCLXhobm5ZcUdNdVdYU05Nem1kSWhoVGp1VjhSNHJfdldjckVIVUdFWENQYzJRNkk1NDJqS3RMaUczdjRpdFFoMHZoNlc5QllYLTNXelZJSWtKNzlwZWRGZzV4aW1iM0llaHJrVkFhbHZQVzd0aTdIMGlOM0Qw?oc=5"
+    },
     {
       "id": "f9ecb3df178130",
       "cadence": "weekly",
@@ -1327,54 +1375,6 @@
       "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPbWxWMWs5U05IWWQ4b04wMWZRNHA4WWs4Mnhpa0t4TW82aVRKb0N2TEJCMWxXRC15M25IN2RaejlUdWdJTFo2RGVYMTBxSUNWUWFlQlgwMGJobk90dGF6aXZia0VTQW92UFNnbklMLWpTLUY4eWkxS0VIX3I1QzBTNVY4QmEyWEFoeWw1SXFpU053c1JrLXlpajljbnd6VTl2Zm92YXdmSWE5b0VSbXY5cFExcHRUcU1IUXFLYWVmWkRmZFZpRFRzdHl1bUVBRW1jT19IVEFGNzROTGNLb0s0?oc=5",
       "pestel": [
         "Economic",
-        "Environmental"
-      ]
-    },
-    {
-      "id": "2dc9daa04915ca",
-      "cadence": "weekly",
-      "theme": "pestel",
-      "geography": "Rest of World",
-      "sector": "Regenerative Farming",
-      "segment": "regenerative",
-      "date": "Week 43 · 2026",
-      "published_at": "2026-10-20T08:22:11+00:00",
-      "headline": "Regenerative agriculture and Europe's circular future",
-      "summary": "This development affects the regenerative farming value chain. Open the original report for transaction details, timing and named counterparties.",
-      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
-      "source": "Lombard Odier",
-      "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPa2VLQkJQMEpkUGJOaVp5V1JNZ1BXNDVRcUtXMkdITWZTcmlLRUlXaWtiRlNZbDZBWnJpWkdlSWdXOHJjbGFtMHF1MXhsRXhlUWdEU3BsYklUd3ptb1ZicXNCQVNUZ2t3RGxYa24tNmcwTU9tdENKTnNtRjhVdl9GUGZuNmczV25IRUhr?oc=5"
-    },
-    {
-      "id": "078f705efac348",
-      "cadence": "weekly",
-      "theme": "pestel",
-      "geography": "India",
-      "sector": "Microbial & Biofertilizers",
-      "segment": "microbial",
-      "date": "Week 43 · 2026",
-      "published_at": "2026-10-20T05:56:41+00:00",
-      "headline": "Liquid Biofertilizer Manufacturing Plant Setup in India",
-      "summary": "This development affects the microbial & biofertilizers value chain. Open the original report for transaction details, timing and named counterparties.",
-      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
-      "source": "IMARC Group",
-      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUjlTYm9oSFRTWVQzMnM4b0FfczJ4bURTcXdHekhLREl6clFxNkExVkRRel9namgxWWhyTGl5VTQ5d1RXcjhXZEV5MzhlMko3SkxDZXdUaXZvT0k4QTRoR2wzQmFiZTZwZWg3TkFCVHhjZUFfaW9jSXNOUTFtMVdBeDlnaTlNWVlwMElGdElOVEhmcHJGT000?oc=5"
-    },
-    {
-      "id": "ca303ca33983db",
-      "cadence": "weekly",
-      "theme": "pestel",
-      "geography": "Rest of World",
-      "sector": "Carbon Credits",
-      "segment": "carbon-credits",
-      "date": "Week 43 · 2026",
-      "published_at": "2026-10-19T16:18:18+00:00",
-      "headline": "Google, McKinsey strike Brazil carbon removal deal with silvopasture project",
-      "summary": "This development affects the carbon credits value chain. Open the original report for transaction details, timing and named counterparties.",
-      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
-      "source": "Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZ3dueURyYnIwanJiVVIyLXdGYnJhTzRVMTV6bnc4WnZtRjhIWmQ3X0JyOHhjX1l3c0JpV1dqcTlBQ2RYdUE2NlIzYkFWcVljMGJGa25uUTFJMU81YXFQdDVrREtMeThDa3djVlcycWZxZW54dFpZOGhWNWhfZDYyWm5uVkNnV2pNZ0RRbmxkYmZGV0JjdFFDbXlhRnN2WUdjQ0NBN2podGdJcmhidkJTMVo5blVST0N3dV9JWjM3TDdFaVF2RWlKMzIwQ3E?oc=5",
-      "pestel": [
         "Environmental"
       ]
     }
