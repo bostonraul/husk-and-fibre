@@ -1,6 +1,36 @@
 {
-  "generated_at": "2026-11-20T11:36:29+00:00",
+  "generated_at": "2026-11-21T10:58:44+00:00",
   "reports": [
+    {
+      "id": "af0c2a869786b0",
+      "cadence": "daily",
+      "theme": "regulatory",
+      "geography": "India",
+      "sector": "Agri-Products & Agro-Processing",
+      "segment": "agro-processing",
+      "date": "20 Nov 2026",
+      "published_at": "2026-11-20T16:11:06+00:00",
+      "headline": "Punjab News: Big Opportunity for Food Processing Industries in Punjab: Incentives of Up to Rs 500 Crore on Investments",
+      "summary": "This development affects the agri-products & agro-processing value chain. Open the original report for transaction details, timing and named counterparties.",
+      "signal": "Review eligibility, compliance timelines and incentive access before committing capital.",
+      "source": "Oneindia",
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNOEtaaTlnMXR1c2xMamRlMU4xcFVHcWs5M1k5YWR5VmFfVVlrMUNic1BGWDVKR2w2elExTEFFeXJIOWtnRWpGX2hvOXhTVG5PdGh2TDllSTZZa0xXQlE3aWNfY3NyOTlVZTBndGZDaTBLYmh4ZHNCWTFzaXJHSXpUZ1B4RVdDN1hBLWhtWjQ0UGs4RUxXY1ZiWDlyR1JNUzgydnlSVTRCQUN1UzZySmtFWW1kNHJEYnF3QjV0b3cwMA?oc=5"
+    },
+    {
+      "id": "73db8aa78b3bd3",
+      "cadence": "daily",
+      "theme": "capital",
+      "geography": "Rest of World",
+      "sector": "Regenerative Farming",
+      "segment": "regenerative",
+      "date": "20 Nov 2026",
+      "published_at": "2026-11-20T11:00:00+00:00",
+      "headline": "Royal Canin’s Rémi Rocca on financing the transition to regenerative agriculture",
+      "summary": "This development affects the regenerative farming value chain. Open the original report for transaction details, timing and named counterparties.",
+      "signal": "Compare the funding structure with project maturity, contracted demand and expected cash-flow timing.",
+      "source": "Sustainability Online",
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUFJoMXpuWHJuX1o1OUtZaFZHMUQtdkJQUDdIamxmSmd4MG4temhVWXJiVUo2aE1zNEg3LWQxNzVqbkN0b3pPMm1RWTJ2em1tVmhoWklVSGQyOV9CUHVuQ1NSRlNRWUl2Yk1xMmtNeGpIUVlReldnZ3RmZFcyalpTTWE0M2RqV3ZoeFRsSm5Bd3hycUstVWZxRktsOFl5dzZTbGhZcVAzYlF2VHJYN0VhMVV5NldTUVlrN20tNmF4SFU?oc=5"
+    },
     {
       "id": "8c4141a1e2d141",
       "cadence": "weekly",
@@ -145,6 +175,24 @@
       ]
     },
     {
+      "id": "ed6265f938b362",
+      "cadence": "daily",
+      "theme": "innovation",
+      "geography": "Rest of World",
+      "sector": "Bio-Based Materials",
+      "segment": "bbm",
+      "date": "19 Nov 2026",
+      "published_at": "2026-11-19T04:51:00+00:00",
+      "headline": "Korea Biotechnology Association Calls for Six Policies to Scale Up Bio-Based Materials Industry",
+      "summary": "This development affects the bio-based materials value chain. Open the original report for transaction details, timing and named counterparties.",
+      "signal": "Assess field performance, unit economics and the route from pilot deployment to repeatable commercial scale.",
+      "source": "헬스조선",
+      "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQYVNSa3FBQ0g5X3dyeGxlZnJZVDNuaFhDTEpXYWZtR29yTDJ2M2psVGhERXJYMkxXaEZlZ1NEYXhhVUZwNEdldXhFbWcteFI2LUZDZzhNZnlib2RHVnZHbzhQdjdUQTFQZ1lwb1NVeFdKX3A3Z2R0blpJU2VybVpjZWJadkh3S241Q2c?oc=5",
+      "pestel": [
+        "Technological"
+      ]
+    },
+    {
       "id": "f36213a8ad8fe1",
       "cadence": "weekly",
       "theme": "pestel",
@@ -183,6 +231,24 @@
       ]
     },
     {
+      "id": "4c1a60010bc4c3",
+      "cadence": "daily",
+      "theme": "innovation",
+      "geography": "Rest of World",
+      "sector": "Agri-Products & Agro-Processing",
+      "segment": "agro-processing",
+      "date": "18 Nov 2026",
+      "published_at": "2026-11-18T16:40:32+00:00",
+      "headline": "BKT unveiled new agricultural tires at EIMA 2026, combining advanced technology and Pininfarina design",
+      "summary": "This development affects the agri-products & agro-processing value chain. Open the original report for transaction details, timing and named counterparties.",
+      "signal": "Assess field performance, unit economics and the route from pilot deployment to repeatable commercial scale.",
+      "source": "https://world-agritech.com/",
+      "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1rQW9TejNUX2p6bTh3WWhYdUg3c3dZRXVUUUJBdFpReWhUVElqcTNqWHJ0Zk44aXVTa09DWFFDWVNkYU1zdjZBQ05aZVhNbDVLZ3VSUnRGOVBTdjVvbEIzTW0yajZBVVNOSXF0Q2tpYTlpdw?oc=5",
+      "pestel": [
+        "Technological"
+      ]
+    },
+    {
       "id": "e612fae82aa9f3",
       "cadence": "daily",
       "theme": "deals",
@@ -218,21 +284,6 @@
       "pestel": [
         "Environmental"
       ]
-    },
-    {
-      "id": "a1795a12caed67",
-      "cadence": "weekly",
-      "theme": "pestel",
-      "geography": "Rest of World",
-      "sector": "Regenerative Farming",
-      "segment": "regenerative",
-      "date": "Week 47 · 2026",
-      "published_at": "2026-11-18T06:26:59+00:00",
-      "headline": "ASEAN backs urgent shift to regenerative farming to secure food supply",
-      "summary": "This development affects the regenerative farming value chain. Open the original report for transaction details, timing and named counterparties.",
-      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
-      "source": "jiji press",
-      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSkVGRW9MalJ6bDdiME8zdmJnZEV4Y0FSUVJFOHFFRWxuWnp2c3ZOaFVfRFNNRndGY2tEcFFrSVVxd0RBX1lDckQyOFhudXJNQlVGXzV3V3Nrc0dwQmFILXVnRHRzMWk0b3RHR2FrS2VlR0Q0SXhPQXR6c0QwU2dDY1BRSVB0ZUVka0dIWUVSdHhFaTJ3dFM4?oc=5"
     },
     {
       "id": "6271a7067df9b1",
@@ -285,6 +336,21 @@
         "Economic",
         "Environmental"
       ]
+    },
+    {
+      "id": "818f661e54d821",
+      "cadence": "weekly",
+      "theme": "pestel",
+      "geography": "Rest of World",
+      "sector": "Regenerative Farming",
+      "segment": "regenerative",
+      "date": "Week 47 · 2026",
+      "published_at": "2026-11-17T11:06:37+00:00",
+      "headline": "ASEAN backs urgent shift to regenerative farming to secure food supply",
+      "summary": "This development affects the regenerative farming value chain. Open the original report for transaction details, timing and named counterparties.",
+      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
+      "source": "Manila Bulletin",
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQTJCOHN6a1gzNFYtbGhUelZvWXY1WTFyMk9xd3NzVk11YlJVZi1oT0xxclRtRWlob1Vsc3BDX0RlNG9xVDFIWmlNZmljT2V5LVVXRk1Jb1FCS2JxcVFQdi15UjJodk5fTnRRMDlBaVcxWFR4ckUyV1BrYjY4b0dNVGtUakg1MGx2VTJiSzI2b2YyY0tXT3drdWxUQS1jbi14?oc=5"
     },
     {
       "id": "f9ecb3df178130",
@@ -370,6 +436,21 @@
       "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
       "source": "International Union for Conservation of Nature",
       "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTV8xRVFHNGFQT2ZKWjByaUNxZGdmS2F3QWp3WGZQaV8tNDJsWFBFd0l3a01JdEY3Y0FMMFNUQWthR05fcHAyTldZdlI2bTk4dWlkd3FNRUpRaTBONW5CY0hjYm43SWpLdFBjaWRBbkVtNTR0cDlyX0Y4NG9pbUFmM0ZpbmJ5MWJ1ZUxfdmgwZjA0OVp4cHhXTjJXUVM4bmx0T3NyYzF2UXl4OHpmVGVNbjhrOF9NOGs?oc=5"
+    },
+    {
+      "id": "6fbce8a5a1bf27",
+      "cadence": "weekly",
+      "theme": "pestel",
+      "geography": "Rest of World",
+      "sector": "Agri-Products & Agro-Processing",
+      "segment": "agro-processing",
+      "date": "Week 47 · 2026",
+      "published_at": "2026-11-16T15:49:17+00:00",
+      "headline": "President Mahama pushes local businesses to explore agro-processing, mineral industries",
+      "summary": "This development affects the agri-products & agro-processing value chain. Open the original report for transaction details, timing and named counterparties.",
+      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
+      "source": "GhanaWeb",
+      "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQT2pNOFZQMkdyWHVUZERSeXRjOE9RNXJnb1A0TUJfTVk0ckpoSm43T1pLc3pZcHpPRk5JZFFwY1hITjNLRFN5alRWa2FvU1F6SWtmOENhZ251UEJjT2dLektBM2cxSUJEbkd0blpmMml2bElkY1RuMFRKQU9jMkQyYy1wNU5RbDY1ZU44VUt2NjloWktYeEtUc2VhSXdzcDlydGlZbFZBN3E4bU5mdElHRU5XR0lpTVJEWXl1dTBHUlF4RENKVS1CTWVZdFQzLTRBdXo5WHU5b0pYdw?oc=5"
     },
     {
       "id": "3ea29612a2a160",
@@ -1313,81 +1394,6 @@
       "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
       "source": "Lombard Odier",
       "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQU19fX3UwYy1yUVZnYUdPZmNYYmdCbm1MTG5UcU1PQTNISmhGUGg2Z2kzTDQ3R19qY2tfMThrSUk2QVpKUHR3NHdWS1FQMFJsSmFwbURVOFQxVnRNZWJzX3FsV1hKY0FKMzRKWjVJME1yNDJSNG14dTV0ZC0yQlExVFpHQQ?oc=5"
-    },
-    {
-      "id": "5c8530e0279700",
-      "cadence": "daily",
-      "theme": "capital",
-      "geography": "Rest of World",
-      "sector": "Innovations & New Launches",
-      "segment": "innovations",
-      "date": "27 Oct 2026",
-      "published_at": "2026-10-27T06:39:04+00:00",
-      "headline": "Savannah Region unveils 19 investment projects as GIPA targets investors",
-      "summary": "This development affects the innovations & new launches value chain. Open the original report for transaction details, timing and named counterparties.",
-      "signal": "Compare the funding structure with project maturity, contracted demand and expected cash-flow timing.",
-      "source": "CediRates",
-      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNGlhRDM3OVBqX3hoQ2ptVUo0MVg1aEFLYkdubjdQM0lmaS12SWlFS0hnNVBlX3F4OXFyVWd6V0NrWFRqLWJyd196LWgyUmJPVlV4VS1ZNzNPVXFxcmpLSG50Rzk1U096aE1oei1TNk9vNW9VU3ZZZkhjeGNCeERZdXlPYWhTQndpcEtqWGUyZVF6dkZnY3hLNWFnX1dXWWJ5?oc=5"
-    },
-    {
-      "id": "a4dab9015e935f",
-      "cadence": "weekly",
-      "theme": "pestel",
-      "geography": "Rest of World",
-      "sector": "Agri-Products & Agro-Processing",
-      "segment": "agro-processing",
-      "date": "Week 44 · 2026",
-      "published_at": "2026-10-26T10:20:29+00:00",
-      "headline": "Rapid Industrial Growth Drives Shift to Agro-Processing Investment",
-      "summary": "This development affects the agri-products & agro-processing value chain. Open the original report for transaction details, timing and named counterparties.",
-      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
-      "source": "Kiripost",
-      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNlU2M3VicDFzUVJvYVQtSWluYjFLVHlSQVhhU1BvVU5BRWJIZF9INDZTSTg0SGZ1TlFUREFrdXJCLVYwSFJaZjUyVnJNLXYtQ1lYakJGU3pOSUc0cFI5R3hpekU0cUNDdzdnOWhxQS0tenhWTEhSX1J2dWVvUlVuelVmZkVsZ2dBRFVkRGdPTWpWMXh3TmpZMDBscw?oc=5"
-    },
-    {
-      "id": "d89a5b8db1f3cf",
-      "cadence": "weekly",
-      "theme": "pestel",
-      "geography": "Rest of World",
-      "sector": "Agri-Products & Agro-Processing",
-      "segment": "agro-processing",
-      "date": "Week 44 · 2026",
-      "published_at": "2026-10-26T07:57:44+00:00",
-      "headline": "HAOSHi Demo Day 9 Spotlights 16 Food and AgriTech Startups from Taiwan, Singapore and Hong Kong",
-      "summary": "This development affects the agri-products & agro-processing value chain. Open the original report for transaction details, timing and named counterparties.",
-      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
-      "source": "PR Newswire",
-      "source_url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOeURWZWE3VEloUGFsTlpNY0Y4YTJ6SWVDMGJuS01RSzRTNTZZRG0wQ3E5NW93TjE0dmdFUmRvTFN5a0x4LThCMENUOXdZeVJua1Eyd1NtalpBLXZIOVNzSVFxcDdnMEsyVlpnUDF0SjBTeDludS1aZmFLZGhmQ01zT1BwMldNNDFaZ3RJcGd0eXdwN1VYT09mZFhGVjFkV01yWEZHcmdpbFJPTlBYN05QMTdGREgxWmpuV21LNm5VWjVHejZYUTBqaTNEQ1U5cDJnNDFuV0Z4NTdQZVBNeTZsN2gtWm1NYmZ3VXEw?oc=5"
-    },
-    {
-      "id": "4bfe3327f06ebb",
-      "cadence": "weekly",
-      "theme": "pestel",
-      "geography": "Rest of World",
-      "sector": "Agri-Products & Agro-Processing",
-      "segment": "agro-processing",
-      "date": "Week 43 · 2026",
-      "published_at": "2026-10-25T23:12:39+00:00",
-      "headline": "Shekhawati Investment Push Targets Agro-Processing and Jobs",
-      "summary": "This development affects the agri-products & agro-processing value chain. Open the original report for transaction details, timing and named counterparties.",
-      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
-      "source": "Urban Acres",
-      "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMWtTbHhOTm4ya0J1SUdUdklfQ3NvamtUc0ZVbjNKVnNndVF3ODhUYlFNTHc3TzVaeGlpMl9RRXR5Uzk4QnVPUVpmMUtTTFZZZ2pieEdRZHRkbVFTV0pVNTNYQUcwZEpmRnVQRkZQZWxEN3VZSWtjWEVQb1gwWklDQVNoS08yTWMwS1E?oc=5"
-    },
-    {
-      "id": "8eeaa4888a219a",
-      "cadence": "weekly",
-      "theme": "pestel",
-      "geography": "Rest of World",
-      "sector": "Agri-Products & Agro-Processing",
-      "segment": "agro-processing",
-      "date": "Week 43 · 2026",
-      "published_at": "2026-10-24T23:45:04+00:00",
-      "headline": "Industry minister calls for investment in modern agro-processing",
-      "summary": "This development affects the agri-products & agro-processing value chain. Open the original report for transaction details, timing and named counterparties.",
-      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
-      "source": "Khmer Times",
-      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZTRIeHlObWVIQ21tY2o4Mk96SG1SZmZQMFN3dVUweUwyUEJFRlpJb3V2dFpyaTRXenNhS2JRa2VraDBRalQ2MFVnbUJjM1hncjJSXy02YnExLWNoTjBuNmFKX3g2X0YtZlVKeWQtc3g4Vmh0QzVpbDlFTUI0Mk03X0hGNzhGTmg3OENFMHFCZEdlcWxOOGo1LS1zY2lkQ0RYS1lRNUhpTQ?oc=5"
     }
   ]
 }
