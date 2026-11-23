@@ -1,6 +1,43 @@
 {
-  "generated_at": "2026-11-22T11:24:38+00:00",
+  "generated_at": "2026-11-23T12:34:26+00:00",
   "reports": [
+    {
+      "id": "837b69a9017ae1",
+      "cadence": "weekly",
+      "theme": "pestel",
+      "geography": "Rest of World",
+      "sector": "Carbon Credits",
+      "segment": "carbon-credits",
+      "date": "Week 48 · 2026",
+      "published_at": "2026-11-23T09:22:30+00:00",
+      "headline": "Saskatchewan BECCS project selected for Canada’s carbon removal procurement",
+      "summary": "This development affects the carbon credits value chain. Open the original report for transaction details, timing and named counterparties.",
+      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
+      "source": "Bioenergy Insight Magazine",
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZUVxUkN5QWoxWTc3TTRUUU1QbmluaG1iUENEX2k3ZjFqNDV3clhXMC1Ib01DWHJTTmFyWVh4SmF0WkVEY0EtdFlHeWkya2dFUmNXNlQtR0Q3Tk1mdEVnbEd1ZjJxcGllSDJoV1NRazBuel9ORUJwODJUSER6MXhoRlZzWUNyQ0VuaHVkT0lQMWZ6UFlxWlJ6Z2dwUkotR19pd0w4M2lxdklBN25ZSV9NTw?oc=5",
+      "pestel": [
+        "Environmental"
+      ]
+    },
+    {
+      "id": "d6edc5c118ac4b",
+      "cadence": "weekly",
+      "theme": "pestel",
+      "geography": "Rest of World",
+      "sector": "Biochar & Activated Carbon",
+      "segment": "biochar",
+      "date": "Week 47 · 2026",
+      "published_at": "2026-11-21T18:56:04+00:00",
+      "headline": "Granular Activated Carbon Market To 2035: Water Treatment Rules Support Growth - News and Statistics",
+      "summary": "This development affects the biochar & activated carbon value chain. Open the original report for transaction details, timing and named counterparties.",
+      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
+      "source": "IndexBox",
+      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTmhLY0lIdS1aQ3JkbWVPU2ZzVEFBZC03Zk1qeVFzRkk1NEt4RkREallYQVRnX3lKTFNYdHNXYkJOWEswWjZYaHdvR0VYQlF3d2lvb3FEaHpNYm82ZHlFbTRJTkVsTXpleW1nYzFhQ081TWludHM1SklKYUdHMk94ZlgwMjNPN0Q1emkxMWJhaFRmM2VKbkY5Z0d5djVPWVZzcnBpaGtDd09EUHVBNWJNZEdyVG4ydzNOeGc?oc=5",
+      "pestel": [
+        "Economic",
+        "Environmental"
+      ]
+    },
     {
       "id": "af0c2a869786b0",
       "cadence": "daily",
@@ -63,6 +100,21 @@
       "pestel": [
         "Technological"
       ]
+    },
+    {
+      "id": "ffcc2570d606ad",
+      "cadence": "daily",
+      "theme": "regulatory",
+      "geography": "India",
+      "sector": "Innovations & New Launches",
+      "segment": "innovations",
+      "date": "19 Nov 2026",
+      "published_at": "2026-11-19T16:37:00+00:00",
+      "headline": "Nagaland rolls out agarwood policy",
+      "summary": "This development affects the innovations & new launches value chain. Open the original report for transaction details, timing and named counterparties.",
+      "signal": "Review eligibility, compliance timelines and incentive access before committing capital.",
+      "source": "The Times of India",
+      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQ1UtN2FiV0VObXkwY1Bad0xkNEt2SHFGZU1fUUw3N3gtMTF0cGFNX0Y4UmlwdVlLMHlIdjVyQ2doTkVnZXA5T1dEU2FWQjBfdHY3N0lPaTB4YU1RdEFZc09PNWZuTDY0RVNORVFuTVFHSUZzU1ZZMGRsM1Z6TGNVUHZNOGZpcUNnTXU4V3VTMXZRdVdNbmROSmxjdzZqWUNfTUduUGl0R2pDVnpEQnN30gG0AUFVX3lxTE5Gc2YtU2ZwV0E2TWhCdHEyNm9DSC0zb3VFLXVzeFF5NFJRMW9sb3FJTlV4czdrWk55b3hOOEJHMmFVVnkxVjUtaDJYdFBfUU5YTGdZNXVUeU95RzZKdGMwM3gxSVh6X0kydVNTNk44Y0o3OFU1cnQzWXBUeFpZV2pUZnFGZmdpMEFDaGtldURtNGMtOTdtalM2LXBwSXRFSnFEWmdYYnZVSlRuRFZvOFAzMWhkSA?oc=5"
     },
     {
       "id": "629c5d49d3d27e",
@@ -234,7 +286,7 @@
       ]
     },
     {
-      "id": "e612fae82aa9f3",
+      "id": "609fc7a3258d2d",
       "cadence": "daily",
       "theme": "deals",
       "geography": "Rest of World",
@@ -246,7 +298,7 @@
       "summary": "This development affects the carbon credits value chain. Open the original report for transaction details, timing and named counterparties.",
       "signal": "Track counterparties, valuation signals and local market-access advantages created by the transaction.",
       "source": "The Manila Times",
-      "source_url": "https://news.google.com/rss/articles/CBMingJBVV95cUxPOGZHR2FlelhfeUNENUJiZHp6WlRvMzZ3eWpwM3p0OTNVbm5oTzNlMkR2X1hHQW1kTTQwSzIwTE8wRkI0NURYeXFOZ1I5UEdOSTBPU1NLRWxCLWZwaTRjOGl1SEhTeDk0RFo4bFViZ3N5Q0FBSGZad1RPUlg1RGhqMndlS2k3N2cybnRFd2l3b0pYcDJvc1dnalBUVUZWXzdsUXE5enc4SHpjaDZtcks2UEtwajJoRUhHTnJjRDJHRWpkRjFLekdGQ3JHQWxYV3FwYjlFS2lyWXZUb1JOSy1kSEFUcDhWM1RBbW01cDJNbk53NnQ1S1lmczUxQjZNQ290enZSLVdQelpjY0k3OWR4ZThYTnZvYmIyVnFEVW9B0gGeAkFVX3lxTE84ZkdHYWV6WF95Q0Q1QmJkenpaVG8zNnd5anAzenQ5M1VubmhPM2UyRHZfWEdBbWRNNDBLMjBMTzBGQjQ1RFh5cU5nUjlQR05JME9TU0tFbEItZnBpNGM4aXVISFN4OTREWjhsVWJnc3lDQUFIZlp3VE9SWDVEaGoyd2VLaTc3ZzJudEV3aXdvSlhwMm9zV2dqUFRVRlZfN2xRcTl6dzhIemNoNm1ySzZQS3BqMmhFSEdOcmNEMkdFamRGMUt6R0ZDckdBbFhXcXBiOUVLaXJZdlRvUk5LLWRIQVRwOFYzVEFtbTVwMk1uTnc2dDVLWWZzNTFCNk1Db3R6dlItV1B6WmNjSTc5ZHhlOFhOdm9iYjJWcURVb0E?oc=5",
+      "source_url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNd2FaY2lIN3B0NnQ3SDFnaE0xeWVaOWN5dEltOVNiYmd6Mjc5aENwcmt5X1E4SnpIeE02OGdmMGRHbHZFeE10emVPQnpOSlNnT2tSN1AxVnB3VmdJVkhDMFIwQ2luM0hOWlRMVFphLWhsNF9SUnRSdTE4dnZ4NHh3bHhDSmhnNzZqWXpjY21ZdDlJdGNMeXJ1S2t3eUhqVnpFUThqOFBaUUxiZ0VUOUNZRkRpRG9fSkVBeWg3bndtSUpiOUh4Z3NVdlI0NFJOSk82SkxiY0tGbnFfQkliVEZDVGJ4Q3k5azNPS29WVDYyX0RsVl81d3VpTGFDaHc0NTdrb2JtcVJvNS1meTM4UHd3SVV5NjBNVGhO0gGeAkFVX3lxTE84ZkdHYWV6WF95Q0Q1QmJkenpaVG8zNnd5anAzenQ5M1VubmhPM2UyRHZfWEdBbWRNNDBLMjBMTzBGQjQ1RFh5cU5nUjlQR05JME9TU0tFbEItZnBpNGM4aXVISFN4OTREWjhsVWJnc3lDQUFIZlp3VE9SWDVEaGoyd2VLaTc3ZzJudEV3aXdvSlhwMm9zV2dqUFRVRlZfN2xRcTl6dzhIemNoNm1ySzZQS3BqMmhFSEdOcmNEMkdFamRGMUt6R0ZDckdBbFhXcXBiOUVLaXJZdlRvUk5LLWRIQVRwOFYzVEFtbTVwMk1uTnc2dDVLWWZzNTFCNk1Db3R6dlItV1B6WmNjSTc5ZHhlOFhOdm9iYjJWcURVb0E?oc=5",
       "pestel": [
         "Social",
         "Environmental"
@@ -269,6 +321,21 @@
       "pestel": [
         "Environmental"
       ]
+    },
+    {
+      "id": "a1795a12caed67",
+      "cadence": "weekly",
+      "theme": "pestel",
+      "geography": "Rest of World",
+      "sector": "Regenerative Farming",
+      "segment": "regenerative",
+      "date": "Week 47 · 2026",
+      "published_at": "2026-11-18T06:26:59+00:00",
+      "headline": "ASEAN backs urgent shift to regenerative farming to secure food supply",
+      "summary": "This development affects the regenerative farming value chain. Open the original report for transaction details, timing and named counterparties.",
+      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
+      "source": "jiji press",
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSkVGRW9MalJ6bDdiME8zdmJnZEV4Y0FSUVJFOHFFRWxuWnp2c3ZOaFVfRFNNRndGY2tEcFFrSVVxd0RBX1lDckQyOFhudXJNQlVGXzV3V3Nrc0dwQmFILXVnRHRzMWk0b3RHR2FrS2VlR0Q0SXhPQXR6c0QwU2dDY1BRSVB0ZUVka0dIWUVSdHhFaTJ3dFM4?oc=5"
     },
     {
       "id": "6271a7067df9b1",
@@ -321,21 +388,6 @@
         "Economic",
         "Environmental"
       ]
-    },
-    {
-      "id": "818f661e54d821",
-      "cadence": "weekly",
-      "theme": "pestel",
-      "geography": "Rest of World",
-      "sector": "Regenerative Farming",
-      "segment": "regenerative",
-      "date": "Week 47 · 2026",
-      "published_at": "2026-11-17T11:06:37+00:00",
-      "headline": "ASEAN backs urgent shift to regenerative farming to secure food supply",
-      "summary": "This development affects the regenerative farming value chain. Open the original report for transaction details, timing and named counterparties.",
-      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
-      "source": "Manila Bulletin",
-      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQTJCOHN6a1gzNFYtbGhUelZvWXY1WTFyMk9xd3NzVk11YlJVZi1oT0xxclRtRWlob1Vsc3BDX0RlNG9xVDFIWmlNZmljT2V5LVVXRk1Jb1FCS2JxcVFQdi15UjJodk5fTnRRMDlBaVcxWFR4ckUyV1BrYjY4b0dNVGtUakg1MGx2VTJiSzI2b2YyY0tXT3drdWxUQS1jbi14?oc=5"
     },
     {
       "id": "f9ecb3df178130",
@@ -1345,40 +1397,6 @@
       "pestel": [
         "Technological"
       ]
-    },
-    {
-      "id": "687594ac3e11e2",
-      "cadence": "weekly",
-      "theme": "pestel",
-      "geography": "Rest of World",
-      "sector": "Biochar & Activated Carbon",
-      "segment": "biochar",
-      "date": "Week 44 · 2026",
-      "published_at": "2026-10-28T07:00:00+00:00",
-      "headline": "Activated Carbon Fiber (ACF) Market Size & Share, 2026-2035",
-      "summary": "This development affects the biochar & activated carbon value chain. Open the original report for transaction details, timing and named counterparties.",
-      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
-      "source": "Global Market Insights Inc.",
-      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOeGRja0JRUUt4cl9mX3BWVkhPc1pkWFFHUWV6UVFaT2JYZEdmaWFUa294eGFKcFhkR3ZMTjJwNjRiN1dGc1FxTmZfcDZGN00tRDNsb3lGeGlmbGZBX1pYdy0zRDNNZENOaEUxa1Job2VtZTU1MDZ3N21GbnVBVHZpYkFlcEI?oc=5",
-      "pestel": [
-        "Economic",
-        "Environmental"
-      ]
-    },
-    {
-      "id": "d6985f4ca46fc2",
-      "cadence": "weekly",
-      "theme": "pestel",
-      "geography": "Rest of World",
-      "sector": "Regenerative Farming",
-      "segment": "regenerative",
-      "date": "Week 44 · 2026",
-      "published_at": "2026-10-27T14:43:17+00:00",
-      "headline": "Regenerative agriculture for resilient food systems",
-      "summary": "This development affects the regenerative farming value chain. Open the original report for transaction details, timing and named counterparties.",
-      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
-      "source": "Lombard Odier",
-      "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQU19fX3UwYy1yUVZnYUdPZmNYYmdCbm1MTG5UcU1PQTNISmhGUGg2Z2kzTDQ3R19qY2tfMThrSUk2QVpKUHR3NHdWS1FQMFJsSmFwbURVOFQxVnRNZWJzX3FsV1hKY0FKMzRKWjVJME1yNDJSNG14dTV0ZC0yQlExVFpHQQ?oc=5"
     }
   ]
 }
