@@ -1,20 +1,91 @@
 {
-  "generated_at": "2026-11-24T13:40:19+00:00",
+  "generated_at": "2026-11-25T12:51:46+00:00",
   "reports": [
     {
-      "id": "a93a92a46de8d8",
+      "id": "7741dd6f524760",
       "cadence": "weekly",
       "theme": "pestel",
       "geography": "India",
       "sector": "Regenerative Farming",
       "segment": "regenerative",
       "date": "Week 48 · 2026",
-      "published_at": "2026-11-24T12:13:15+00:00",
-      "headline": "Can APAC turn regenerative agriculture into mainstream business model?",
+      "published_at": "2026-11-25T10:36:43+00:00",
+      "headline": "Two Brothers India Farms releases sustainability report focused on regenerative agriculture and farmer livelihoods",
       "summary": "This development affects the regenerative farming value chain. Open the original report for transaction details, timing and named counterparties.",
       "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
       "source": "AgroSpectrum India",
-      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcy1LZDB3RERNZHU3b1JYcUQ1TTR4NVM1SGJEWWxrVHJDdi1pWC1FVURhZ1dXTHlaQURkTDN3RGNBcVJTdWw5ZnF1ZlBwUUd1aUVjcGtONE9ycGhSbHVSTFZqZ2FldXI0N1dpT1pqYjB3dzhzcHlMaWkzUzJzTWhzTC1SVlpSYWJFT3J6MDZPaFhhOXRXckIzRWlpNTgycXJOM0p5ZEp6UWhZS0tmLVo0ejJKRTFjOU83bm1wUFdlZG5UUQ?oc=5"
+      "source_url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxORmw0UHNyNnpvcWg2SlpEaFhoYWtQVk53cjVsNll4X2laTUF2aWRCSld2N0dqNmRPRlgteFBlOVpTVDE5REFaNEJ4Ti1qN25OZDJoUFM4UUJYUXVGMWNHSmpkQkQySHZ3SEhFbjQ4THRLSTNRTGJ4SnhxbHhMdnFyZG9yUkxERnF6bm5jbzl5MHlNVW5lMjNBZ3h2MFoxY2FBNUVNZmpXQXQyVGtxenVLMTlXM3FUTnpRUzNvNEJwUl9EakRGREg2UGd1ZmZSWTVvRWZsVlp3ajI4d1Z3bmM5Ry1PLWlyVnZXSWhILU52dDJhLXctRlE?oc=5",
+      "pestel": [
+        "Social"
+      ]
+    },
+    {
+      "id": "e20954440d5428",
+      "cadence": "weekly",
+      "theme": "pestel",
+      "geography": "Rest of World",
+      "sector": "Innovations & New Launches",
+      "segment": "innovations",
+      "date": "Week 48 · 2026",
+      "published_at": "2026-11-25T09:00:00+00:00",
+      "headline": "Africa’s Green Economy Summit unveils over $500 million in investment opportunities",
+      "summary": "This development affects the innovations & new launches value chain. Open the original report for transaction details, timing and named counterparties.",
+      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
+      "source": "thenational.co.za",
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQT1dzQ2ZtNHJGRXRvT25iTlR0bDczcFpsam5uSVUtMWxVY2x6VnhoVTY2cmxoMkhXYXRxTjF5SFF2a0V3ZFZwZWlXXzVDS2pJNUhRY3QxM2tpM19xeVdyLVlscFRkV3NRU0FCakNwTDgxaTZ5dlZPRzlVT2t5VHVBZXRMaVMyVFNtdWU0Sl9PNkVPcDlrS2dfRTdHY2hzUzVjYThzZC1UOUJnNVJ2WFQtRjBXZlpQM1I2X1B6czFxR01WNzA?oc=5"
+    },
+    {
+      "id": "734473dbf5b8cf",
+      "cadence": "weekly",
+      "theme": "pestel",
+      "geography": "Rest of World",
+      "sector": "Innovations & New Launches",
+      "segment": "innovations",
+      "date": "Week 48 · 2026",
+      "published_at": "2026-11-25T08:53:05+00:00",
+      "headline": "Africa’s Green Economy Summit Unveils Over US$500 Million in Investment Opportunities, From Solar Power to Sustainable Farming",
+      "summary": "This development affects the innovations & new launches value chain. Open the original report for transaction details, timing and named counterparties.",
+      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
+      "source": "Farmers Review Africa",
+      "source_url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNcnlGX2ZnemRsSjk2YjBhSVhFVlVIb2ctdlRFVUVwZ2R4X2hZM2RCem56Nlg4Qm1welNBRHBDVzhDbGstUk1nQTNmeWVCRlVvYkNKY21raHp4MG1PYXpiX2xETHRLWjJGOXBCVE5wRWFMbXdXYUp2Q0JhaWVEQ1NEZFpEa0JlNklqRko2M0p0QTBBRGdYdHZRWkRjdU1ZYmZEV2loenNmRGpLa0ZfR0JycWNXX1FxTWg4SDRMSXZ2NnRhZnlITk1McjZzX2k4ZVZiVmNSclAybl81QUhBcHVlOFZXaHBidGlMcW1paQ?oc=5",
+      "pestel": [
+        "Social",
+        "Environmental"
+      ]
+    },
+    {
+      "id": "7b96ca3c3688da",
+      "cadence": "weekly",
+      "theme": "pestel",
+      "geography": "India",
+      "sector": "Regenerative Farming",
+      "segment": "regenerative",
+      "date": "Week 48 · 2026",
+      "published_at": "2026-11-25T06:31:25+00:00",
+      "headline": "India makes first soil carbon payments to farmers in Punjab, Haryana",
+      "summary": "This development affects the regenerative farming value chain. Open the original report for transaction details, timing and named counterparties.",
+      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
+      "source": "DD News",
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNzZISG1nckdnRTE3YURaU1ZnY1N1M0Y5cE9LTldDV1RUcGtGMW5SRVBicEJDLUxTNE96YS0wMURPcHBfVmhVa1hqN2d0XzFQblZtN3ppMW9kY1YxWEhEbzhXVVQyVXhzTDRZeU01STRVbDdHN255QWxwalE4elRNMDNiYXhQeThwQXN5WjE1Z3ZFSGVKUXBxWA?oc=5",
+      "pestel": [
+        "Social",
+        "Environmental"
+      ]
+    },
+    {
+      "id": "8e852c2ad6c34b",
+      "cadence": "weekly",
+      "theme": "pestel",
+      "geography": "Rest of World",
+      "sector": "Innovations & New Launches",
+      "segment": "innovations",
+      "date": "Week 48 · 2026",
+      "published_at": "2026-11-24T23:07:18+00:00",
+      "headline": "Abia unveils N578.2bn agriculture investment portfolio",
+      "summary": "This development affects the innovations & new launches value chain. Open the original report for transaction details, timing and named counterparties.",
+      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
+      "source": "Punch Newspapers",
+      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQXR5WlpGbktoam5NaGRIZzRFSWJZRmZFZ1Z4enRvbTNIRnVzQ2prRG5MbEIzdHk0TVkwN1lxRzlMRi15UU42OGRnbm90dGVfejdfWXIzazVlQlZqX3RSU1ZnNGZCSGhUYW14YnJ6NFFCdjczQURGQV9jQUdMNlItZXEzN1ZrZw?oc=5"
     },
     {
       "id": "394eb91cb4e1ce",
@@ -24,7 +95,7 @@
       "sector": "Microbial & Biofertilizers",
       "segment": "microbial",
       "date": "Week 48 · 2026",
-      "published_at": "2026-11-24T12:13:09+00:00",
+      "published_at": "2026-11-24T12:13:56+00:00",
       "headline": "Absolute enters Africa with INERA, positioning biologicals for new agricultural growth market",
       "summary": "This development affects the microbial & biofertilizers value chain. Open the original report for transaction details, timing and named counterparties.",
       "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
@@ -33,6 +104,21 @@
       "pestel": [
         "Economic"
       ]
+    },
+    {
+      "id": "a93a92a46de8d8",
+      "cadence": "weekly",
+      "theme": "pestel",
+      "geography": "India",
+      "sector": "Regenerative Farming",
+      "segment": "regenerative",
+      "date": "Week 48 · 2026",
+      "published_at": "2026-11-24T12:13:56+00:00",
+      "headline": "Can APAC turn regenerative agriculture into mainstream business model?",
+      "summary": "This development affects the regenerative farming value chain. Open the original report for transaction details, timing and named counterparties.",
+      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
+      "source": "AgroSpectrum India",
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcy1LZDB3RERNZHU3b1JYcUQ1TTR4NVM1SGJEWWxrVHJDdi1pWC1FVURhZ1dXTHlaQURkTDN3RGNBcVJTdWw5ZnF1ZlBwUUd1aUVjcGtONE9ycGhSbHVSTFZqZ2FldXI0N1dpT1pqYjB3dzhzcHlMaWkzUzJzTWhzTC1SVlpSYWJFT3J6MDZPaFhhOXRXckIzRWlpNTgycXJOM0p5ZEp6UWhZS0tmLVo0ejJKRTFjOU83bm1wUFdlZG5UUQ?oc=5"
     },
     {
       "id": "b91f2bf83453b7",
@@ -114,7 +200,7 @@
       "segment": "agro-processing",
       "date": "20 Nov 2026",
       "published_at": "2026-11-20T16:11:06+00:00",
-      "headline": "Punjab News: Big Opportunity for Food Processing Industries in Punjab: Incentives of Up to Rs 500 Crore on Investments",
+      "headline": "Punjab New Industrial Policy 2026 Unlocks Food Processing Investment Incentives",
       "summary": "This development affects the agri-products & agro-processing value chain. Open the original report for transaction details, timing and named counterparties.",
       "signal": "Review eligibility, compliance timelines and incentive access before committing capital.",
       "source": "Oneindia",
@@ -203,7 +289,7 @@
       ]
     },
     {
-      "id": "629c5d49d3d27e",
+      "id": "c02e5d25021d42",
       "cadence": "daily",
       "theme": "regulatory",
       "geography": "Rest of World",
@@ -214,8 +300,8 @@
       "headline": "North Star Carbon Removal Project Selected by Government of Canada for Landmark Carbon Removal Procurement Program",
       "summary": "This development affects the carbon credits value chain. Open the original report for transaction details, timing and named counterparties.",
       "signal": "Review eligibility, compliance timelines and incentive access before committing capital.",
-      "source": "Via Ritzau",
-      "source_url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPQWRtYURIMjI5c3U5OEFOMkU4M09uSjNfZ3pjZ2dSZ1hCeXR6WUN2QUZ4ZFdNeHNEZVYxbEtybGtGLXN1QTllOTBzSHFISGlsbThZS3VFcmxJYldHYTVsMFhaSDhDNUw5X3hxRk9ieUJ1MGRGbjBNYzdjNDg2dnd6cVBCd0pIczFMcVFVVUlHdVFwNzdaeG14ZDMxQk9TUTAyajJlaXMxaWFobVBlc0ZzSVIwdUxJRGN5QzRCejlZRXZQaG9iU3BVdEJCUFUtaGVOcVNhRVc1QklXVXRjeGNYV3BNa1pmQjA0a2pHM1Q4ZmpGWjlvY1IwcFluUzVRSExURDFZU1ZhRkN4cXVVbUJ4X1BuTGlqU0E?oc=5",
+      "source": "STT Info",
+      "source_url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxONUZad1RmbjNoQy16RmRDZ2FJU0ZlYWVMM1NMZ2dQWmluQnhKTjFqa1RtTGxRclJvWkpnWXlNVHFIZ0E4MjRyVnFfT1pyRWVETWhUYnYtV2NVUlhkRGo5ZnowY1psYVVrMWY2OGFoM0UyNnJzMlhhUHJNeGREOFJpclRUakdvaGpLUXNsSmJTZzdUTlg4cFRWTUFiOFdJUENCWmRYd2ZvMUhJTTZPT185VWtGTHpUZlQyeGNiZERDRkN1dlJCclRrWWRkTGhWcE02V1FUeGtOdXIzYllWSnY3NWMtV2tJTkVlRjVGUURsTDhFUUVkRnQ1RDJlNFF3Zkh1YllLTFN3?oc=5",
       "pestel": [
         "Political",
         "Environmental"
@@ -507,25 +593,6 @@
       "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
       "source": "The Better India",
       "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSlVqMmpPYjlVZzBqWlp3RWVFVlYwbnM4TXBHSExTRzZQdnpxWlNRTDhoQ0dKVjRORWtaeWF5NTN6dHhuZ3M1WDBUSkRDMnlOd2M0ZVY5ckcyLXdNQ3RQZnJ3dk8yOGd3SUVpeHhCWWh3Ql83ME9OZjJXYW9EZWdkWmI5UFdhZzNMN3RZZUpEc3pzUVdFTll4NVpfY1g4VkQwNmtWWWdsUQ?oc=5"
-    },
-    {
-      "id": "7b96ca3c3688da",
-      "cadence": "weekly",
-      "theme": "pestel",
-      "geography": "India",
-      "sector": "Regenerative Farming",
-      "segment": "regenerative",
-      "date": "Week 47 · 2026",
-      "published_at": "2026-11-17T08:30:27+00:00",
-      "headline": "India makes first soil carbon payments to farmers in Punjab, Haryana",
-      "summary": "This development affects the regenerative farming value chain. Open the original report for transaction details, timing and named counterparties.",
-      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
-      "source": "DD News",
-      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNzZISG1nckdnRTE3YURaU1ZnY1N1M0Y5cE9LTldDV1RUcGtGMW5SRVBicEJDLUxTNE96YS0wMURPcHBfVmhVa1hqN2d0XzFQblZtN3ppMW9kY1YxWEhEbzhXVVQyVXhzTDRZeU01STRVbDdHN255QWxwalE4elRNMDNiYXhQeThwQXN5WjE1Z3ZFSGVKUXBxWA?oc=5",
-      "pestel": [
-        "Social",
-        "Environmental"
-      ]
     },
     {
       "id": "2839bd07ee64e8",
@@ -1324,76 +1391,6 @@
       "source": "TipRanks",
       "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQUjQ3VHNNN2M1TVo4alRrR2E3bDZzaHBCQ216aW5GbW1vblI5ZWZfNWljTS05WFRUV3JHUFJzTnFZUjg0MlhNRGxCZEFsb1R5S3Zsd3FYWmFqRHp4dmFLYVdTcnBjWEthaHNBUjFNeWJXZ2hJU0FsWW1qMUtmQ2lBQk81YjBreGRHSFZKMHpEajM5LThhdEVOYlhUVlV5Y0JOWF96Q09lcVZWQ2lsTjZoSUx4b0h3aXVHUXhTcmJmT0c5MjR1dEpwUm9n?oc=5",
       "pestel": [
-        "Environmental"
-      ]
-    },
-    {
-      "id": "4de47e6b1a572f",
-      "cadence": "weekly",
-      "theme": "pestel",
-      "geography": "Rest of World",
-      "sector": "Regenerative Farming",
-      "segment": "regenerative",
-      "date": "Week 44 · 2026",
-      "published_at": "2026-10-30T00:00:00+00:00",
-      "headline": "Regenerative agriculture for rural surveyors",
-      "summary": "This development affects the regenerative farming value chain. Open the original report for transaction details, timing and named counterparties.",
-      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
-      "source": "MODUS | RICS",
-      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeDJDTnRsYXlxWVB0TkxqakN2NGJZVmRqYVJaYlZZT2NWbXZabzZRTXItY0ZtQnZmek1kdl9jRWE0cml4YTMzQXRLenBMQnpUQkdPajhYWGViMUNjT0NxaDNxaVVNdVJWVnROOVhqcWZvMWZ6R2phSk9fNVV0SF9ULXhzTUQ?oc=5"
-    },
-    {
-      "id": "de0989b9ebaa53",
-      "cadence": "daily",
-      "theme": "deals",
-      "geography": "Rest of World",
-      "sector": "Regenerative Farming",
-      "segment": "regenerative",
-      "date": "29 Oct 2026",
-      "published_at": "2026-10-29T17:14:27+00:00",
-      "headline": "Agrifood corporates find a new model for financing regenerative agriculture via Soil Capital partnership",
-      "summary": "This development affects the regenerative farming value chain. Open the original report for transaction details, timing and named counterparties.",
-      "signal": "Track counterparties, valuation signals and local market-access advantages created by the transaction.",
-      "source": "AgFunderNews",
-      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxObi1ZVjQxMS12aEtlaVJ0S1R1czhTaS1FYklOUTZUYkhrUXdIU20zLV9QTHJPa28tYzFUZ1lfdmZMbnJaSTFKaU0wdS0yWFJxREFPZ3FvbE1qeTVMeEZVR3h6eVNsSUw0UmViOW1CbnZVRUVacmtaZFhjSDNwakpPVzdaUWFrdGhxNmV2d2JuaFU4ckpGYzF6LVVaanF3NEhhTFNUWDZNRFJPMGtESVpyVnlfQ1hNRk13bDdNb2h0cnFvWXp2bU56UA?oc=5",
-      "pestel": [
-        "Environmental"
-      ]
-    },
-    {
-      "id": "0ec55878f08c51",
-      "cadence": "weekly",
-      "theme": "pestel",
-      "geography": "Rest of World",
-      "sector": "Regenerative Farming",
-      "segment": "regenerative",
-      "date": "Week 44 · 2026",
-      "published_at": "2026-10-29T10:58:28+00:00",
-      "headline": "Betty Kibaara of the Rockefeller Foundation has commended Murang’a County for promoting agroecology and regenerative agriculture, noting that sustainable farming practices can rest",
-      "summary": "This development affects the regenerative farming value chain. Open the original report for transaction details, timing and named counterparties.",
-      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
-      "source": "Facebook",
-      "source_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQV0RwUmFwSV8yY2FWRE9HQWZXcVNPeE5CYW54TlZpMHJ3WVZIcHczLU9qSng5dDcwNU1mTHFQaEs2ZjU5RFYtSE1MLXlSZU1lY280UWVJUGZ4TjNHejlxUXY5WG13aTBUMU0tbmQ2ZG1KZmZwZ1oxSzZHbm80cnVwbjhRUjMzTEhMQnBCWTMwbUxmN1JNM1NiUktvOXhaVVZqWTFrYkQ0R0wtSktTRktuMUlvblpFY3RXb25abDExLTA4aTkzZERsa3luSy1VZ1U0TUN3VERERnRUbjZxbFE?oc=5",
-      "pestel": [
-        "Environmental"
-      ]
-    },
-    {
-      "id": "98419c7b350f81",
-      "cadence": "daily",
-      "theme": "regulatory",
-      "geography": "Rest of World",
-      "sector": "Regenerative Farming",
-      "segment": "regenerative",
-      "date": "29 Oct 2026",
-      "published_at": "2026-10-29T08:17:21+00:00",
-      "headline": "𝐌𝐮𝐫𝐚𝐧𝐠’𝐚 𝐂𝐨𝐮𝐧𝐭𝐲 𝐩𝐫𝐨𝐦𝐨𝐭𝐞𝐬 𝐀𝐠𝐫𝐨𝐞𝐜𝐨𝐥𝐨𝐠𝐲 𝐭𝐨 𝐢𝐦𝐩𝐫𝐨𝐯𝐞 𝐬𝐨𝐢𝐥, 𝐡𝐞𝐚𝐥𝐭𝐡 𝐚𝐧𝐝 𝐟𝐨𝐨𝐝 𝐬𝐚𝐟𝐞𝐭𝐲 Murang’a County government is stepping up efforts to promote agroecology as part of measures to improve",
-      "summary": "This development affects the regenerative farming value chain. Open the original report for transaction details, timing and named counterparties.",
-      "signal": "Review eligibility, compliance timelines and incentive access before committing capital.",
-      "source": "Facebook",
-      "source_url": "https://news.google.com/rss/articles/CBMiiAlBVV95cUxNVE5CeVBYR3UzSUlRcjl1MXF6T1RSS2RzNThNNWt1ZFRyVFh0TTIwbTZtN0pBQ2pJMnotSDh2OG5LRmhzd1J5UnRIdmlYSlc1OXZDcXRSLWJ6VkcwSzZaTE5WNUtvNjBPTmwwZWozdTB5cW44eDhYTXJwamRFTGRtUVQ5c0ZvY0ZkUUhWa3FDaFpWLVFhNE9QbS1lUXJDMVVZTnRZZ01uVXdTbEtQSUsxekZhdVEtaXdwLW16dnRGdTk1bXJZVi1xMm5VcWVEMmRadlJ6QVNRSHFsQzlyTjJRWjFuVUVnUFgyUVAxTV9vaDNpZ3lrT0Zad1hLanQ0WHBuTGlCdHU1aWhPN3JDeTVTYVNCTnphUWV6QUtaQXowQW5pTXpraFJVV2ZfVzlsTHpDek1IOC1ndHpVQ3A5NF9ZaUpyalVqQ3Rvc2tQYVg1emxEU295YVNaWDJkZUtxWkhrOGxfYVNFUlN2WE1HQXV1dUF5T0lQR1pZbmVWTGEyTTlKbkc0YllieUx6YVFJY3FpTXZrcERTNzA4c3hUSUhhbV9BM0R2ZkFiNEtWVTNCVjlVOUhPbVYwaXhzbWdjRE5tMnc1ck1jWXpCUFFzYTRaYmF4N25rUEJEdHU2NXdkWllXZC1fUzZzLVRWZ3Y5N0l4TmpTMmlTZWU4VWdBLXhqT1d4a1RWTkdRdnlCTzdwTTVyVFoxS0JOME82LUd0STNTUUlLdFpyM084ei1FdDdMQ0ptTUZSak5sVlBhQVF6LU1uWlNvTl9mMXliU0Q1RHdWUGs3Rnh0QksxejBWR3JRWUZ6R3F3b3h3a3pHNy1oZWRwY2RzV0pQOGNzV0M0eTA3N1FoRlFpYmNVWkdhQWJnRjBZSlNPanRWWEdLeVVfWDhaRUpuTnNmRlBHTEdIaXVKRDM5aldoQkk3dUl6ZnV5b1ktbndUSkhfTjg5c0JmM2RNYWcwSHJpYUNHUng4VzZmYzNqNm5Zb3BOSHVBZVdBbHdNZTZWNFZKR2tCMzBTaHVNc0R1dUlDVEJQNzJ5M25GZEVPTFE3a3c4al9lUEgxZ3lmb01MZTI5UjNUcWsxRGUxX0tZZG5sZ0NIQmhSRDZDdmdmTEhGODVYS2VQbW1teDQzUEJzYTZPRTRMWGdCTG9fVEdoUlR2YkFWOGt6WDFlYlNuQmFaeEpPZ3hfTEpSZ2c3X1J6OXM5N1drVThfQ1hjbXFWQkdsRWFvN0FaZVR2SktnYTlTU3dqUjFoS2RNaWJ6RzNRVmwyTWotMy1UWHppanBhZFpXXzJzdXFTX3J6Nk9IUGxWa3RxRnEzMG1iNmFWS3hwU0NOYmJJZVAxWjNtUjZWNWN0ZThxY0hJYmNjRnpZMm5seE9WN1JoM2QxZC1NNXpfSk8tMUw2U05hcGx0dHRZOVljRW5LX2w0Ynlod2ZKb3hqMDUtUENoOUFZdmtQekdPaUlnemlDR3V4Q3lTUzdqLWFfTjNYaEplSjhOcEM5ZzkyYVo0N0NIdE9mcENSSGNwQ1l2S3I2cFN1bU9oZTlhQ0RTcw?oc=5",
-      "pestel": [
-        "Political",
         "Environmental"
       ]
     }
