@@ -1,6 +1,76 @@
 {
-  "generated_at": "2026-11-25T12:51:46+00:00",
+  "generated_at": "2026-11-26T12:29:13+00:00",
   "reports": [
+    {
+      "id": "0e16227b3e807b",
+      "cadence": "weekly",
+      "theme": "pestel",
+      "geography": "Rest of World",
+      "sector": "Permaculture & Agroforestry",
+      "segment": "agroforestry",
+      "date": "Week 48 · 2026",
+      "published_at": "2026-11-26T09:35:49+00:00",
+      "headline": "Survey Reveals UK Citizens Generally Support Agroforestry Alongside Divergent Regional Priorities",
+      "summary": "This development affects the permaculture & agroforestry value chain. Open the original report for transaction details, timing and named counterparties.",
+      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
+      "source": "Bioengineer.org",
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObkluZ1AwV2k3NHBjdUVaY1pkVTZ4cTFWS0FSN3k1UWN4RTRodFBUSVV0Y3EyX0lOenlNWVpyOEROM04wZXdxSmZBbmxPb1h1WXhSM1ZnUl9rOERWVExPQy1uNWFzbHJjc1NITzk2NEtEXzc2VmVxc1VFRzNhSGUxWThqWGdTTDhSaF9sdWJ2cTQ0aUFuLTVkOWtTY0l1OXp5SHFsUFV0aEZwT2ItRmxyemE1cWRqNVpTLVBUeEw5dw?oc=5",
+      "pestel": [
+        "Environmental"
+      ]
+    },
+    {
+      "id": "1d8760983ab327",
+      "cadence": "weekly",
+      "theme": "pestel",
+      "geography": "Rest of World",
+      "sector": "Agri-Products & Agro-Processing",
+      "segment": "agro-processing",
+      "date": "Week 48 · 2026",
+      "published_at": "2026-11-25T18:57:02+00:00",
+      "headline": "Sanwo-Olu seeks more investments in manufacturing, agro-processing at Lagos Trade Fair",
+      "summary": "This development affects the agri-products & agro-processing value chain. Open the original report for transaction details, timing and named counterparties.",
+      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
+      "source": "Western Post",
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQVlaVlIxN0d1THN2V0tsYmRyenpUbE91enZwTENvUVhLS0JYNDJTUVNGTUlBSzd4dzB2c1JwTmF3dXc1Qm1ZR1FMUjltcUF4bjZqWXcwUmRqOWhjZE1xSkl4S2VUQzNRVzlwRHFnTk93TlZ1UkhrbzBlWDl4ZDFXakpmdDNGOUNiMnFPd2VwTGxOODVUanBhZ1kwYmw4RFM3WnpOd2VWRURDbU4ySGZlWkZiaw?oc=5",
+      "pestel": [
+        "Economic"
+      ]
+    },
+    {
+      "id": "57ed1bc3801b56",
+      "cadence": "weekly",
+      "theme": "pestel",
+      "geography": "Rest of World",
+      "sector": "Innovations & New Launches",
+      "segment": "innovations",
+      "date": "Week 48 · 2026",
+      "published_at": "2026-11-25T15:40:22+00:00",
+      "headline": "AGES unveils 20 African green economy projects seeking $500m investment",
+      "summary": "This development affects the innovations & new launches value chain. Open the original report for transaction details, timing and named counterparties.",
+      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
+      "source": "EnviroNews Nigeria",
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOEd1NGNpUUhNQmUyTEFmSzE0UElmYm0tR2pFU0tIcVZrcmI5RFFfZGpacjc0aUJQQ29vN25odmNjelZnN01RMXZ1NW5FSFJROWdPRFRHeUhJakYyVWFtTmliYnEtSlQwQUlSOV9RWEZqdFF6Y0RqUmFRQ0l5LW1RVElnZmNXMlhwVmR3VTllNnVPMDZ5MmRqNllvRmZmb2JHYkxRSlBTdmY?oc=5"
+    },
+    {
+      "id": "dc7bf2859dc459",
+      "cadence": "weekly",
+      "theme": "pestel",
+      "geography": "Rest of World",
+      "sector": "Biochar & Activated Carbon",
+      "segment": "biochar",
+      "date": "Week 48 · 2026",
+      "published_at": "2026-11-25T12:21:05+00:00",
+      "headline": "Activated Carbon Filters Market To 2035: Regulatory Push Drives Demand - News and Statistics",
+      "summary": "This development affects the biochar & activated carbon value chain. Open the original report for transaction details, timing and named counterparties.",
+      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
+      "source": "IndexBox",
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOQUtva1lhVUFGZDk4Y0E2M0NERGU5ZkFIVE9uOWNkNlBYU2hxeVEtNkJBWlNkcUJieUhUQkJ1TWpCQW80aWd4ODFKVUpNUUlLOWFvYm84ZTZrajhZUU9XSHpRSTNaZmhtNVZUUTlBdEVHdTE0Y1dKZnpOdXhHZ3RFWmJzcmJqdl9jRkZjYW9WSWV6VWJ0VmZiOVhZeEhSamFOajU0eVFweTBfcGlNT3hfTVROOFVUd2tQQXJmbWZHb1JfaGlTOEVFWGJ5cw?oc=5",
+      "pestel": [
+        "Economic",
+        "Environmental"
+      ]
+    },
     {
       "id": "7741dd6f524760",
       "cadence": "weekly",
@@ -54,6 +124,21 @@
       ]
     },
     {
+      "id": "6333d833647fda",
+      "cadence": "weekly",
+      "theme": "pestel",
+      "geography": "India",
+      "sector": "Regenerative Farming",
+      "segment": "regenerative",
+      "date": "Week 48 · 2026",
+      "published_at": "2026-11-25T06:53:04+00:00",
+      "headline": "Explainer: What is regenerative agriculture and why does India need it?",
+      "summary": "This development affects the regenerative farming value chain. Open the original report for transaction details, timing and named counterparties.",
+      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
+      "source": "DD News",
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOejA5TFNMQkhGVW5QXzh4LVdOTHV0bVYySDRRSGV6dUFZNUNVd0o4b3cyaFA1aFpwTGJGQlF0SmhZTmw2cFZqclR0aUZacDlaVkRPSkt1SEF2YkhObUp6MzlDZ0NVeWhHZ1l1a0dSdWV5cTBaay1zTE8zeUZrMnI5WE01MHk1RW9FOVlTZDVHc1haLXp6d3hIcTBhWQ?oc=5"
+    },
+    {
       "id": "7b96ca3c3688da",
       "cadence": "weekly",
       "theme": "pestel",
@@ -73,52 +158,19 @@
       ]
     },
     {
-      "id": "8e852c2ad6c34b",
+      "id": "78735338856bd5",
       "cadence": "weekly",
       "theme": "pestel",
       "geography": "Rest of World",
       "sector": "Innovations & New Launches",
       "segment": "innovations",
       "date": "Week 48 · 2026",
-      "published_at": "2026-11-24T23:07:18+00:00",
+      "published_at": "2026-11-24T23:05:57+00:00",
       "headline": "Abia unveils N578.2bn agriculture investment portfolio",
       "summary": "This development affects the innovations & new launches value chain. Open the original report for transaction details, timing and named counterparties.",
       "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
       "source": "Punch Newspapers",
-      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQXR5WlpGbktoam5NaGRIZzRFSWJZRmZFZ1Z4enRvbTNIRnVzQ2prRG5MbEIzdHk0TVkwN1lxRzlMRi15UU42OGRnbm90dGVfejdfWXIzazVlQlZqX3RSU1ZnNGZCSGhUYW14YnJ6NFFCdjczQURGQV9jQUdMNlItZXEzN1ZrZw?oc=5"
-    },
-    {
-      "id": "394eb91cb4e1ce",
-      "cadence": "weekly",
-      "theme": "pestel",
-      "geography": "India",
-      "sector": "Microbial & Biofertilizers",
-      "segment": "microbial",
-      "date": "Week 48 · 2026",
-      "published_at": "2026-11-24T12:13:56+00:00",
-      "headline": "Absolute enters Africa with INERA, positioning biologicals for new agricultural growth market",
-      "summary": "This development affects the microbial & biofertilizers value chain. Open the original report for transaction details, timing and named counterparties.",
-      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
-      "source": "AgroSpectrum India",
-      "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNYXpYM19SbWI0Qy1wOS1TNlRseGJ4YUYtcnJfZllRR0JCdHVqV3JLVklGRjNQV01ZWjRIdUVVS0d6QzZwVVdteUd2bUJnQ2VRRnNvdVNrbjBBLUJFQzdCc18wZ0w4VjhlNUJmNW93MzZITWlvNkc4UnJndS0zbEo4RXZCWTFOeV8zbTNVZGhQa3dnRlVsNHRKa3JVSFpva1lrUHRQN0t6OU00XzBPYkF2MWtUZm1FVzh1X3VPQ24yell0V0FnUUdTRlR1dGNweXVPLUhoSHRIbWJzYmljN1FvUw?oc=5",
-      "pestel": [
-        "Economic"
-      ]
-    },
-    {
-      "id": "a93a92a46de8d8",
-      "cadence": "weekly",
-      "theme": "pestel",
-      "geography": "India",
-      "sector": "Regenerative Farming",
-      "segment": "regenerative",
-      "date": "Week 48 · 2026",
-      "published_at": "2026-11-24T12:13:56+00:00",
-      "headline": "Can APAC turn regenerative agriculture into mainstream business model?",
-      "summary": "This development affects the regenerative farming value chain. Open the original report for transaction details, timing and named counterparties.",
-      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
-      "source": "AgroSpectrum India",
-      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcy1LZDB3RERNZHU3b1JYcUQ1TTR4NVM1SGJEWWxrVHJDdi1pWC1FVURhZ1dXTHlaQURkTDN3RGNBcVJTdWw5ZnF1ZlBwUUd1aUVjcGtONE9ycGhSbHVSTFZqZ2FldXI0N1dpT1pqYjB3dzhzcHlMaWkzUzJzTWhzTC1SVlpSYWJFT3J6MDZPaFhhOXRXckIzRWlpNTgycXJOM0p5ZEp6UWhZS0tmLVo0ejJKRTFjOU83bm1wUFdlZG5UUQ?oc=5"
+      "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPM3hkZjZUR1UzUVl0UVZ4MV9iYmxfVXU5alJuTUlkdWtVQ3UtSGZfSlUtamE4ak94UDJ1bjJkLVhaY1R6OExmejcwV2ZBNkVGaWw1WWV1YUROckxxWnFGYUdjV1lkQkhaVVRFTzBub29LZG9UZGVkZ3NGMUVlM1FrOA?oc=5"
     },
     {
       "id": "b91f2bf83453b7",
@@ -289,7 +341,7 @@
       ]
     },
     {
-      "id": "c02e5d25021d42",
+      "id": "629c5d49d3d27e",
       "cadence": "daily",
       "theme": "regulatory",
       "geography": "Rest of World",
@@ -300,8 +352,8 @@
       "headline": "North Star Carbon Removal Project Selected by Government of Canada for Landmark Carbon Removal Procurement Program",
       "summary": "This development affects the carbon credits value chain. Open the original report for transaction details, timing and named counterparties.",
       "signal": "Review eligibility, compliance timelines and incentive access before committing capital.",
-      "source": "STT Info",
-      "source_url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxONUZad1RmbjNoQy16RmRDZ2FJU0ZlYWVMM1NMZ2dQWmluQnhKTjFqa1RtTGxRclJvWkpnWXlNVHFIZ0E4MjRyVnFfT1pyRWVETWhUYnYtV2NVUlhkRGo5ZnowY1psYVVrMWY2OGFoM0UyNnJzMlhhUHJNeGREOFJpclRUakdvaGpLUXNsSmJTZzdUTlg4cFRWTUFiOFdJUENCWmRYd2ZvMUhJTTZPT185VWtGTHpUZlQyeGNiZERDRkN1dlJCclRrWWRkTGhWcE02V1FUeGtOdXIzYllWSnY3NWMtV2tJTkVlRjVGUURsTDhFUUVkRnQ1RDJlNFF3Zkh1YllLTFN3?oc=5",
+      "source": "Via Ritzau",
+      "source_url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPQWRtYURIMjI5c3U5OEFOMkU4M09uSjNfZ3pjZ2dSZ1hCeXR6WUN2QUZ4ZFdNeHNEZVYxbEtybGtGLXN1QTllOTBzSHFISGlsbThZS3VFcmxJYldHYTVsMFhaSDhDNUw5X3hxRk9ieUJ1MGRGbjBNYzdjNDg2dnd6cVBCd0pIczFMcVFVVUlHdVFwNzdaeG14ZDMxQk9TUTAyajJlaXMxaWFobVBlc0ZzSVIwdUxJRGN5QzRCejlZRXZQaG9iU3BVdEJCUFUtaGVOcVNhRVc1QklXVXRjeGNYV3BNa1pmQjA0a2pHM1Q4ZmpGWjlvY1IwcFluUzVRSExURDFZU1ZhRkN4cXVVbUJ4X1BuTGlqU0E?oc=5",
       "pestel": [
         "Political",
         "Environmental"
@@ -1021,24 +1073,6 @@
       ]
     },
     {
-      "id": "1d8760983ab327",
-      "cadence": "weekly",
-      "theme": "pestel",
-      "geography": "Rest of World",
-      "sector": "Agri-Products & Agro-Processing",
-      "segment": "agro-processing",
-      "date": "Week 45 · 2026",
-      "published_at": "2026-11-08T17:17:11+00:00",
-      "headline": "Sanwo-Olu seeks more investments in manufacturing, agro-processing at Lagos Trade Fair",
-      "summary": "This development affects the agri-products & agro-processing value chain. Open the original report for transaction details, timing and named counterparties.",
-      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
-      "source": "Western Post",
-      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQVlaVlIxN0d1THN2V0tsYmRyenpUbE91enZwTENvUVhLS0JYNDJTUVNGTUlBSzd4dzB2c1JwTmF3dXc1Qm1ZR1FMUjltcUF4bjZqWXcwUmRqOWhjZE1xSkl4S2VUQzNRVzlwRHFnTk93TlZ1UkhrbzBlWDl4ZDFXakpmdDNGOUNiMnFPd2VwTGxOODVUanBhZ1kwYmw4RFM3WnpOd2VWRURDbU4ySGZlWkZiaw?oc=5",
-      "pestel": [
-        "Economic"
-      ]
-    },
-    {
       "id": "4b5966ce5eacfb",
       "cadence": "daily",
       "theme": "innovation",
@@ -1295,21 +1329,6 @@
       ]
     },
     {
-      "id": "6333d833647fda",
-      "cadence": "weekly",
-      "theme": "pestel",
-      "geography": "India",
-      "sector": "Regenerative Farming",
-      "segment": "regenerative",
-      "date": "Week 44 · 2026",
-      "published_at": "2026-10-31T08:33:09+00:00",
-      "headline": "Explainer: What is regenerative agriculture and why does India need it?",
-      "summary": "This development affects the regenerative farming value chain. Open the original report for transaction details, timing and named counterparties.",
-      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
-      "source": "DD News",
-      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOejA5TFNMQkhGVW5QXzh4LVdOTHV0bVYySDRRSGV6dUFZNUNVd0o4b3cyaFA1aFpwTGJGQlF0SmhZTmw2cFZqclR0aUZacDlaVkRPSkt1SEF2YkhObUp6MzlDZ0NVeWhHZ1l1a0dSdWV5cTBaay1zTE8zeUZrMnI5WE01MHk1RW9FOVlTZDVHc1haLXp6d3hIcTBhWQ?oc=5"
-    },
-    {
       "id": "c951dc23713bec",
       "cadence": "weekly",
       "theme": "pestel",
@@ -1373,24 +1392,6 @@
       "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPalMzWmZBcS12Uk5WWHhXUkNoRzBGeGt6VHByUVZGMkltS1BhZVZkenVkR2hOY0JwdG0zWDBBelg2WmR5QUJHc2FzUjN4NWQ5MU9qVEtUZlp3Qm9rdm5jT0ZZMFpqYThGOWNmcDE0cTNtWmx6dVhxZVpFeGpjNFIzTFZfWmxtcEJuNXJ1RlE5Y0Q?oc=5",
       "pestel": [
         "Economic",
-        "Environmental"
-      ]
-    },
-    {
-      "id": "f9064c67d451e3",
-      "cadence": "weekly",
-      "theme": "pestel",
-      "geography": "Rest of World",
-      "sector": "Biochar & Activated Carbon",
-      "segment": "biochar",
-      "date": "Week 44 · 2026",
-      "published_at": "2026-10-30T05:19:25+00:00",
-      "headline": "Carbonxt outlines core activated carbon business and investment risk framework",
-      "summary": "This development affects the biochar & activated carbon value chain. Open the original report for transaction details, timing and named counterparties.",
-      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
-      "source": "TipRanks",
-      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQUjQ3VHNNN2M1TVo4alRrR2E3bDZzaHBCQ216aW5GbW1vblI5ZWZfNWljTS05WFRUV3JHUFJzTnFZUjg0MlhNRGxCZEFsb1R5S3Zsd3FYWmFqRHp4dmFLYVdTcnBjWEthaHNBUjFNeWJXZ2hJU0FsWW1qMUtmQ2lBQk81YjBreGRHSFZKMHpEajM5LThhdEVOYlhUVlV5Y0JOWF96Q09lcVZWQ2lsTjZoSUx4b0h3aXVHUXhTcmJmT0c5MjR1dEpwUm9n?oc=5",
-      "pestel": [
         "Environmental"
       ]
     }
