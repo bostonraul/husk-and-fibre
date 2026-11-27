@@ -1,6 +1,57 @@
 {
-  "generated_at": "2026-11-26T12:29:13+00:00",
+  "generated_at": "2026-11-27T12:15:08+00:00",
   "reports": [
+    {
+      "id": "330f506821b3ea",
+      "cadence": "weekly",
+      "theme": "pestel",
+      "geography": "India",
+      "sector": "Carbon Credits",
+      "segment": "carbon-credits",
+      "date": "Week 48 · 2026",
+      "published_at": "2026-11-27T03:18:31+00:00",
+      "headline": "Explainer: Can carbon Credits Make India’s Next-gen Ethanol Commercially Viable?",
+      "summary": "This development affects the carbon credits value chain. Open the original report for transaction details, timing and named counterparties.",
+      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
+      "source": "Autocar Professional",
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbUZMQmJpTGYtVEZtYlhuak1sVEVRQTlwM1BMYnloSU1DeFhlQzhKNUd5dTNSMFpXUHZhcmxNWDczSVhHLTdoZjNicE0ybDhuQl9QYkFpQ3FEVDVxdU9PMEg2OVZTek5XamtVOXpieUFWMzdSdW94TFlIaXZYcVg3VV8xZ2VjY1JfX0hfMDJBampheGxRazlYOERlNUxDcmZoOWE5bjZFN3VyMHE4S0tnamxMOVRIcW00MXg00gHDAUFVX3lxTFBVVTFTX1BNS0hlNFlLSGphdXBlTXVWdmtrTmMzSmJRa2tCTDVUWUpaLVJHODRucnRUcjVsemNVblR4UFU1YW5aY2Z4alJMNnZGTkg0MV96eUJ1bVVxampTcjRFOGZkMUdsYWx4aEdLVV9MM29QZ0xrZU9ib3laX0tJLTZlY25YeUhvNUhwT09UWUFrTDd1bFRGSHV3YmRNblBESVdXLWFuT3FuRnZEeldTclVFSE1paENKR0lVOTBhOG9Paw?oc=5",
+      "pestel": [
+        "Environmental"
+      ]
+    },
+    {
+      "id": "0504b34b68ef06",
+      "cadence": "daily",
+      "theme": "innovation",
+      "geography": "India",
+      "sector": "Bio-Based Materials",
+      "segment": "bbm",
+      "date": "27 Nov 2026",
+      "published_at": "2026-11-27T02:05:27+00:00",
+      "headline": "Arkema honored at 12th France China Committee Innovation Awards for bio-based materials and adhesives",
+      "summary": "This development affects the bio-based materials value chain. Open the original report for transaction details, timing and named counterparties.",
+      "signal": "Assess field performance, unit economics and the route from pilot deployment to repeatable commercial scale.",
+      "source": "Indian Chemical News",
+      "source_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNMGxJMWs5S0g2R2ZaSW0zM0ZEV3Bmc0MwMktoNmVuVWlNd1NUTk8ybXVXM1hraURQX0NXMFItTDRMMnJ0Q2ZWSEhGRndydU5SUmNMS3Z0WjRoZmgta2tHM2lETmJXMXZaN2hZZlV2M1RXcGRhM3VhRGVHdUotc1plYk5qQklrZl9XVE94U2dMaUhBRnlpVXB2SHZvVlI2TGtJYk9HeHpJVmtiZEpwNnlPWDBnQ21md1FxaWlfR3FuUi1xTWdPZFhZcW5ucFdSaGJNU0V5c2xFOGVOX3BSZlHSAeQBQVVfeXFMT0FIa0VRV0FSc3NUY3Nhd2dPVG95QXZkVHBacXhVRTdpTGIzLUxUdW5JeXBzVjZiYVh3R2o1aS1NRGN6amdJdzJPZjlpcGZpUFBjUnJ2b0ZYc3ljU01NNktqR2NqNXlxeGFaOXJtS3h6eVkxNjRqWnY4ZnZGQ0Zodm5yTmxIWjNaNUF4T3hLSkMyblMydlM3VG5PM2dVMzdIX1dpT3lBSnR2NmJOakpKUUlZNU8ySTYtZlM3RWE2UUFPRlNSVmNicGNhcWVjclVuX2ZJZEFfazlwUXFtSm5lRVo1am51?oc=5",
+      "pestel": [
+        "Technological"
+      ]
+    },
+    {
+      "id": "6333d833647fda",
+      "cadence": "weekly",
+      "theme": "pestel",
+      "geography": "India",
+      "sector": "Regenerative Farming",
+      "segment": "regenerative",
+      "date": "Week 48 · 2026",
+      "published_at": "2026-11-26T09:53:34+00:00",
+      "headline": "Explainer: What is regenerative agriculture and why does India need it?",
+      "summary": "This development affects the regenerative farming value chain. Open the original report for transaction details, timing and named counterparties.",
+      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
+      "source": "DD News",
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOejA5TFNMQkhGVW5QXzh4LVdOTHV0bVYySDRRSGV6dUFZNUNVd0o4b3cyaFA1aFpwTGJGQlF0SmhZTmw2cFZqclR0aUZacDlaVkRPSkt1SEF2YkhObUp6MzlDZ0NVeWhHZ1l1a0dSdWV5cTBaay1zTE8zeUZrMnI5WE01MHk1RW9FOVlTZDVHc1haLXp6d3hIcTBhWQ?oc=5"
+    },
     {
       "id": "0e16227b3e807b",
       "cadence": "weekly",
@@ -124,19 +175,22 @@
       ]
     },
     {
-      "id": "6333d833647fda",
+      "id": "577546dfee3763",
       "cadence": "weekly",
       "theme": "pestel",
       "geography": "India",
       "sector": "Regenerative Farming",
       "segment": "regenerative",
       "date": "Week 48 · 2026",
-      "published_at": "2026-11-25T06:53:04+00:00",
-      "headline": "Explainer: What is regenerative agriculture and why does India need it?",
+      "published_at": "2026-11-25T06:49:00+00:00",
+      "headline": "Two Brothers India Farms: How Two Farmer Brothers Built a 7,000-Farmer Network Through Regenerative Agriculture",
       "summary": "This development affects the regenerative farming value chain. Open the original report for transaction details, timing and named counterparties.",
       "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
-      "source": "DD News",
-      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOejA5TFNMQkhGVW5QXzh4LVdOTHV0bVYySDRRSGV6dUFZNUNVd0o4b3cyaFA1aFpwTGJGQlF0SmhZTmw2cFZqclR0aUZacDlaVkRPSkt1SEF2YkhObUp6MzlDZ0NVeWhHZ1l1a0dSdWV5cTBaay1zTE8zeUZrMnI5WE01MHk1RW9FOVlTZDVHc1haLXp6d3hIcTBhWQ?oc=5"
+      "source": "RuralVoice",
+      "source_url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQNERZbTlrUzVJR1pFR3lJSTRvTlJYTjdPM2NXb0pWRDdrcUdRU3lfa192bWdtTXA4RGktVXIzRk53VGQtTjJFTmZRNExQb1J2aDlHTC1ReEZQUDVpUWJqLWdpZ3RzWEw2YjZ1d2tlSlRzV3Zmdl9SRXFSNlZlMF9SVkFRN3l1ZlpCeXkzRUJDaGVJMFdQSUw5bF9tT2F2clNMelhGamVYdHNWc0RZalhMa00wZmltQ1l4SUJfbW95djZheEJlUXB5TnI0bzA1LXp1cW95TDNFUVBTeFNEWVNTRUZGTkFSWnVDcVHSAe8BQVVfeXFMT0kza1BPak1vaThJYzFPaVNRNUk0SUtuMUhDRTg4WVR3MkozQUpFZzRiT1ZRbE5nMElMNk5lZlFuWnpmaUYyQTg4TzV4bWQ5dks4SEIxMUs4T3lndmtNVDgzd0R1a2VlUGlxck9EaEpCcnhUSnpkSUtQX29iY3hnTlFHMU9sRV9Hc1JFcXJnN3pmSGlJVUhoVDNIUUd2bEQzYVNCSzlNUFI4ZllEMHQtSEc5d1ZOQ3FTN0J3N3BVX1VZZVd6R2llZ2FFLWhiOWczUmQ1NmZSR29LZWo1cFZwUFF1Tnc0bTFSUFJycDRfQWM?oc=5",
+      "pestel": [
+        "Social"
+      ]
     },
     {
       "id": "7b96ca3c3688da",
@@ -171,6 +225,39 @@
       "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
       "source": "Punch Newspapers",
       "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPM3hkZjZUR1UzUVl0UVZ4MV9iYmxfVXU5alJuTUlkdWtVQ3UtSGZfSlUtamE4ak94UDJ1bjJkLVhaY1R6OExmejcwV2ZBNkVGaWw1WWV1YUROckxxWnFGYUdjV1lkQkhaVVRFTzBub29LZG9UZGVkZ3NGMUVlM1FrOA?oc=5"
+    },
+    {
+      "id": "f4b16c00c12410",
+      "cadence": "weekly",
+      "theme": "pestel",
+      "geography": "Rest of World",
+      "sector": "Carbon Credits",
+      "segment": "carbon-credits",
+      "date": "Week 48 · 2026",
+      "published_at": "2026-11-24T13:39:20+00:00",
+      "headline": "Canada Selects 19 Carbon Removal Projects for Federal Program",
+      "summary": "This development affects the carbon credits value chain. Open the original report for transaction details, timing and named counterparties.",
+      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
+      "source": "cwibc.co.id",
+      "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4zanBIcmYzbV9XQlZJWmlyb3pNVVhtbVdMZmFEUWZuWTlFaUFxWDFFV1JJOTZMMUhuNTJxQlJjRUpvRFBoZmRLdDBfRXFmSUxYYWdhaUZoUzdPWjU3RUVLR1VlSQ?oc=5",
+      "pestel": [
+        "Environmental"
+      ]
+    },
+    {
+      "id": "a93a92a46de8d8",
+      "cadence": "weekly",
+      "theme": "pestel",
+      "geography": "India",
+      "sector": "Regenerative Farming",
+      "segment": "regenerative",
+      "date": "Week 48 · 2026",
+      "published_at": "2026-11-24T12:13:56+00:00",
+      "headline": "Can APAC turn regenerative agriculture into mainstream business model?",
+      "summary": "This development affects the regenerative farming value chain. Open the original report for transaction details, timing and named counterparties.",
+      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
+      "source": "AgroSpectrum India",
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcy1LZDB3RERNZHU3b1JYcUQ1TTR4NVM1SGJEWWxrVHJDdi1pWC1FVURhZ1dXTHlaQURkTDN3RGNBcVJTdWw5ZnF1ZlBwUUd1aUVjcGtONE9ycGhSbHVSTFZqZ2FldXI0N1dpT1pqYjB3dzhzcHlMaWkzUzJzTWhzTC1SVlpSYWJFT3J6MDZPaFhhOXRXckIzRWlpNTgycXJOM0p5ZEp6UWhZS0tmLVo0ejJKRTFjOU83bm1wUFdlZG5UUQ?oc=5"
     },
     {
       "id": "b91f2bf83453b7",
@@ -214,7 +301,7 @@
       "sector": "Carbon Credits",
       "segment": "carbon-credits",
       "date": "Week 48 · 2026",
-      "published_at": "2026-11-23T09:30:50+00:00",
+      "published_at": "2026-11-23T09:16:53+00:00",
       "headline": "Saskatchewan BECCS project selected for Canada’s carbon removal procurement",
       "summary": "This development affects the carbon credits value chain. Open the original report for transaction details, timing and named counterparties.",
       "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
@@ -305,21 +392,6 @@
       "pestel": [
         "Technological"
       ]
-    },
-    {
-      "id": "ffcc2570d606ad",
-      "cadence": "daily",
-      "theme": "regulatory",
-      "geography": "India",
-      "sector": "Innovations & New Launches",
-      "segment": "innovations",
-      "date": "19 Nov 2026",
-      "published_at": "2026-11-19T16:37:00+00:00",
-      "headline": "Nagaland rolls out agarwood policy",
-      "summary": "This development affects the innovations & new launches value chain. Open the original report for transaction details, timing and named counterparties.",
-      "signal": "Review eligibility, compliance timelines and incentive access before committing capital.",
-      "source": "The Times of India",
-      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQ1UtN2FiV0VObXkwY1Bad0xkNEt2SHFGZU1fUUw3N3gtMTF0cGFNX0Y4UmlwdVlLMHlIdjVyQ2doTkVnZXA5T1dEU2FWQjBfdHY3N0lPaTB4YU1RdEFZc09PNWZuTDY0RVNORVFuTVFHSUZzU1ZZMGRsM1Z6TGNVUHZNOGZpcUNnTXU4V3VTMXZRdVdNbmROSmxjdzZqWUNfTUduUGl0R2pDVnpEQnN30gG0AUFVX3lxTE5Gc2YtU2ZwV0E2TWhCdHEyNm9DSC0zb3VFLXVzeFF5NFJRMW9sb3FJTlV4czdrWk55b3hOOEJHMmFVVnkxVjUtaDJYdFBfUU5YTGdZNXVUeU95RzZKdGMwM3gxSVh6X0kydVNTNk44Y0o3OFU1cnQzWXBUeFpZV2pUZnFGZmdpMEFDaGtldURtNGMtOTdtalM2LXBwSXRFSnFEWmdYYnZVSlRuRFZvOFAzMWhkSA?oc=5"
     },
     {
       "id": "4b84ce7d2d0cb4",
@@ -1323,73 +1395,6 @@
       "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
       "source": "IndexBox",
       "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPck0wNnIxRHB6LVloVkM5T0VaSnNjQ0o0d0pzVXh6MWtrSTIwbmhsN2ZfYm9uSHA3dWNBM0hUeEFvUE9ENDk4Wlg0NjNTRXJILVEzREpYZ2pCM0JlYUlKQ0tKNHFRTERFYkpKMXd3bENzZVNpU2RBTkhhdGtaRGwzYXpYOWUyY0lsdGdNckZQTXd3MFEtR3piR1dlSTU2Szgxa0VsdXRxS0JDQV9LUlFUNGk1UEVBZVB1bzJLaWlyRmVReVFVVmo1QTl5UmN5YVU?oc=5",
-      "pestel": [
-        "Economic",
-        "Environmental"
-      ]
-    },
-    {
-      "id": "c951dc23713bec",
-      "cadence": "weekly",
-      "theme": "pestel",
-      "geography": "Rest of World",
-      "sector": "Agri-Products & Agro-Processing",
-      "segment": "agro-processing",
-      "date": "Week 44 · 2026",
-      "published_at": "2026-10-31T07:27:00+00:00",
-      "headline": "Dhanuka Agritech (NSE:DHANUKA) Releases Q2 FY27 Unaudited Financial Results: Key Insights",
-      "summary": "This development affects the agri-products & agro-processing value chain. Open the original report for transaction details, timing and named counterparties.",
-      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
-      "source": "Kalkine Media",
-      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNc2UydUU1eGlpMGI3NjI3dm1aTV9CX2NIRUhxZEU2T1QybnpKNng3NjRoOVdLTlVyMTUxN3JYT1FTa3BnclJlQ2VNQXMzRDBjTGlJbUJUSU1rQ3dGMkdnTklGNW01V1o3SnZSeDl4bkZIX1laQWlQR1hvQzBCVDRqc2dXMlVxWGVnb1oweFNUcGZMbnJxOGNjNXBnOEhDUmU4Y3ExTFBMOUdCT0FXOU93VFdtRVpua3A0QnJQYjZPOU95QWh4SlREZm9keGc?oc=5"
-    },
-    {
-      "id": "ffe49de3754b27",
-      "cadence": "daily",
-      "theme": "regulatory",
-      "geography": "Rest of World",
-      "sector": "Regenerative Farming",
-      "segment": "regenerative",
-      "date": "31 Oct 2026",
-      "published_at": "2026-10-31T01:55:46+00:00",
-      "headline": "ASEAN must turn policy into action and attract investment to advance regenerative agriculture",
-      "summary": "This development affects the regenerative farming value chain. Open the original report for transaction details, timing and named counterparties.",
-      "signal": "Review eligibility, compliance timelines and incentive access before committing capital.",
-      "source": "联合早报",
-      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVUIzWXVFX0dveXRoTTRyTkQ4ZEZIcEtyaEFzSnY3UVFzQUVyZ0FLWVF2YWczOW1wa3ZUZkx6VndlYlJhbDNtc182TUpCbGxUOXBjam9KaXdSemtOSk9UTTNHc0QycmxGQlBHX21LS1lieFZBaFZ5eDFjNEh3UjZFZ0RZR1RoMWRONURWLWJ3d2ZsWlowZDhnSHY3ZGtBd0d6cTloREV3VVdfZHZxTTVXQzhjQmJnLWVJeHZtYUk3VXRCckJCNjBpOQ?oc=5"
-    },
-    {
-      "id": "8470b201c05704",
-      "cadence": "weekly",
-      "theme": "pestel",
-      "geography": "Rest of World",
-      "sector": "Agri-Products & Agro-Processing",
-      "segment": "agro-processing",
-      "date": "Week 44 · 2026",
-      "published_at": "2026-10-30T20:58:59+00:00",
-      "headline": "Mitas enters the Chinese market with a big range of products",
-      "summary": "This development affects the agri-products & agro-processing value chain. Open the original report for transaction details, timing and named counterparties.",
-      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
-      "source": "https://world-agritech.com/",
-      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTDZ2R1o1Y3U1THFvZlA1UC10TDZqU051V1JDVWtPVmlyamE1cGFnYUkyLVZod1dkZi05UnIwb2F6TnU0ekpDdE1zR21mWnJEeGZVcnFjRElzbmt6LXAtaXlBU1dyNG1oLTdOdGxtTXNlOU9uSW9nZEtYWm5OZVpxRkp6ekplay1Rc2kyb08xeGhQenlucGZaUFpaUGVvazBm?oc=5",
-      "pestel": [
-        "Economic"
-      ]
-    },
-    {
-      "id": "f7919bda25dc5c",
-      "cadence": "weekly",
-      "theme": "pestel",
-      "geography": "Rest of World",
-      "sector": "Bio-Based Materials",
-      "segment": "bbm",
-      "date": "Week 44 · 2026",
-      "published_at": "2026-10-30T16:57:50+00:00",
-      "headline": "Bio-Based Leather Market (2034): Plant-Based Materials, Sustainable Fashion & Automotive Industry Expansion",
-      "summary": "This development affects the bio-based materials value chain. Open the original report for transaction details, timing and named counterparties.",
-      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
-      "source": "openPR.com",
-      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPalMzWmZBcS12Uk5WWHhXUkNoRzBGeGt6VHByUVZGMkltS1BhZVZkenVkR2hOY0JwdG0zWDBBelg2WmR5QUJHc2FzUjN4NWQ5MU9qVEtUZlp3Qm9rdm5jT0ZZMFpqYThGOWNmcDE0cTNtWmx6dVhxZVpFeGpjNFIzTFZfWmxtcEJuNXJ1RlE5Y0Q?oc=5",
       "pestel": [
         "Economic",
         "Environmental"
