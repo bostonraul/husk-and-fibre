@@ -2,6 +2,29 @@
   "generated_at": "2026-11-27",
   "stories": [
     {
+      "id": "underused-land-can-support-fodder-production-commentary",
+      "material": "Grass / Straw",
+      "region": "Unspecified — refine with NER in a later pass",
+      "headline": "Underused land can support fodder production [Commentary]",
+      "dek": "In March 2024, the fields around Baramati in Maharashtra’s Pune district began to tell a familiar story of a semi-arid region. The maize and sorghum grown for fodder after the mons",
+      "potential_score": 2,
+      "potential_label": "Fair",
+      "capital_note": "Not yet assessed",
+      "video_youtube": null,
+      "video_caption": "Auto-matched video — verify relevance before featuring prominently",
+      "image": "https://imgs.mongabay.com/wp-content/uploads/sites/30/2026/11/27112156/Female-farmer-2-768x512.jpeg",
+      "image_alt": "Underused land can support fodder production [Commentary]",
+      "body": "In March 2024, the fields around Baramati in Maharashtra’s Pune district began to tell a familiar story of a semi-arid region. The maize and sorghum grown for fodder after the monsoon were largely exhausted, summer fields remained dry, and livestock farmers increasingly depended on crop residues, sugarcane tops and purchased feed. During our (ICAR-NIASM) survey of [&#8230;]",
+      "why_it_matters": "Auto-generated entry — pipeline flagged this via keyword + business-signal scoring.",
+      "source_url": "https://india.mongabay.com/2026/11/underused-land-can-support-fodder-production-commentary/",
+      "sources": [
+        {
+          "name": "Mongabay India",
+          "url": "https://india.mongabay.com/2026/11/underused-land-can-support-fodder-production-commentary/"
+        }
+      ]
+    },
+    {
       "id": "5-artists-used-bamboo-thread-even-egg-trays-to-create-india-",
       "material": "Bamboo",
       "region": "Unspecified — refine with NER in a later pass",
