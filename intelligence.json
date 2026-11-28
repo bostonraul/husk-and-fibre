@@ -1,6 +1,54 @@
 {
-  "generated_at": "2026-11-27T12:15:08+00:00",
+  "generated_at": "2026-11-28T11:42:25+00:00",
   "reports": [
+    {
+      "id": "6333d833647fda",
+      "cadence": "weekly",
+      "theme": "pestel",
+      "geography": "India",
+      "sector": "Regenerative Farming",
+      "segment": "regenerative",
+      "date": "Week 48 · 2026",
+      "published_at": "2026-11-27T18:58:19+00:00",
+      "headline": "Explainer: What is regenerative agriculture and why does India need it?",
+      "summary": "This development affects the regenerative farming value chain. Open the original report for transaction details, timing and named counterparties.",
+      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
+      "source": "DD News",
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOejA5TFNMQkhGVW5QXzh4LVdOTHV0bVYySDRRSGV6dUFZNUNVd0o4b3cyaFA1aFpwTGJGQlF0SmhZTmw2cFZqclR0aUZacDlaVkRPSkt1SEF2YkhObUp6MzlDZ0NVeWhHZ1l1a0dSdWV5cTBaay1zTE8zeUZrMnI5WE01MHk1RW9FOVlTZDVHc1haLXp6d3hIcTBhWQ?oc=5"
+    },
+    {
+      "id": "4995d32ffd0c02",
+      "cadence": "daily",
+      "theme": "innovation",
+      "geography": "Rest of World",
+      "sector": "Permaculture & Agroforestry",
+      "segment": "agroforestry",
+      "date": "27 Nov 2026",
+      "published_at": "2026-11-27T16:43:59+00:00",
+      "headline": "Montserrat Launches Three-Year Agroforestry Project to Strengthen Climate Resilience",
+      "summary": "This development affects the permaculture & agroforestry value chain. Open the original report for transaction details, timing and named counterparties.",
+      "signal": "Assess field performance, unit economics and the route from pilot deployment to repeatable commercial scale.",
+      "source": "Discover Montserrat",
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQU9zTXdRMVFGUGItSTJwWE05M2hWNERqRlUwSGhFWm9ocWtuOE9wdWpkbXoyaGlaZlFzTzRFcVJORXdyamRGUk9nVFIyZlpmWVZvYUYwaVdqX3cxaTZIVjFZS1lEZ2JSb2ZXX1BmVTRjVGQ3ejNyc1psOG5ZYXBIdW5nRXFPOThFUGQ4bmxZZk9nMWJNemt2SFlHWTg4ZHc0YkhHZ3dCSXZmY25jY3RkeFgweDZ1NDJGWUM1Wg?oc=5",
+      "pestel": [
+        "Environmental"
+      ]
+    },
+    {
+      "id": "b471ad1b34a914",
+      "cadence": "weekly",
+      "theme": "pestel",
+      "geography": "Rest of World",
+      "sector": "Innovations & New Launches",
+      "segment": "innovations",
+      "date": "Week 48 · 2026",
+      "published_at": "2026-11-27T12:21:40+00:00",
+      "headline": "Africa’s green economy summit unveils US$500 million investment pipeline across 13 African countries",
+      "summary": "This development affects the innovations & new launches value chain. Open the original report for transaction details, timing and named counterparties.",
+      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
+      "source": "Africa Sustainability Matters",
+      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNaTRodDlKZlVVNlNDdXdla1VUQVNLYlhtdjU0Z01YQncwZ0VHUmF6ZmpJam9YZXo2WG1MQkRJZ3hoTXV4eHlkakpSc0lEQ0Z5YmI4cEdVdnlIN1FBdWYwbTlrVnkzYUZVc19sdjR3YnFyLWlTTlZ0NlBpcmpvdktvSjdLel9zdEV3SThHZVZaekVwSDQ1bG9NMURXSnlMYjRwaFpXcUZKaDhEMTNjVkE3Y3VLOExMWUJuaUY2YW1qYzhlOWdDUlE1eDZ5U0tCaEJxamVhN0p3?oc=5"
+    },
     {
       "id": "330f506821b3ea",
       "cadence": "weekly",
@@ -38,21 +86,6 @@
       ]
     },
     {
-      "id": "6333d833647fda",
-      "cadence": "weekly",
-      "theme": "pestel",
-      "geography": "India",
-      "sector": "Regenerative Farming",
-      "segment": "regenerative",
-      "date": "Week 48 · 2026",
-      "published_at": "2026-11-26T09:53:34+00:00",
-      "headline": "Explainer: What is regenerative agriculture and why does India need it?",
-      "summary": "This development affects the regenerative farming value chain. Open the original report for transaction details, timing and named counterparties.",
-      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
-      "source": "DD News",
-      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOejA5TFNMQkhGVW5QXzh4LVdOTHV0bVYySDRRSGV6dUFZNUNVd0o4b3cyaFA1aFpwTGJGQlF0SmhZTmw2cFZqclR0aUZacDlaVkRPSkt1SEF2YkhObUp6MzlDZ0NVeWhHZ1l1a0dSdWV5cTBaay1zTE8zeUZrMnI5WE01MHk1RW9FOVlTZDVHc1haLXp6d3hIcTBhWQ?oc=5"
-    },
-    {
       "id": "0e16227b3e807b",
       "cadence": "weekly",
       "theme": "pestel",
@@ -86,6 +119,25 @@
       "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQVlaVlIxN0d1THN2V0tsYmRyenpUbE91enZwTENvUVhLS0JYNDJTUVNGTUlBSzd4dzB2c1JwTmF3dXc1Qm1ZR1FMUjltcUF4bjZqWXcwUmRqOWhjZE1xSkl4S2VUQzNRVzlwRHFnTk93TlZ1UkhrbzBlWDl4ZDFXakpmdDNGOUNiMnFPd2VwTGxOODVUanBhZ1kwYmw4RFM3WnpOd2VWRURDbU4ySGZlWkZiaw?oc=5",
       "pestel": [
         "Economic"
+      ]
+    },
+    {
+      "id": "62985182426e50",
+      "cadence": "weekly",
+      "theme": "pestel",
+      "geography": "Rest of World",
+      "sector": "Carbon Credits",
+      "segment": "carbon-credits",
+      "date": "Week 48 · 2026",
+      "published_at": "2026-11-25T16:29:35+00:00",
+      "headline": "Canada Opens New Market for Carbon Removal Credits With 19 Approved Projects",
+      "summary": "This development affects the carbon credits value chain. Open the original report for transaction details, timing and named counterparties.",
+      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
+      "source": "CarbonCredits.com",
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQN3Z2X25RejJUaGNwNlo0RS00TnN3R2d5ZTIzZ0NQbFJTQkFBY3FPeGZJNTJJZklQYkU4N1N2c2pGQ29qajZibk43ZDNqQjhvcHZhTEowd040Qzl2RVNBVnFFNWxoa1VWUU9PbzdVMHNBRFdlckJOak5UR3FmTWFZSDl6dkxzakVTNzhjNzZCM09BZ1FJcmZ1bEZfZjBtSHBmYWF0TVRR?oc=5",
+      "pestel": [
+        "Economic",
+        "Environmental"
       ]
     },
     {
@@ -245,6 +297,24 @@
       ]
     },
     {
+      "id": "394eb91cb4e1ce",
+      "cadence": "weekly",
+      "theme": "pestel",
+      "geography": "India",
+      "sector": "Microbial & Biofertilizers",
+      "segment": "microbial",
+      "date": "Week 48 · 2026",
+      "published_at": "2026-11-24T12:13:56+00:00",
+      "headline": "Absolute enters Africa with INERA, positioning biologicals for new agricultural growth market",
+      "summary": "This development affects the microbial & biofertilizers value chain. Open the original report for transaction details, timing and named counterparties.",
+      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
+      "source": "AgroSpectrum India",
+      "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNYXpYM19SbWI0Qy1wOS1TNlRseGJ4YUYtcnJfZllRR0JCdHVqV3JLVklGRjNQV01ZWjRIdUVVS0d6QzZwVVdteUd2bUJnQ2VRRnNvdVNrbjBBLUJFQzdCc18wZ0w4VjhlNUJmNW93MzZITWlvNkc4UnJndS0zbEo4RXZCWTFOeV8zbTNVZGhQa3dnRlVsNHRKa3JVSFpva1lrUHRQN0t6OU00XzBPYkF2MWtUZm1FVzh1X3VPQ24yell0V0FnUUdTRlR1dGNweXVPLUhoSHRIbWJzYmljN1FvUw?oc=5",
+      "pestel": [
+        "Economic"
+      ]
+    },
+    {
       "id": "a93a92a46de8d8",
       "cadence": "weekly",
       "theme": "pestel",
@@ -294,6 +364,24 @@
       ]
     },
     {
+      "id": "e11db5587cf87f",
+      "cadence": "weekly",
+      "theme": "pestel",
+      "geography": "Rest of World",
+      "sector": "Biochar & Activated Carbon",
+      "segment": "biochar",
+      "date": "Week 48 · 2026",
+      "published_at": "2026-11-23T13:31:00+00:00",
+      "headline": "Birchtech Secures Granular Activated Carbon Supply Agreement with High-Grade Activated Carbon Producer",
+      "summary": "This development affects the biochar & activated carbon value chain. Open the original report for transaction details, timing and named counterparties.",
+      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
+      "source": "Yahoo Finance",
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOWRUb19YVzJ0NEZpRnpzMGxlZmhtQjQyYW80YUVzNmhVQWRpY1h0QjY1MWJYNGJUdlc4enNKUDNPcHRYdktzb1A3OERSNkI5a1EzOVZRMXp2b1NvVnV0TXlwdkdNRm85d2syZHMxTE4ybGFuNlZiYlB6cTNIRFJ1RFdpYUFsV1JOY2lyTkFLVFFvVExad29MNjRZVGpMM0FGbjRFUjlYbw?oc=5",
+      "pestel": [
+        "Environmental"
+      ]
+    },
+    {
       "id": "837b69a9017ae1",
       "cadence": "weekly",
       "theme": "pestel",
@@ -301,13 +389,32 @@
       "sector": "Carbon Credits",
       "segment": "carbon-credits",
       "date": "Week 48 · 2026",
-      "published_at": "2026-11-23T09:16:53+00:00",
+      "published_at": "2026-11-23T09:30:50+00:00",
       "headline": "Saskatchewan BECCS project selected for Canada’s carbon removal procurement",
       "summary": "This development affects the carbon credits value chain. Open the original report for transaction details, timing and named counterparties.",
       "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
       "source": "Bioenergy Insight Magazine",
       "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZUVxUkN5QWoxWTc3TTRUUU1QbmluaG1iUENEX2k3ZjFqNDV3clhXMC1Ib01DWHJTTmFyWVh4SmF0WkVEY0EtdFlHeWkya2dFUmNXNlQtR0Q3Tk1mdEVnbEd1ZjJxcGllSDJoV1NRazBuel9ORUJwODJUSER6MXhoRlZzWUNyQ0VuaHVkT0lQMWZ6UFlxWlJ6Z2dwUkotR19pd0w4M2lxdklBN25ZSV9NTw?oc=5",
       "pestel": [
+        "Environmental"
+      ]
+    },
+    {
+      "id": "aef70ff581d04c",
+      "cadence": "weekly",
+      "theme": "pestel",
+      "geography": "Rest of World",
+      "sector": "Carbon Credits",
+      "segment": "carbon-credits",
+      "date": "Week 48 · 2026",
+      "published_at": "2026-11-23T08:00:00+00:00",
+      "headline": "NZ research proposes eliminating forestry from carbon market",
+      "summary": "This development affects the carbon credits value chain. Open the original report for transaction details, timing and named counterparties.",
+      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
+      "source": "Quantum Commodity Intelligence",
+      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNOHhhYmQyWFdNYXN4Q1lDSE9hVGpRRlVKYWVqdE1BNTlSZ3VoeXdaZE15allsTUVJeFpqU09YWEp6bTU1a1VQUWhUajREYkVxMGQ0X0FWQU9RdVhHTERDeHphRzJEZnVVVV9OQ1Q2Vlp4RFhoY3lIQUQxRlBSNHQyVl9TTWltN3pOdXdudWdrQWlVdDk3dFJzNkM5UWZuQkJJTXdVNXpkcFZDYnhjZEdJ?oc=5",
+      "pestel": [
+        "Economic",
         "Environmental"
       ]
     },
@@ -1291,114 +1398,6 @@
       "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
       "source": "InvestyWise",
       "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTDBwZjFyS0IwVmVOTGF4Zk5jTm9lU0VQRmpvbFpvbGpWdnY4QVc2NHYxMWZEdVV0V25oMFE2RS1zNktibkJqc0VTazdSZlEwd20tOUdTRFdIWXA2aWwyd2o0SXYtb1NXT3J3ci10RXo1TDFETk1QR0p1Q3Y0eVJGcDhfSlhoOXB2a09hU0ZzQjdJRlZNamdQQzFuWWdQZw?oc=5"
-    },
-    {
-      "id": "7ed91fd921ebdb",
-      "cadence": "daily",
-      "theme": "capital",
-      "geography": "Rest of World",
-      "sector": "Permaculture & Agroforestry",
-      "segment": "agroforestry",
-      "date": "04 Nov 2026",
-      "published_at": "2026-11-04T02:15:16+00:00",
-      "headline": "THE Department of Environment and Natural Resources (DENR) has opened some 144,000 hectares of forest land in the Davao Region to private investors, part of about 500,000 hectares ",
-      "summary": "This development affects the permaculture & agroforestry value chain. Open the original report for transaction details, timing and named counterparties.",
-      "signal": "Compare the funding structure with project maturity, contracted demand and expected cash-flow timing.",
-      "source": "Facebook",
-      "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOUmNsNWpMUVVDT2hlMC0zd1ZILVJhME1ocjhYZERjRWdVNEF0YlpBN29hODFzR19qNlp4QkQ2YWd1RlBSQ2I4cVNSbkZpUnc3TW43Ujg0ZWdzZDY5SzkyRjMzcFRqRk9yUl9SZGJaZ3BzNFR4cXRHeTh6NXhTUHVVMVBpT2xGRGoyeGpnQzFocWstd1BlWTJYa0F0MTdoNEs5ZnJhVU1xUDBkZGp1OWpxaXl6ZjhzQjQtc0szMEdRZ3lScGt5cl9xOXIxdjhqaFA5TFhRUkdrNTJNbXBiU3dV?oc=5",
-      "pestel": [
-        "Environmental"
-      ]
-    },
-    {
-      "id": "00285cd5d5e01c",
-      "cadence": "weekly",
-      "theme": "pestel",
-      "geography": "Rest of World",
-      "sector": "Permaculture & Agroforestry",
-      "segment": "agroforestry",
-      "date": "Week 45 · 2026",
-      "published_at": "2026-11-03T14:16:04+00:00",
-      "headline": "Agroforestry Seedlings Market To 2035: Carbon Sequestration Demand Drives Growth - News and Statistics",
-      "summary": "This development affects the permaculture & agroforestry value chain. Open the original report for transaction details, timing and named counterparties.",
-      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
-      "source": "IndexBox",
-      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTk5NNnBVRWhiVmoxV25pdGI2UmxPeENTQ052d2FsNWFIOGxQVHgtdF9vU05CcTNDS3hvQ1pBbnN3SkI1QW1oV1lVV1hQMTQtV2JXMGYwTnVKcDM1VjAyQnFXMzM1VmdrNVR3c2RiaUNHMUhZNEZUX2JFSS11YU9MTXpFa0F2OGVuZUVrS21OVFNob0VmVHc0eVpJX1BsRlRrSS1HVFJpb3NNUDhqeGJ4TlIwa0FZZWtranc?oc=5",
-      "pestel": [
-        "Economic",
-        "Environmental"
-      ]
-    },
-    {
-      "id": "b591eacc922337",
-      "cadence": "weekly",
-      "theme": "pestel",
-      "geography": "Rest of World",
-      "sector": "Permaculture & Agroforestry",
-      "segment": "agroforestry",
-      "date": "Week 45 · 2026",
-      "published_at": "2026-11-03T12:31:39+00:00",
-      "headline": "Sutton-in-Ashfield-based Food Paper invests in local agroforestry and biodiversity restoration project",
-      "summary": "This development affects the permaculture & agroforestry value chain. Open the original report for transaction details, timing and named counterparties.",
-      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
-      "source": "Love Business East Midlands",
-      "source_url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxORXAzRnR5VG9qeVJEUENaSlNnaWhfdEE3RWI3bWVmWHdEYXdaYS1TOTc0ak1yQl9MOGQ5SzRLbURCa3dZZmlubXMyaWdrcVFOZVR1d2FmMkp5UUdxSDBkYTFGcllmMzV6NWd6OW5talBjTFlhd2dfU0EyYXRmako4WWozTWhWc1g4a2QzWXZjUmUyakdOdTFmSmxyaVRzSkpud2F5SVI1bUxDUnJ2ZkR3VjZHd2E5MHloR05OZ3piWGFRRXpESjU2eGlZSXBzZ1ZjRW12TUc4UlNmZ29SM2V4bFhrc1hlbWZrWDNLcjRLX3ctRm9aczZqb3FZR1hMMVlpR2RnVQ?oc=5",
-      "pestel": [
-        "Environmental"
-      ]
-    },
-    {
-      "id": "4486c8281c2da0",
-      "cadence": "weekly",
-      "theme": "pestel",
-      "geography": "Rest of World",
-      "sector": "Carbon Credits",
-      "segment": "carbon-credits",
-      "date": "Week 45 · 2026",
-      "published_at": "2026-11-03T07:17:45+00:00",
-      "headline": "Marketing Bago’s carbon market initiative at COP31",
-      "summary": "This development affects the carbon credits value chain. Open the original report for transaction details, timing and named counterparties.",
-      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
-      "source": "Blueprint Newspapers",
-      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5VQkJ4U01GaHFqTG56by12cHh2UndJNnV5T3ZJUVB1b0h5NDBfbFdTUi1UbnQ5Wk0xVkhpc096Uk5VenhBdS0zLXZZM3hGdC1VYWx6ZmhsLWVJZ1I5aUxuVTRfRVM2MkxnZEg4dWt2Qk90cG92Q1h2aS1MMA?oc=5",
-      "pestel": [
-        "Economic",
-        "Environmental"
-      ]
-    },
-    {
-      "id": "85c8e2005813c5",
-      "cadence": "weekly",
-      "theme": "pestel",
-      "geography": "Rest of World",
-      "sector": "Agri-Products & Agro-Processing",
-      "segment": "agro-processing",
-      "date": "Week 44 · 2026",
-      "published_at": "2026-11-01T19:02:53+00:00",
-      "headline": "Dhanuka Agritech Ltd (BOM:507717) (Q2 2027) Earnings Call Highlights: 10% Revenue Growth ...",
-      "summary": "This development affects the agri-products & agro-processing value chain. Open the original report for transaction details, timing and named counterparties.",
-      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
-      "source": "Yahoo Finance",
-      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSVlQYklOS3V2Rk5EaHNCN25UM2wzcDJmVjluVVo1amtXcjNmaDhDT0FGOHJ4MjRQeVByODZWNGdfeHQtZ3A5UFUyQS02cWcxNjh3dUdpVDBKUHNKcGRwS1JnUUVpUTJ0Z1BtdjRXakhnRHpwZUUwR3NEZnZUMUhQajFZdzNaSnpCeGNVNjg1bUVnOUUtZkdqR282U3g?oc=5"
-    },
-    {
-      "id": "596ed644d5f290",
-      "cadence": "weekly",
-      "theme": "pestel",
-      "geography": "Rest of World",
-      "sector": "Biochar & Activated Carbon",
-      "segment": "biochar",
-      "date": "Week 44 · 2026",
-      "published_at": "2026-10-31T22:51:04+00:00",
-      "headline": "Activated Carbon (Specialty Grades) Market Forecast to 2035, Driven by Stricter Water and Air Quality Rules",
-      "summary": "This development affects the biochar & activated carbon value chain. Open the original report for transaction details, timing and named counterparties.",
-      "signal": "Monitor the development for changes to demand, operating risk, market access and investment timing.",
-      "source": "IndexBox",
-      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPck0wNnIxRHB6LVloVkM5T0VaSnNjQ0o0d0pzVXh6MWtrSTIwbmhsN2ZfYm9uSHA3dWNBM0hUeEFvUE9ENDk4Wlg0NjNTRXJILVEzREpYZ2pCM0JlYUlKQ0tKNHFRTERFYkpKMXd3bENzZVNpU2RBTkhhdGtaRGwzYXpYOWUyY0lsdGdNckZQTXd3MFEtR3piR1dlSTU2Szgxa0VsdXRxS0JDQV9LUlFUNGk1UEVBZVB1bzJLaWlyRmVReVFVVmo1QTl5UmN5YVU?oc=5",
-      "pestel": [
-        "Economic",
-        "Environmental"
-      ]
     }
   ]
 }
